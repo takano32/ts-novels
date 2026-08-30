@@ -164,3 +164,11 @@ episode_overrides が最後に人手の上書きを当て、terms/authors/works 
 - **wp/assets/robots.txt** — 本番 novels.xwp.jp 用 robots.txt の草案(AI 学習クローラ全域
   Disallow・ia_archiver 許可・検索エンジンは**止めない**〔noindex ヘッダを読ませるため〕)。
   配備は deploy.sh(タスク 2.3)。リポジトリ直下の robots.txt は Wayback 誤回収物なので使わない。
+- **wp/qa_phase3_check.py** — タスク 3.3「無作為 100 話の原本併読 QA」の**独立検算**。
+  本番ページ(キャッシュバスター付き)の本文と、リポジトリの原本 (source_path) を
+  **別実装で**抽出して突き合わせる(標準ライブラリの `html.parser` を使い、
+  body_convert.py / payload_build.py の正規化は流用しない = 同じバグを二度踏まないため)。
+  判定は「本番本文が原本テキストの**連続部分列**か」。WP の表示フィルタ
+  (`wptexturize` / `convert_smilies`) による字面差は `ok-texturize` として別勘定にする。
+  出力は `catalog/reports/qa_phase3_check.json`。実測: 100 話で ok 81 / ok-texturize 15 /
+  ok-trimmed 2 / ng-image 2(問題率 2.0%)。

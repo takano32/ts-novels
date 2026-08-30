@@ -804,12 +804,64 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
         (`wp media import` + `wp post meta update` で作った投入経路の外の状態)。
         **`wp ts reset` したら再実行が要る** → 手順を
         [`rebuild-runbook.md`](rebuild-runbook.md) §2-C の後処理に追記済み
-- [ ] 3.3 無作為 100 話の原本併読 QA(別館の原本と並べて本文欠落・順序破壊がないか)。
+- [x] 3.3 無作為 100 話の原本併読 QA(別館の原本と並べて本文欠落・順序破壊がないか)。
       結果を `catalog/QA.md` に追記。**問題率 >2% なら 1.6 に戻る**
-      - **未着手。次の指示待ち**(2026-08-30 時点)
-- [ ] 3.4 verify 拡張: 全話に書誌カード用メタ(初出日・orig_url・annex_url・provenance)が
+      - **実施 (2026-08-30、実行セッションによる独立検算)**。検証器は
+        **`scripts/wp/qa_phase3_check.py`**(台帳の所管の例外「独立検算は別の書き手」に該当。
+        `body_convert.py` / `payload_build.py` の正規化関数は**一切流用していない** —
+        原本の抽出は標準ライブラリの `html.parser` で書き直し、比較は
+        「空白を全部落とした文字列の**連続部分列**か」で行う独立実装)。
+        結果の生データは **`catalog/reports/qa_phase3_check.json`**。
+      - **標本**: `payloads/` を持つ 3,646 話(= converted 3,642 + converted-text 2 +
+        raw-fallback 2。placeholder 198 は対象外)から `random.seed(20260830)` で 100 話。
+      - **結果 (100 話)**: **ok 81 / ok-texturize 15 / ok-trimmed 2 / ng-image 2**。
+        **問題率 2.0%**(閾値 >2% は超えていない)。所要 57 秒。
+        **本文の欠落・順序破壊・文字化けは 0 件**(81+15+2 = 98 話は本番の本文が
+        原本テキストの連続部分列で、落ちているのは head/tail の定型ナビだけ)
+      - **ok-texturize 15 話の中身 = 不具合ではないが要判断**:
+        WordPress の `the_content` フィルタが**表示のときだけ**字面を変える。
+        実測した変換は `wptexturize`(優先度 10)による
+        **` - ` → `–`(en dash)・`--` → `—`・`...` → `…`・`"…"` → `“…”`**。
+        **DB の中身は原本どおり**(該当話で ASCII `-` のまま・en dash なしを確認済み)なので
+        無損失証明は保たれているが、**読者が見る字面は原本と違う**。
+        さらに **`use_smilies=1` で `convert_smilies`(優先度 20)が有効**で、
+        `:-)` が 🙂 の画像文字に置換される(`convert_smilies("やった :-) ね")` を実測)。
+        2000 年代の和文テキストは顔文字を含みうるので、**原文尊重を優先するなら
+        `remove_filter('the_content','wptexturize')` と `use_smilies=0` を検討**。
+        Phase 4 のテーマ整備時に決めるのが自然(👤/親の判断)
+      - **⚠ ng-image 2 話 = 実在の不具合 (Fable 所管。実行セッションは未修正)**:
+        **画像作品の payload が Markdown の画像記法のままで、`wp:image` ブロックに
+        変換されていない。** 例 `payloads/novel__grp__bunny99.jpg.html` の中身は
+        `<!-- wp:paragraph --><p>![卯年](bunny99.jpg)</p><!-- /wp:paragraph -->`。
+        このため **①画像が表示されない ②読者に生の `![卯年](bunny99.jpg)` が見える
+        ③src が `/assets/annex-img/` に書き換わっていない**(3.2 前半の対象から漏れている)。
+        **該当は標本の 2 話だけでなくコーパス全体で 17 話**
+        (数え方: `grep -lE '!\[[^]]*\]\([^)]*\)' payloads/*.html` = 17。
+        本番 DB 側も `post_content` が同記法の投稿 17 件で一致。全 episode_id は
+        `catalog/reports/qa_phase3_check.json` の `markdown_image_leak_episodes`)。
+        正しく `wp:image` になっている payload は 618 本あるので、
+        **壊れているのは「本文が画像 1 枚だけ」の分類(設計 v1.2 の特殊エントリ ②)に限る**
+      - **検証器自身のバグを 2 つ潰してから確定させた**(独立検算の信頼性のため。
+        初回は問題率 4.0% と出たが、いずれも検証器側の誤りだった):
+        (a) 原本の裸の `<` を逃がす正規表現が厳しすぎて、`<FONTCOLOR="#FFD700">`(空白抜けの
+        壊れたタグ)や Word の `<o:p></o:p>` を**文字列として拾っていた**。
+        ブラウザは `<` の直後が ASCII 英字ならタグとして読み捨てるので、
+        HTML5 のトークナイザ規則どおり `<(?!/?[A-Za-z])` に直した
+        (b) 原本が `.jpg` の画像作品を**バイナリのままテキスト比較**していた。
+        画像作品は「ページが原本を指す img を持つか」で判定するよう分けた
+- [x] 3.4 verify 拡張: 全話に書誌カード用メタ(初出日・orig_url・annex_url・provenance)が
       揃っているか被覆率で確認
-      - **未着手。次の指示待ち**(2026-08-30 時点)
+      - **3.4 実測 (2026-08-30、コミット `8a70ca05`)**: `wp ts verify` に
+        メタ被覆と本文 status 分布の照合が入り、**全項目が期待値と一致して verify OK**:
+        **メタ `_ts_pub_date_raw` 2985=2985 / `_ts_orig_url` 3844=3844 /
+        `_ts_annex_url` 3644=3644 / `_ts_provenance` 3646=3646**、
+        **本文 status: converted 3642 / placeholder 198 / raw-fallback 2 / converted-text 2**
+      - あわせて暫定テーマの修正 (`7673d311`) を検収: TT5 の single テンプレが
+        ts_work で常に空になる「執筆者:」「カテゴリ:」のメタ行を出さなくなり、
+        `/novel/omochibako-ameonna/` の先頭段落が「恵みの雨という言葉がある。…」に、
+        通常の話 (`19204751-tsukinuke`) からも空メタ行が消えた(**残存 0 箇所**)。
+        **ページの段落数が DB の `wp:paragraph` ブロック数と一致**することも確認
+        (tsukinuke 446=446 / 雨女 8=8)
 - [ ] 👤 3.5 (前倒し推奨) 作者連絡の発送開始 — 設計は「Phase 3 以降並行」。返信待ちを
       公開のクリティカルパスにしないため、ここで発送しておく(7.1 はその継続)
 

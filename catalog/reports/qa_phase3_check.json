@@ -1,0 +1,1132 @@
+{
+ "summary": {
+  "seed": 20260830,
+  "n": 100,
+  "counts": {
+   "ok": 81,
+   "ok-texturize": 15,
+   "ok-trimmed": 2,
+   "ng-image": 2
+  },
+  "problem_rate_pct": 2.0,
+  "markdown_image_leak_total": 17,
+  "markdown_image_leak_episodes": [
+   "novel__200009__29193555__narikake01.gif",
+   "novel__grp__500000.jpg",
+   "novel__grp__angel.jpg",
+   "novel__grp__ayane.jpg",
+   "novel__grp__bunny99.jpg",
+   "novel__grp__highheel.jpg",
+   "novel__grp__jinn.jpg",
+   "novel__grp__maki_and_yuuka.jpg",
+   "novel__grp__ranmaru.jpg",
+   "novel__grp__ranmaru2.jpg",
+   "novel__grp__sayaka01.gif",
+   "novel__grp__yui.jpg",
+   "novel__kayo_chan__kayo1.jpg",
+   "novel__kayo_chan__kayo2.jpg",
+   "novel__professor_k__rabi.jpg",
+   "novel__superu__little_girl.jpg",
+   "novel__youma__laybart.jpg"
+  ],
+  "note": "problem_rate_pct は 100 話標本での率。ng-image の実体は payload_build が画像作品の Markdown 画像記法を wp:image ブロックに変換していない不具合で、コーパス全体では 17 話が該当する"
+ },
+ "results": [
+  {
+   "episode_id": "novel__200101__14013415__raika12.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/kawanegi-raikadaisakusen/raika12/",
+   "source_path": "novel/200101/14013415/raika12.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 12429,
+   "body_chars": 12420
+  },
+  {
+   "episode_id": "novel__200204__04201057__m-vamp.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/zyuka-metamoru/m-vamp/",
+   "source_path": "novel/200204/04201057/m-vamp.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 3076,
+   "body_chars": 3063
+  },
+  {
+   "episode_id": "novel__200507__03150205__iinjor7.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/bluemew-iinjaa/iinjor7/",
+   "source_path": "novel/200507/03150205/iinjor7.html",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 5077,
+   "body_chars": 5064
+  },
+  {
+   "episode_id": "novel__200104__23004330__irr5.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/ruhfasu-irregular-gir/irr5/",
+   "source_path": "novel/200104/23004330/irr5.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 12555,
+   "body_chars": 12542
+  },
+  {
+   "episode_id": "novel__200907__19181916__lastlive.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/writerman-oretoaitsunorasutoraibu/",
+   "source_path": "novel/200907/19181916/lastlive.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 8239,
+   "body_chars": 8235
+  },
+  {
+   "episode_id": "novel__201009__16215412__dress_up_boy05b.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/hotaru-kisekaeshounen5-purinsesukuesuto/",
+   "source_path": "novel/201009/16215412/dress_up_boy05b.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 13579,
+   "body_chars": 13570
+  },
+  {
+   "episode_id": "novel__200012__09021621__izumo_2.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/goldarm-izumotaisha-1/izumo_2/",
+   "source_path": "novel/200012/09021621/izumo_2.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 12948,
+   "body_chars": 12935
+  },
+  {
+   "episode_id": "novel__200611__01223326__retribution.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/yamadaten-ingaouhou/",
+   "source_path": "novel/200611/01223326/retribution.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 6385,
+   "body_chars": 6385
+  },
+  {
+   "episode_id": "novel__mirror_ring__ring01.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/kotobuki_hikaru_ndcss-miraaringushiriizukisosettei/ring01/",
+   "source_path": "novel/mirror_ring/ring01.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 10710,
+   "body_chars": 10697
+  },
+  {
+   "episode_id": "novel__200703__16205836__sclumble_idol_climax.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/johdan-sukuranburuaidoru-kuraimakkusubaajon/",
+   "source_path": "novel/200703/16205836/sclumble_idol_climax.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 6792,
+   "body_chars": 6785
+  },
+  {
+   "episode_id": "novel__kayo_chan__kayo_chan03.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/mashiro_yuu-hanayochanshiriizusettei/kayo_chan03/",
+   "source_path": "novel/kayo_chan/kayo_chan03.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 5548,
+   "body_chars": 5537
+  },
+  {
+   "episode_id": "novel__200210__28213920__mirage01.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/writerman-henshinbishoujosenshimiraajugaaru/mirage01/",
+   "source_path": "novel/200210/28213920/mirage01.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 7328,
+   "body_chars": 7315
+  },
+  {
+   "episode_id": "novel__200611__07223823__middle_story_1.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/yuk-the-story-in-the-middle-zenpen/",
+   "source_path": "novel/200611/07223823/middle_story_1.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 10298,
+   "body_chars": 10285
+  },
+  {
+   "episode_id": "novel__200303__17233027__hunter04.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/dekoi-kariudo-chiisakifutarinoyousei/hunter04/",
+   "source_path": "novel/200303/17233027/hunter04.htm",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 10888,
+   "body_chars": 10875
+  },
+  {
+   "episode_id": "novel__kayo_chan__kayo_chan111.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/jibudore-hanayochanshiriizu-erebeetaa/",
+   "source_path": "novel/kayo_chan/kayo_chan111.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 3351,
+   "body_chars": 3338
+  },
+  {
+   "episode_id": "novel__200011__15112734__nouryo.html+20030809",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/baf-nouryoutosidensetsu/15112734-nouryo-20030809/",
+   "source_path": "novel/200011/15112734/nouryo.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 3168,
+   "body_chars": 3155
+  },
+  {
+   "episode_id": "novel__200202__03004409__pink.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/marie-haatonopendanto/pink/",
+   "source_path": "novel/200202/03004409/pink.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 7112,
+   "body_chars": 7108
+  },
+  {
+   "episode_id": "novel__200603__06014840__kimidori_05.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/yuta-kimidori/kimidori_05/",
+   "source_path": "novel/200603/06014840/kimidori_05.html",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 9365,
+   "body_chars": 9352
+  },
+  {
+   "episode_id": "novel__200706__17105152__hikaru2.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/kirika-hikarumezameru/hikaru2/",
+   "source_path": "novel/200706/17105152/hikaru2.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 12806,
+   "body_chars": 12792
+  },
+  {
+   "episode_id": "novel__200702__18234405__dislikes.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/omochibako-kirainamono/dislikes/",
+   "source_path": "novel/200702/18234405/dislikes.html",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 1230,
+   "body_chars": 1226
+  },
+  {
+   "episode_id": "novel__200907__19181513__maid_of_fire03.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/johdan-maid-of-fire/19181513-maid_of_fire03/",
+   "source_path": "novel/200907/19181513/maid_of_fire03.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 5840,
+   "body_chars": 5833
+  },
+  {
+   "episode_id": "novel__200607__02124625__nvl__awake.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/shining_heaven-mezamenoyoruniwakarewotsugete/",
+   "source_path": "novel/200607/02124625/nvl/awake.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 2038,
+   "body_chars": 2024
+  },
+  {
+   "episode_id": "novel__200303__17233027__hunter28.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/dekoi-kariudo-chiisakifutarinoyousei/hunter28/",
+   "source_path": "novel/200303/17233027/hunter28.htm",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 16023,
+   "body_chars": 16010
+  },
+  {
+   "episode_id": "novel__kayo_chan__extra__kayo_ex64.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/shining_heaven-hanayochanshiriizu/kayo_ex64/",
+   "source_path": "novel/kayo_chan/extra/kayo_ex64.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 9762,
+   "body_chars": 9749
+  },
+  {
+   "episode_id": "novel__200606__27201201__honey09.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/toshi9-tatakae-suuiitohaniiii/honey09/",
+   "source_path": "novel/200606/27201201/honey09.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 9000,
+   "body_chars": 8987
+  },
+  {
+   "episode_id": "novel__200607__02124625__Link.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/shining_heaven-link/",
+   "source_path": "novel/200607/02124625/Link.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 667,
+   "body_chars": 664
+  },
+  {
+   "episode_id": "novel__201009__16215412__borderless.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/johdan-boodaaresu/16215412-borderless/",
+   "source_path": "novel/201009/16215412/borderless.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 9599,
+   "body_chars": 9590
+  },
+  {
+   "episode_id": "novel__short__ez_doc.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/juurouta-ezcmezgo-doc/short-ez_doc/",
+   "source_path": "novel/short/ez_doc.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 586,
+   "body_chars": 573
+  },
+  {
+   "episode_id": "novel__200703__16205836__torasupi03_j.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/johdan-toraburu-supirittsu-episode3-henten/",
+   "source_path": "novel/200703/16205836/torasupi03_j.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 10529,
+   "body_chars": 10522
+  },
+  {
+   "episode_id": "novel__200112__18230553__over_heat.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/ryuhju-let-s-oobaahiito/over_heat/",
+   "source_path": "novel/200112/18230553/over_heat.html",
+   "verdict": "ok-trimmed",
+   "issues": [
+    {
+     "kind": "trimmed",
+     "where": "tail",
+     "len": 264,
+     "sample": "戻る【文庫管理人より】作品を読んで面白いと感じたら、ぜひとも何かメッセージを残していって下さい。一言の簡単なメッセージでも結構です。・「面白かった」「もっと続きが読みたい」といった感想・「○○の出番を増やしてほしい」などお気に入りのキャラに"
+    }
+   ],
+   "orig_chars": 4602,
+   "body_chars": 4338
+  },
+  {
+   "episode_id": "novel__rental__ituki.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/mondo-kichanadesugata/",
+   "source_path": "novel/rental/ituki.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 188,
+   "body_chars": 175
+  },
+  {
+   "episode_id": "novel__200611__01223326__sidounaiyou.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/yamadaten-shidounaiyou/",
+   "source_path": "novel/200611/01223326/sidounaiyou.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 3323,
+   "body_chars": 3323
+  },
+  {
+   "episode_id": "novel__200212__11003831__rvv.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/miyashita_shinobu-rivaivaa/11003831-rvv/",
+   "source_path": "novel/200212/11003831/rvv.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 463,
+   "body_chars": 459
+  },
+  {
+   "episode_id": "novel__200110__28050903__moemoe2.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/t_h-houehoueshoujononichijou/moemoe2/",
+   "source_path": "novel/200110/28050903/moemoe2.html",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 26014,
+   "body_chars": 26001
+  },
+  {
+   "episode_id": "novel__kakusan__oyakusoku__oyakusoku_b.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/kakusan-oyakusoku-b/",
+   "source_path": "novel/kakusan/oyakusoku/oyakusoku_b.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 39794,
+   "body_chars": 39794
+  },
+  {
+   "episode_id": "novel__200112__18123055__mistress13.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/yamu-misutoresutokimyounanakamatachi-sono/mistress13/",
+   "source_path": "novel/200112/18123055/mistress13.htm",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 5096,
+   "body_chars": 5083
+  },
+  {
+   "episode_id": "novel__200111__03091515__revagaiger_ex4.5.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/dendoro-bishoujoyuusharibagaigaa/revagaiger_ex4-5/",
+   "source_path": "novel/200111/03091515/revagaiger_ex4.5.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 5271,
+   "body_chars": 5258
+  },
+  {
+   "episode_id": "novel__200907__19181513__ts_novels.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/johdan-mukekizousakuhinshuu/",
+   "source_path": "novel/200907/19181513/ts_novels.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 1228,
+   "body_chars": 1221
+  },
+  {
+   "episode_id": "novel__kayo_chan__kayo_chan74.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/zyuka-hanayochanshiriizu-motsuretaito/",
+   "source_path": "novel/kayo_chan/kayo_chan74.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 4218,
+   "body_chars": 4205
+  },
+  {
+   "episode_id": "novel__200802__18212014__bhrs2.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/sky_high-hiirootanjou-2/bhrs2/",
+   "source_path": "novel/200802/18212014/bhrs2.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 4544,
+   "body_chars": 4510
+  },
+  {
+   "episode_id": "novel__200210__28213920__tssales.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/writerman-kochiratehisanosougouhanbaikabushikigaisha/",
+   "source_path": "novel/200210/28213920/tssales.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 11755,
+   "body_chars": 11742
+  },
+  {
+   "episode_id": "novel__200206__22085230__dualway-09.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/asari-futatsunomichi/dualway-09/",
+   "source_path": "novel/200206/22085230/dualway-09.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 20500,
+   "body_chars": 20487
+  },
+  {
+   "episode_id": "novel__200802__18212014__rpit.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/sky_high-rnoana/",
+   "source_path": "novel/200802/18212014/rpit.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 6978,
+   "body_chars": 6944
+  },
+  {
+   "episode_id": "novel__200303__17233027__hunter27.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/dekoi-kariudo-chiisakifutarinoyousei/hunter27/",
+   "source_path": "novel/200303/17233027/hunter27.htm",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 8218,
+   "body_chars": 8205
+  },
+  {
+   "episode_id": "novel__200109__15004009__slope2-1.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/flat-sakamichi/slope2-1/",
+   "source_path": "novel/200109/15004009/slope2-1.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 17885,
+   "body_chars": 17872
+  },
+  {
+   "episode_id": "novel__rb3.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/unattributed-rental-body-ver3-binetsufuumi/",
+   "source_path": "novel/rb3.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 38801,
+   "body_chars": 38801
+  },
+  {
+   "episode_id": "novel__200204__04201057__tmtts.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/zyuka-t-m-t-t-s/",
+   "source_path": "novel/200204/04201057/tmtts.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 2010,
+   "body_chars": 1997
+  },
+  {
+   "episode_id": "novel__200211__12202315__rvv05c.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/miyashita_shinobu-rivaivaa5hanashi/rvv05c/",
+   "source_path": "novel/200211/12202315/rvv05c.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 2865,
+   "body_chars": 2865
+  },
+  {
+   "episode_id": "novel__short__my_case.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/aizu_rika-ore-nobaai/",
+   "source_path": "novel/short/my_case.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 2212,
+   "body_chars": 2199
+  },
+  {
+   "episode_id": "novel__200307__27055454__pick_03.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/amami-saikaipikku/pick_03/",
+   "source_path": "novel/200307/27055454/pick_03.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 7241,
+   "body_chars": 7228
+  },
+  {
+   "episode_id": "novel__200102__23134043__winning_ball02.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/ichirou-uiningubooru/winning_ball02/",
+   "source_path": "novel/200102/23134043/winning_ball02.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 6211,
+   "body_chars": 6198
+  },
+  {
+   "episode_id": "novel__grp__bunny99.jpg",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/s_haneoka-udoshi-2/",
+   "source_path": "novel/grp/bunny99.jpg",
+   "verdict": "ng-image",
+   "issues": [
+    {
+     "kind": "image-entry",
+     "expect": "/assets/annex-img/novel/grp/bunny99.jpg",
+     "found": false
+    }
+   ]
+  },
+  {
+   "episode_id": "novel__professor_k__rabi.jpg",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/nekono_gundam-raurii-biito-14toshi/",
+   "source_path": "novel/professor_k/rabi.jpg",
+   "verdict": "ng-image",
+   "issues": [
+    {
+     "kind": "image-entry",
+     "expect": "/assets/annex-img/novel/professor_k/rabi.jpg",
+     "found": false
+    }
+   ]
+  },
+  {
+   "episode_id": "novel__200101__05064051__ao1.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/kohdhi-aoitoki/ao1/",
+   "source_path": "novel/200101/05064051/ao1.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 15039,
+   "body_chars": 15026
+  },
+  {
+   "episode_id": "novel__200703__16205836__gtb.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/johdan-gtb/",
+   "source_path": "novel/200703/16205836/gtb.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 10481,
+   "body_chars": 10474
+  },
+  {
+   "episode_id": "novel__200112__19020205__angelterm2b.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/writerman-tenshinokeitaitanmatsu/angelterm2b/",
+   "source_path": "novel/200112/19020205/angelterm2b.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 11354,
+   "body_chars": 11341
+  },
+  {
+   "episode_id": "novel__short__switched_couple.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/aki-toransu-kappuru/",
+   "source_path": "novel/short/switched_couple.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 7257,
+   "body_chars": 7244
+  },
+  {
+   "episode_id": "novel__200206__04234833__the_heroine06.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/kagerou6-hiroin/the_heroine06/",
+   "source_path": "novel/200206/04234833/the_heroine06.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 4216,
+   "body_chars": 4203
+  },
+  {
+   "episode_id": "novel__goddess_mask__mimil22.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/kebo-megamikamenmiimiru/mimil22/",
+   "source_path": "novel/goddess_mask/mimil22.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 5664,
+   "body_chars": 5655
+  },
+  {
+   "episode_id": "novel__200312__05062153__bem_bgl_02_3.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/taika-boy-s-emotion/bem_bgl_02_3/",
+   "source_path": "novel/200312/05062153/bem_bgl_02_3.html",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 15545,
+   "body_chars": 15545
+  },
+  {
+   "episode_id": "novel__200112__18123055__mistress4.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/yamu-misutoresutokimyounanakamatachi-sono/mistress4/",
+   "source_path": "novel/200112/18123055/mistress4.html",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 11565,
+   "body_chars": 11552
+  },
+  {
+   "episode_id": "novel__nanika.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/hiroo_syou-nanikaga-yattekurukamo/novel-nanika/",
+   "source_path": "novel/nanika.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 11084,
+   "body_chars": 11071
+  },
+  {
+   "episode_id": "novel__short__genkan.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/kanzakiryou_gedoukai-genkannomukouniha/",
+   "source_path": "novel/short/genkan.html",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 1855,
+   "body_chars": 1841
+  },
+  {
+   "episode_id": "novel__toukou01.html+19971221",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/marie-kyaria-dei-97/novel-toukou01-19971221/",
+   "source_path": "novel/toukou01.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 3311,
+   "body_chars": 3309
+  },
+  {
+   "episode_id": "novel__200907__19181513__pls02c.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/johdan-dai2hanashi-get-wild/pls02c/",
+   "source_path": "novel/200907/19181513/pls02c.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 7220,
+   "body_chars": 7213
+  },
+  {
+   "episode_id": "novel__200207__03224430__roromi_05a.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/koukei-bimyousonzairoromi/roromi_05a/",
+   "source_path": "novel/200207/03224430/roromi_05a.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 21122,
+   "body_chars": 21109
+  },
+  {
+   "episode_id": "novel__200604__22210708__maple01.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/k_ito-meipuru/maple01/",
+   "source_path": "novel/200604/22210708/maple01.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 11558,
+   "body_chars": 11545
+  },
+  {
+   "episode_id": "novel__200108__20023958__aster.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/john-hanashi-asutaa/",
+   "source_path": "novel/200108/20023958/aster.html",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 15598,
+   "body_chars": 15583
+  },
+  {
+   "episode_id": "novel__200502__01114354__experience_05.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/yggdrasil-experience/experience_05/",
+   "source_path": "novel/200502/01114354/experience_05.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 8871,
+   "body_chars": 8858
+  },
+  {
+   "episode_id": "novel__200401__04203552__seven_keys_1.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/sakuhin_no115-seven-keys-dai1hanashi/",
+   "source_path": "novel/200401/04203552/seven_keys_1.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 13231,
+   "body_chars": 13222
+  },
+  {
+   "episode_id": "novel__200310__09201103__ginnan_01.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/phrase-ichou/ginnan_01/",
+   "source_path": "novel/200310/09201103/ginnan_01.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 2888,
+   "body_chars": 2875
+  },
+  {
+   "episode_id": "novel__200703__16205836__saila_vol08__saila_vol08.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/johdan-senotomeseera/saila_vol08-saila_vol08/",
+   "source_path": "novel/200703/16205836/saila_vol08/saila_vol08.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 38446,
+   "body_chars": 38439
+  },
+  {
+   "episode_id": "novel__kayo_chan__kayo_chan20.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/nekono_gundam-hanayochanshiriizu/kayo_chan20/",
+   "source_path": "novel/kayo_chan/kayo_chan20.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 3368,
+   "body_chars": 3357
+  },
+  {
+   "episode_id": "novel__200102__23134043__winning_ball4.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/ichirou-uiningubooru/winning_ball4/",
+   "source_path": "novel/200102/23134043/winning_ball4.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 6223,
+   "body_chars": 6210
+  },
+  {
+   "episode_id": "novel__kayo_chan__kayo_chan27.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/blue14-hanayochanshiriizu-sagyou/",
+   "source_path": "novel/kayo_chan/kayo_chan27.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 2274,
+   "body_chars": 2261
+  },
+  {
+   "episode_id": "novel__200211__08013548__kuon19.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/konoichiba-shinmaioujonodaibouken/kuon19/",
+   "source_path": "novel/200211/08013548/kuon19.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 4441,
+   "body_chars": 4428
+  },
+  {
+   "episode_id": "novel__200011__08043229__pf_carrier7.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/hiko-p-f-kyariaa/pf_carrier7/",
+   "source_path": "novel/200011/08043229/pf_carrier7.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 7357,
+   "body_chars": 7344
+  },
+  {
+   "episode_id": "novel__200606__27201201__honey2_09.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/toshi9-tatakae-suuiitohaniiii/honey2_09/",
+   "source_path": "novel/200606/27201201/honey2_09.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 12218,
+   "body_chars": 12205
+  },
+  {
+   "episode_id": "novel__200507__30223235__otogi01.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/ututu-mukashimukashinootogibanashi/otogi01/",
+   "source_path": "novel/200507/30223235/otogi01.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 2782,
+   "body_chars": 2769
+  },
+  {
+   "episode_id": "novel__200109__21002626__red_buruma_ex.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/yosswih-gakuensenshi-reddoburumaa/red_buruma_ex/",
+   "source_path": "novel/200109/21002626/red_buruma_ex.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 10184,
+   "body_chars": 10171
+  },
+  {
+   "episode_id": "novel__200611__21212001__donnorma4.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/ohharano-donnorumanoshisha/donnorma4/",
+   "source_path": "novel/200611/21212001/donnorma4.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 20259,
+   "body_chars": 20255
+  },
+  {
+   "episode_id": "novel__200011__04033856__mn01.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/horii_sinobu-mahorobanoniji/mn01/",
+   "source_path": "novel/200011/04033856/mn01.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 7861,
+   "body_chars": 7848
+  },
+  {
+   "episode_id": "novel__200108__08140821__d_project.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/kaien-doriimu-purojiekuto-daiichiwa/",
+   "source_path": "novel/200108/08140821/d_project.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 9016,
+   "body_chars": 9003
+  },
+  {
+   "episode_id": "novel__200009__17165809__saikai3.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/shiroiruka-saikainobifuu/saikai3/",
+   "source_path": "novel/200009/17165809/saikai3.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 30505,
+   "body_chars": 30492
+  },
+  {
+   "episode_id": "novel__goddess_mask__mimil01.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/kebo-megamikamenmiimiru/mimil01/",
+   "source_path": "novel/goddess_mask/mimil01.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 5542,
+   "body_chars": 5533
+  },
+  {
+   "episode_id": "novel__200201__05004202__mokuji.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/writerman-shouryousentaihooriirenjaa-mokuji/",
+   "source_path": "novel/200201/05004202/mokuji.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 67,
+   "body_chars": 65
+  },
+  {
+   "episode_id": "novel__200207__19203027__pure_menu.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/two_bit-pure/",
+   "source_path": "novel/200207/19203027/pure_menu.html",
+   "verdict": "ok-trimmed",
+   "issues": [
+    {
+     "kind": "minor",
+     "missing": 1,
+     "extra": 1
+    }
+   ],
+   "orig_chars": 492,
+   "body_chars": 492
+  },
+  {
+   "episode_id": "novel__200211__08013548__kuon10.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/konoichiba-shinmaioujonodaibouken/kuon10/",
+   "source_path": "novel/200211/08013548/kuon10.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 3918,
+   "body_chars": 3905
+  },
+  {
+   "episode_id": "novel__200210__28213920__mirage_ex1.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/writerman-henshinbishoujosenshimiraajugaaru/mirage_ex1/",
+   "source_path": "novel/200210/28213920/mirage_ex1.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 25308,
+   "body_chars": 25295
+  },
+  {
+   "episode_id": "novel__200112__18123055__mistress7.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/yamu-misutoresutokimyounanakamatachi-sono/mistress7/",
+   "source_path": "novel/200112/18123055/mistress7.htm",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 4116,
+   "body_chars": 4103
+  },
+  {
+   "episode_id": "novel__200705__20184554__maran3-2.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/izumiya-maran-episoodo/maran3-2/",
+   "source_path": "novel/200705/20184554/maran3-2.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 2878,
+   "body_chars": 2878
+  },
+  {
+   "episode_id": "novel__200703__16205836__saila_vol02.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/johdan-senotomeseera/16205836-saila_vol02/",
+   "source_path": "novel/200703/16205836/saila_vol02.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 27263,
+   "body_chars": 27250
+  },
+  {
+   "episode_id": "novel__200312__05062153__bem_04_1.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/taika-boy-s-emotion/bem_04_1/",
+   "source_path": "novel/200312/05062153/bem_04_1.html",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 15380,
+   "body_chars": 15380
+  },
+  {
+   "episode_id": "novel__200105__08212223__blackbus.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/nigeuma-burakkubasu/",
+   "source_path": "novel/200105/08212223/blackbus.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 8153,
+   "body_chars": 8140
+  },
+  {
+   "episode_id": "novel__superu__magic_wand.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/superuzarasu-wand/",
+   "source_path": "novel/superu/magic_wand.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 92,
+   "body_chars": 81
+  },
+  {
+   "episode_id": "novel__tr_gals__tr_gals_no2.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/yaji-seimeisentaitoransugyaruzu/tr_gals_no2/",
+   "source_path": "novel/tr_gals/tr_gals_no2.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 10103,
+   "body_chars": 10092
+  },
+  {
+   "episode_id": "novel__200703__16205836__sara06.htm",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/johdan-senotomeseera/sara06/",
+   "source_path": "novel/200703/16205836/sara06.htm",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 5664,
+   "body_chars": 5657
+  },
+  {
+   "episode_id": "novel__200203__12200339__d_postscript.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/azy-kurenainosoukouryuukihei-atogaki/",
+   "source_path": "novel/200203/12200339/d_postscript.html",
+   "verdict": "ok-texturize",
+   "issues": [
+    {
+     "kind": "wp-display-filter",
+     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
+    }
+   ],
+   "orig_chars": 8481,
+   "body_chars": 8468
+  },
+  {
+   "episode_id": "novel__marie02.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/marie-haatonopendanto/marie02/",
+   "source_path": "novel/marie02.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 20349,
+   "body_chars": 20336
+  },
+  {
+   "episode_id": "novel__200012__10070655__kaworu_f8.html",
+   "status": "converted",
+   "url": "https://novels.xwp.jp/novel/wataru1024-kaworunojijou/kaworu_f8/",
+   "source_path": "novel/200012/10070655/kaworu_f8.html",
+   "verdict": "ok",
+   "issues": [],
+   "orig_chars": 8906,
+   "body_chars": 8893
+  }
+ ]
+}
