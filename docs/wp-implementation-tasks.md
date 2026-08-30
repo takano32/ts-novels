@@ -80,7 +80,8 @@
 6. 本番 `public_html` での実験は `_probe/` ディレクトリで行い、終わったら必ず消す
 7. CloudSecure のログイン URL 変更値(.htaccess 内に記載)を文書・コミット・ログ.htaccess 写しに
    転記しない。**本番 .htaccess の全文をリポジトリに入れない**
-8. サイトは公開解禁タスク **7.4** まで全域 noindex を維持
+8. **サイトは最初から公開(インデックス可)で構築する**(設計 v1.5)。ただし `/boards/`
+   `/dojo/` 等の掲示板層は**恒久 noindex**(第三者のプライバシー配慮 — 公開ゲートとは別物)
 9. rsync は **`--delete` 禁止・必ず `-n`(dry-run)を先行**。宛先 `~/novels.xwp.jp/` 直下には
    wp-config.php が居る
 
@@ -234,10 +235,15 @@
         foster / relay_novel / delayed / 2daime / utanotsuki) に加えて
         **d_angel (ダーティーエンジェル、3 作者)・setubou (切望)・rental_body・
         sugar_sweets** が実在する。これを作者板と誤認すると別人が 1 作者に潰れる
-      - **👤 判断待ち (同名別鍵 2 件)**: `神川綾乃` が板 `kamikawa_ayano` と
-        `kamikawa_ayano_` の 2 つに、`コーディー` が `jersey_red` と `kohdhi` の 2 つに
-        跨がる。同一人物の板が 2 つある可能性が高いが、機械では決められない
-        (slug_overrides.yml は slug の確定用で「作者の併合」は表現できない)
+      - ~~**👤 判断待ち (同名別鍵 2 件)**~~ → **1.5b で決着 (2026-08-30)**。
+        `神川綾乃` は同一人物で `kamikawa_ayano` が正(`kamikawa_ayano_` は実在しない板)、
+        `コーディー` と `ジャージレッド` は**別人**で コーディー の正は `kohdhi`。
+        いずれも目録の感想リンクの誤植 1 箇所が原因で、`catalog/episode_overrides.yml` で
+        上書きした。「作者の併合」も `slug_overrides.yml` の**同じ slug を複数の表示名に
+        書く**形で表現できるようにした(実装は 1.5b の項)
+      - **1.4 の数値は 1.5b で更新された**: 作者は **342 → 322 名**
+        (板あり 294 → **300** / 板なし 48 → **22**)、slug 確認待ち 40 → **0**。
+        上の「1.4 実測」は 1.5b 実施**前**の値なので、現在値は 1.5b の項を見ること
 - [x] 1.5 `scripts/wp/work_builder.py`: Episode → Work クラスタリング → `catalog/works.jsonl`
       - シード: `series.html` 有効 **112** 行(コメント除去後にリンクを持つ TR。
         旧記述の「123 行」は誤り)+`share_world.html`+
@@ -265,9 +271,66 @@
         (c) **Work は 1 作者に閉じる規則を追加した**。共有世界のタイトルページ
         (novel/kayo_chan/index.html に 139 リンク) は 69 名の話を 1 つに束ねてしまい、
         「作品」ではなく「世界」になる。シリーズとしての同一性は ts_world が担う
-- [ ] 👤 1.5b work_overrides.yml と slug_overrides.yml の確認・確定。
+- [x] 👤 1.5b work_overrides.yml と slug_overrides.yml の確認・確定。
       **これが済むまで Phase 2.5(全量投入)に進まない**(needs_review 分の恒久 URL が変わるため。
       2.4 のパイロット 100 件は確定済み分のみで先行可)
+      - **確定 (2026-08-30)**: 作者 slug **42 件を `status: confirmed`** にした
+        (資料 `catalog/review/authors-slugs.md`、裁定は `catalog/slug_overrides.yml` の
+        `authors:` セクションと同ファイル冒頭のコメント)。作品 slug 1,451 件と
+        分類語彙 slug 1,407 件は**サイト所有者の決定により自動生成のまま採用**(確認しない)。
+        `work_overrides.yml` の needs_review 331 件も確認せず採用
+      - **裁定を build 側に追随させた (実装 3 本)**:
+        (a) **作者の併合** — 複数の表示名が同じ確定 slug を指すとき 1 人に統合し、
+        表示名は `display_variants` に集約する処理を `authors_build.py` に追加。
+        **16 組・作者 17 名が統合で消え、`kamikawa_ayano_` の廃止と合わせて
+        作者は 342 → 322 名**(数え方: `catalog/authors.json` の `authors` 配列長 /
+        `catalog/reports/authors_build.json` の `author_merges` と
+        `authors_removed_by_merge`)。統合の一覧は
+        `catalog/reports/authors_build.json` の `author_merges` に全件残る
+        (slents ← 根室　眞琴 / 根室　眞琴改め…、marie ← 麗香、popo ← HIKU / ぽぽ、
+        aizu_rika ← 海津里花、you_ ← you' / you’、qqqqq ← ？？？？ ほか)
+        (b) **`role: not-an-author`** — `slug_overrides.yml` の authors 行に書ける新しい欄。
+        その表示名では作者を作らない。「シェアワールド」に付けた。該当話
+        `novel/200103/24194542/himetitle.html` は**作者不詳ではなく
+        `entry_role: series-index`(シリーズ目次)**として扱い、感想板 `himekami` 経由で
+        ts_world「妖魔夜行 姫神奇譚シリーズ」(41 話)に紐づく。works 側では
+        擬似作者 `series-index`(表示「シリーズ目次」)の下に置き、`unattributed`
+        (作者不詳 22 件)と混ぜない
+        (c) **`catalog/episode_overrides.yml` を新設**(適用は
+        `scripts/wp/episode_overrides.py`。`make catalog` の repost_build 直後)。
+        **旧館の原本 `lib*.html` の誤植を catalog 側で上書きする唯一の場所**で、
+        別館(Pages)は原本レイヤなので誤植をそのまま保つ、という分担。
+        `expect:`(上書き前にあるはずの値)を必ず書かせ、合わなければ自己検査が落ちる。
+        **episode_id は source_path から導くのでこの上書きでは変わらない**
+      - **同名 2 組の裁定の実施結果**:
+        - `神川綾乃`: `lib45.html#12` だけが指していた実在しない板 `kamikawa_ayano_` を
+          `kamikawa_ayano` に上書き。**作者 `kamikawa_ayano_` は消え、
+          `kamikawa_ayano` が 34 → 35 話**
+        - `コーディー`: `lib61.html#6`(「蒼い時（第二章）」)だけが指していた
+          `jersey_red` を `kohdhi` に上書き。**`kohdhi` が 2 → 3 話(蒼い時 ao1–3 が
+          1 作品にまとまった)、`jersey_red` は 27 → 26 話で
+          `display_variants` から「コーディー」が消えた**
+      - **感想板一覧を第 2 の情報源にした** (review §8-1 の恒久対策):
+        `~ts/kansou/bbs@log_.cgi`(**290 板**。うち共有世界の板 9 を除く作者板 281、
+        `<title>` から作者名が取れたもの 278)と、**板一覧に載らない板ファイル 16 本**の
+        `<title>` を `authors_build.py` が読む。目録から一度もリンクされていない板を
+        持つ**作者 8 名**(この市場 / Ｍａｃｆｉｓｔ / 由衣 / 西さとる / ふう / 佐藤由衣 /
+        you' / ぽぽ)がこれで板 id に載り、**板を持つ作者は 294 → 300 名**に増えた。
+        旧名義・別名義の板は `authors.json` の新欄 **`kansou_slug_alt`** に残る
+        (薪喬 → `shinkyou`、根室　眞琴 → `memuro_makoto`、HIKU → `hiku`、
+        神川綾乃 → `kamikawa_ayano_` など 8 名)
+      - **回帰防止の自己検査 3 本を追加**(`authors_build.py`):
+        「**confirmed slug と板一覧の不一致 0**」(表示名がいずれかの板を指すのに
+        作者 slug がどの板 id とも一致しなければ落ちる = 今回の見落とし 7 名が再発したら
+        検知する)・「👤 1.5b の裁定が全て authors.json に出ている」・
+        「裁定による併合の記録」。既存の「**slug の重複 0**」は緩めていない
+        (別人の slug 衝突を検出する網なので)
+      - **再生成の検収 (2026-08-30 実測)**: `make catalog` 所要 46 秒。
+        **作者 322 名**(板あり 300 / 板なし 22、slug 確認待ち **0**)・
+        **works 1,451 件**(単発 932 / 連載 519、**orphan 0**、needs_review 331)・
+        episodes 3,844(**episode_id の集合は再生成前後で完全一致**)・
+        `make catalog` を 2 回連続で流して `catalog/` に**差分ゼロ**(冪等)・
+        `make check` は全段 OK
 - [x] 1.6 `scripts/wp/body_convert.py`: 本文 Markdown 変換(設計 v1.2 改訂章 A「本文 Markdown 正準化」)
       - `md_convert_probe.py` を本実装に昇格。追加対応: 装飾/レイアウト table の分類(title 箱=
         クローム除去、本文内 table=インライン HTML 温存)、Word `o:p`/`MsoNormal` 剥離、
@@ -379,7 +442,8 @@
       パーマリンク・タクソノミー・メタ・noindex メタ/ヘッダ
 - [ ] 2.5 全量メタ投入(本文なし)。直前に `wp db export` で復旧点。
       **冪等性テスト: 2 回目 import が created=0 / updated=0**
-- [ ] 2.6 .htaccess の noindex/410 ブロック管理:
+- [ ] 2.6 .htaccess の noindex/410 ブロック管理(**v1.5: 全域 noindex は行わない**。
+      恒久 noindex 層 /boards/ /dojo/ のヘッダと denylist 410 のみ):
       (a) サーバ上で `cp .htaccess .htaccess.bak-YYYYMMDD` を必ず先行
       (b) `scripts/wp/gen_htaccess.py` は**マーカーコメント間の追記ブロックのみ**をローカル生成
       (c) 挿入は ssh 経由のサーバ上編集で行い、**既存 .htaccess 全文をローカルに保存・コミットしない**
@@ -479,12 +543,9 @@
 - [ ] 7.2 削除リハーサル: テスト作品 1 件で「draft 化+410+別館からの除外+**git 履歴除去の手順確認**+
       /removed/ 掲載」を実際に流し、removal-runbook.md を実測で更新
 - [ ] 👤 7.3 公開判断(Q4: 連絡不達作者の扱い)
-- [ ] 7.4 解禁: .htaccess を差し替え —
-      **解禁(index 許可)**: `/works/ /authors/ /genre/ /type/ /keyword/ /world/ /year/ /index/
-      /docs/ /about/ /takedown/ /removed/` とトップ。
-      **恒久 noindex 維持**: `/boards/ /dojo/ /assets/annex-img/` ほか BBS/PII 層
-      (別館=Pages 側は 5.2 の meta noindex のまま)。
-      sitemap.xml は解禁区画のみ生成。robots.txt の本番内容を curl で最終確認。
+- [ ] 7.4 公開整備(v1.5 で「解禁」は消滅 — 最初から公開): sitemap.xml 生成
+      (恒久 noindex 層を除く)・robots.txt の本番内容を curl で最終確認・
+      **恒久 noindex 境界の確認(/boards/ /dojo/ が noindex、/works/ 等が index 可)**。
       Search Console 登録は 👤 任意
 - [ ] 7.5 公開後 verify: 主要 20 URL の 200/内容確認・**noindex 境界の確認(/boards/ が noindex の
       まま、/works/ が解禁されていること)**・👤 キャッシュクリア依頼

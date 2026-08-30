@@ -318,7 +318,7 @@ BBS・CGI ページは**クエリつき URL** なので、そのままではフ�
 
 | # | 既存文書の記述 | 実測 | 判断 |
 |---|---|---|---|
-| (1) | README「`~yaopinion` を発見・回収」「`~yaopinion/` = `www.novels.jp/` のユーザディレクトリ」 | **`~yaopinion/` というツリーは存在しない**。`yaopinion` の文字列はリポジトリ中 README.md にしか出てこない | **README が誤り**。実在するのは `~yaji/opinion/`(34 ファイル、「My Opinions」)。第 3 次探索の作業メモが誤って README に残ったものと思われる |
+| (1) | README「`~yaopinion` を発見・回収」「`~yaopinion/` = `www.novels.jp/` のユーザディレクトリ」 | **`~yaopinion/` というツリーは存在しない**。`yaopinion` の文字列はリポジトリ中 README.md にしか出てこない | **README が誤り**。実在するのは `~yaji/opinion/`(34 ファイル、「My Opinions」)。第 3 次探索の作業メモが誤って README に残ったものと思われる。**2026-08-30 に README の 3 箇所を訂正済み** |
 | (2) | 設計 §3.1「`/special/` は別館実在パス(**03summer 61 ファイル**)」・v1.4「企画・アンソロジー `special/` 61」 | `special/` **合計 61** は正しいが、内訳は **`rb/` 52 + `03summer/` 9**。03summer は 9 ファイル | **設計の内訳が誤り**。`special/rb/`(Rental Body Re-Mix 祭り)が主たる中身。タスク 4.8 で「03summer 等」として扱うときは rb を落とさないこと |
 | (3) | 設計 v1.4「~yays 世代のギャラリー CG **313**」・v1.0「~yays gallery (CG **313 点**)」 | `~yays/gallery/` **全体が 313 ファイル**。うち画像は 157、`cg/` サブディレクトリは **136 点** | **「CG 313 点」は誤り**。313 はギャラリー区画のファイル総数。タスク 4.7 の対象規模は「CG 136 + story 84 + album 12 + kiss 3 + 頁 78」と読み替える |
 | (4) | 設計/タスク 1.8「`novel/` 配下の本文 **3,818**」 | HTML 3,817 + 拡張子なし 1 = 3,818。**ただし Apache autoindex 83 枚を含む** | **数としては合うが定義が広い**。作品本文だけなら 3,735。1.8 の受け入れ検査で autoindex を意図的除外に入れる必要がある |
