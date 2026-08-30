@@ -103,7 +103,7 @@ EOF
 # 検証: 対象は 410、無関係な URL は 200 のまま
 curl -sI "https://novels.xwp.jp/novel/200209/19204751/d_upboy06.htm?_cb=$RANDOM" | head -1
 curl -sI "https://novels.xwp.jp/about/?_cb=$RANDOM" | head -1     # 200 であること
-curl -sI "https://novels.xwp.jp/works/?_cb=$RANDOM" | grep -i x-robots-tag
+curl -sI "https://novels.xwp.jp/novel/?_cb=$RANDOM" | grep -i x-robots-tag
 ```
 
 - 無関係 URL が 200 を返さない / X-Robots-Tag が消えた場合は**即座に .bak を戻す**。
@@ -112,7 +112,7 @@ curl -sI "https://novels.xwp.jp/works/?_cb=$RANDOM" | grep -i x-robots-tag
 ```apache
 # BEGIN ts-takedown
 Redirect gone /novel/200209/19204751/d_upboy06.htm
-Redirect gone /works/example-author-example-work/
+Redirect gone /novel/example-author-example-work/
 # END ts-takedown
 ```
 

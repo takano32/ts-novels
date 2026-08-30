@@ -678,7 +678,7 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
 - [ ] 👤 7.3 公開判断(Q4: 連絡不達作者の扱い)
 - [ ] 7.4 公開整備(v1.5 で「解禁」は消滅 — 最初から公開): sitemap.xml 生成
       (恒久 noindex 層を除く)・robots.txt の本番内容を curl で最終確認・
-      **恒久 noindex 境界の確認(/boards/ /dojo/ が noindex、/works/ 等が index 可)**。
+      **恒久 noindex 境界の確認(/boards/ /dojo/ が noindex、/novel/ 等が index 可)**。
       Search Console 登録は 👤 任意
 - [ ] 7.5 公開後 verify: 主要 20 URL の 200/内容確認・**noindex 境界の確認(/boards/ が noindex の
       まま、/works/ が解禁されていること)**・👤 キャッシュクリア依頼

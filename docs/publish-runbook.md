@@ -120,11 +120,11 @@ wp ts verify
 curl 側 (**毎回キャッシュバスターを付ける**):
 
 ```sh
-for u in / /works/ /authors/ /index/ /about/ /takedown/; do
+for u in / /novel/ /authors/ /index/ /about/ /takedown/; do
   printf '%s ' "$u"; curl -s -o /dev/null -w '%{http_code}\n' "https://novels.xwp.jp$u?_cb=$RANDOM"
 done
-curl -sI "https://novels.xwp.jp/works/?_cb=$RANDOM" | grep -i 'x-robots-tag'   # 解禁(7.4)前は noindex
-curl -s "https://novels.xwp.jp/works/<slug>/?_cb=$RANDOM" | grep -o '<title>.*</title>'
+curl -sI "https://novels.xwp.jp/novel/?_cb=$RANDOM" | grep -i 'x-robots-tag'   # 解禁(7.4)前は noindex
+curl -s "https://novels.xwp.jp/novel/<slug>/?_cb=$RANDOM" | grep -o '<title>.*</title>'
 ```
 
 ### 6. 👤 nginx キャッシュのクリアを依頼

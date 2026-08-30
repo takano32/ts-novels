@@ -41,7 +41,8 @@ final class TS_Library {
             'public' => true, 'hierarchical' => true, 'has_archive' => false,
             'menu_icon' => 'dashicons-book',
             'supports' => ['title', 'editor', 'excerpt', 'custom-fields', 'page-attributes', 'thumbnail'],
-            'rewrite' => ['slug' => 'works', 'with_front' => false, 'hierarchical' => true],
+            // URL 基底はユーザ裁定 (2026-08-30) で /novel/ — 旧館の URL 語彙 (ts.novels.jp/novel/…) と揃える
+            'rewrite' => ['slug' => 'novel', 'with_front' => false, 'hierarchical' => true],
             'show_in_rest' => true, // 管理画面のエディタ用 (運用上の編集は catalog 経由が正)
         ]);
         register_post_type('ts_doc', [

@@ -39,7 +39,7 @@ git リポジトリ (原本18,006ファイル + catalog/ + scripts/wp/ + takedow
 
 | CPT | 設定 | 用途 |
 |---|---|---|
-| `ts_work` | hierarchical=true, rewrite `works` (with_front=false), supports: title/editor/excerpt/custom-fields/page-attributes/thumbnail, has_archive=false | 親投稿 (post_parent=0) = Work (作品)、子投稿 = Episode (話=目録エントリ)。menu_order=話数。単発作品は親のみ 1 投稿 (Work=Episode 1:1)。階層 CPT 1 本にすることで `/works/{work}/{ep}/` の入れ子パーマリンクがコア機能で得られる (data-model の 2 CPT 案より実装が薄い。区別は post_parent と `_ts_kind` メタ) |
+| `ts_work` | hierarchical=true, rewrite `novel` (with_front=false。当初 `works`、2026-08-30 ユーザ裁定で `/novel/` — 旧館の URL 語彙と揃える), supports: title/editor/excerpt/custom-fields/page-attributes/thumbnail, has_archive=false | 親投稿 (post_parent=0) = Work (作品)、子投稿 = Episode (話=目録エントリ)。menu_order=話数。単発作品は親のみ 1 投稿 (Work=Episode 1:1)。階層 CPT 1 本にすることで `/novel/{work}/{ep}/` の入れ子パーマリンクがコア機能で得られる (data-model の 2 CPT 案より実装が薄い。区別は post_parent と `_ts_kind` メタ) |
 | `ts_doc` | flat, rewrite `docs` | 運営コンテンツ: 編集"好"記 (comittee/ 21)、巻頭言 (columns/ 2)、構築日記 (dialy/ 1)、03summer 解題、語彙解題等 |
 | `ts_dojo` | flat, rewrite `dojo`, supports comments (Phase 6 で登録) | 2ndbbs「ストーリー道場」作品 267 本 |
 | 固定ページ | — | `/about/` `/takedown/` `/removed/` `/annex/` `/search/` `/index/` ハブ |
@@ -174,8 +174,8 @@ make deploy    # wrangler pages deploy dist/site
 | ページ | URL 例 |
 |---|---|
 | トップ | `/` — サイト趣旨 (閉鎖サイトの資料保存)・収蔵統計 (**3,844 話 / 1,463 作品 / 342 作者 / 1997–2014**。v1.0 の「2,887 作品/399 作者」は正規目録だけの話数と表示名の異なり数)・入口 4 つ (五十音/ジャンル/年代/検索)・**「新着」は置かず「今日の一作」** (works-index.json から日付シードでクライアント選出)・原本アーカイブの案内 (表示文言。「別館」とは書かない)・削除窓口 |
-| 作品 | `/works/johdan-d-upboy/` (あらすじ・作者コメント・推薦文・話一覧・オススメ双方向・原本リンク) |
-| 話 | `/works/johdan-d-upboy/06/` (単発は `/works/{slug}/` で完結) |
+| 作品 | `/novel/johdan-d-upboy/` (あらすじ・作者コメント・推薦文・話一覧・オススメ双方向・原本リンク) |
+| 話 | `/novel/johdan-d-upboy/06/` (単発は `/novel/{slug}/` で完結) |
 | 作者 | `/authors/writerman/` (全作品年代順・異表記・感想板 (別館) へのリンク・Homepage=Wayback・現役活動先) |
 | 分類 | `/genre/gakuen/` `/type/henshin/` `/keyword/orekko/` `/world/kayo-chan/` |
 | 年代 | `/year/2003/` (mu-plugin のカスタムリライトで post_date 年別一覧) |
@@ -258,7 +258,7 @@ make deploy    # wrangler pages deploy dist/site
 
 **PII**: mailto は WP=catalog 段階除外 (DB に入らない)、別館=配信物マスク。BBS ハンドル名は残置、実名らしきもの・生年月日入りアドレス等の高 PII は個別マスク。作者個人サイト URL 175 本は Wayback スナップショットリンクへ書換 (ドメインスクワット対策)、現存移転先のみ生リンク。git raw 層に未マスク原本が残り clone で取得可能な事実は README に明記 (「マスクは秘匿でなく礼儀」)。
 
-**SEO / 段階解禁**: robots.txt を差し替え (現物は archive.org の誤回収物) — GPTBot/CCBot/Google-Extended 等 AI 学習クローラ Disallow、ia_archiver 許可。公開初期は `_headers` で**全域 X-Robots-Tag: noindex** (URL を知る人向け)。窓口整備+作者連絡完了後、`/works/ /authors/ /index/` 等の本館のみ解禁 (=グローバル noindex を外し別館の名前空間への恒久 noindex ルールに差し替え。名前空間マニフェストから gen_headers.py が生成)。sitemap.xml は解禁区画のみビルド時生成。BBS/別館/PII 層は恒久 noindex。
+**SEO / 段階解禁**: robots.txt を差し替え (現物は archive.org の誤回収物) — GPTBot/CCBot/Google-Extended 等 AI 学習クローラ Disallow、ia_archiver 許可。公開初期は `_headers` で**全域 X-Robots-Tag: noindex** (URL を知る人向け)。窓口整備+作者連絡完了後、`/novel/ /authors/ /index/` 等の本館のみ解禁 (=グローバル noindex を外し別館の名前空間への恒久 noindex ルールに差し替え。名前空間マニフェストから gen_headers.py が生成)。sitemap.xml は解禁区画のみビルド時生成。BBS/別館/PII 層は恒久 noindex。
 
 ---
 
