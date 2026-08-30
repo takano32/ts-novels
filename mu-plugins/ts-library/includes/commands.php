@@ -1,0 +1,454 @@
+<?php
+/**
+ * `wp ts` — catalog → WordPress の投入コマンド群 (タスク 2.2)。
+ *
+ * ここは移築の根幹コード (本番 DB に書く唯一の経路)。設計の要点:
+ *  - 冪等: episode_id / work_slug をメタキーに upsert。`_ts_import_hash` が同じなら skip。
+ *    受け入れ条件は「2 回連続実行で 2 回目が created=0 / updated=0」
+ *  - 手動編集の保護: 前回 import 後に管理画面で編集された投稿は上書きせず警告に出す
+ *    (--overwrite-manual でのみ上書き)。post_status には決して触れない (新規作成時のみ publish)
+ *  - 追跡: 投入時の catalog の git コミットを option `ts_catalog_commit` に記録
+ *  - DB は使い捨て: `reset --yes` は ts_* の投稿と ts_* タクソノミーの term だけを消す
+ *    (WP 本体設定には触れない)
+ *
+ * PHP 8.0 互換。WP-CLI からのみ動く (Web リクエストでは何もしない)。
+ */
+
+if (!defined('WP_CLI') || !WP_CLI) {
+    return;
+}
+
+class TS_Command {
+
+    private const TYPES = ['ts_work', 'ts_doc', 'ts_dojo', 'ts_board_post'];
+    private const TAXES = ['ts_author', 'ts_genre', 'ts_type', 'ts_keyword', 'ts_world', 'ts_corpus'];
+
+    /** repo ルート (サーバでは ~/novels.xwp.jp/repo を想定。--repo で上書き可) */
+    private function repo_root($assoc) {
+        $root = $assoc['repo'] ?? (getenv('TS_REPO') ?: (getenv('HOME') . '/novels.xwp.jp/repo'));
+        if (!is_dir($root)) {
+            WP_CLI::error("repo が見つかりません: $root (--repo=<path> か TS_REPO を指定)");
+        }
+        return rtrim($root, '/');
+    }
+
+    private function read_jsonl($path) {
+        if (!is_file($path)) WP_CLI::error("ファイルがありません: $path");
+        $out = [];
+        $fh = fopen($path, 'r');
+        while (($line = fgets($fh)) !== false) {
+            $line = trim($line);
+            if ($line === '') continue;
+            $row = json_decode($line, true);
+            if ($row === null) WP_CLI::error("JSONL の壊れた行: $path");
+            $out[] = $row;
+        }
+        fclose($fh);
+        return $out;
+    }
+
+    private function read_json($path) {
+        if (!is_file($path)) WP_CLI::error("ファイルがありません: $path");
+        $d = json_decode(file_get_contents($path), true);
+        if ($d === null) WP_CLI::error("JSON が読めません: $path");
+        return $d;
+    }
+
+    /** meta キーで投稿を 1 件引く (post_status を問わない) */
+    private function find_by_meta($type, $key, $value) {
+        $q = new WP_Query([
+            'post_type' => $type, 'post_status' => 'any', 'posts_per_page' => 2,
+            'meta_key' => $key, 'meta_value' => $value,
+            'fields' => 'ids', 'no_found_rows' => true,
+            'update_post_meta_cache' => false, 'update_post_term_cache' => false,
+        ]);
+        if (count($q->posts) > 1) {
+            WP_CLI::warning("重複検出: $type $key=$value が " . count($q->posts) . " 件");
+        }
+        return $q->posts[0] ?? null;
+    }
+
+    /** 手動編集の検出: 前回 import 記録より post_modified_gmt が新しいか */
+    private function manually_edited($post_id) {
+        $last = get_post_meta($post_id, '_ts_last_import_gmt', true);
+        if (!$last) return false;
+        $mod = get_post_field('post_modified_gmt', $post_id);
+        return $mod && strtotime($mod) > strtotime($last) + 2; // 2 秒の猶予 (同一トランザクション内更新)
+    }
+
+    private function stamp_import($post_id, $hash) {
+        update_post_meta($post_id, '_ts_import_hash', $hash);
+        // 直前の update で post_modified が動いた「後」の値を記録する
+        clean_post_cache($post_id);
+        update_post_meta($post_id, '_ts_last_import_gmt', get_post_field('post_modified_gmt', $post_id));
+    }
+
+    // ------------------------------------------------------------------ sync-terms
+
+    /**
+     * タクソノミー term を catalog から同期する。
+     *
+     * ## OPTIONS
+     * [--repo=<path>] : リポジトリのルート
+     * [--dry-run] : 書き込まない
+     */
+    public function sync_terms($args, $assoc) {
+        $root = $this->repo_root($assoc);
+        $dry = isset($assoc['dry-run']);
+        $terms = $this->read_json("$root/catalog/terms.json");
+        $authors = $this->read_json("$root/catalog/authors.json");
+        if (isset($authors['authors'])) $authors = $authors['authors'];
+        $n = ['created' => 0, 'updated' => 0, 'skipped' => 0];
+
+        foreach ($terms['taxonomies'] as $tax => $spec) {
+            if (!taxonomy_exists($tax)) WP_CLI::error("タクソノミー未登録: $tax (mu-plugin の登録を確認)");
+            foreach ($spec['terms'] as $t) {
+                $this->upsert_term($tax, $t['slug'], $t['name'],
+                    ['description' => $t['description'] ?? ''],
+                    ['ts_raw_variants' => $t['raw_variants'] ?? null,
+                     'ts_core' => isset($t['core']) ? (int) $t['core'] : null,
+                     'ts_count_catalog' => $t['count'] ?? null],
+                    $dry, $n);
+            }
+        }
+        foreach ($authors as $a) {
+            $this->upsert_term('ts_author', $a['slug'], $a['display_name'], [],
+                ['ts_display_variants' => $a['display_variants'] ?? null,
+                 'ts_yomi_group' => $a['yomi_group'] ?? null,
+                 'ts_kansou_slug' => $a['kansou_slug'] ?? null,
+                 'ts_kansou_annex_url' => $a['kansou_annex_url'] ?? null,
+                 'ts_homepage_wayback' => $a['homepage_wayback'] ?? null,
+                 'ts_homepage_live' => $a['homepage_live'] ?? null,
+                 'ts_active_links' => $a['active_links'] ?? null,
+                 'ts_contact_status' => $a['contact_status'] ?? 'uncontacted'],
+                $dry, $n);
+        }
+        WP_CLI::success(sprintf('sync-terms: created=%d updated=%d skipped=%d%s',
+            $n['created'], $n['updated'], $n['skipped'], $dry ? ' (dry-run)' : ''));
+    }
+
+    private function upsert_term($tax, $slug, $name, $core, $meta, $dry, &$n) {
+        $existing = get_term_by('slug', $slug, $tax);
+        $payload_hash = md5(wp_json_encode([$name, $core, $meta]));
+        if ($existing) {
+            if (get_term_meta($existing->term_id, '_ts_term_hash', true) === $payload_hash) {
+                $n['skipped']++; return;
+            }
+            if (!$dry) {
+                wp_update_term($existing->term_id, $tax, array_merge(['name' => $name], $core));
+                $this->write_term_meta($existing->term_id, $meta, $payload_hash);
+            }
+            $n['updated']++;
+        } else {
+            if (!$dry) {
+                $r = wp_insert_term($name, $tax, array_merge(['slug' => $slug], $core));
+                if (is_wp_error($r)) { WP_CLI::warning("term 作成失敗 $tax/$slug: " . $r->get_error_message()); return; }
+                $this->write_term_meta($r['term_id'], $meta, $payload_hash);
+            }
+            $n['created']++;
+        }
+    }
+
+    private function write_term_meta($term_id, $meta, $hash) {
+        foreach ($meta as $k => $v) {
+            if ($v === null) { delete_term_meta($term_id, $k); continue; }
+            update_term_meta($term_id, $k, $v);
+        }
+        update_term_meta($term_id, '_ts_term_hash', $hash);
+    }
+
+    // ------------------------------------------------------------------ import
+
+    /**
+     * works / episodes を投入する (冪等 upsert)。
+     *
+     * ## OPTIONS
+     * [--repo=<path>] : リポジトリのルート
+     * [--bodies=<dir>] : 本文ペイロード (<episode_id>.html の Gutenberg ブロック HTML)
+     * [--limit=<n>] / [--author=<slug>] / [--dry-run] / [--overwrite-manual]
+     */
+    public function import($args, $assoc) {
+        $root = $this->repo_root($assoc);
+        $dry = isset($assoc['dry-run']);
+        $overwrite_manual = isset($assoc['overwrite-manual']);
+        $bodies = isset($assoc['bodies']) ? rtrim($assoc['bodies'], '/') : null;
+        $limit = isset($assoc['limit']) ? (int) $assoc['limit'] : 0;
+        $only_author = $assoc['author'] ?? null;
+
+        $episodes = $this->read_jsonl("$root/catalog/episodes.jsonl");
+        $works = $this->read_jsonl("$root/catalog/works.jsonl");
+        $n = ['created' => 0, 'updated' => 0, 'skipped' => 0, 'manual_skipped' => 0];
+        $manual = [];
+
+        // works を先に (親投稿)。episode → work の対応表を作る
+        $ep2work = [];
+        $single_work = [];   // 単発作品: work 投稿自身が本文を持つ
+        foreach ($works as $w) {
+            foreach ($w['episodes'] as $e) {
+                $eid = is_array($e) ? $e['episode_id'] : $e;
+                $ep2work[$eid] = $w['work_slug'];
+            }
+            if ((int) $w['episode_count'] === 1) {
+                $eid = is_array($w['episodes'][0]) ? $w['episodes'][0]['episode_id'] : $w['episodes'][0];
+                $single_work[$w['work_slug']] = $eid;
+            }
+        }
+
+        $work_ids = [];
+        foreach ($works as $w) {
+            if ($only_author && ($w['author_slug'] ?? '') !== $only_author) continue;
+            $work_ids[$w['work_slug']] = $this->upsert_work($w, $dry, $overwrite_manual, $n, $manual);
+        }
+
+        $done = 0;
+        foreach ($episodes as $ep) {
+            if ($only_author && ($ep['kansou_slug'] ?? '') !== $only_author
+                && !isset($work_ids[$ep2work[$ep['episode_id']] ?? ''])) continue;
+            if ($limit && $done >= $limit) break;
+            $wslug = $ep2work[$ep['episode_id']] ?? null;
+            // 単発作品は親 (work 投稿) が本文ごと担う — episode の子投稿は作らない
+            if ($wslug !== null && isset($single_work[$wslug])) {
+                $this->fill_single_work($work_ids[$wslug] ?? null, $ep, $bodies, $dry, $overwrite_manual, $n, $manual);
+                $done++;
+                continue;
+            }
+            $parent_id = $wslug !== null ? ($work_ids[$wslug] ?? null) : null;
+            $this->upsert_episode($ep, $parent_id, $bodies, $dry, $overwrite_manual, $n, $manual);
+            $done++;
+        }
+
+        // 追跡: いま投入した catalog のコミット
+        $commit = trim((string) shell_exec("git -C " . escapeshellarg($root) . " rev-parse HEAD 2>/dev/null"));
+        if (!$dry && $commit) {
+            update_option('ts_catalog_commit', $commit, false);
+            update_option('ts_last_import_at', gmdate('c'), false);
+        }
+        if ($manual) {
+            update_option('ts_manual_edit_warnings', $manual, false);
+            WP_CLI::warning('手動編集を検出して skip した投稿: ' . count($manual)
+                . ' 件 (`wp ts verify` で一覧。上書きするには --overwrite-manual)');
+        } elseif (!$dry) {
+            delete_option('ts_manual_edit_warnings');
+        }
+        WP_CLI::success(sprintf('import: created=%d updated=%d skipped=%d manual_skipped=%d catalog=%s%s',
+            $n['created'], $n['updated'], $n['skipped'], $n['manual_skipped'],
+            substr($commit, 0, 12), $dry ? ' (dry-run)' : ''));
+    }
+
+    private function upsert_work($w, $dry, $ow, &$n, &$manual) {
+        $hash = md5(wp_json_encode($w));
+        $post_id = $this->find_by_meta('ts_work', '_ts_work_slug', $w['work_slug']);
+        if ($post_id && get_post_meta($post_id, '_ts_import_hash', true) === $hash) { $n['skipped']++; return $post_id; }
+        if ($post_id && !$ow && $this->manually_edited($post_id)) {
+            $n['manual_skipped']++; $manual[] = ['kind' => 'work', 'key' => $w['work_slug'],
+                'modified' => get_post_field('post_modified_gmt', $post_id)];
+            return $post_id;
+        }
+        $postarr = [
+            'post_type' => 'ts_work', 'post_title' => $w['title'],
+            'post_name' => $w['work_slug'], 'comment_status' => 'closed', 'ping_status' => 'closed',
+        ];
+        if ($w['first_date'] ?? null) $postarr['post_date'] = $w['first_date'] . ' 00:00:00';
+        if ($dry) { $n[$post_id ? 'updated' : 'created']++; return $post_id; }
+        if ($post_id) { $postarr['ID'] = $post_id; wp_update_post($postarr); }
+        else { $postarr['post_status'] = 'publish'; $post_id = wp_insert_post($postarr); }
+        if (!$post_id || is_wp_error($post_id)) { WP_CLI::warning('work 投入失敗: ' . $w['work_slug']); return null; }
+
+        update_post_meta($post_id, '_ts_work_slug', $w['work_slug']);
+        update_post_meta($post_id, '_ts_kind', 'work');
+        update_post_meta($post_id, '_ts_needs_review', !empty($w['needs_review']) ? 1 : 0);
+        update_post_meta($post_id, '_ts_title_pages', $w['title_pages'] ?? []);
+        wp_set_object_terms($post_id, $w['author_slug'], 'ts_author');
+        $this->stamp_import($post_id, $hash);
+        $n[$postarr['ID'] ?? null ? 'updated' : 'created']++;
+        return $post_id;
+    }
+
+    /** episode の共通メタ・タクソノミーを投稿に書く */
+    private function apply_episode_data($post_id, $ep, $bodies, $dry) {
+        $meta = [
+            '_ts_episode_id' => $ep['episode_id'],
+            '_ts_source_path' => $ep['source_path'], '_ts_source_anchor' => $ep['source_anchor'],
+            '_ts_corpus' => $ep['corpus'], '_ts_catalog_ref' => $ep['catalog_ref'],
+            '_ts_pub_date_raw' => $ep['date_raw'], '_ts_size_kb' => $ep['size_kb'],
+            '_ts_files_n' => $ep['files_n'],
+            '_ts_illustrator' => $ep['illustrator'], '_ts_illustrator_url' => $ep['illustrator_url'],
+            '_ts_kansou_slug' => $ep['kansou_slug'], '_ts_kansou_annex_url' => $ep['kansou_annex_url'],
+            '_ts_arasuji' => $ep['arasuji'], '_ts_author_comment' => $ep['comment'],
+            '_ts_suisen' => $ep['suisen'], '_ts_osusume' => $ep['osusume'],
+            '_ts_nav_links' => $ep['nav_links'],
+            '_ts_orig_url' => $ep['orig_url'], '_ts_annex_url' => $ep['annex_url'],
+            '_ts_annex_yays_url' => $ep['annex_yays_url'],
+            '_ts_provenance' => $ep['provenance'],
+            '_ts_raw_genre' => $ep['genre_raw'], '_ts_raw_type' => $ep['type_raw'],
+            '_ts_raw_keywords' => $ep['keywords_raw'], '_ts_zokusei' => $ep['zokusei'],
+        ];
+        foreach ($meta as $k => $v) {
+            if ($v === null || $v === []) delete_post_meta($post_id, $k);
+            else update_post_meta($post_id, $k, $v);
+        }
+        wp_set_object_terms($post_id, $ep['kansou_slug'] ?: null, 'ts_author');
+        wp_set_object_terms($post_id, $ep['corpus'], 'ts_corpus');
+        foreach ([['genre', 'ts_genre'], ['type', 'ts_type'], ['keywords', 'ts_keyword']] as [$field, $tax]) {
+            $names = $ep[$field] ?? [];
+            wp_set_object_terms($post_id, $names ?: null, $tax); // name で解決 (sync-terms 済み前提)
+        }
+    }
+
+    private function episode_body($ep, $bodies) {
+        if ($bodies === null) return null;                 // メタのみ投入
+        $f = "$bodies/{$ep['episode_id']}.html";
+        if (is_file($f)) return file_get_contents($f);
+        return "<!-- wp:paragraph --><p>(本文は原本アーカイブでお読みください)</p><!-- /wp:paragraph -->";
+    }
+
+    private function upsert_episode($ep, $parent_id, $bodies, $dry, $ow, &$n, &$manual) {
+        $body = $this->episode_body($ep, $bodies);
+        $hash = md5(wp_json_encode($ep) . ($body === null ? '' : md5($body)));
+        $post_id = $this->find_by_meta('ts_work', '_ts_episode_id', $ep['episode_id']);
+        if ($post_id && get_post_meta($post_id, '_ts_import_hash', true) === $hash) { $n['skipped']++; return; }
+        if ($post_id && !$ow && $this->manually_edited($post_id)) {
+            $n['manual_skipped']++; $manual[] = ['kind' => 'episode', 'key' => $ep['episode_id'],
+                'modified' => get_post_field('post_modified_gmt', $post_id)];
+            return;
+        }
+        if ($dry) { $n[$post_id ? 'updated' : 'created']++; return; }
+        $postarr = [
+            'post_type' => 'ts_work', 'post_title' => $ep['title'] ?: $ep['episode_id'],
+            'comment_status' => 'closed', 'ping_status' => 'closed',
+        ];
+        if ($parent_id) $postarr['post_parent'] = $parent_id;
+        if ($ep['date'] ?? null) $postarr['post_date'] = $ep['date'] . ' 00:00:00';
+        if ($body !== null) $postarr['post_content'] = $body;
+        $creating = !$post_id;
+        if ($post_id) { $postarr['ID'] = $post_id; wp_update_post($postarr); }
+        else { $postarr['post_status'] = 'publish'; $post_id = wp_insert_post($postarr); }
+        if (!$post_id || is_wp_error($post_id)) { WP_CLI::warning('episode 投入失敗: ' . $ep['episode_id']); return; }
+        update_post_meta($post_id, '_ts_kind', 'episode');
+        $this->apply_episode_data($post_id, $ep, $bodies, $dry);
+        $this->stamp_import($post_id, $hash);
+        $n[$creating ? 'created' : 'updated']++;
+    }
+
+    /** 単発作品: 親 work 投稿に episode の本文とメタを載せる */
+    private function fill_single_work($post_id, $ep, $bodies, $dry, $ow, &$n, &$manual) {
+        if (!$post_id) return;
+        $body = $this->episode_body($ep, $bodies);
+        $hash = md5('single:' . wp_json_encode($ep) . ($body === null ? '' : md5($body)));
+        if (get_post_meta($post_id, '_ts_import_hash', true) === $hash) { $n['skipped']++; return; }
+        if (!$ow && $this->manually_edited($post_id)) {
+            $n['manual_skipped']++; $manual[] = ['kind' => 'single-work', 'key' => $ep['episode_id'],
+                'modified' => get_post_field('post_modified_gmt', $post_id)];
+            return;
+        }
+        if ($dry) { $n['updated']++; return; }
+        $up = ['ID' => $post_id];
+        if ($ep['date'] ?? null) $up['post_date'] = $ep['date'] . ' 00:00:00';
+        if ($body !== null) $up['post_content'] = $body;
+        wp_update_post($up);
+        update_post_meta($post_id, '_ts_kind', 'work'); // 単発は work=episode の 1 投稿
+        $this->apply_episode_data($post_id, $ep, $bodies, $dry);
+        $this->stamp_import($post_id, $hash);
+        $n['updated']++;
+    }
+
+    // ------------------------------------------------------------------ verify / takedown / reset / pathmap
+
+    /** 件数照合・orphan・手動編集警告・taxonomy 被覆を検査する */
+    public function verify($args, $assoc) {
+        $root = $this->repo_root($assoc);
+        $episodes = $this->read_jsonl("$root/catalog/episodes.jsonl");
+        $works = $this->read_jsonl("$root/catalog/works.jsonl");
+        $singles = 0;
+        foreach ($works as $w) if ((int) $w['episode_count'] === 1) $singles++;
+        $expect_posts = count($works) + count($episodes) - $singles; // 単発は 1 投稿に畳まれる
+
+        $count = 0;
+        foreach (wp_count_posts('ts_work') as $st => $c) if ($st !== 'trash') $count += (int) $c;
+        $ok = true;
+        WP_CLI::line(sprintf('投稿数: WP=%d 期待=%d (works %d + episodes %d - 単発 %d)',
+            $count, $expect_posts, count($works), count($episodes), $singles));
+        if ($count !== $expect_posts) { $ok = false; WP_CLI::warning('件数不一致'); }
+
+        $manual = get_option('ts_manual_edit_warnings', []);
+        if ($manual) {
+            $ok = false;
+            WP_CLI::warning('手動編集で skip 中の投稿 (' . count($manual) . ' 件):');
+            foreach ($manual as $m) WP_CLI::line("  [{$m['kind']}] {$m['key']} (最終編集 {$m['modified']})");
+        }
+        WP_CLI::line('ts_catalog_commit: ' . get_option('ts_catalog_commit', '(未記録)'));
+        $ok ? WP_CLI::success('verify OK') : WP_CLI::error('verify NG', false);
+    }
+
+    /**
+     * denylist を適用して該当投稿を draft 化する。
+     * denylist.yml の `source_path:` / `work_slug:` 行を読む (最小パーサ)。
+     */
+    public function apply_takedown($args, $assoc) {
+        $root = $this->repo_root($assoc);
+        $path = "$root/takedown/denylist.yml";
+        if (!is_file($path)) WP_CLI::error("denylist がありません: $path");
+        $n = 0;
+        foreach (file($path) as $line) {
+            if (preg_match('/^\s*(?:-\s*)?(source_path|work_slug|episode_id):\s*["\']?([^"\'#\n]+)/', $line, $m)) {
+                $key = ['source_path' => '_ts_source_path', 'work_slug' => '_ts_work_slug',
+                        'episode_id' => '_ts_episode_id'][$m[1]];
+                $pid = $this->find_by_meta('ts_work', $key, trim($m[2]));
+                if ($pid && get_post_status($pid) !== 'draft') {
+                    wp_update_post(['ID' => $pid, 'post_status' => 'draft']);
+                    WP_CLI::line("draft 化: {$m[1]}={$m[2]} (post $pid)");
+                    $n++;
+                }
+            }
+        }
+        WP_CLI::success("apply-takedown: $n 件を draft 化");
+    }
+
+    /**
+     * ts_* の投稿・term を全削除する (やり直し用。docs/rebuild-runbook.md §2-C)。
+     * ## OPTIONS
+     * --yes : 確認なしで実行 (必須)
+     */
+    public function reset($args, $assoc) {
+        if (!isset($assoc['yes'])) WP_CLI::error('全削除には --yes が必要です (事前に wp db export を)');
+        $deleted = 0;
+        foreach (self::TYPES as $type) {
+            if (!post_type_exists($type)) continue;
+            $ids = get_posts(['post_type' => $type, 'post_status' => 'any',
+                              'numberposts' => -1, 'fields' => 'ids']);
+            foreach ($ids as $id) { wp_delete_post($id, true); $deleted++; }
+        }
+        $terms_deleted = 0;
+        foreach (self::TAXES as $tax) {
+            if (!taxonomy_exists($tax)) continue;
+            foreach (get_terms(['taxonomy' => $tax, 'hide_empty' => false, 'fields' => 'ids']) as $tid) {
+                wp_delete_term($tid, $tax); $terms_deleted++;
+            }
+        }
+        delete_option('ts_catalog_commit');
+        delete_option('ts_manual_edit_warnings');
+        WP_CLI::success("reset: 投稿 $deleted 件・term $terms_deleted 件を削除 (WP 本体設定は無変更)");
+    }
+
+    /** 原パス (alias 含む) → 本館 URL の対応表を出力する */
+    public function export_pathmap($args, $assoc) {
+        $map = [];
+        $q = new WP_Query(['post_type' => 'ts_work', 'post_status' => 'any',
+                           'posts_per_page' => -1, 'fields' => 'ids', 'no_found_rows' => true]);
+        foreach ($q->posts as $pid) {
+            $url = get_permalink($pid);
+            $src = get_post_meta($pid, '_ts_source_path', true);
+            if ($src) $map[$src] = $url;
+            $aliases = get_post_meta($pid, '_ts_alias_paths', true);
+            if (is_array($aliases)) foreach ($aliases as $a) $map[$a] = $url;
+        }
+        WP_CLI::line(wp_json_encode($map, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+    }
+}
+
+WP_CLI::add_command('ts sync-terms', [new TS_Command(), 'sync_terms']);
+WP_CLI::add_command('ts import', [new TS_Command(), 'import']);
+WP_CLI::add_command('ts verify', [new TS_Command(), 'verify']);
+WP_CLI::add_command('ts apply-takedown', [new TS_Command(), 'apply_takedown']);
+WP_CLI::add_command('ts reset', [new TS_Command(), 'reset']);
+WP_CLI::add_command('ts export-pathmap', [new TS_Command(), 'export_pathmap']);
