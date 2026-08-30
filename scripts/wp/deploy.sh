@@ -11,6 +11,8 @@
 #   2) bodies/         → ~/novels.xwp.jp/repo/bodies (git 管理外の生成物なので rsync)
 #   3) mu-plugins      → public_html/wp-content/mu-plugins/ts-library/
 #   4) robots.txt 草案 → public_html/robots.txt
+#   5) novel/ の画像   → public_html/assets/annex-img/ (git ls-files の jpg/gif/png/bmp。台帳 2.7)
+#   6) themes/ts-bunko → public_html/wp-content/themes/ (Phase 4 以降、存在すれば)
 #
 # 安全則 (docs/environment.md):
 #   - rsync に --delete は使わない (宛先に wp-config.php ほか消してはいけない物が居る)
@@ -35,7 +37,7 @@ if ! git -C "$LOCAL_ROOT" merge-base --is-ancestor "$HEAD_LOCAL" origin/master 2
   exit 1
 fi
 
-echo "== [1/4] サーバ側 repo を $HEAD_LOCAL に合わせる"
+echo "== [1/6] サーバ側 repo を $HEAD_LOCAL に合わせる"
 if (( APPLY )); then
   ssh "$HOST" "if [ ! -d $REMOTE_BASE/repo/.git ]; then git clone --depth 100 '$REPO_URL' $REMOTE_BASE/repo; fi
     cd $REMOTE_BASE/repo && git fetch --depth 100 origin master && git checkout -q '$HEAD_LOCAL' \
@@ -44,14 +46,14 @@ else
   echo "(dry-run) ssh $HOST git clone/fetch/checkout $HEAD_LOCAL"
 fi
 
-echo "== [2/4] bodies/ (git 管理外の生成物) を rsync"
+echo "== [2/6] bodies/ (git 管理外の生成物) を rsync"
 if [ -d "$LOCAL_ROOT/bodies" ]; then
   rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/bodies/" "$HOST:$REMOTE_BASE/repo/bodies/" | tail -3
 else
   echo "(bodies/ が無い — python3 scripts/wp/body_convert.py で生成してから)"
 fi
 
-echo "== [3/4] mu-plugins を rsync (ローダ + 本体)"
+echo "== [3/6] mu-plugins を rsync (ローダ + 本体)"
 rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/mu-plugins/ts-library-loader.php" \
       "$HOST:$REMOTE_BASE/public_html/wp-content/mu-plugins/ts-library-loader.php" | tail -2
 rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/mu-plugins/ts-library/" \
@@ -62,10 +64,27 @@ if (( APPLY )); then
     && for f in $REMOTE_BASE/public_html/wp-content/mu-plugins/ts-library/*.php; do php -l \"\$f\"; done"
 fi
 
-echo "== [4/4] robots.txt"
+echo "== [4/6] robots.txt"
 if [ -f "$LOCAL_ROOT/scripts/wp/assets/robots.txt" ]; then
   rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/scripts/wp/assets/robots.txt" \
         "$HOST:$REMOTE_BASE/public_html/robots.txt" | tail -2
+fi
+
+echo "== [5/6] 画像 (git 管理下の novel/ の画像) → assets/annex-img/ (台帳 2.7)"
+IMG_LIST=$(mktemp)
+git -C "$LOCAL_ROOT" ls-files novel | grep -Ei '\.(jpe?g|gif|png|bmp)$' > "$IMG_LIST" || true
+if [ -s "$IMG_LIST" ]; then
+  (( APPLY )) && ssh "$HOST" "mkdir -p $REMOTE_BASE/public_html/assets/annex-img"
+  echo "-- $(wc -l < "$IMG_LIST") 点"
+  rsync "${RSYNC_FLAGS[@]}" --files-from="$IMG_LIST" "$LOCAL_ROOT/" \
+        "$HOST:$REMOTE_BASE/public_html/assets/annex-img/" | tail -2
+fi
+rm -f "$IMG_LIST"
+
+echo "== [6/6] テーマ (Phase 4 以降。無ければ何もしない)"
+if [ -d "$LOCAL_ROOT/themes/ts-bunko" ]; then
+  rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/themes/ts-bunko/" \
+        "$HOST:$REMOTE_BASE/public_html/wp-content/themes/ts-bunko/" | tail -3
 fi
 
 if (( APPLY )); then

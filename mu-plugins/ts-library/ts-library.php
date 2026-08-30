@@ -21,6 +21,17 @@ final class TS_Library {
         add_filter('comments_open', [self::class, 'no_comments'], 20, 2);
         add_filter('pings_open', [self::class, 'no_comments'], 20, 2);
         add_action('wp_head', [self::class, 'noindex_boards'], 1);
+        add_action('pre_get_posts', [self::class, 'front_page_query']);
+    }
+
+    /** 暫定トップ: 標準の「最新の投稿」を作品 (親投稿) 一覧に差し替える。
+     *  本格的なトップページは Phase 4 のテーマで作る — それまで成果が見える状態を保つ。 */
+    public static function front_page_query($q): void {
+        if (is_admin() || !$q->is_main_query() || !$q->is_home()) return;
+        $q->set('post_type', 'ts_work');
+        $q->set('post_parent', 0);            // 話 (子投稿) は出さない
+        $q->set('posts_per_page', 12);
+        $q->set('ignore_sticky_posts', true);
     }
 
     public static function register(): void {

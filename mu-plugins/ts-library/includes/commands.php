@@ -23,6 +23,101 @@ class TS_Command {
     private const TYPES = ['ts_work', 'ts_doc', 'ts_dojo', 'ts_board_post'];
     private const TAXES = ['ts_author', 'ts_genre', 'ts_type', 'ts_keyword', 'ts_world', 'ts_corpus'];
 
+    /** 割当ロジックを変えたら上げる (既存投稿が hash 不一致になり、reset なしでも収束し直す) */
+    private const HASH_VER = 'v2';
+
+    /** authors.json に載らない擬似作者 (works.jsonl の author_slug に現れる)。sync-terms が term を作る */
+    private const PSEUDO_AUTHORS = ['unattributed' => '作者不詳', 'series-index' => '(シリーズ目録)'];
+
+    private $name2slug = [];    // tax => [name / raw variant / slug => slug] (terms.json 由来)
+    private $slug2term = [];    // tax => [slug => term_id] (0 = WP に無い)
+    private $ep_worlds = [];    // episode_id => [world slug] (terms.json の episode_worlds)
+    private $term_missing = []; // "tax:値" => 件数。解決できず割当を落とした値 (場当たり term は作らない)
+
+    /** terms.json の語彙を対応表に積む。term は必ず slug→ID で解決する (name 解決は
+     *  term_exists() が slug 照合を先にやるため sanitize_title の衝突で誤爆する — 実測 (B)) */
+    private function load_vocab($root) {
+        $t = $this->read_json("$root/catalog/terms.json");
+        foreach ($t['taxonomies'] as $tax => $spec) {
+            foreach ($spec['terms'] as $term) {
+                $this->name2slug[$tax][$term['slug']] = $term['slug'];
+                $this->name2slug[$tax][$term['name']] = $term['slug'];
+                foreach ($term['raw_variants'] ?? [] as $rv) $this->name2slug[$tax][$rv] = $term['slug'];
+            }
+        }
+        $this->ep_worlds = $t['episode_worlds'] ?? [];
+    }
+
+    /** 値 (name / raw variant / slug) の配列 → term ID の配列。未解決は記録して捨てる */
+    private function term_ids($tax, $values) {
+        $ids = [];
+        foreach ((array) $values as $v) {
+            if (!is_string($v) || $v === '') continue;
+            $slug = $this->name2slug[$tax][$v] ?? $v;  // 対応表に無ければ slug とみなす (author/corpus)
+            if (!isset($this->slug2term[$tax][$slug])) {
+                $term = get_term_by('slug', $slug, $tax);
+                $this->slug2term[$tax][$slug] = $term ? (int) $term->term_id : 0;
+            }
+            if ($this->slug2term[$tax][$slug]) $ids[] = $this->slug2term[$tax][$slug];
+            else $this->term_missing["$tax:$v"] = ($this->term_missing["$tax:$v"] ?? 0) + 1;
+        }
+        return array_values(array_unique($ids));
+    }
+
+    /** works.jsonl の索引: [episode_id→work_slug, 単発 work の集合, work_slug→author_slug] */
+    private function index_works($works) {
+        $ep2work = []; $single = []; $author = [];
+        foreach ($works as $w) {
+            foreach ($w['episodes'] as $e) {
+                $eid = is_array($e) ? $e['episode_id'] : $e;
+                $ep2work[$eid] = $w['work_slug'];
+            }
+            if ((int) $w['episode_count'] === 1) $single[$w['work_slug']] = true;
+            $author[$w['work_slug']] = $w['author_slug'] ?? '';
+        }
+        return [$ep2work, $single, $author];
+    }
+
+    /** 子投稿 (話) の URL slug を決定的に割り当てる。原ファイル名の語幹 → 作品内で重複したら
+     *  親ディレクトリ前置 → 日付後置 → episodes.jsonl 順の連番 (catalog がコミット済みなので決定的) */
+    private function child_slugs($episodes, $ep2work, $single_work) {
+        $groups = []; $by_eid = [];
+        foreach ($episodes as $ep) {
+            $by_eid[$ep['episode_id']] = $ep;
+            $w = $ep2work[$ep['episode_id']] ?? '';
+            if (isset($single_work[$w])) continue;   // 単発は子投稿を作らない
+            $s = strtolower(preg_replace('/\.[A-Za-z0-9]+$/', '', basename($ep['source_path'])));
+            if (!empty($ep['source_anchor'])) $s .= '-' . strtolower($ep['source_anchor']);
+            $groups[$w][$ep['episode_id']] = $s;
+        }
+        $out = [];
+        foreach ($groups as $w => $slugs) {
+            $dups = array_count_values($slugs);
+            foreach ($slugs as $eid => $s) {
+                if ($dups[$s] > 1) {
+                    $parts = explode('/', $by_eid[$eid]['source_path']);
+                    $dir = count($parts) >= 2 ? strtolower($parts[count($parts) - 2]) : '';
+                    $slugs[$eid] = ($dir !== '' ? "$dir-" : '') . $s;
+                }
+            }
+            $dups = array_count_values($slugs);
+            foreach ($slugs as $eid => $s) {
+                if ($dups[$s] > 1) {
+                    $d = preg_replace('/\D/', '', (string) ($by_eid[$eid]['date'] ?? ''));
+                    if ($d !== '') $slugs[$eid] = "$s-$d";
+                }
+            }
+            $seen = [];
+            foreach ($slugs as $eid => $s) {
+                if (isset($seen[$s])) $slugs[$eid] = $s . '-' . (++$seen[$s]);
+                else $seen[$s] = 1;
+                $clean = sanitize_title($slugs[$eid]);
+                $out[$eid] = $clean !== '' ? $clean : sanitize_title($eid);
+            }
+        }
+        return $out;
+    }
+
     /** repo ルート (サーバでは ~/novels.xwp.jp/repo を想定。--repo で上書き可) */
     private function repo_root($assoc) {
         $root = $assoc['repo'] ?? (getenv('TS_REPO') ?: (getenv('HOME') . '/novels.xwp.jp/repo'));
@@ -76,8 +171,10 @@ class TS_Command {
         return $mod && strtotime($mod) > strtotime($last) + 2; // 2 秒の猶予 (同一トランザクション内更新)
     }
 
-    private function stamp_import($post_id, $hash) {
-        update_post_meta($post_id, '_ts_import_hash', $hash);
+    /** 単発 work は work 側 (_ts_import_hash) と fill 側 (_ts_fill_hash) が別キー —
+     *  同じキーを奪い合うと毎回 updated=2 になり冪等が壊れる (実測 (A)) */
+    private function stamp_import($post_id, $hash, $key = '_ts_import_hash') {
+        update_post_meta($post_id, $key, $hash);
         // 直前の update で post_modified が動いた「後」の値を記録する
         clean_post_cache($post_id);
         update_post_meta($post_id, '_ts_last_import_gmt', get_post_field('post_modified_gmt', $post_id));
@@ -122,6 +219,9 @@ class TS_Command {
                  'ts_active_links' => $a['active_links'] ?? null,
                  'ts_contact_status' => $a['contact_status'] ?? 'uncontacted'],
                 $dry, $n);
+        }
+        foreach (self::PSEUDO_AUTHORS as $slug => $name) {
+            $this->upsert_term('ts_author', $slug, $name, [], ['ts_pseudo' => 1], $dry, $n);
         }
         WP_CLI::success(sprintf('sync-terms: created=%d updated=%d skipped=%d%s',
             $n['created'], $n['updated'], $n['skipped'], $dry ? ' (dry-run)' : ''));
@@ -177,22 +277,13 @@ class TS_Command {
 
         $episodes = $this->read_jsonl("$root/catalog/episodes.jsonl");
         $works = $this->read_jsonl("$root/catalog/works.jsonl");
+        $this->load_vocab($root);
         $n = ['created' => 0, 'updated' => 0, 'skipped' => 0, 'manual_skipped' => 0];
         $manual = [];
 
-        // works を先に (親投稿)。episode → work の対応表を作る
-        $ep2work = [];
-        $single_work = [];   // 単発作品: work 投稿自身が本文を持つ
-        foreach ($works as $w) {
-            foreach ($w['episodes'] as $e) {
-                $eid = is_array($e) ? $e['episode_id'] : $e;
-                $ep2work[$eid] = $w['work_slug'];
-            }
-            if ((int) $w['episode_count'] === 1) {
-                $eid = is_array($w['episodes'][0]) ? $w['episodes'][0]['episode_id'] : $w['episodes'][0];
-                $single_work[$w['work_slug']] = $eid;
-            }
-        }
+        // works を先に (親投稿)
+        [$ep2work, $single_work, $work_author] = $this->index_works($works);
+        $slugs = $this->child_slugs($episodes, $ep2work, $single_work);
 
         $work_ids = [];
         foreach ($works as $w) {
@@ -202,10 +293,12 @@ class TS_Command {
 
         $done = 0;
         foreach ($episodes as $ep) {
-            if ($only_author && ($ep['kansou_slug'] ?? '') !== $only_author
-                && !isset($work_ids[$ep2work[$ep['episode_id']] ?? ''])) continue;
-            if ($limit && $done >= $limit) break;
             $wslug = $ep2work[$ep['episode_id']] ?? null;
+            if ($only_author && !isset($work_ids[$wslug])) continue;
+            if ($limit && $done >= $limit) break;
+            // 作者 term は作品の author_slug からのみ付く。kansou_slug は板の slug であって
+            // 作者ではない (共有世界板で別人になる — 実測 (C)) ので、メタに置くだけ
+            $author = $wslug !== null ? ($work_author[$wslug] ?? '') : '';
             // 単発作品は親 (work 投稿) が本文ごと担う — episode の子投稿は作らない
             if ($wslug !== null && isset($single_work[$wslug])) {
                 $this->fill_single_work($work_ids[$wslug] ?? null, $ep, $bodies, $dry, $overwrite_manual, $n, $manual);
@@ -213,7 +306,8 @@ class TS_Command {
                 continue;
             }
             $parent_id = $wslug !== null ? ($work_ids[$wslug] ?? null) : null;
-            $this->upsert_episode($ep, $parent_id, $bodies, $dry, $overwrite_manual, $n, $manual);
+            $this->upsert_episode($ep, $parent_id, $author, $slugs[$ep['episode_id']] ?? '',
+                $bodies, $dry, $overwrite_manual, $n, $manual);
             $done++;
         }
 
@@ -230,13 +324,21 @@ class TS_Command {
         } elseif (!$dry) {
             delete_option('ts_manual_edit_warnings');
         }
+        if ($this->term_missing) {
+            arsort($this->term_missing);
+            if (!$dry) update_option('ts_term_warnings', $this->term_missing, false);
+            WP_CLI::warning('term に解決できず割当を落とした値: ' . count($this->term_missing) . ' 種 (上位: '
+                . implode(' ', array_slice(array_keys($this->term_missing), 0, 5)) . ')');
+        } elseif (!$dry && !$limit && !$only_author) {
+            delete_option('ts_term_warnings');
+        }
         WP_CLI::success(sprintf('import: created=%d updated=%d skipped=%d manual_skipped=%d catalog=%s%s',
             $n['created'], $n['updated'], $n['skipped'], $n['manual_skipped'],
             substr($commit, 0, 12), $dry ? ' (dry-run)' : ''));
     }
 
     private function upsert_work($w, $dry, $ow, &$n, &$manual) {
-        $hash = md5(wp_json_encode($w));
+        $hash = md5(self::HASH_VER . wp_json_encode($w));
         $post_id = $this->find_by_meta('ts_work', '_ts_work_slug', $w['work_slug']);
         if ($post_id && get_post_meta($post_id, '_ts_import_hash', true) === $hash) { $n['skipped']++; return $post_id; }
         if ($post_id && !$ow && $this->manually_edited($post_id)) {
@@ -258,14 +360,15 @@ class TS_Command {
         update_post_meta($post_id, '_ts_kind', 'work');
         update_post_meta($post_id, '_ts_needs_review', !empty($w['needs_review']) ? 1 : 0);
         update_post_meta($post_id, '_ts_title_pages', $w['title_pages'] ?? []);
-        wp_set_object_terms($post_id, $w['author_slug'], 'ts_author');
+        wp_set_object_terms($post_id, $this->term_ids('ts_author', [$w['author_slug'] ?? '']), 'ts_author');
         $this->stamp_import($post_id, $hash);
         $n[$postarr['ID'] ?? null ? 'updated' : 'created']++;
         return $post_id;
     }
 
-    /** episode の共通メタ・タクソノミーを投稿に書く */
-    private function apply_episode_data($post_id, $ep, $bodies, $dry) {
+    /** episode の共通メタ・タクソノミーを投稿に書く。$author_slug=null は作者 term に触らない
+     *  (単発 work — upsert_work が付けた作者を消さないため。実測 (D)) */
+    private function apply_episode_data($post_id, $ep, $author_slug) {
         $meta = [
             '_ts_episode_id' => $ep['episode_id'],
             '_ts_source_path' => $ep['source_path'], '_ts_source_anchor' => $ep['source_anchor'],
@@ -287,12 +390,15 @@ class TS_Command {
             if ($v === null || $v === []) delete_post_meta($post_id, $k);
             else update_post_meta($post_id, $k, $v);
         }
-        wp_set_object_terms($post_id, $ep['kansou_slug'] ?: null, 'ts_author');
-        wp_set_object_terms($post_id, $ep['corpus'], 'ts_corpus');
-        foreach ([['genre', 'ts_genre'], ['type', 'ts_type'], ['keywords', 'ts_keyword']] as [$field, $tax]) {
-            $names = $ep[$field] ?? [];
-            wp_set_object_terms($post_id, $names ?: null, $tax); // name で解決 (sync-terms 済み前提)
+        if ($author_slug !== null) {
+            wp_set_object_terms($post_id, $this->term_ids('ts_author', [$author_slug]), 'ts_author');
         }
+        wp_set_object_terms($post_id, $this->term_ids('ts_corpus', [$ep['corpus']]), 'ts_corpus');
+        foreach ([['genre', 'ts_genre'], ['type', 'ts_type'], ['keywords', 'ts_keyword']] as [$field, $tax]) {
+            wp_set_object_terms($post_id, $this->term_ids($tax, $ep[$field] ?? []), $tax);
+        }
+        wp_set_object_terms($post_id,
+            $this->term_ids('ts_world', $this->ep_worlds[$ep['episode_id']] ?? []), 'ts_world');
     }
 
     private function episode_body($ep, $bodies) {
@@ -302,9 +408,9 @@ class TS_Command {
         return "<!-- wp:paragraph --><p>(本文は原本アーカイブでお読みください)</p><!-- /wp:paragraph -->";
     }
 
-    private function upsert_episode($ep, $parent_id, $bodies, $dry, $ow, &$n, &$manual) {
+    private function upsert_episode($ep, $parent_id, $author_slug, $post_name, $bodies, $dry, $ow, &$n, &$manual) {
         $body = $this->episode_body($ep, $bodies);
-        $hash = md5(wp_json_encode($ep) . ($body === null ? '' : md5($body)));
+        $hash = md5(self::HASH_VER . wp_json_encode($ep) . $post_name . ($body === null ? '' : md5($body)));
         $post_id = $this->find_by_meta('ts_work', '_ts_episode_id', $ep['episode_id']);
         if ($post_id && get_post_meta($post_id, '_ts_import_hash', true) === $hash) { $n['skipped']++; return; }
         if ($post_id && !$ow && $this->manually_edited($post_id)) {
@@ -317,6 +423,8 @@ class TS_Command {
             'post_type' => 'ts_work', 'post_title' => $ep['title'] ?: $ep['episode_id'],
             'comment_status' => 'closed', 'ping_status' => 'closed',
         ];
+        // URL slug は原ファイル名の語幹から決定的に (未指定だと題名由来のパーセントエンコードになる)
+        if ($post_name !== '') $postarr['post_name'] = $post_name;
         if ($parent_id) $postarr['post_parent'] = $parent_id;
         if ($ep['date'] ?? null) $postarr['post_date'] = $ep['date'] . ' 00:00:00';
         if ($body !== null) $postarr['post_content'] = $body;
@@ -325,17 +433,17 @@ class TS_Command {
         else { $postarr['post_status'] = 'publish'; $post_id = wp_insert_post($postarr); }
         if (!$post_id || is_wp_error($post_id)) { WP_CLI::warning('episode 投入失敗: ' . $ep['episode_id']); return; }
         update_post_meta($post_id, '_ts_kind', 'episode');
-        $this->apply_episode_data($post_id, $ep, $bodies, $dry);
+        $this->apply_episode_data($post_id, $ep, $author_slug);
         $this->stamp_import($post_id, $hash);
         $n[$creating ? 'created' : 'updated']++;
     }
 
-    /** 単発作品: 親 work 投稿に episode の本文とメタを載せる */
+    /** 単発作品: 親 work 投稿に episode の本文とメタを載せる。hash は work 側と別キー (実測 (A)) */
     private function fill_single_work($post_id, $ep, $bodies, $dry, $ow, &$n, &$manual) {
         if (!$post_id) return;
         $body = $this->episode_body($ep, $bodies);
-        $hash = md5('single:' . wp_json_encode($ep) . ($body === null ? '' : md5($body)));
-        if (get_post_meta($post_id, '_ts_import_hash', true) === $hash) { $n['skipped']++; return; }
+        $hash = md5(self::HASH_VER . 'single:' . wp_json_encode($ep) . ($body === null ? '' : md5($body)));
+        if (get_post_meta($post_id, '_ts_fill_hash', true) === $hash) { $n['skipped']++; return; }
         if (!$ow && $this->manually_edited($post_id)) {
             $n['manual_skipped']++; $manual[] = ['kind' => 'single-work', 'key' => $ep['episode_id'],
                 'modified' => get_post_field('post_modified_gmt', $post_id)];
@@ -347,29 +455,109 @@ class TS_Command {
         if ($body !== null) $up['post_content'] = $body;
         wp_update_post($up);
         update_post_meta($post_id, '_ts_kind', 'work'); // 単発は work=episode の 1 投稿
-        $this->apply_episode_data($post_id, $ep, $bodies, $dry);
-        $this->stamp_import($post_id, $hash);
+        $this->apply_episode_data($post_id, $ep, null); // 作者は upsert_work が付けた分を保つ
+        $this->stamp_import($post_id, $hash, '_ts_fill_hash');
         $n['updated']++;
     }
 
     // ------------------------------------------------------------------ verify / takedown / reset / pathmap
 
-    /** 件数照合・orphan・手動編集警告・taxonomy 被覆を検査する */
+    /** 件数照合・orphan・語彙整合・taxonomy 割当数・手動編集警告を検査する。
+     *  期待値は catalog から毎回再計算する (importer と独立に数え直し、取り違えを検出する)。 */
     public function verify($args, $assoc) {
+        global $wpdb;
         $root = $this->repo_root($assoc);
         $episodes = $this->read_jsonl("$root/catalog/episodes.jsonl");
         $works = $this->read_jsonl("$root/catalog/works.jsonl");
-        $singles = 0;
-        foreach ($works as $w) if ((int) $w['episode_count'] === 1) $singles++;
-        $expect_posts = count($works) + count($episodes) - $singles; // 単発は 1 投稿に畳まれる
+        $this->load_vocab($root);
+        $authors = $this->read_json("$root/catalog/authors.json");
+        if (isset($authors['authors'])) $authors = $authors['authors'];
+        [$ep2work, $single_work, $work_author] = $this->index_works($works);
+        $ok = true;
 
+        // 1) 投稿数
+        $singles = count($single_work);
+        $expect_posts = count($works) + count($episodes) - $singles; // 単発は 1 投稿に畳まれる
         $count = 0;
         foreach (wp_count_posts('ts_work') as $st => $c) if ($st !== 'trash') $count += (int) $c;
-        $ok = true;
         WP_CLI::line(sprintf('投稿数: WP=%d 期待=%d (works %d + episodes %d - 単発 %d)',
             $count, $expect_posts, count($works), count($episodes), $singles));
         if ($count !== $expect_posts) { $ok = false; WP_CLI::warning('件数不一致'); }
 
+        // 2) orphan: 親が消えている/ts_work でない子投稿
+        $orphans = (int) $wpdb->get_var(
+            "SELECT COUNT(*) FROM {$wpdb->posts} p
+             LEFT JOIN {$wpdb->posts} q ON p.post_parent = q.ID
+             WHERE p.post_type = 'ts_work' AND p.post_status <> 'trash' AND p.post_parent <> 0
+               AND (q.ID IS NULL OR q.post_type <> 'ts_work')");
+        WP_CLI::line("orphan 子投稿: $orphans");
+        if ($orphans) { $ok = false; WP_CLI::warning('orphan あり'); }
+
+        // 3) 語彙整合: WP の term 集合 = catalog の語彙 (場当たり term ゼロ・未作成ゼロ)
+        $vocab = ['ts_author' => []];
+        // WP は slug を小文字化する (karaage_New → karaage_new) ので小文字で照合する
+        foreach ($authors as $a) $vocab['ts_author'][strtolower($a['slug'])] = 1;
+        foreach (self::PSEUDO_AUTHORS as $slug => $name) $vocab['ts_author'][$slug] = 1;
+        foreach ($this->name2slug as $tax => $m) foreach ($m as $slug) $vocab[$tax][$slug] = 1;
+        foreach (self::TAXES as $tax) {
+            $wp_slugs = get_terms(['taxonomy' => $tax, 'hide_empty' => false, 'fields' => 'id=>slug']);
+            if (is_wp_error($wp_slugs)) { $ok = false; WP_CLI::warning("$tax: get_terms 失敗"); continue; }
+            $extra = array_diff($wp_slugs, array_keys($vocab[$tax] ?? []));
+            $missing = array_diff(array_keys($vocab[$tax] ?? []), $wp_slugs);
+            WP_CLI::line(sprintf('%s: WP=%d 語彙=%d 語彙外=%d 未作成=%d',
+                $tax, count($wp_slugs), count($vocab[$tax] ?? []), count($extra), count($missing)));
+            if ($extra) { $ok = false; WP_CLI::warning("$tax 語彙外 term: "
+                . implode(' ', array_slice(array_values($extra), 0, 8))); }
+            if ($missing) { $ok = false; WP_CLI::warning("$tax 未作成 term: "
+                . implode(' ', array_slice(array_values($missing), 0, 8))); }
+        }
+
+        // 4) 割当数: catalog からの期待値 vs DB の term_relationships 実数
+        $expect = array_fill_keys(self::TAXES, 0);
+        foreach ($works as $w) {
+            if (!empty($w['author_slug']) && isset($vocab['ts_author'][strtolower($w['author_slug'])])) $expect['ts_author']++;
+        }
+        foreach ($episodes as $ep) {
+            $w = $ep2work[$ep['episode_id']] ?? null;
+            if ($w !== null && !isset($single_work[$w])
+                && !empty($work_author[$w]) && isset($vocab['ts_author'][strtolower($work_author[$w])])) {
+                $expect['ts_author']++; // 子投稿は作品の作者を継ぐ
+            }
+            if (!empty($ep['corpus']) && isset($vocab['ts_corpus'][$this->name2slug['ts_corpus'][$ep['corpus']] ?? ''])) {
+                $expect['ts_corpus']++;
+            }
+            foreach ([['genre', 'ts_genre'], ['type', 'ts_type'], ['keywords', 'ts_keyword']] as [$f, $tax]) {
+                $uniq = [];
+                foreach ((array) ($ep[$f] ?? []) as $v) {
+                    $s = $this->name2slug[$tax][$v] ?? null;
+                    if ($s !== null && isset($vocab[$tax][$s])) $uniq[$s] = 1;
+                }
+                $expect[$tax] += count($uniq);
+            }
+            $uniq = [];
+            foreach ($this->ep_worlds[$ep['episode_id']] ?? [] as $v) if (isset($vocab['ts_world'][$v])) $uniq[$v] = 1;
+            $expect['ts_world'] += count($uniq);
+        }
+        $actual = array_fill_keys(self::TAXES, 0);
+        $rows = $wpdb->get_results($wpdb->prepare(
+            "SELECT tt.taxonomy, COUNT(*) c FROM {$wpdb->term_relationships} tr
+             JOIN {$wpdb->term_taxonomy} tt ON tr.term_taxonomy_id = tt.term_taxonomy_id
+             JOIN {$wpdb->posts} p ON p.ID = tr.object_id
+             WHERE p.post_type = 'ts_work' AND p.post_status <> 'trash'
+               AND tt.taxonomy IN (%s,%s,%s,%s,%s,%s) GROUP BY tt.taxonomy", self::TAXES));
+        foreach ($rows as $r) $actual[$r->taxonomy] = (int) $r->c;
+        foreach (self::TAXES as $tax) {
+            WP_CLI::line(sprintf('割当 %s: WP=%d 期待=%d', $tax, $actual[$tax], $expect[$tax]));
+            if ($actual[$tax] !== $expect[$tax]) { $ok = false; WP_CLI::warning("$tax の割当数不一致"); }
+        }
+
+        // 5) import が解決できず落とした値 / 手動編集 skip
+        $missing_vals = get_option('ts_term_warnings', []);
+        if ($missing_vals) {
+            $ok = false;
+            WP_CLI::warning('term 未解決の値 (' . count($missing_vals) . ' 種): '
+                . implode(' ', array_slice(array_keys($missing_vals), 0, 8)));
+        }
         $manual = get_option('ts_manual_edit_warnings', []);
         if ($manual) {
             $ok = false;
@@ -377,6 +565,7 @@ class TS_Command {
             foreach ($manual as $m) WP_CLI::line("  [{$m['kind']}] {$m['key']} (最終編集 {$m['modified']})");
         }
         WP_CLI::line('ts_catalog_commit: ' . get_option('ts_catalog_commit', '(未記録)'));
+        WP_CLI::line('(冪等の確認は `wp ts import --dry-run` 2 回目が created=0 updated=0 になること)');
         $ok ? WP_CLI::success('verify OK') : WP_CLI::error('verify NG', false);
     }
 

@@ -496,6 +496,20 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
         - 参考(不具合ではない): authors.json の `karaage_New` は WP が slug を小文字化して
           `karaage_new` になる。`unattributed` / `series-index` は authors.json に無い
           擬似作者なので import 側で term 名 = slug のまま作られる
+        - **修正記録 (2026-08-30, Fable)**: (A)〜(E) を commands.php で修正済み —
+          (A) 単発 fill の hash を `_ts_fill_hash` に分離 /
+          (B) terms.json の name・raw_variants→slug 対応表を積み全 taxonomy を **term ID で割当**。
+          未解決値は場当たり term を作らず option `ts_term_warnings` に記録。あわせて未実装だった
+          **ts_world 割当 (episode_worlds 408 件)** を追加 /
+          (C)(D) ts_author は作品の author_slug のみから。kansou_slug はメタ限定、単発 fill は作者に
+          触らない。擬似作者 `unattributed`(作者不詳)/`series-index` は sync-terms が term を作る
+          (sync-terms の期待 created は 1,734→**1,736**) /
+          (E) verify に orphan・語彙整合(語彙外/未作成 term)・taxonomy 割当数の catalog 独立再計算
+          照合・term 未解決値チェックを実装(冪等は `import --dry-run` 2 回目 created=0/updated=0 で確認) /
+          子投稿の URL slug は原ファイル名の語幹から決定的に生成(`child_slugs()`: 作品内重複は
+          親ディレクトリ前置→日付後置→jsonl 順連番。全て ASCII になる)。
+          `HASH_VER=v2` のため既存投稿は全て更新対象。**再投入は reset --yes → sync-terms →
+          import → verify → import --dry-run(冪等確認)の順**
 - [x] 2.3 デプロイスクリプト `scripts/wp/deploy.sh`: rsync(`-n` 先行・`--delete` 禁止)で
       catalog/ bodies/ mu-plugins/ を配備(mu-plugins → `public_html/wp-content/mu-plugins/`)。
       **robots.txt(0.4 草案)を `public_html/` へ配備し curl で内容確認**もここに含める
@@ -510,6 +524,9 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
       - **補足**: publish-runbook は deploy.sh が `themes/` と `assets/annex-img/` も運ぶと
         書いているが、**現行 deploy.sh は運ばない**(2.7 は手動 rsync で実施した)。
         どちらかに合わせること
+        → **解消 (2026-08-30, Fable)**: deploy.sh に [5] 画像(`git ls-files novel` の
+        jpg/gif/png/bmp → `assets/annex-img/`)と [6] `themes/ts-bunko`(存在すれば)を追加。
+        runbook の記述どおりになった
 - [x] 2.4 サーバでパイロット投入: `wp ts import --limit=100`(1.5b 確定済み分のみ)→ 検収は
       **WP-CLI(`wp post list --post_type=ts_work`、meta 確認)+curl(キャッシュバスター付)**で:
       パーマリンク・タクソノミー・メタ・noindex メタ/ヘッダ
