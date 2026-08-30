@@ -1,0 +1,73 @@
+---
+# takedown/denylist.yml — 削除の単一情報源 (single source of truth)
+#
+# このファイル 1 本が「四層+掲示」の全てを駆動する:
+#   ① WP: wp ts apply-takedown  → 該当投稿を draft 化
+#   ② 本番 .htaccess: scripts/wp/gen_htaccess.py → Redirect gone (真の 410)
+#   ③ アネックス(GitHub Pages): scripts/wp/annex_inject.py → 配信 artifact から除外
+#   ④ git 履歴: docs/removal-runbook.md の手順 (git filter-repo)
+#   ⑤ 掲示: /removed/ 固定ページ (作者名 + 理由の要約のみ)
+#
+# 手順の正典は docs/removal-runbook.md。SLA = 受領から 72 時間以内に ①②③ を完了。
+#
+# 【書いてはいけないこと】
+#   - 依頼者の氏名・メールアドレス・連絡先・依頼文の原文 (このリポジトリは public)
+#     → 依頼の実物は私有ストレージに保管し、ここには受領日と経路の分類だけを書く
+#   - CloudSecure のログイン URL 等、本番の秘匿値 (進行台帳の普遍ルール 7)
+#
+# スキーマ (version: 1)
+# ---------------------------------------------------------------------------
+# entries[].id            必須 str   "TD-YYYY-NNNN" 連番。once assigned, never reused
+# entries[].target        必須 map   削除対象。kind と value の対
+#   .kind                 必須 enum  work | episode | annex_path | author
+#                                    work       : catalog/works.jsonl の work_slug
+#                                    episode    : episodes.jsonl の source_path
+#                                                 (アンカー分割話は "path#anchor")
+#                                    annex_path : リポジトリ相対パス。glob 可
+#                                                 (例 "novel/200209/19204751/*")
+#                                    author     : authors.json の author slug
+#                                                 (= その作者の全 work/episode)
+#   .value                必須 str   上記に対応する値
+# entries[].reason        必須 str   1 行の内部向け理由 (公開文面ではない)
+# entries[].reason_class  必須 enum  author_request | rights_holder | pii |
+#                                    minor_safety | spam | legal | other
+# entries[].requested_at  必須 date  受領日 (YYYY-MM-DD)。SLA の起点
+# entries[].received_via  必須 enum  email | takedown_form | author_site | other
+# entries[].status        必須 enum  received | applied | verified | reinstated
+#                                    received  : 受領直後 (まだ何も止めていない)
+#                                    applied   : ①②③ 実施済み
+#                                    verified  : curl / WP-CLI で実地確認済み
+#                                    reinstated: 許諾が得られ復帰 (履歴として残す)
+# entries[].applied       必須 map   各層の実施日 (未実施は null)
+#   .wp_draft             date|null  ① WP 投稿を draft 化した日
+#   .htaccess_410         date|null  ② 本番 .htaccess に 410 を入れた日
+#   .annex_excluded       date|null  ③ Pages ビルドから除外した日
+#   .git_history_purged   date|null  ④ git filter-repo 実施日。要求されたときのみ
+#   .removed_page_listed  date|null  ⑤ /removed/ に掲載した日
+# entries[].public_note   任意 str   /removed/ に載せる 1 行 (作者名 + 理由の要約)。
+#                                    省略時は「作者の申し出により削除」を既定文言とする
+# entries[].notes         任意 str   内部メモ。個人情報は書かない
+# ---------------------------------------------------------------------------
+#
+# 記入例 (コメントアウト。実エントリは entries: 配下に同じ形で追加する)
+#
+# - id: TD-2026-0001
+#   target:
+#     kind: work
+#     value: example-author-example-work
+#   reason: 作者本人から本文の全面削除依頼
+#   reason_class: author_request
+#   requested_at: 2026-09-01
+#   received_via: takedown_form
+#   status: verified
+#   applied:
+#     wp_draft: 2026-09-01
+#     htaccess_410: 2026-09-01
+#     annex_excluded: 2026-09-01
+#     git_history_purged: null
+#     removed_page_listed: 2026-09-02
+#   public_note: 「作品名」(作者名さん) — 作者の申し出により削除
+#   notes: 依頼原本は私有ストレージ side/2026-09-01/ に保管
+
+version: 1
+entries: []
