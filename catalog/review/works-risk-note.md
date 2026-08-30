@@ -8,6 +8,8 @@
 対象データ: `catalog/works.jsonl`(Work 1,463 件 / episode 3,844)と
 `catalog/work_overrides.yml`(`needs_review` の雛形 361 行 = 現行 328 件 + 旧版の残骸 37 件)。
 生成元は `scripts/wp/work_builder.py`。
+用語は [`docs/glossary.md`](../../docs/glossary.md) が正典
+(**本館 / 別館 / 旧館** は内部用語で、読者に見せる文面では使わない)。
 
 ---
 

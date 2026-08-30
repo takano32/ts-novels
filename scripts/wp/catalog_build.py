@@ -19,7 +19,7 @@
     python3 scripts/wp/catalog_build.py                 # 生成 + 自己検査 + レポート
     python3 scripts/wp/catalog_build.py --check         # 何も書かずに検査だけ
     python3 scripts/wp/catalog_build.py --no-provenance # git 走査を省く (高速)
-    python3 scripts/wp/catalog_build.py --no-legacy     # 本館のみ (1.1 相当の出力)
+    python3 scripts/wp/catalog_build.py --no-legacy     # corpus=honkan のみ (1.1 相当の出力)
 """
 import argparse
 import collections
@@ -36,7 +36,7 @@ import unicodedata
 
 DEFAULT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ORIG_BASE = 'http://ts.novels.jp/'
-# アネックス = 現行 GitHub Pages ミラー (設計 v1.1 で恒久併存が決定)。
+# 別館 = 現行 GitHub Pages ミラー (設計 v1.1 で恒久併存が決定)。用語は docs/glossary.md が正典。
 # リポジトリは takano32/ts-novels、カスタムドメイン (CNAME) なし。
 DEFAULT_ANNEX_BASE = 'https://takano32.github.io/ts-novels/'
 YAYS_PREFIX = '~yays/library/'          # 2000-02 年の旧世代ツリー (初出版)
@@ -1007,7 +1007,7 @@ def build(root, annex_base, prov_map=None):
 
 
 def build_legacy(root, annex_base, honkan_records, prov_map):
-    """旧目録 lib01〜09 を本館との差分だけ corpus=legacy のレコードにする (タスク 1.2)。
+    """旧目録 lib01〜09 を正規目録 (corpus=honkan) との差分だけ corpus=legacy のレコードにする (タスク 1.2)。
 
     dedup は**パス単位** — honkan 側が同じ `source_path` を(アンカー付きの集約リンクや
     改訂再掲として)既に持っているなら、旧目録側は重複とみなして落とす。

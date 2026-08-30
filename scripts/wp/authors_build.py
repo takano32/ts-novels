@@ -19,7 +19,7 @@
   - **共有シリーズ板 7 つ (kayo_chan / himekami / foster / relay_novel / delayed /
     2daime / utanotsuki) は作者の板ではない**。そこに載る話は表示名で同定する
   - 旧目録 (corpus=legacy) には板リンクが無い (作品単位の noteky ノートしかない)。
-    表示名で本館の作者に寄せ、寄らないものは新規採番
+    表示名で正規目録 (corpus=honkan) 側の作者に寄せ、寄らないものは新規採番
 
 表示名の突き合わせは NFKC + 空白除去 + casefold。ＭＯＮＤＯ と MONDO、ｔｏｓｈｉ９ と
 toshi9 はこれで同じ鍵になる。

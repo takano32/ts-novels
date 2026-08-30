@@ -113,7 +113,8 @@ DEFAULT_WORLD_MAP = {
 
 # ts_corpus — 収蔵区分。dojo / anthology は Phase 6 / 4.6 で使う枠を先に定義しておく。
 CORPUS_TERMS = [
-    ('honkan', '本館 (正規目録 lib1–73)', '1997–2014 の正規目録に載った収蔵作品'),
+    # term 名は WP 側の表示に出るので、内部用語の「本館」ではなく具体語で書く (docs/glossary.md)。
+    ('honkan', '正規目録 (lib1–73)', '1997–2014 の正規目録に載った収蔵作品'),
     ('legacy', '旧目録 (lib01–09)', '1997.11–2000.2 の旧形式目録にだけ載る初期史料'),
     ('dojo', 'ストーリー道場 (2ndbbs)', '閉鎖後の姉妹サイトに投稿された作品 (Phase 6)'),
     ('anthology', 'アンソロジー・特集', 'special/03summer など特集企画の収録作 (Phase 4.6)'),

@@ -4,7 +4,8 @@
 **設計や手順は書かない** — 設計は [`wordpress-library-design.md`](wordpress-library-design.md)、
 実装の進行は [`wp-implementation-tasks.md`](wp-implementation-tasks.md)、
 復元の経緯は [`../README.md`](../README.md) が正。ここは**現物の台帳**だけを扱う。
-用語(アネックス/整理版/目録/世代/corpus 区分 ほか)は [`glossary.md`](glossary.md) を参照。
+用語(本館/別館/旧館・目録・世代・corpus 区分 ほか)は [`glossary.md`](glossary.md) を参照。
+**本館・別館・旧館は内部用語**で、読者に見せる文面では使わない(→ glossary「三館の呼び分け」)。
 
 ## 0. 計測の基準
 
@@ -38,7 +39,7 @@ git ls-files <tree> | grep -ciE '\.s?html?$'            # ツリー内の HTML �
 | 0 | 1997.10〜 | `www14.big.or.jp/~yays` (八重洲メディアリサーチ) の一区画として文庫が発足 | `~yays/` | 母体サイト。`~yays/index.html` に「+1500000 visits (since 1/Oct/97)」 |
 | 1 | 1997.11〜2001 頃 | `www2.tomato.ne.jp/~ezpe` | `~ezpe/` | **最旧の交流層**。読者の感想・推薦ノート `noteky.cgi`。旧目録 lib07–09 の「感想」リンク先はここ |
 | 2 | 1999 頃〜2003 頃 | `www14.big.or.jp/~yays/library/` | `~yays/library/` | 文庫の旧ホーム。ツリー構造は現ミラー本体と**同一**(下記 §4) |
-| 3 | 2002〜2021 | **`ts.novels.jp`** (本館) | **リポジトリ直下** | 本文 `novel/`・目録 `lib*.html`・交流層 `~ts/`。**WP 整理版の主対象** |
+| 3 | 2002〜2021 | **`ts.novels.jp`** (本体期) | **リポジトリ直下** | 本文 `novel/`・目録 `lib*.html`・交流層 `~ts/`。**本館(WP)の主対象** |
 | 4 | 2015〜2023 頃 | 姉妹・避難ドメイン | `ts.novels.name/` `kirika.novels.name/` `ts.raa0121.info/` `www.novels.name/` | サーバ障害時の仮掲示板群。`headline.html` に「文庫サーバーのトラブル復旧が長期化しているため、仮掲示板の設置を開始しました」(2015.02.15) |
 | 5 | 2018 | `ts-novels.jp` | `ts-novels.jp/` | 「少年少女文庫改」の再建入口 3 ページ。骨格のみで固有作品なし |
 | — | 1997〜2006 | `www.novels.jp` の関係者ディレクトリ | `~yaji/` `~bbs/` | 親サーバの住人(矢治さん)の個人サイト。文庫の前史資料 |
@@ -64,40 +65,40 @@ git ls-files <tree> | grep -ciE '\.s?html?$'            # ツリー内の HTML �
 
 ## 2. ツリー別目録
 
-「WP 扱い」欄の意味 — **整理版**=WordPress (novels.xwp.jp) に投稿として載る /
-**アネックス**=GitHub Pages に原パスのまま残す(WP には載せない) /
+「WP 扱い」欄の意味 — **本館**=WordPress (novels.xwp.jp) に投稿として載る /
+**別館**=GitHub Pages に原パスのまま残す(WP には載せない) /
 **参照のみ**=どちらの公開物でもない(生成物・ツール・作業データ)。
-設計 v1.4「最大掲載原則」により、**アネックスに残るものも WP に載せられるものは載せる**方針。
+設計 v1.4「最大掲載原則」により、**別館に残るものも WP に載せられるものは載せる**方針。
 
 | パス | 何か | ファイル数 | 内 HTML | 内 .cgi | 内 画像 | 出所 | WP 扱い |
 |---|---|---:|---:|---:|---:|---|---|
-| `novel/` | **本文**。ts.novels.jp の作品ファイル本体 | **5,017** | 3,817 | 0 | 1,197 | Wayback 主体 + CommonCrawl・魚拓・作者サイト | 整理版(主対象) |
-| `~yays/` | 第 0/2 世代 `www14.big.or.jp/~yays/` 丸ごと | **5,469** | 1,488 | 2,955 | 900 | Wayback + 生存サーバ直接 | アネックス(ギャラリーは整理版へ) |
-| `~ts/` | `www.novels.jp/~ts/` = 本館の交流層 | **4,008** | 23 | 3,984 | 1 | Wayback | アネックス(感想板は Phase 6 で整理版へ) |
-| `~ezpe/` | 第 1 世代 `www2.tomato.ne.jp/~ezpe/` | **1,562** | 12 | 1,550 | 0 | Wayback | アネックス(静的 8 頁は整理版へ) |
+| `novel/` | **本文**。ts.novels.jp の作品ファイル本体 | **5,017** | 3,817 | 0 | 1,197 | Wayback 主体 + CommonCrawl・魚拓・作者サイト | 本館(主対象) |
+| `~yays/` | 第 0/2 世代 `www14.big.or.jp/~yays/` 丸ごと | **5,469** | 1,488 | 2,955 | 900 | Wayback + 生存サーバ直接 | 別館(ギャラリーは本館へ) |
+| `~ts/` | `www.novels.jp/~ts/` = 本体期の交流層 | **4,008** | 23 | 3,984 | 1 | Wayback | 別館(感想板は Phase 6 で本館へ) |
+| `~ezpe/` | 第 1 世代 `www2.tomato.ne.jp/~ezpe/` | **1,562** | 12 | 1,550 | 0 | Wayback | 別館(静的 8 頁は本館へ) |
 | `aetherworks.org/` | 作者(華村天稀ほか)の個人ドメイン | **470** | 200 | 0 | 38 | Wayback | 参照のみ(作品回収の裏取り資料) |
-| `ts.novels.name/` | 姉妹「クリエイターズ・フロア(仮)」ラウンジ BBS | **389** | 2 | 386 | 0 | Wayback + CommonCrawl | アネックス(94% スパムのため除外) |
-| `~yaji/` | `www.novels.jp/~yaji/` = 矢治さんの個人サイト | **285** | 190 | 2 | 86 | Wayback | アネックス |
-| `bc-cafe.net/` | きりか進ノ介さんの現行サイトの `bcwiki.old/` = `kirika.novels.name/wiki`(青秋桜 Wiki)の**後継**。旧ミラー 88 頁に対し 175 頁 (+ 添付 122・スキン資産 20) | **317** | 178 | 0 | 104 | **生存サーバ直接**(2026-08-30) | アネックス(未収蔵作品「ホーリーメイデンズ外伝」ほかは整理版へ) |
-| **(リポジトリ直下)** | 本館のトップ・目録・語彙定義ページ群 | **130** | 122 | 0 | 2 | Wayback | 目録は catalog の入力 / 一部は整理版 |
-| `kirika.novels.name/` | 姉妹「喫茶ブルーコスモス」+ 青秋桜 Wiki | **123** | 87 | 15 | 18 | Wayback | アネックス |
-| `ts.raa0121.info/` | 姉妹「第二掲示板・ストーリー道場(仮)」 | **69** | 3 | 65 | 0 | Wayback | アネックス(道場作品は Phase 6 で整理版へ) |
-| `special/` | 企画・アンソロジー 2 本 | **61** | 19 | 0 | 37 | Wayback | 整理版(タスク 4.8) |
-| `cgi-bin/` | 本館の作品検索 CGI `manage2.cgi` のスナップショット | **49** | 0 | 49 | 0 | Wayback | アネックス |
+| `ts.novels.name/` | 姉妹「クリエイターズ・フロア(仮)」ラウンジ BBS | **389** | 2 | 386 | 0 | Wayback + CommonCrawl | 別館(94% スパムのため除外) |
+| `~yaji/` | `www.novels.jp/~yaji/` = 矢治さんの個人サイト | **285** | 190 | 2 | 86 | Wayback | 別館 |
+| `bc-cafe.net/` | きりか進ノ介さんの現行サイトの `bcwiki.old/` = `kirika.novels.name/wiki`(青秋桜 Wiki)の**後継**。旧ミラー 88 頁に対し 175 頁 (+ 添付 122・スキン資産 20) | **317** | 178 | 0 | 104 | **生存サーバ直接**(2026-08-30) | 別館(未収蔵作品「ホーリーメイデンズ外伝」ほかは本館へ) |
+| **(リポジトリ直下)** | 本体期のトップ・目録・語彙定義ページ群 | **130** | 122 | 0 | 2 | Wayback | 目録は catalog の入力 / 一部は本館 |
+| `kirika.novels.name/` | 姉妹「喫茶ブルーコスモス」+ 青秋桜 Wiki | **123** | 87 | 15 | 18 | Wayback | 別館 |
+| `ts.raa0121.info/` | 姉妹「第二掲示板・ストーリー道場(仮)」 | **69** | 3 | 65 | 0 | Wayback | 別館(道場作品は Phase 6 で本館へ) |
+| `special/` | 企画・アンソロジー 2 本 | **61** | 19 | 0 | 37 | Wayback | 本館(タスク 4.8) |
+| `cgi-bin/` | 本体期の作品検索 CGI `manage2.cgi` のスナップショット | **49** | 0 | 49 | 0 | Wayback | 別館 |
 | `scripts/` | 回収・監査・変換ツール一式 | **41** | 0 | 0 | 0 | 自作 | 参照のみ |
-| `comittee/` | 運営コンテンツ「編集"好"記」 | **21** | 21 | 0 | 0 | Wayback | 整理版(`ts_doc`) |
+| `comittee/` | 運営コンテンツ「編集"好"記」 | **21** | 21 | 0 | 0 | Wayback | 本館(`ts_doc`) |
 | `catalog/` | **生成物**。目録の単一真実源 | 19 | 0 | 0 | 0 | 自動生成 | 参照のみ([`catalog/README.md`](../catalog/README.md)) |
-| `~bbs/` | `www.novels.jp/~bbs/` = カウンタ CGI と掲示板入口 | **15** | 3 | 11 | 1 | Wayback | アネックス |
+| `~bbs/` | `www.novels.jp/~bbs/` = カウンタ CGI と掲示板入口 | **15** | 3 | 11 | 1 | Wayback | 別館 |
 | `docs/` | 設計・手順・本書 | 7 | 0 | 0 | 0 | 自作 | 参照のみ |
-| `ts-novels.jp/` | 2018 年の再建版「少年少女文庫改」 | **6** | 3 | 0 | 0 | Wayback | アネックス(`/annex/index-2018.html`) |
-| `icons/` | Apache autoindex が参照する標準アイコン | **5** | 0 | 0 | 5 | 実サーバ + Apache 公式ストック | アネックス |
-| `www2.sts.co.jp/` | 1999 年の相互批評ボード・トランスギャルズ開発会議室 | **5** | 1 | 4 | 0 | Wayback | アネックス |
-| `columns/` | 運営コンテンツ「巻頭言」 | **2** | 2 | 0 | 0 | Wayback | 整理版(`ts_doc`) |
-| `reposts/` | 作者本人の再掲・未掲載本文(pixiv 2 + bc-cafe.net の BC-Wiki 3 + 来歴 json 1) | 6 | 1 | 0 | 0 | pixiv / 作者サイト直接 | 整理版(タスク 1.9) |
+| `ts-novels.jp/` | 2018 年の再建版「少年少女文庫改」 | **6** | 3 | 0 | 0 | Wayback | 別館(`/annex/index-2018.html`) |
+| `icons/` | Apache autoindex が参照する標準アイコン | **5** | 0 | 0 | 5 | 実サーバ + Apache 公式ストック | 別館 |
+| `www2.sts.co.jp/` | 1999 年の相互批評ボード・トランスギャルズ開発会議室 | **5** | 1 | 4 | 0 | Wayback | 別館 |
+| `columns/` | 運営コンテンツ「巻頭言」 | **2** | 2 | 0 | 0 | Wayback | 本館(`ts_doc`) |
+| `reposts/` | 作者本人の再掲・未掲載本文(pixiv 2 + bc-cafe.net の BC-Wiki 3 + 来歴 json 1) | 6 | 1 | 0 | 0 | pixiv / 作者サイト直接 | 本館(タスク 1.9) |
 | `takedown/` | 削除の単一情報源 `denylist.yml` | 2 | 0 | 0 | 0 | 自作 | 参照のみ |
-| `www.novels.name/` | 姉妹 `T's☆Heart 情報 Wiki 〜 2nd` | **1** | 1 | 0 | 0 | Wayback | アネックス |
-| `library/` | 本館 `library/instruction.html` 1 枚(運営委員募集要項) | **1** | 1 | 0 | 0 | Wayback | 整理版(`ts_doc`) |
-| `dialy/` | 運営コンテンツ「Web サイト構築日記」(綴りは原文ママ) | **1** | 1 | 0 | 0 | Wayback | 整理版(`ts_doc`) |
+| `www.novels.name/` | 姉妹 `T's☆Heart 情報 Wiki 〜 2nd` | **1** | 1 | 0 | 0 | Wayback | 別館 |
+| `library/` | 本体期の `library/instruction.html` 1 枚(運営委員募集要項) | **1** | 1 | 0 | 0 | Wayback | 本館(`ts_doc`) |
+| `dialy/` | 運営コンテンツ「Web サイト構築日記」(綴りは原文ママ) | **1** | 1 | 0 | 0 | Wayback | 本館(`ts_doc`) |
 | `.github/` | Pages デプロイワークフロー | 1 | 0 | 0 | 0 | 自作 | 参照のみ |
 
 **合計 21,742**(うち `bodies/` の生成 Markdown 3,640)。うち `.cgi` を basename に含むもの **9,021**(→ §7 の本番制約)。
@@ -162,7 +163,7 @@ autoindex を意図的除外に入れているか必ず確認すること。
 
 ---
 
-## 4. `~yays/library/` と本館 `novel/` の関係
+## 4. `~yays/library/` と本体期 `novel/` の関係
 
 `~yays/library/` は**第 2 世代の文庫本体そのもの**で、リポジトリ直下と**同一の相対パス構造**を持つ。
 
@@ -173,10 +174,10 @@ autoindex を意図的除外に入れているか必ず確認すること。
 | `~yays/` にしか無い | 67 |
 | `~yays/library/` 全体 1,598 のうちリポジトリ直下に同名がある | 1,530 (95.7%) |
 
-- この 95.4% の重複が「`~yays/library/` は本館とほぼ同文の祖先スナップショット」(設計 v1.4)の根拠。
+- この 95.4% の重複が「`~yays/library/` は本体期とほぼ同文の祖先スナップショット」(設計 v1.4)の根拠。
 - 同じ「1,399」が `_ts_annex_yays_url`(話の「初出時の姿」リンク)の候補数。
   **ただし目録エントリ基準の実測は 724 件**(タスク 1.1 の訂正 (b))。1,399 は*ファイル*の数。
-- 本文は同文だが**バイト一致ではない**(例: `kayo_chan38.html` は本館 5,673B / `~yays` 側 6,264B。
+- 本文は同文だが**バイト一致ではない**(例: `kayo_chan38.html` は本体期側 5,673B / `~yays` 側 6,264B。
   ヘッダ・ナビが世代で違う)。
 
 ---
@@ -236,7 +237,7 @@ autoindex を意図的除外に入れているか必ず確認すること。
 
 | ファイル | 中身 |
 |---|---|
-| `index.html` / `index@08201937.html` / `index@11031137.html` | 本館トップの**別時点キャプチャ 3 枚**。`index.html`(08/31)・`@08201937`(08/23)・`@11031137`(11/03) |
+| `index.html` / `index@08201937.html` / `index@11031137.html` | 本体期トップの**別時点キャプチャ 3 枚**。`index.html`(08/31)・`@08201937`(08/23)・`@11031137`(11/03) |
 | `series.html` | 完結シリーズ作品一覧。work クラスタリングのシード(有効行 **112**) |
 | `share_world.html` / `.htm` | 共有世界の説明。`ts_world` 語彙の元資料(`.htm` は旧版) |
 | `genre.html` / `type_of_change.html` / `keyword.html` | 当時の**語彙定義ページ**(27 / 18 / 38 語)。term description に転用 |
@@ -289,7 +290,7 @@ BBS・CGI ページは**クエリつき URL** なので、そのままではフ�
 
 | 条件 | 件数 | 影響 |
 |---|---:|---|
-| basename が `.cgi` を含む | **9,021** | 本番では配信できない → アネックス(GitHub Pages)恒久併存の理由 |
+| basename が `.cgi` を含む | **9,021** | 本番では配信できない → 別館(GitHub Pages)恒久併存の理由 |
 | フルパスに `.cgi` セグメントを含む | 9,022 | `~yaji/blog/mt-atom.cgi/weblog/blog_id=1` の 1 件だけディレクトリ名側 |
 | `.pl` | 1 | `ts-novels.jp/kantan-cgi/counter@id_sd03205Y.pl` |
 | `.shtml` | 2 | `entrance.shtml`・`~yays/library/entrance.shtml` |
@@ -303,13 +304,13 @@ BBS・CGI ページは**クエリつき URL** なので、そのままではフ�
 | # | 既存文書の記述 | 実測 | 判断 |
 |---|---|---|---|
 | (1) | README「`~yaopinion` を発見・回収」「`~yaopinion/` = `www.novels.jp/` のユーザディレクトリ」 | **`~yaopinion/` というツリーは存在しない**。`yaopinion` の文字列はリポジトリ中 README.md にしか出てこない | **README が誤り**。実在するのは `~yaji/opinion/`(34 ファイル、「My Opinions」)。第 3 次探索の作業メモが誤って README に残ったものと思われる |
-| (2) | 設計 §3.1「`/special/` はアネックス実在パス(**03summer 61 ファイル**)」・v1.4「企画・アンソロジー `special/` 61」 | `special/` **合計 61** は正しいが、内訳は **`rb/` 52 + `03summer/` 9**。03summer は 9 ファイル | **設計の内訳が誤り**。`special/rb/`(Rental Body Re-Mix 祭り)が主たる中身。タスク 4.8 で「03summer 等」として扱うときは rb を落とさないこと |
+| (2) | 設計 §3.1「`/special/` は別館実在パス(**03summer 61 ファイル**)」・v1.4「企画・アンソロジー `special/` 61」 | `special/` **合計 61** は正しいが、内訳は **`rb/` 52 + `03summer/` 9**。03summer は 9 ファイル | **設計の内訳が誤り**。`special/rb/`(Rental Body Re-Mix 祭り)が主たる中身。タスク 4.8 で「03summer 等」として扱うときは rb を落とさないこと |
 | (3) | 設計 v1.4「~yays 世代のギャラリー CG **313**」・v1.0「~yays gallery (CG **313 点**)」 | `~yays/gallery/` **全体が 313 ファイル**。うち画像は 157、`cg/` サブディレクトリは **136 点** | **「CG 313 点」は誤り**。313 はギャラリー区画のファイル総数。タスク 4.7 の対象規模は「CG 136 + story 84 + album 12 + kiss 3 + 頁 78」と読み替える |
 | (4) | 設計/タスク 1.8「`novel/` 配下の本文 **3,818**」 | HTML 3,817 + 拡張子なし 1 = 3,818。**ただし Apache autoindex 83 枚を含む** | **数としては合うが定義が広い**。作品本文だけなら 3,735。1.8 の受け入れ検査で autoindex を意図的除外に入れる必要がある |
 | (5) | (文書化されていない) | クエリ→ファイル名のマングル実装が **3 本で不一致**: `scripts/audit_full.py:37` は `/` を置換しない / `scripts/place_convert.py:96` は unquote 後に `/` `?` も置換 / `scripts/cdx_recover.py:62` は %エスケープを素の hex のまま残して `/` を置換 | **潜在バグ**。`/` を含むクエリ(`~bbs/cgi-bin/npc@L__~yaji_index.htm_…`)で `audit_full.py` が実在ファイルを未解決と誤判定しうる。リンク監査の「未解決 5,067」に混入している可能性がある |
 | (6) | README「`ts.novels.name/rounge/`… 閉鎖後 **2023 年まで**稼働したラウンジ BBS」 | 収蔵ファイル中の投稿日付は **2015〜2026**。2022 年以降が急増(2022:918 / 2023:443 / 2024:668 / 2025:737 / 2026:698) | README の期間が古い。設計の言う「94% スパム」がこの 2022 年以降の激増分。**回収時点(2026-08)でも板は稼働中**と読むのが自然 |
 | (7) | 設計 v1.0「~yays/library/ は **95.4%** 重複」 | `~yays/library/novel/` 1,466 中 1,399 = **95.4%** | **一致**(確認のみ) |
-| (8) | タスク台帳「アネックス = 全 **17,218** ファイル」/ README「全 17,218 ファイル」 | 現在 **21,742**。うち**ミラー相当 18,020** / 非ミラー(`catalog/` `scripts/` `docs/` `takedown/` `reposts/` `.github/`)が残り。非ミラー側は作業中で日々増える | 数字が古いだけ。ただし現在の `deploy-pages.yml` は**リポジトリ直下をそのまま配信**するので、`catalog/` や `scripts/` も Pages 上に出ている。タスク 5.2 で artifact ビルド方式に変える際に除外対象を決めること |
+| (8) | タスク台帳「別館 = 全 **17,218** ファイル」/ README「全 17,218 ファイル」 | 現在 **21,742**。うち**ミラー相当 18,020** / 非ミラー(`catalog/` `scripts/` `docs/` `takedown/` `reposts/` `.github/`)が残り。非ミラー側は作業中で日々増える | 数字が古いだけ。ただし現在の `deploy-pages.yml` は**リポジトリ直下をそのまま配信**するので、`catalog/` や `scripts/` も Pages 上に出ている。タスク 5.2 で artifact ビルド方式に変える際に除外対象を決めること |
 
 ---
 
@@ -325,5 +326,5 @@ BBS・CGI ページは**クエリつき URL** なので、そのままではフ�
 | `docs/` | 設計・手順・本書 | — |
 | `.github/workflows/deploy-pages.yml` | `master` への push でリポジトリ直下をそのまま GitHub Pages へ配信(ビルドなし) | — |
 
-公開先: GitHub `takano32/ts-novels`(public) → GitHub Pages = アネックス /
-`https://novels.xwp.jp` = WordPress 整理版。
+公開先: GitHub `takano32/ts-novels`(public) → GitHub Pages = 別館 /
+`https://novels.xwp.jp` = WordPress 本館。

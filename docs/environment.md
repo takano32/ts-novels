@@ -1,11 +1,12 @@
 # 本番環境 (novels.xwp.jp) と作業ガード
 
-WordPress 整理版の本番ホストについて、**実際に ssh して確かめた事実**だけを書いた参照文書。
+WordPress 本館の本番ホストについて、**実際に ssh して確かめた事実**だけを書いた参照文書。
 手順は書かない — 公開の流れは [`publish-runbook.md`](publish-runbook.md)、
 削除は [`removal-runbook.md`](removal-runbook.md)、実装の進行は
 [`wp-implementation-tasks.md`](wp-implementation-tasks.md) が正。
 リポジトリに何が入っているかは [`data-inventory.md`](data-inventory.md)。
-用語(アネックス/整理版 ほか)は [`glossary.md`](glossary.md) を参照。
+用語(本館/別館/旧館 ほか)は [`glossary.md`](glossary.md) を参照。
+**本館・別館・旧館は内部用語**で、読者に見せる文面では使わない(→ glossary「三館の呼び分け」)。
 
 ## 0. 計測の基準
 
@@ -176,7 +177,7 @@ curl -sI "https://novels.xwp.jp/works/?_cb=$RANDOM"
 | 「改名でも回避不能」 | **正しい**。`(\.|/|$)` により `.cgi.html` も拒否される(実測で確認) |
 
 **結論は変わらない** — `.cgi` を含む 9,021 ファイルをこのホストで配信する前提には立てない。
-アネックスを GitHub Pages に恒久併存させる設計 v1.1 の決定はそのまま維持する。
+別館を GitHub Pages に恒久併存させる設計 v1.1 の決定はそのまま維持する。
 ただし**理由の記述は上のとおり訂正が要る**。
 
 ### 4.4 未検証(この調査でできなかったこと)
@@ -340,12 +341,12 @@ curl は**必ずキャッシュバスター付き**(§3)。ステータスコー
 
 ---
 
-## 9. アネックス側 (GitHub Pages) との役割分担
+## 9. 別館 (GitHub Pages) との役割分担
 
-| | 本番 WordPress | アネックス |
+| | 本館 (本番 WordPress) | 別館 |
 |---|---|---|
 | URL | `https://novels.xwp.jp` | GitHub Pages (`takano32/ts-novels`) |
-| 中身 | 整理版ライブラリ(WP 投稿) | 原パス空間のミラーそのもの |
+| 中身 | 目録で体系化したライブラリ(WP 投稿) | 原パス空間のミラーそのもの |
 | デプロイ | rsync + `wp ts import` | `master` への push → `.github/workflows/deploy-pages.yml` がリポジトリ直下をそのまま配信 |
 | `.cgi` | **配信できない**(§4) | 静的配信なので無害に返せる |
 | ヘッダ制御 | `.htaccess` で `X-Robots-Tag` も `Redirect gone`(410) も可 | **不可**。meta noindex と 404 で妥協(設計 v1.1) |

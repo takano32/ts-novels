@@ -6,6 +6,10 @@
 
 ## 0. 実行セッションの心得(毎回読む)
 
+**用語**: 本館 (= 移築先の WordPress) / 別館 (= 原本を保つ GitHub Pages ミラー) / 旧館 (= 消滅した原サイト)
+ほかの定義は [`docs/glossary.md`](glossary.md) が正典。**この 3 語は内部用語**で、
+サイト上の表示文言・about ページ・バナー・書誌カードのラベルには使わない。
+
 **読み順**: ① このファイル → ② `docs/wordpress-library-design.md`(設計書。v1.0 本文+v1.1〜v1.4 改訂章。
 **改訂章が本文に優先し、番号の大きい章が優先**。「v1.2 改訂」章は 2 本あるが**後方の A/B 構成の章が正典**。
 **v1.4「最大掲載原則」章が範囲の最終決定**) →
@@ -25,7 +29,7 @@
 - サーバ内ツール: WP-CLI 2.8.1 / mysql / rsync / git / **PHP 8.0.30**(コードは 8.0 互換)/ python3.6
 - 構成: nginx キャッシュ → Apache(.htaccess 有効)→ PHP。`Header set X-Robots-Tag` ✓・
   `Redirect gone`(410)✓・rewrite ✓ は本番検証済み
-- **地雷: ファイル名に `.cgi` を含む URL は前段 nginx が一律 403**(回避不能)。だからアネックス
+- **地雷: ファイル名に `.cgi` を含む URL は前段 nginx が一律 403**(回避不能)。だから別館
   (= 現行 GitHub Pages ミラーの**全 17,218 ファイルの URL 空間**。`.cgi` スナップショット 9,022 を含む)
   は GitHub Pages 恒久併存(設計 v1.1)
 - **nginx キャッシュの罠**: 変更が反映されないように見えたら、まずキャッシュを疑う。
@@ -48,7 +52,7 @@
 
 **最大掲載原則 (設計 v1.4。2026-08-30 サイト所有者決定)**:
 **サルベージしたもの・できるものはすべて掲載する。** v1.0 の「WP 化は第 2 世代の作品層のみ・
-残り 70% はアネックス凍結」という範囲限定は**撤回済み**。アネックス(GitHub Pages)は原本
+残り 70% は別館に凍結」という範囲限定は**撤回済み**。別館(GitHub Pages)は原本
 レイヤとして維持したまま、WP 側にも可能な限り載せる。**掲載しない例外は 3 つだけ**:
 
 1. **denylist 掲載分**(削除依頼を受けたもの)
@@ -101,9 +105,9 @@
 ## Phase 0 — 方針とガバナンス(目安 1 週)
 
 - [x] 0.1 `takedown/denylist.yml` のスキーマを決めて空ファイル+README を作る
-      (エントリ: 対象 = work slug / episode の source_path / アネックスパス、理由、日付、状態)
+      (エントリ: 対象 = work slug / episode の source_path / 別館のパス、理由、日付、状態)
 - [x] 0.2 `docs/removal-runbook.md` v0: 削除依頼受領 → 72h 以内に
-      ①WP draft 化 ②.htaccess 410 追記 ③アネックス(Pages)側除外 ④**git 履歴除去
+      ①WP draft 化 ②.htaccess 410 追記 ③別館(Pages)側除外 ④**git 履歴除去
       (git filter-repo。raw-original タグにも残る事実と対応方針を明記)** ⑤`/removed/` 更新、
       の **四層+掲示** を文書化
 - [x] 0.3 `docs/publish-runbook.md` v0: catalog 再生成 → rsync → `wp db export`(復旧点)→
@@ -152,18 +156,18 @@
 - [x] 1.2 同スクリプトで旧目録 lib01〜09 を差分パース(`corpus=legacy`)。パス prefix 重複排除後の
       追加分のみ。受け入れ: 追加件数を QA レポートに記録
       - **1.2 実測 (2026-08-30)**: 旧目録ブロック 336(lib01–06 の 252 + lib07–09 の 84)を
-        パース失敗 0 で読み、**本館と同一 source_path の 239 件を落として 97 件を追加**
+        パース失敗 0 で読み、**正規目録側(`corpus=honkan`)と同一 source_path の 239 件を落として 97 件を追加**
         (flat 75 / table 22、実パス 76、1997-11-06〜2000-02-25)。レポートは
         `catalog/reports/catalog_build.json` の `legacy` 節、欄の説明は `catalog/README.md`。
       - **台帳の記述に対する補足 3 点**:
         (a) 「パス prefix 重複排除」は**パス完全一致**で実装した。ディレクトリ prefix で
         落とすと `novel/short/` のような共用ディレクトリで無関係な話まで消える。
-        本館側がアンカー付き集約リンクの場合もパスは一致するので目的は達する
+        正規目録側がアンカー付き集約リンクの場合もパスは一致するので目的は達する
         (b) lib01–06 の日付欄は `M/D` だけで**年が無い**。ページ見出しの収録期間
         (`旧作品(1997.11.4 - 1998.4.5)`、必ず 12 ヶ月未満)から年を一意に決めている
         (`date_precision` に記録)。「ページ内は新しい順」の仮定は末尾のパロディ群で破れる
         (c) lib01–06 には **HTML コメントで隠されたエントリが 12 件**あり、うち全数が
-        本館に無いため差分に入っている。運営が意図的に伏せた可能性があるため
+        正規目録に無いため差分に入っている。運営が意図的に伏せた可能性があるため
         `commented_out: true` で印を付けてあり、**WP へ投入するかは 👤 判断待ち**
 - [x] 1.3 `scripts/wp/terms_build.py`: `catalog/terms.json` 生成
       - genre 244→約 30 語・type 187→約 25 語。正規化マップは `catalog/genre_map.yml` /
@@ -344,7 +348,7 @@
       raw フォールバック分は `wp:html` 1 ブロック+`_ts_body_status=raw-fallback`
 - [ ] 3.2 img src を `assets/annex-img/` 参照に書換。**eyecatch 画像(実体 4 ファイル・参照 15 話)**は
       dedup して該当話の featured image に設定(survey の「109 件」は参照回数であり実体数ではない)
-- [ ] 3.3 無作為 100 話の原本併読 QA(アネックス原本と並べて本文欠落・順序破壊がないか)。
+- [ ] 3.3 無作為 100 話の原本併読 QA(別館の原本と並べて本文欠落・順序破壊がないか)。
       結果を `catalog/QA.md` に追記。**問題率 >2% なら 1.6 に戻る**
 - [ ] 3.4 verify 拡張: 全話に書誌カード用メタ(初出日・orig_url・annex_url・provenance)が
       揃っているか被覆率で確認
@@ -359,6 +363,9 @@
       テーマの標準テンプレートで提供**(=「7 索引」の内数)。
       **作者ページの Homepage リンクは既定で homepage_wayback、現存確認済みの移転先のみ生 URL**
       (ドメインスクワット対策)。外部 CDN/フォント読み込みなし
+      - **書誌カードのラベルは読者に見える表示文言**。「原本を見る」「初出時の姿(~yays 版)」
+        「当時の感想を読む」のように具体的に書き、**「別館」「本館」等の内部語は出さない**
+        (→ `docs/glossary.md`)
 - [ ] 4.2 リーダー UI(素 JS+localStorage): 文字サイズ/行間/明朝ゴシック/ダーク/しおり/←→話ナビ。
       raw フォールバック話のみ「原本配色」トグル
 - [ ] 4.3 索引ページ群: `/index/kana/{a..wa}/`・`/index/timeline/`・`/index/bunrui/`・
@@ -375,17 +382,21 @@
       `ts_doc` に収録し、`/index/timeline/` から辿れるようにする
 - [ ] 4.6 運営コンテンツ投入: `ts_doc` に comittee/ 21・columns/・dialy/・03summer 解題。
       固定ページ `/about/`(**八重洲メディアリサーチの持ち主の依頼によるリブートである旨・
-      運営者ハンドル・各作品の著作権は原著者に帰属する旨・原本アネックスとの関係・
-      無損失証明の説明**)・`/annex/`(4 区画案内)・`/removed/`(空)・
+      運営者ハンドル・各作品の著作権は原著者に帰属する旨・原本アーカイブとの関係・
+      無損失証明の説明**)・`/annex/`(別館 4 区画の案内)・`/removed/`(空)・
       **`/takedown/`(72h SLA を明文で宣言)。全ページフッタに /takedown/ へのリンク**
+      - **表示文言の規則**: これらのページは読者が読む面なので、本文・見出し・リンクラベルに
+        **「本館」「別館」「旧館」を書かない**。「原本アーカイブ」「当時のページ」
+        「原本を見る」のように、具体的に何であるかを書く(→ `docs/glossary.md`)
 
-## Phase 5 — アネックス連携(目安 1 週)
+## Phase 5 — 別館連携(目安 1 週)
 
 - [ ] 5.1 `wp ts export-pathmap > catalog/path_map.json`(原パス+alias → WP URL)
 - [ ] 5.2 GitHub Pages 側デプロイをビルド注入方式へ: `scripts/wp/annex_inject.py` —
       デプロイ artifact 生成時に (a) mailto 除去(リンクとテキスト両方。対象ファイル数は
       ビルド時に再計測 — 参考実測 6,515) (b) 各 HTML 冒頭に 1 行バナー
-      「原本アーカイブ | 整理版で読む → path_map の該当 URL」 (c) meta noindex 注入
+      (**読者に見える表示文言。「本館」とは書かない**)
+      「原本アーカイブ | 少年少女文庫で読む → path_map の該当 URL」 (c) meta noindex 注入
       (d) denylist 除外。**git 原本は無改変**(deploy-pages.yml を artifact ビルドに改修)。
       受け入れ: Pages 上で mailto 0・バナー表示・原 URL 全部生存(lychee サンプル)
 - [ ] 5.3 WP 書誌カードの「原本を見る」リンク先を Pages 実 URL で検証(サンプル 200)
@@ -406,14 +417,14 @@
 
 - [ ] 👤 7.1 作者連絡の完了確認(3.5 の継続。台帳の contact_status 更新)。現役サイト直接回収
       18 ページ+pixiv 許諾待ち 2 作(`~/ts-novels-holding/` 保管中)は許諾が取れるまで denylist
-- [ ] 7.2 削除リハーサル: テスト作品 1 件で「draft 化+410+アネックス除外+**git 履歴除去の手順確認**+
+- [ ] 7.2 削除リハーサル: テスト作品 1 件で「draft 化+410+別館からの除外+**git 履歴除去の手順確認**+
       /removed/ 掲載」を実際に流し、removal-runbook.md を実測で更新
 - [ ] 👤 7.3 公開判断(Q4: 連絡不達作者の扱い)
 - [ ] 7.4 解禁: .htaccess を差し替え —
       **解禁(index 許可)**: `/works/ /authors/ /genre/ /type/ /keyword/ /world/ /year/ /index/
       /docs/ /about/ /takedown/ /removed/` とトップ。
       **恒久 noindex 維持**: `/boards/ /dojo/ /assets/annex-img/` ほか BBS/PII 層
-      (アネックス=Pages 側は 5.2 の meta noindex のまま)。
+      (別館=Pages 側は 5.2 の meta noindex のまま)。
       sitemap.xml は解禁区画のみ生成。robots.txt の本番内容を curl で最終確認。
       Search Console 登録は 👤 任意
 - [ ] 7.5 公開後 verify: 主要 20 URL の 200/内容確認・**noindex 境界の確認(/boards/ が noindex の
@@ -453,7 +464,7 @@
 
 - 2,887+legacy 全話(特殊エントリ 28 件含む)が `/works/` で読める(MD ≥85%・raw は明示)
 - 五十音/年代/ジャンル/種別/キーワード/共有世界/推薦の 7 索引と検索が機能
-- 全ページに書誌カード(初出・回収経路・原本リンク)。アネックスとの往還が両方向で機能
+- 全ページに書誌カード(初出・回収経路・原本リンク)。別館との往還が両方向で機能
 - mailto が WP・Pages 両方でゼロ。denylist が四層+掲示を 1 ファイルで駆動
-- /boards/ /dojo/ は恒久 noindex のまま、整理版のみ index 解禁
+- /boards/ /dojo/ は恒久 noindex のまま、本館のみ index 解禁
 - `make catalog && deploy && wp ts import` を素の状態から流して同一サイトが再構築できる

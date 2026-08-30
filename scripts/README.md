@@ -3,6 +3,10 @@
 ミラー本体ではなく、サルベージと検証に使ったツール群。すべて標準ライブラリのみの Python 3
 （`workflows/` は Claude Code の Workflow ツール用 JavaScript）。
 
+用語（**本館** = 移築先の WordPress / **別館** = 原本を保つ GitHub Pages ミラー /
+**旧館** = 消滅した原サイト、ほか）は [`../docs/glossary.md`](../docs/glossary.md) が正典。
+**この 3 語は内部用語**で、生成物のうち読者の目に触れる文言には使わない。
+
 ## 監査・修正
 
 - **audit_full.py** — 全 HTML の内部リンク監査。href/src/action/background を抽出し、
@@ -94,7 +98,8 @@ terms/authors/works はその出来上がりを読む。`make check` は書き�
 - **wp/catalog_build.py** — 正規目録 lib1〜73 の 2,887 エントリと旧目録 lib01〜09 の差分 97 件を
   `catalog/episodes.jsonl` へ正規化 (タスク 1.1 / 1.2)。mailto をこの段階で除去し、受け入れ条件
   (件数・パース失敗 0・mailto 残存 0・survey 実測値との一致)を自己検査として同梱。
-  provenance は git 履歴から算出。`--check` で書き込みなしの検査のみ、`--no-legacy` で本館のみ。
+  provenance は git 履歴から算出。`--check` で書き込みなしの検査のみ、`--no-legacy` で
+  `corpus=honkan`(正規目録 lib1–73 由来) のみ。
 
 - **wp/slugs.py** — 恒久 URL になるローマ字 slug の候補生成 (pykakasi) と
   `catalog/slug_overrides.yml` の往復。`status: confirmed` の行は再生成でも上書きしない。

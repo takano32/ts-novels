@@ -14,8 +14,11 @@ WP 管理画面での手動編集は禁止 (修正は catalog 側の overrides �
 | 役割 | 場所 |
 |---|---|
 | 開発機 | このリポジトリ (python3.11、pip 可)。catalog / bodies / mu-plugins / theme を生成 |
-| 本番 | `ssh novels` = Xserver for WordPress。`~/novels.xwp.jp/` 直下に wp-config.php、公開ルートは `~/novels.xwp.jp/public_html/` |
-| アネックス | GitHub Pages (現行ミラー)。`.cgi` を含む 9,022 ファイルは nginx 403 のため本番には置けない = 恒久併存 |
+| 本館 (本番) | `ssh novels` = Xserver for WordPress。`~/novels.xwp.jp/` 直下に wp-config.php、公開ルートは `~/novels.xwp.jp/public_html/` |
+| 別館 | GitHub Pages (現行ミラー)。`.cgi` を含む 9,022 ファイルは nginx 403 のため本番には置けない = 恒久併存 |
+
+用語 (本館/別館/旧館 ほか) は [`glossary.md`](glossary.md) を参照。
+**本館・別館・旧館は内部用語**で、読者に見せる文面では使わない。
 
 サーバ内で使えるもの: WP-CLI 2.8.1 / mysql / rsync / git / curl / python3.6 (PHP 8.0.30)。
 
@@ -130,7 +133,7 @@ wpX のキャッシュ削除はパネル操作のためセッションからは�
 直し続けるループに入らないこと。キャッシュバスター付き URL で正しい応答が返るなら、
 それは反映済みでキャッシュだけが古い。
 
-### 7. アネックス (GitHub Pages) 側
+### 7. 別館 (GitHub Pages) 側
 
 catalog に `path_map.json` の変化があるとき (= WP の URL が変わったとき) だけ再デプロイする。
 

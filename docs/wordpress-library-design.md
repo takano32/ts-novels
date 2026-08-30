@@ -1,5 +1,10 @@
 # 少年少女文庫 WordPress ライブラリ 最終統合設計 v1.0
 
+用語 (本館 = 移築先の WordPress / 別館 = 原本を保つ GitHub Pages ミラー / 旧館 = 消滅した原サイト、
+ほか) は [`glossary.md`](glossary.md) が正典。**この 3 語は内部用語**であり、
+サイト上の表示文言・about ページ・バナー・書誌カードのラベルには使わない
+(読者には「原本を見る」「当時のページ」のように具体的に書く)。
+
 土台は審査で 2/3 の審査員が勝者指名した **data-model 案 (正準データモデルファースト)**。そこへ preservation 案の核 (原パス空間の温存・リポジトリ純潔原則・kansou 非インポート)、ops-simple 案の核 (常時稼働サーバゼロ・mu-plugin・make publish 一発化)、reader-ux 案の核 (メタ先行投入マイルストーン・軽量リーダー UX)、および審査員の全指摘 (BR 再フロー封印、guestbook 矛盾の削除、GitHub Issue 窓口の不採用、ヘッダ制御可能ホスト、410、lychee、再構築演習) を取り込んだ。
 
 ## 0. 設計原理と全体像
@@ -7,7 +12,7 @@
 **3原則**
 
 1. **単一真実源は `catalog/`** — 正規目録 lib1–73.html の 2,887 エントリ (+旧目録 lib01–09 の重複排除後差分) を正規化した JSONL 群を git 管理し、WordPress DB は `wp ts import` でいつでも全再構築できる「使い捨て可能な派生ビュー」とする。WP 内での手動編集は原則禁止し、修正はすべて catalog 側の overrides ファイルで行う (審査員指摘の「export-manual 還流の腐敗」リスクを、還流機構ではなく編集経路の一本化で構造的に消す)。
-2. **公開面は完全静的** — WP は非公開オリジン (手元 Docker Compose、必要時のみ起動)。Simply Static で書き出した「整理版」と、原パス空間をそのまま保持した「アネックス配信物」を 1 つの静的サイトにマージして配信。常時稼働サーバゼロで 10 年放置耐性を確保する。
+2. **公開面は完全静的** — WP は非公開オリジン (手元 Docker Compose、必要時のみ起動)。Simply Static で書き出した「本館」と、原パス空間をそのまま保持した「別館の配信物」を 1 つの静的サイトにマージして配信。常時稼働サーバゼロで 10 年放置耐性を確保する。
 3. **原本無改変・加工は配信物のみ** — git 作業ツリーの原ファイルには一切触れない。mailto 除去・往還バナー注入・noindex 付与はすべてビルド時に deploy artifact へ施工する (ops-simple の「別コミット直接施工」は不採用。施工スクリプトが git 管理され、成果物はデプロイブランチに載るため来歴も残る)。
 
 **層構造**
@@ -58,7 +63,7 @@ Work の本文にはシリーズタイトルページ (novel/**/title*.htm 約 1
 |---|---|
 | `_ts_kind` | work / episode |
 | `_ts_alias_paths` | JSON。md5 一致・別名重複ファイル群 (城弾シアターミラー 200907/201009 由来等)。正本 1 つを選び残りは alias |
-| `_ts_orig_url` / `_ts_annex_url` / `_ts_annex_yays_url` | 当時の ts.novels.jp URL / アネックス原本 URL / ~yays 初出版 URL (相対パス一致 1,399 件のみ) |
+| `_ts_orig_url` / `_ts_annex_url` / `_ts_annex_yays_url` | 当時の ts.novels.jp URL / 別館の原本 URL / ~yays 初出版 URL (相対パス一致 1,399 件のみ) |
 | `_ts_pub_date_raw` | 目録日付の原表記 (`2000/10/8（日）` 等)。post_date はここから設定。**DDHHMMSS ディレクトリ名は「初回投稿バッチ」であり話の日付ではない (200209 配下に 2014 年の話が実在) — インポータ仕様書に明記** |
 | `_ts_size_kb` / `_ts_files_count` | 目録のサイズ欄 (`154KB / 4FILES` 対応) |
 | `_ts_illustrator` / `_ts_illustrator_url` | 画師 477 件 (単引用符 href 8 件、複数画師の 、/＆ 区切り対応) |
@@ -107,11 +112,11 @@ mu-plugins/ts-library/  # CPT/タクソノミー/メタ登録 + WP-CLI コマン
 - (a) script 122 件全削除 (全て Geocities ビーコン/カウンタと確認済み)
 - (b) mailto をリンク・表示テキストごと除去
 - (c) サイト共通クローム剥がし (冒頭「戻る」〜2 番目の `<hr width=70%>`、末尾 `<hr>`〜「□感想はこちらに□」フッタ。87%/73% で定型確認済み) — 剥がした内容はメタに退避し、テーマのナビで置換
-- (d) 相対 img src → アネックス絶対 URL 書換
+- (d) 相対 img src → 別館の絶対 URL へ書換
 
 BR 再フロー・MsoNormal 剥離・旧 IE 式 ruby 書換は**行わない** (ruby は互換 CSS `rb{display:inline}` で吸収 — preservation 案)。出力は単一の `<!-- wp:html -->` ブロック。`_ts_reflow_mode` の診断分類だけ全件に付与し、将来「許諾作者分または高信頼定型のみ」の段落ブロック昇格 (Phase 6 任意) の作業台帳とする。特殊エントリ: toukou01–03.html はアンカー分割で各 Episode に配布、画像作品 21 件 (.jpg/.gif 直リンク) は figure 1 枚の Episode、外部絶対 URL 6 件と special/rb 1 件はリンクスタブ Episode (死にリンクは Wayback 書換)。
 
-**(4) 画像** — **メディアライブラリに複製しない**。挿絵・絵文字 GIF 実体 1,195 個はアネックス正本を絶対 URL 参照 (DB 肥大と再インポート増殖を防ぐ。同一ドメイン配信なので実害なし)。例外は eyecatch.jpg 109 件のみ featured image として sideload (`_ts_media_source` で dedup)。
+**(4) 画像** — **メディアライブラリに複製しない**。挿絵・絵文字 GIF 実体 1,195 個は別館の正本を絶対 URL 参照 (DB 肥大と再インポート増殖を防ぐ。同一ドメイン配信なので実害なし)。例外は eyecatch.jpg 109 件のみ featured image として sideload (`_ts_media_source` で dedup)。
 
 **(5) 投入: `wp ts` コマンド群** (mu-plugin 内、WXR は冪等再実行に不向きのため不採用):
 
@@ -144,21 +149,21 @@ make deploy    # wrangler pages deploy dist/site
 
 ### 3.1 名前空間の原則
 
-ドキュメントルート = アネックス原パス空間。WP 整理版は**予約名前空間**にのみ書き出し、ビルド時の衝突検査で予約外への上書きを機械的に禁止する。予約: `/works/ /authors/ /genre/ /type/ /keyword/ /world/ /year/ /index/ /search/ /docs/ /dojo/ /about/ /takedown/ /removed/ /annex/ /assets/` + ルートの `index.html robots.txt sitemap.xml _headers _redirects`。`/special/` はアネックス実在パス (03summer 61 ファイル) のため WP は使わない。唯一の意図的衝突はルート index.html (WP トップが取る): 原本ルートトップ (2018 再建骨格、固有コンテンツ実質なしと調査済み) は `/annex/index-2018.html` に複製再掲し `/annex/` 案内に明記する。
+ドキュメントルート = 別館の原パス空間。WP 本館は**予約名前空間**にのみ書き出し、ビルド時の衝突検査で予約外への上書きを機械的に禁止する。予約: `/works/ /authors/ /genre/ /type/ /keyword/ /world/ /year/ /index/ /search/ /docs/ /dojo/ /about/ /takedown/ /removed/ /annex/ /assets/` + ルートの `index.html robots.txt sitemap.xml _headers _redirects`。`/special/` は別館の実在パス (03summer 61 ファイル) のため WP は使わない。唯一の意図的衝突はルート index.html (WP トップが取る): 原本ルートトップ (2018 再建骨格、固有コンテンツ実質なしと調査済み) は `/annex/index-2018.html` に複製再掲し `/annex/` 案内に明記する。
 
 ### 3.2 パーマリンク
 
 | ページ | URL 例 |
 |---|---|
-| トップ | `/` — サイト趣旨 (閉鎖サイトの資料保存)・収蔵統計 (2,887 作品/399 作者/1997–2014)・入口 4 つ (五十音/ジャンル/年代/検索)・**「新着」は置かず「今日の一作」** (works-index.json から日付シードでクライアント選出)・アネックス案内・削除窓口 |
+| トップ | `/` — サイト趣旨 (閉鎖サイトの資料保存)・収蔵統計 (2,887 作品/399 作者/1997–2014)・入口 4 つ (五十音/ジャンル/年代/検索)・**「新着」は置かず「今日の一作」** (works-index.json から日付シードでクライアント選出)・原本アーカイブの案内 (表示文言。「別館」とは書かない)・削除窓口 |
 | 作品 | `/works/johdan-d-upboy/` (あらすじ・作者コメント・推薦文・話一覧・オススメ双方向・原本リンク) |
 | 話 | `/works/johdan-d-upboy/06/` (単発は `/works/{slug}/` で完結) |
-| 作者 | `/authors/writerman/` (全作品年代順・異表記・感想板アネックスリンク・Homepage=Wayback・現役活動先) |
+| 作者 | `/authors/writerman/` (全作品年代順・異表記・感想板 (別館) へのリンク・Homepage=Wayback・現役活動先) |
 | 分類 | `/genre/gakuen/` `/type/henshin/` `/keyword/orekko/` `/world/kayo-chan/` |
 | 年代 | `/year/2003/` (mu-plugin のカスタムリライトで post_date 年別一覧) |
 | 索引 | `/index/` ハブ → `/index/kana/a/`〜`/index/kana/wa/` (五十音、lib-index の現代版)、`/index/timeline/` (1997–2014 年表+世代解説)、`/index/bunrui/` (化石索引 bunrui.html の SF/FT/リアル×器/核×自/他 マトリクスを解題付きで再構成)、`/index/vocabulary/` (genre.html 語彙解題)、`/index/osusume/` (推薦グラフ: 被推薦ランキング+推薦者別一覧) |
 | 検索 | `/search/` — Pagefind (ビルド時索引・クライアントサイド・自己ホスト JS)。`data-pagefind-filter` で 作者/ジャンル/種別/年 のファセット絞込 |
-| 運営 | `/docs/comittee-no1/` 等、`/about/`、`/takedown/`、`/removed/` (削除済みリスト)、`/annex/` (アネックス 4 区画案内+gallery/paintbbs 導線) |
+| 運営 | `/docs/comittee-no1/` 等、`/about/`、`/takedown/`、`/removed/` (削除済みリスト)、`/annex/` (別館の 4 区画の案内+gallery/paintbbs 導線。**ページ上の見出し・本文は「原本アーカイブ」等の具体語で書き、「別館」とは書かない**) |
 | 道場 | `/dojo/20031015213021/` (Phase 6) |
 | 旧 URL | `/novel/200209/19204751/d_upboy06.htm`・`/lib12.html`・`/library.html`・`/series.html`・`/~ts/kansou/bbs@log_johdan.cgi`・`/~yays/…` — **原本ファイルがそのまま返る (リダイレクト不要)**。alias パスも実ファイルとして残り、バナーで同一 WP URL へ誘導 |
 
@@ -175,34 +180,35 @@ make deploy    # wrangler pages deploy dist/site
 - 読了位置しおり (URL 単位、端末内完結) / キーボード ←/→ 話ナビ / サイズ KB からの読了時間目安
 - **縦書きは実装しない** — 原本の縦書き指定は 3,817 ファイル中 1 件 (data-model の実測論拠を採用、preservation の opt-in 案は却下)
 
-**Episode ページ構成**: パンくず (作者>作品>話) → メタヘッダ (初出日・サイズ・画師・分類チップ) → 本文 → 話ナビ [前話|作品目次|次話] (menu_order、`_ts_nav_links` で検証) → **書誌カード**: 「初出: ts.novels.jp {原パス} ({日付}) / 回収経路: {Wayback 等の人間可読表示} / 原本を見る (アネックス) / 初出時の姿 (~yays 2002 年版、存在する 1,399 件のみ) / 当時の感想を読む (作者感想板ログ)」→ 推薦文 (編集委員クレジット付き blockquote、`/docs/` の委員プロフィールへリンク) → オススメ双方向カード。
+**Episode ページ構成**: パンくず (作者>作品>話) → メタヘッダ (初出日・サイズ・画師・分類チップ) → 本文 → 話ナビ [前話|作品目次|次話] (menu_order、`_ts_nav_links` で検証) → **書誌カード** (「」内は**読者に見える表示文言**。「別館」等の内部語は出さず、リンク先が別館であることは書かない): 「初出: ts.novels.jp {原パス} ({日付}) / 回収経路: {Wayback 等の人間可読表示} / 原本を見る / 初出時の姿 (~yays 2002 年版、存在する 1,399 件のみ) / 当時の感想を読む (作者感想板ログ)」→ 推薦文 (編集委員クレジット付き blockquote、`/docs/` の委員プロフィールへリンク) → オススメ双方向カード。
 
 ---
 
 ## 5. コミュニティ層
 
-原則: **「当時の声は史料として見せる。新規の声は受けない。正本は常にアネックス」**。
+原則: **「当時の声は史料として見せる。新規の声は受けない。正本は常に別館」**。
 
 - **kansou (作者単位板 289、投稿 2,866 件)**: **インポートも構造化表示もしない。深リンクのみ** (preservation の論拠「板は作者単位で作品単位でない — リンクが最も誠実」を全審査員が支持)。作者ページと各 Episode 書誌カードから該当板ログへ。将来の構造化タブは要決定事項 (実施時も恒久 noindex)。
 - **2ndbbs ストーリー道場 (作品 267 + 感想 1,509 件)**: 感想が同一ページ埋込で紐付けが自明な唯一の層。Phase 6 で CPT `ts_dojo` + 読み取り専用アーカイブコメント (`comment_type='ts_archive'`、原日時・ハンドル保持・メール除去) として取込。カジノ/薬物スパム (13 ページ濃厚汚染) は NG ワード+言語判定でフィルタし、**除外ログ `catalog/dojo_excluded.jsonl` を残す** (何を史料から落としたかの記録 = 説明責任)。
-- **~yays noteky f_0 (作品単位感想 63 ノート)**: Phase 6 で題名の完全一致・非曖昧マッチ分のみ該当 Work ページに「当時の感想 (2001–02 感想ボードより)」の読み取り専用史料ブロックとしてメタ表示 (コメント欄には入れない — 現役機能との誤認防止)。曖昧分はアネックスリンクのみ。
+- **~yays noteky f_0 (作品単位感想 63 ノート)**: Phase 6 で題名の完全一致・非曖昧マッチ分のみ該当 Work ページに「当時の感想 (2001–02 感想ボードより)」の読み取り専用史料ブロックとしてメタ表示 (コメント欄には入れない — 現役機能との誤認防止)。曖昧分は別館へのリンクのみ。
 - **オススメ作品グラフ (765 エントリ・988 リンク)**: catalog 由来データなので Phase 4 から。作品ページに出リンク「{推薦者}さんのオススメ」+入リンク「この作品を挙げた読者」、`/index/osusume/` に被推薦ランキング。
-- **除外/凍結**: rounge (94% スパム — 実スレ約 20 本の所在は `/annex/` 案内に記載)、~ts/bbs 3 板・resbbs4a・ezpe noteky・newinfo・paintbbs (163+59 枚)・~yays gallery (CG 313 点) はアネックス凍結。gallery/paintbbs は `/annex/` からギャラリー導線のみ。
+- **除外/凍結**: rounge (94% スパム — 実スレ約 20 本の所在は `/annex/` 案内に記載)、~ts/bbs 3 板・resbbs4a・ezpe noteky・newinfo・paintbbs (163+59 枚)・~yays gallery (CG 313 点) は別館に凍結。gallery/paintbbs は `/annex/` からギャラリー導線のみ。
 - **新規コメント: 全面閉鎖** (comment_status=closed 強制。rounge の 94% スパム化が実績根拠)。guestbook は静的方針と矛盾するため置かない (審査員1)。連絡は `/takedown/` の運営窓口 (メール+フォーム転送) に一本化し、「感想は作者の現役活動先 (なろう/pixiv、判明分は作者ページに記載) へ」と案内。**GitHub Issue 窓口は不採用** — 削除依頼者の身元と依頼内容を公開の場に晒す (審査員1・3)。
 
 ---
 
-## 6. 静的ミラー (アネックス) との併存
+## 6. 静的ミラー (別館) との併存
 
-**境界** (調査の boundary_proposal を採用): WP 化 = 第 2 世代リポジトリ直下の作品層のみ (novel/ 5,017 のうち本文 3,818 + 目録 + comittee/columns/dialy ≒ 全体の 30%)。アネックス凍結 = 残り 70%: (1) 世代の姿 — ~ezpe (1999)、~yays (2000–02、gallery/paintbbs 含む。~yays/library/ は 95.4% 重複と知りつつ「2002 年春のタイムカプセル」として丸ごと)、ts-novels.jp 2018 再建骨格 (2) 交流ログ — ~ts (kansou/bbs 4,008)、~ezpe/~yays cgi-bin 約 4,800 (3) 閉鎖後姉妹 — ts.novels.name / kirika.novels.name / ts.raa0121.info / www.novels.name (4) 周辺 — ~yaji、www2.sts.co.jp。
+**境界** (調査の boundary_proposal を採用): WP 化 = 第 2 世代リポジトリ直下の作品層のみ (novel/ 5,017 のうち本文 3,818 + 目録 + comittee/columns/dialy ≒ 全体の 30%)。別館に凍結 = 残り 70%: (1) 世代の姿 — ~ezpe (1999)、~yays (2000–02、gallery/paintbbs 含む。~yays/library/ は 95.4% 重複と知りつつ「2002 年春のタイムカプセル」として丸ごと)、ts-novels.jp 2018 再建骨格 (2) 交流ログ — ~ts (kansou/bbs 4,008)、~ezpe/~yays cgi-bin 約 4,800 (3) 閉鎖後姉妹 — ts.novels.name / kirika.novels.name / ts.raa0121.info / www.novels.name (4) 周辺 — ~yaji、www2.sts.co.jp。
 
-**アネックス配信物への施工** (annex_build.py、原ファイルは無改変):
+**別館の配信物への施工** (annex_build.py、原ファイルは無改変):
 - mailto 除去 (リンク属性+表示テキスト。目録 3,569 件・全体 6,445 ファイル)、BBS 投稿者メール除去
-- 各 HTML 冒頭に 1 行バナー「これは原本アーカイブです | 整理版で読む → {path_map.json から解決した WP URL} | 削除依頼」— ビルド時注入なので nginx sub_filter の gzip/charset 問題 (審査員1) は構造的に消える
+- 各 HTML 冒頭に 1 行バナー (**読者に見える表示文言**。「本館」とは書かない):
+  「これは原本アーカイブです | 少年少女文庫で読む → {path_map.json から解決した WP URL} | 削除依頼」— ビルド時注入なので nginx sub_filter の gzip/charset 問題 (審査員1) は構造的に消える
 - noindex (meta + `_headers` の X-Robots-Tag 両方)
 - takedown/denylist.yml 該当ファイルの除外
 
-**正規性**: canonical は常に WP 側 (整理版は self-canonical、アネックスは全域恒久 noindex なので重複問題は発生しない)。**削除同期**: `takedown/denylist.yml` を単一情報源とし、(a) `wp ts apply-takedown` (draft 化) (b) annex_build の除外 (c) `functions/_middleware.js` (Cloudflare Pages Functions ~20 行) が該当パスに **410 Gone** を返す (d) git 履歴除去は docs/removal-runbook.md (git filter-repo、raw-original タグにも残る事実を明記) — 四層が同じファイルを読む。**リンク健全性**: 各 publish の verify で lychee サンプル検査、年 2 回フルクロール (バナー・path_map の黙った腐敗を検出)。
+**正規性**: canonical は常に WP 側 (本館は self-canonical、別館は全域恒久 noindex なので重複問題は発生しない)。**削除同期**: `takedown/denylist.yml` を単一情報源とし、(a) `wp ts apply-takedown` (draft 化) (b) annex_build の除外 (c) `functions/_middleware.js` (Cloudflare Pages Functions ~20 行) が該当パスに **410 Gone** を返す (d) git 履歴除去は docs/removal-runbook.md (git filter-repo、raw-original タグにも残る事実を明記) — 四層が同じファイルを読む。**リンク健全性**: 各 publish の verify で lychee サンプル検査、年 2 回フルクロール (バナー・path_map の黙った腐敗を検出)。
 
 ---
 
@@ -214,9 +220,9 @@ make deploy    # wrangler pages deploy dist/site
 3. **公開前の作者連絡**: README 特定済みの連絡可能作者 (きりか進ノ介、toshi9、大原野山城守武里、天爛、なろう/pixiv 活動中の作者群 — MEMORY の連絡経路リスト起点) へ許諾依頼または事前告知。**現役サイトから直接回収した 18 ページ+挿絵は許諾必須**とし、得られるまで denylist で非公開。進捗は `ts_contact_status` 状態機械で管理
 4. **削除窓口 `/takedown/`**: メール+フォーム転送。全ページフッタからリンク。本人確認は緩く (当時のサイト/なろう/pixiv アカウントからの連絡で足りる)。**受領後 72 時間以内の非公開化 SLA** を宣言。四層同期削除+`/removed/` に削除済みリスト (作者名+理由のみ) を公開し再収蔵を防ぐ
 
-**PII**: mailto は WP=catalog 段階除外 (DB に入らない)、アネックス=配信物マスク。BBS ハンドル名は残置、実名らしきもの・生年月日入りアドレス等の高 PII は個別マスク。作者個人サイト URL 175 本は Wayback スナップショットリンクへ書換 (ドメインスクワット対策)、現存移転先のみ生リンク。git raw 層に未マスク原本が残り clone で取得可能な事実は README に明記 (「マスクは秘匿でなく礼儀」)。
+**PII**: mailto は WP=catalog 段階除外 (DB に入らない)、別館=配信物マスク。BBS ハンドル名は残置、実名らしきもの・生年月日入りアドレス等の高 PII は個別マスク。作者個人サイト URL 175 本は Wayback スナップショットリンクへ書換 (ドメインスクワット対策)、現存移転先のみ生リンク。git raw 層に未マスク原本が残り clone で取得可能な事実は README に明記 (「マスクは秘匿でなく礼儀」)。
 
-**SEO / 段階解禁**: robots.txt を差し替え (現物は archive.org の誤回収物) — GPTBot/CCBot/Google-Extended 等 AI 学習クローラ Disallow、ia_archiver 許可。公開初期は `_headers` で**全域 X-Robots-Tag: noindex** (URL を知る人向け)。窓口整備+作者連絡完了後、`/works/ /authors/ /index/` 等の整理版のみ解禁 (=グローバル noindex を外しアネックス名前空間への恒久 noindex ルールに差し替え。名前空間マニフェストから gen_headers.py が生成)。sitemap.xml は解禁区画のみビルド時生成。BBS/アネックス/PII 層は恒久 noindex。
+**SEO / 段階解禁**: robots.txt を差し替え (現物は archive.org の誤回収物) — GPTBot/CCBot/Google-Extended 等 AI 学習クローラ Disallow、ia_archiver 許可。公開初期は `_headers` で**全域 X-Robots-Tag: noindex** (URL を知る人向け)。窓口整備+作者連絡完了後、`/works/ /authors/ /index/` 等の本館のみ解禁 (=グローバル noindex を外し別館の名前空間への恒久 noindex ルールに差し替え。名前空間マニフェストから gen_headers.py が生成)。sitemap.xml は解禁区画のみビルド時生成。BBS/別館/PII 層は恒久 noindex。
 
 ---
 
@@ -238,10 +244,10 @@ make deploy    # wrangler pages deploy dist/site
 |---|---|---|---|
 | **0. 方針とガバナンス** | 1–2 週 | takedown フロー文書化、denylist.yml スキーマ、robots.txt 草案、ランブック骨子、作者連絡台帳初期化 (MEMORY 連絡経路)、ドメイン/ホスト決定 | 公開ポリシー文書一式、takedown/denylist.yml (空)、docs/removal-runbook.md v0 |
 | **1. catalog 確立** | 2–3 週 | parse_lib.py / extract_taxonomy.py / author_inventory.py / inventory.json / board_index.json を scripts/wp/ へ移植・統合。catalog_build + work_builder。**Work クラスタの人手確認 (needs_review 100–200 件) が最重量タスク**。正規化マップ人手レビュー。旧目録差分確定 | catalog/*.jsonl 一式、QA レポート (2,887 件・パース率 100% 検証)、work_overrides.yml |
-| **2. WP 骨格+メタ全量先行投入** | 2 週 | docker 環境、mu-plugin v0.1 (CPT/タクソノミー/メタ/wp ts コマンド)、パイロット 100 件→全量メタ投入、**冪等性テスト (2 連続実行で差分ゼロ)**、annex_build v0.1、make publish 開通 → **全域 noindex で限定公開**。本文なしでも目録・索引・作者ページが成立する **A 案相当の中間形** (reader-ux 案のマイルストーンを正式採用 — 作者連絡の反応が悪ければここで凍結できる退路) | 動く限定公開サイト (メタポータル+アネックス)、path_map.json |
+| **2. WP 骨格+メタ全量先行投入** | 2 週 | docker 環境、mu-plugin v0.1 (CPT/タクソノミー/メタ/wp ts コマンド)、パイロット 100 件→全量メタ投入、**冪等性テスト (2 連続実行で差分ゼロ)**、annex_build v0.1、make publish 開通 → **全域 noindex で限定公開**。本文なしでも目録・索引・作者ページが成立する **A 案相当の中間形** (reader-ux 案のマイルストーンを正式採用 — 作者連絡の反応が悪ければここで凍結できる退路) | 動く限定公開サイト (メタポータル+別館)、path_map.json |
 | **3. 本文投入 (raw)** | 2 週 | body_extract、全話 wp:html 投入、eyecatch 109 件 sideload、無作為 100 件の原本併読 QA、`_ts_reflow_mode` 全件分類 | 全話が読める限定公開サイト、reflow 台帳レポート |
 | **4. テーマ・索引・読書 UX** | 2–3 週 | ts-bunko テーマ、リーダー UI (しおり/←→/ダーク)、五十音・年表・bunrui・語彙・osusume 索引、Pagefind ファセット検索、書誌カード | 通読可能な β サイト (noindex のまま) |
-| **5. 権利ゲートと段階解禁** | 作者返信次第 (Phase 3 以降並行) | 作者連絡発送、現役回収 18 ページの許諾確認 (未許諾は denylist)、/takedown/ 稼働、削除リハーサル (テスト作品で四層削除演習)、完了後に整理版のみ index 解禁+sitemap | 公開サイト v1、連絡記録台帳、演習記録 |
+| **5. 権利ゲートと段階解禁** | 作者返信次第 (Phase 3 以降並行) | 作者連絡発送、現役回収 18 ページの許諾確認 (未許諾は denylist)、/takedown/ 稼働、削除リハーサル (テスト作品で四層削除演習)、完了後に本館のみ index 解禁+sitemap | 公開サイト v1、連絡記録台帳、演習記録 |
 | **6. コミュニティ史料層 (順次)** | 順次 | ts_dojo 取込 (スパム除外ログ付き)、noteky f_0 非曖昧マッチ表示、/annex/ ギャラリー案内。任意: 許諾作者分の段落ブロック昇格 (_ts_reflow_mode 台帳から)、kansou 構造化タブ (要決定) | community 取込一式 |
 | **定常運用** | — | 削除対応 (72h SLA)、随時 publish、年 1 回再構築演習、年 2 回リンク検査 | 運用ログ |
 
@@ -258,7 +264,7 @@ make deploy    # wrangler pages deploy dist/site
 | 動的 WP 常時公開 vs 静的書き出し | **非公開オリジン+静的書き出し** | 10 年放置耐性・攻撃面消滅。コメント閉鎖・GET 検索のみなので失うものがない |
 | 旧 URL 互換の方式 | **原パス空間をドキュメントルートに保持し WP を予約名前空間に重ねる静的マージ。リダイレクト表なし** | preservation の nginx 素通しの利点を、VPS なしで達成。3,900 行のリダイレクト DB も _redirects スタブも不要 |
 | ホスティング | **Cloudflare Pages (ヘッダ制御+Functions で 410)。GitHub Pages 単独は不可** | X-Robots-Tag・410 が takedown SLA と段階 noindex の実装要件 (審査員3) |
-| 画像の置き場 | **アネックス正本を絶対 URL 参照。eyecatch 109 件のみ featured image** | DB 肥大・再インポート増殖の回避 (審査員1・2 が採用指示) |
+| 画像の置き場 | **別館の正本を絶対 URL 参照。eyecatch 109 件のみ featured image** | DB 肥大・再インポート増殖の回避 (審査員1・2 が採用指示) |
 | kansou 2,866 件 | **当面リンクのみ。コメント化も構造化表示もしない** | 作者単位板の作品コメント偽装は史料の改竄 (全審査員一致) |
 | 新規コメント/guestbook | **全面閉鎖。guestbook も置かない** | rounge 94% スパム化の実績。静的方針との矛盾 (審査員1・2) |
 | takedown 窓口の形態 | **メール+フォーム転送のみ。GitHub Issue 不採用** | 依頼者の身元・依頼内容を公開の場に晒す設計ミス (審査員1・3) |
@@ -301,11 +307,11 @@ make deploy    # wrangler pages deploy dist/site
 ## 再設計の決定
 
 1. **二拠点分業が制約により確定** — 旧・要決定事項 Q2 の推奨「Pages 廃止・一本化」を撤回する。
-   - **novels.xwp.jp** = WP 整理版ライブラリ (公開面・canonical・全 2,887 話)
-   - **GitHub Pages 現行ミラー** = アネックス原本 (`.cgi` を含む全 17,218 ファイルの URL 空間をそのまま維持 — 静的配信なので `.cgi` も無害に返せる。稼働実績あり)
+   - **novels.xwp.jp** = 本館 = WP ライブラリ (公開面・canonical・全 2,887 話)
+   - **GitHub Pages 現行ミラー** = 別館 = 原本 (`.cgi` を含む全 17,218 ファイルの URL 空間をそのまま維持 — 静的配信なので `.cgi` も無害に返せる。稼働実績あり)
    - 相互リンク: WP 書誌カード → Pages 原本 / Pages 側はビルド時バナー注入で `path_map.json` から WP へ誘導
 2. **Docker は構成から除外** — catalog 生成は開発機、投入はサーバ上の WP-CLI。`wp ts import` が冪等で DB が使い捨てなので、**全域 noindex の限定公開期間中は本番サイト自体がステージング**。隔離実験が必要になった場合のみ docker context で他マシンを使う (任意・非必須)。
-3. **権利ゲートは novels 側 .htaccess で実装** — 全域 `X-Robots-Tag: noindex` → 段階解禁、denylist からの `Redirect gone` 自動生成 (410)。**アネックス側 (Pages) はヘッダ制御不可**のため、ビルド時 meta noindex 注入+削除は 404 で妥協 (denylist 四層同期は従来どおり)。
+3. **権利ゲートは novels 側 .htaccess で実装** — 全域 `X-Robots-Tag: noindex` → 段階解禁、denylist からの `Redirect gone` 自動生成 (410)。**別館側 (Pages) はヘッダ制御不可**のため、ビルド時 meta noindex 注入+削除は 404 で妥協 (denylist 四層同期は従来どおり)。
 4. **novel/ 画像 1,195 点 (56MB) は novels 側にも複製配備** — 読書体験を Pages 非依存にする (`/assets/annex-img/` に相対構造ごと rsync、本文の img src はそこへ)。eyecatch 109 件の featured image 化は従来どおり。
 5. **mu-plugin は PHP 8.0 互換で書く** (サーバ CLI/web とも 8.0.30。パネルで上げられるなら 8.2+ 推奨)。
 6. **インポート後の nginx キャッシュクリア**を publish 手順に追加 (wpX のキャッシュ削除操作)。CloudSecure のログイン URL 変更は現状維持。
@@ -318,7 +324,7 @@ make deploy    # wrangler pages deploy dist/site
 [novels]  wp ts sync-terms && wp ts import && wp ts apply-takedown && wp ts verify
           (.htaccess を denylist から再生成 → 410 反映)
           キャッシュクリア
-[Pages]   アネックスは既存の deploy-pages.yml のまま (バナー/noindex/マスクは今後ビルド注入に移行)
+[Pages]   別館は既存の deploy-pages.yml のまま (バナー/noindex/マスクは今後ビルド注入に移行)
 ```
 
 ロードマップへの影響: Phase 0 の「ホスト決定」は完了。Phase 2 の「docker 環境」は「novels SSH/WP-CLI 疎通 (確認済み)+rsync デプロイスクリプト」に置換。他フェーズは不変。
@@ -326,14 +332,14 @@ make deploy    # wrangler pages deploy dist/site
 ## 要決定事項の更新
 
 - ~~Q1 公開ドメイン~~ → **決定: novels.xwp.jp** (将来カスタムドメインを被せる余地あり)
-- ~~Q2 現行 Pages ミラーの処遇~~ → **決定: アネックス原本として恒久併存** (プラットフォーム制約による必然)
+- ~~Q2 現行 Pages ミラーの処遇~~ → **決定: 別館 (原本レイヤ) として恒久併存** (プラットフォーム制約による必然)
 - Q3〜Q7 は引き続き選択待ち
 
 ---
 
 # v1.2 改訂: 本文の Markdown 正準化 (2026-08-30)
 
-v1.1 の二拠点確定により「原文の手触りはアネックス (GitHub Pages) が原 URL ごと恒久担保する」構図が
+v1.1 の二拠点確定により「原文の手触りは別館 (GitHub Pages) が原 URL ごと恒久担保する」構図が
 成立したため、v1.0 の「本文 raw 一律」決定を差し替え、**WP 側の本文は Markdown を正準とする**。
 raw を選んだ根拠だった「気づかれない本文改変」リスクは、実測プローブで**機械証明できる**ことを確認した。
 
@@ -378,7 +384,7 @@ raw を選んだ根拠だった「気づかれない本文改変」リスクは�
 ## 4. 読書体験・権利への波及
 
 - 変換済みの話はテーマの素の組版で表示 (v1.0 の「原本配色トグル」は raw フォールバック話のみに縮小)
-- 全話の書誌カードに「**無改変の原本を読む** (アネックス)」を常設し、本文表示が**整形版である旨を明示**
+- 全話の書誌カードに「**無改変の原本を読む**」(**表示文言**。リンク先は別館) を常設し、本文表示が**整形版である旨を明示**
   — 同一性保持権への配慮は「原本ワンクリック+機械証明ログ」で raw 方式と同等以上に立つ
 - 検索・抜粋・関連表示・将来のテーマ変更が構造化ブロックの恩恵をフルに受ける
 
@@ -388,13 +394,13 @@ raw を選んだ根拠だった「気づかれない本文改変」リスクは�
   構文表の拡充・テーブル分類規則・両辺共通正規化器)
 - Phase 6 の「ブロック昇格 (任意)」は本フェーズに吸収され消滅
 - 決定一覧「本文をブロック変換するか」→ **「Markdown 正準+無損失証明、証明不合格のみ raw」に改訂**
-  (v1.0 決定の根拠だった懸念は、アネックス恒久担保と機械証明の実証により解消)
+  (v1.0 決定の根拠だった懸念は、別館による恒久担保と機械証明の実証により解消)
 
 ---
 
 # v1.2 改訂: 本文 Markdown 正準化と感想板の近代ビュー (2026-08-30)
 
-v1.1 の二拠点分業 (アネックス = GitHub Pages が原文の手触りを恒久担保) を前提に、
+v1.1 の二拠点分業 (別館 = GitHub Pages が原文の手触りを恒久担保) を前提に、
 本文表現と感想板の扱いを実測に基づいて差し替える。
 
 ## A. 本文は Markdown 正準 (v1.0「raw 一律」を差し替え)
@@ -404,7 +410,7 @@ v1.1 の二拠点分業 (アネックス = GitHub Pages が原文の手触りを
 不合格・未対応構文の話は raw (`wp:html`) フォールバック — 全か無かにしない。
 
 **根拠** (v1.0 で raw を選んだ 2 つの理由が消えた):
-1. 同一性保持権・「気づかれない本文改変」への懸念 → アネックスに無改変原本が原 URL のまま常設され、
+1. 同一性保持権・「気づかれない本文改変」への懸念 → 別館に無改変原本が原 URL のまま常設され、
    全話の書誌カードからワンクリックで到達できる。WP 側は「整形版」と明示する。
 2. 保証コスト → 無損失不変量 (下記) で機械的に証明できることを試作で実証。
 
@@ -447,7 +453,7 @@ v1.0 の Phase 6「ブロック昇格 (任意)」はこの決定に吸収され�
 **モデル**: CPT `ts_board_post` (flat) + meta `_ts_board` (=作者 slug、`ts_author` と対応)・
 `_ts_post_no`・`_ts_posted_at`・`_ts_poster`・`_ts_parent_id` (Re: ツリー)・`_ts_source_path`。
 URL は予約名前空間に **`/boards/{author-slug}/`** を追加 (板ページ = スレッドツリーの
-アーカイブテンプレート)。書誌カードの「当時の感想」リンクはアネックス深リンクから
+アーカイブテンプレート)。書誌カードの「当時の感想」リンクは別館への深リンクから
 `/boards/{slug}/` へ差し替え (原本リンクは板ページ側に残す)。
 
 **範囲と優先順**: ① kansou 294 板 (~3,978 投稿) ② 道場 2ndbbs (作品 267+感想 1,509、従来計画どおり
@@ -460,7 +466,7 @@ URL は予約名前空間に **`/boards/{author-slug}/`** を追加 (板ペー�
 | 論点 | v1.0 | v1.2 |
 |---|---|---|
 | 本文の表現 | raw (wp:html) 一律 | **無損失証明付き Markdown 正準 (90〜95%) + raw フォールバック** |
-| kansou 感想板 | アネックス深リンクのみ | **読み取り専用の近代ビュー (板として再現、/boards/)** |
+| kansou 感想板 | 別館への深リンクのみ | **読み取り専用の近代ビュー (板として再現、/boards/)** |
 | Phase 6 | ブロック昇格 (任意) | 感想板・道場・noteky の近代ビュー実装 |
 
 ロードマップ影響: Phase 1 に MD 変換器の本実装 (+1 週)、Phase 3 は「MD 投入 (証明付き) + raw
@@ -504,7 +510,7 @@ v1.0〜v1.2 が前提としていた「権利者の明示許諾がない黙認+�
 | # | 論点 | 決定 |
 |---|---|---|
 | Q1 | 公開ドメイン | **novels.xwp.jp** (Xserver for WordPress) — v1.1 で決定済 |
-| Q2 | 現行 GitHub Pages ミラー | **アネックス原本として恒久併存** — v1.1 で決定済 (.cgi 403 制約) |
+| Q2 | 現行 GitHub Pages ミラー | **別館 (原本レイヤ) として恒久併存** — v1.1 で決定済 (.cgi 403 制約) |
 | Q3 | 公開 git リポジトリ | **public のまま**。README に「clone すれば未マスクの原本・当時のメールアドレスも取得できる」旨を明記して透明化する。権利照会が増えたら private 化を再検討 |
 | Q4 | 作者連絡が不達の場合 | **全量公開+削除即応**。現行 Pages ミラーと同じ姿勢を WP でも継続する |
 | Q5 | 旧目録 (lib01〜09) | **全差分を投入** (`corpus=legacy`)。1997.11〜の初期史料を目録に載せる |
@@ -519,8 +525,8 @@ v1.0〜v1.2 が前提としていた「権利者の明示許諾がない黙認+�
 ## 基本方針
 
 **サルベージしたもの、サルベージできるものは、すべて掲載する。**
-v1.0 の「WP 化は第 2 世代の作品層のみ(全体の約 30%)、残り 70% はアネックス凍結」という
-範囲限定は撤回する。アネックス(GitHub Pages・原 URL 空間)は**原本レイヤとして維持**しつつ、
+v1.0 の「WP 化は第 2 世代の作品層のみ(全体の約 30%)、残り 70% は別館に凍結」という
+範囲限定は撤回する。別館(GitHub Pages・原 URL 空間)は**原本レイヤとして維持**しつつ、
 WordPress 側にも収蔵物を可能な限り載せる。掲載しないものは、下記の明示的な例外に限る。
 
 ## この方針で新たに掲載対象になるもの(実測)
@@ -534,8 +540,8 @@ WordPress 側にも収蔵物を可能な限り載せる。掲載しないもの�
 | 感想板・道場・noteky | 約 5,500 投稿 | v1.2 の決定どおり `/boards/` `/dojo/` に収録(恒久 noindex は維持) |
 | 運営コンテンツ(編集"好"記・巻頭言・構築日記) | 24 | v1.0 どおり `ts_doc` に収録 |
 
-`~yays/library/novel` の 1,466 は本館 novel/ とほぼ同文の祖先スナップショット(固有作品はゼロと確認済み)
-なので、WP には重複収録せず、各話の書誌カードから「初出時の姿」としてアネックスへリンクする
+`~yays/library/novel` の 1,466 は本体期 novel/ とほぼ同文の祖先スナップショット(固有作品はゼロと確認済み)
+なので、WP には重複収録せず、各話の書誌カードから「初出時の姿」として別館へリンクする
 (既存方針を維持)。
 
 ## 掲載しない例外(これだけ)

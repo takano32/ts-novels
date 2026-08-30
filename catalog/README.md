@@ -3,6 +3,11 @@
 WordPress は `wp ts import` でいつでも作り直せる**使い捨ての派生ビュー**であり、
 正本はここにある JSONL / JSON。WP 管理画面での手動編集は禁止で、修正は必ずこちら側で行う
 (設計 `docs/wordpress-library-design.md` の 3 原則 1)。
+用語は [`../docs/glossary.md`](../docs/glossary.md) が正典
+(**本館** = 移築先の WordPress / **別館** = 原本を保つ GitHub Pages ミラー / **旧館** = 消滅した原サイト。
+いずれも内部用語で、読者に見せる文面では使わない)。
+**注意**: 本書で `corpus` の値として出てくる「本館」は **corpus `honkan` = 正規目録 lib1–73 由来**という
+収蔵区分の名前であって、移築先 WordPress を指す「本館」ではない。
 
 ## ファイル
 
@@ -47,14 +52,14 @@ mailto 由来の値の残存 0 / survey 実測値との突き合わせ)。1 つ�
 | `episode_id` | 結合キー (episodes ↔ bodies/ ↔ convert_report ↔ import) |
 | `corpus` | `honkan` (lib1–73) / `legacy` (旧目録 lib01–09) / `uncatalogued` (目録に無い収蔵物) / `extern-repost` (文庫未掲載の作者再掲) |
 | `source_path` / `source_anchor` / `source_kind` | 原パス空間での位置。`source_kind` = local / external |
-| `source_exists` | その原パスがこのリポジトリ (=アネックス) に実在するか |
+| `source_exists` | その原パスがこのリポジトリ (=別館の配信元) に実在するか |
 | `source_shared_by` | 同じ原パスを指す目録エントリの数 (1 なら固有) |
 | `entry_type` | html / image (CG 作品) / external |
 | `title` `author` `homepage` | 目録 1 行目。`homepage` は URL のみ (mailto は捨てる) |
 | `illustrator[]` `illustrator_url` `illustrator_raw` | 画師 (複数可)。原表記も保持 |
 | `date` `date_raw` `weekday` | 掲載日。**post_date は必ずこれを使う** (ディレクトリ名の日付は投稿バッチであり話の日付ではない) |
 | `size_kb` `files_n` | 目録のサイズ欄 (`154KB / 4FILES`) |
-| `kansou_slug` `kansou_annex_url` | 作者感想板の id と、アネックス上の板ログ URL |
+| `kansou_slug` `kansou_annex_url` | 作者感想板の id と、別館上の板ログ URL |
 | `arasuji` `comment` `suisen` | あらすじ / 作者コメント / 推薦文 (編集部)。話ナビリンクは除いた表示用テキスト |
 | `osusume` | `{recommender, refs[{href,title,author,author_inherited}], text}` |
 | `nav_links[]` | 【第N話はこちら】形の話ナビ (Work クラスタリングの材料) |
@@ -64,7 +69,7 @@ mailto 由来の値の残存 0 / survey 実測値との突き合わせ)。1 つ�
 | `zokusei[]` | 旧目録の【属性】欄。本館エントリでは常に空 |
 | `catalog_ref` | 出典 (`lib17.html#12`)。情報メタであり結合キーではない |
 | `orig_url` | 当時の URL (`http://ts.novels.jp/…`) |
-| `annex_url` | GitHub Pages のアネックス原本 URL (実在する場合のみ) |
+| `annex_url` | GitHub Pages (別館) の原本 URL (実在する場合のみ) |
 | `annex_yays_url` | `~yays/library/` に同一相対パスがある場合の初出版 URL |
 | `provenance` | 回収経路・取得日・コミット・(アーカイブ系は) 照会 URL |
 

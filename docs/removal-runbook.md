@@ -3,13 +3,15 @@
 対象読者: 運営者本人と、依頼された作業を代行する実行セッション。
 単一情報源は [`takedown/denylist.yml`](../takedown/denylist.yml)。
 本番の .htaccess 構造・キャッシュ層・危険操作ガードは [`environment.md`](environment.md)、
-削除対象がリポジトリのどこにあるかは [`data-inventory.md`](data-inventory.md) を参照。
+削除対象がリポジトリのどこにあるかは [`data-inventory.md`](data-inventory.md)、
+用語 (本館/別館/旧館 ほか) は [`glossary.md`](glossary.md) を参照
+(**この 3 語は内部用語**で、読者に見せる文面では使わない)。
 **このランブックは Phase 7.2 の削除リハーサル (テスト作品 1 件で実流し) の結果で実測更新する。**
 v0 の時点では ①〜⑤ の手順は設計上のものであり、実行時間は未実測。
 
 ## SLA
 
-- **受領から 72 時間以内に ①WP draft 化 ②410 ③アネックス除外 を完了**する (公開面から消える)。
+- **受領から 72 時間以内に ①WP draft 化 ②410 ③別館 (Pages) からの除外 を完了**する (公開面から消える)。
 - ④git 履歴除去 と ⑤/removed/ 掲示は 72h を過ぎてもよいが、⑤は 1 週間以内を目安とする。
 - 依頼者への一次返信 (受領しました + 想定日時) は**当日中**。本人確認は緩く運用する
   (当時のサイト・なろう・pixiv 等、作品と結びつくアカウントからの連絡で足りる)。
@@ -40,7 +42,7 @@ v0 の時点では ①〜⑤ の手順は設計上のものであり、実行時
 ```
 
 4. **対象の同定**を先に済ませる。work 単位の依頼でも、消える URL は
-   work + その全 episode + それらの alias パス + アネックスの原パスまで波及する。
+   work + その全 episode + それらの alias パス + 別館の原パスまで波及する。
 
 ```sh
 # 対象 work に属する episode の source_path と alias を全部出す (開発機)
@@ -114,7 +116,7 @@ Redirect gone /works/example-author-example-work/
 # END ts-takedown
 ```
 
-## ③ アネックス (GitHub Pages) 側の除外 (T+72h まで)
+## ③ 別館 (GitHub Pages) 側の除外 (T+72h まで)
 
 - Pages はヘッダを制御できないため 410 は返せない。**ビルド artifact から対象ファイルを落として 404**
   にするのが最大限 (設計 v1.1 の妥協点)。

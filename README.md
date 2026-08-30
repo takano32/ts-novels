@@ -190,6 +190,8 @@ CGI としては動作しません（静的な記録のみ）。
   同一構造の本体ツリーへのギャップフィル供給源でもある）、
   `~ezpe/` = `www2.tomato.ne.jp/~ezpe/`、`ts.novels.name/` ほかホスト名ディレクトリ = 各姉妹ドメイン。
 - `scripts/` … 回収・監査・変換ツール一式（ミラー本体ではない）。
+- `docs/` … 設計・手順・台帳。**プロジェクト内で使う語の定義は
+  [`docs/glossary.md`](docs/glossary.md) が正典**（WordPress 移築の設計文書で使う内部用語を含む）。
 - タグ **`raw-original`** … 初期 Wayback 回収分の変換前原本バイト。以後の追加回収分も、
   いずれも**変換前の生バイトを一旦コミットしてから** UTF-8 化しており、各 raw コミットが履歴に残っています。
 - `.nojekyll` … GitHub Pages の Jekyll 処理を無効化。
