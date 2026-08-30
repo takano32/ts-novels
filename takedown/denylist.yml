@@ -272,3 +272,38 @@ entries:
       git_history_purged: null
       removed_page_listed: null
     notes: 運営判断による一時非公開。サイト所有者の確認待ち (掲示は保留)
+  # 上記 2 件が本文中で参照している写真そのもの。投稿を非公開にしても画像ファイルは
+  # 直接 URL で取得できてしまうため、配信も止める (実測: 取り下げ後も 200 だった)。
+  # ファイル名 01123002〜01123016.jpg = 2001-12-30 の撮影分。
+  - id: TD-2026-0012
+    target:
+      kind: annex_path
+      value: novel/200907/19181513/011230*
+    reason: オフ会の写真ファイル本体 (私人の顔)。投稿の非公開だけでは配信が止まらない
+    reason_class: pii
+    requested_at: 2026-08-31
+    received_via: other
+    status: applied
+    applied:
+      wp_draft: null
+      htaccess_410: 2026-08-31
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    notes: 運営判断による一時停止。所有者の確認待ち。GitHub Pages 側は未対応 (要判断)
+  - id: TD-2026-0013
+    target:
+      kind: annex_path
+      value: novel/201009/16215412/011230*
+    reason: 同上 (同一写真の別パス)
+    reason_class: pii
+    requested_at: 2026-08-31
+    received_via: other
+    status: applied
+    applied:
+      wp_draft: null
+      htaccess_410: 2026-08-31
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    notes: 運営判断による一時停止。所有者の確認待ち。GitHub Pages 側は未対応 (要判断)

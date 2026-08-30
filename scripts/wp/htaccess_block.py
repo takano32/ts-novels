@@ -48,7 +48,36 @@ def denylist_410_lines():
         print(f'!! wp ts export-takedown-urls が失敗 (rc={r.returncode}) — 410 は据え置き')
         return None
     urls = [u.strip() for u in r.stdout.splitlines() if u.strip().startswith('/')]
-    return [f'Redirect gone {u}' for u in urls]
+    lines = [f'Redirect gone {u}' for u in urls]
+    lines += asset_410_lines()
+    return lines
+
+
+def asset_410_lines():
+    """denylist の kind: annex_path から、配信中の画像などの 410 を作る。
+
+    投稿を非公開にしてもファイル本体は直接 URL で取れる (実測)。WP を経由しない
+    /assets/annex-img/ 配下は .htaccess でしか塞げないのでここで扱う。"""
+    path = ROOT / 'takedown' / 'denylist.yml'
+    if not path.is_file():
+        return []
+    out, kind = [], None
+    for line in path.read_text(encoding='utf-8').splitlines():
+        if re.match(r'\s*#', line):
+            continue
+        m = re.match(r'\s+kind:\s*([a-z_]+)', line)
+        if m:
+            kind = m.group(1)
+            continue
+        m = re.match(r'\s+value:\s*["\']?([^"\'#]+)', line)
+        if m and kind == 'annex_path':
+            v = m.group(1).strip()
+            if v.endswith('*'):
+                out.append('RedirectMatch gone "^/assets/annex-img/%s"' % re.escape(v[:-1]))
+            else:
+                out.append('Redirect gone /assets/annex-img/%s' % v)
+            kind = None
+    return out
 
 
 def build_block():
