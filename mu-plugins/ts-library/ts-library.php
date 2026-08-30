@@ -1,55 +1,107 @@
 <?php
 /**
- * ts-library — 少年少女文庫 WordPress ライブラリのコンテンツモデル定義。
+ * Plugin Name: ts-library
+ * Description: 少年少女文庫 ライブラリのコンテンツモデル (CPT・タクソノミー・メタ) と wp ts コマンド。
+ *              mu-plugins 配置 = 管理画面から無効化できない (コンテンツモデル消失事故の防止)。
+ * Version: 0.1.0
  *
- * 進行台帳 (docs/wp-implementation-tasks.md) タスク 2.1 / 2.2。
- * 設計は docs/wordpress-library-design.md §1 (投稿タイプ・タクソノミー・post meta)。
- *
- * ここに置く理由: mu-plugin は管理画面から無効化できない。テーマやプラグインを
- * 触った事故でコンテンツモデルごと消えるのを防ぐ (docs/glossary.md「mu-plugin」)。
- *
- * 方針:
- *   - PHP 8.0 互換 (本番 CLI/web とも 8.0.30)。enum / readonly / never は使わない
- *   - 表示に出る文言に内部用語 (本館・別館・旧館) を書かない (docs/glossary.md)
- *   - WP DB は catalog/ の派生ビュー。管理画面での手編集は想定しない
- *     (ただし緊急対応で手編集された投稿を import が黙って潰さない保護は入れてある。
- *      inc/class-ts-import.php の「手動編集の検出」を参照)
+ * 根幹コード (Fable 所管)。設計: docs/wordpress-library-design.md §1 (+v1.2/v1.5 改訂)。
+ * - 投稿タイプ: ts_work (階層 = 親が作品/子が話)・ts_doc・ts_dojo・ts_board_post
+ * - タクソノミー: ts_author/ts_genre/ts_type/ts_keyword/ts_world (公開) + ts_corpus (非公開)
+ * - v1.5: サイトは公開前提。恒久 noindex は /boards/ /dojo/ (第三者ハンドルが載る層) のみ
+ * - コメントは全面閉鎖 (rounge の 94% スパム化が根拠)
  */
 
-if ( ! defined( 'ABSPATH' ) ) {
-	exit;
+if (!defined('ABSPATH')) { exit; }
+
+final class TS_Library {
+
+    public static function boot(): void {
+        add_action('init', [self::class, 'register'], 5);
+        add_filter('comments_open', [self::class, 'no_comments'], 20, 2);
+        add_filter('pings_open', [self::class, 'no_comments'], 20, 2);
+        add_action('wp_head', [self::class, 'noindex_boards'], 1);
+    }
+
+    public static function register(): void {
+        // ---- 投稿タイプ --------------------------------------------------
+        register_post_type('ts_work', [
+            'labels' => ['name' => '作品', 'singular_name' => '作品'],
+            'public' => true, 'hierarchical' => true, 'has_archive' => false,
+            'menu_icon' => 'dashicons-book',
+            'supports' => ['title', 'editor', 'excerpt', 'custom-fields', 'page-attributes', 'thumbnail'],
+            'rewrite' => ['slug' => 'works', 'with_front' => false, 'hierarchical' => true],
+            'show_in_rest' => true, // 管理画面のエディタ用 (運用上の編集は catalog 経由が正)
+        ]);
+        register_post_type('ts_doc', [
+            'labels' => ['name' => '運営文書', 'singular_name' => '運営文書'],
+            'public' => true, 'hierarchical' => false, 'has_archive' => false,
+            'menu_icon' => 'dashicons-media-document',
+            'supports' => ['title', 'editor', 'custom-fields'],
+            'rewrite' => ['slug' => 'docs', 'with_front' => false],
+            'show_in_rest' => true,
+        ]);
+        register_post_type('ts_dojo', [
+            'labels' => ['name' => 'ストーリー道場', 'singular_name' => '道場作品'],
+            'public' => true, 'hierarchical' => false, 'has_archive' => true,
+            'menu_icon' => 'dashicons-format-chat',
+            'supports' => ['title', 'editor', 'custom-fields', 'comments'],
+            'rewrite' => ['slug' => 'dojo', 'with_front' => false],
+            'show_in_rest' => true,
+        ]);
+        register_post_type('ts_board_post', [
+            'labels' => ['name' => '感想板の投稿', 'singular_name' => '感想板の投稿'],
+            'public' => true, 'hierarchical' => false, 'has_archive' => false,
+            'exclude_from_search' => true, 'menu_icon' => 'dashicons-testimonial',
+            'supports' => ['title', 'editor', 'custom-fields'],
+            'rewrite' => ['slug' => 'boards', 'with_front' => false],
+            'show_in_rest' => false,
+        ]);
+
+        // ---- タクソノミー ------------------------------------------------
+        $tax = function (string $name, string $slug, string $label, array $extra = []) {
+            register_taxonomy($name, ['ts_work', 'ts_dojo', 'ts_board_post'], array_merge([
+                'labels' => ['name' => $label], 'public' => true, 'hierarchical' => false,
+                'show_admin_column' => true, 'show_in_rest' => true,
+                'rewrite' => ['slug' => $slug, 'with_front' => false],
+            ], $extra));
+        };
+        $tax('ts_author', 'authors', '作者');       // コアの author_base=/author/ と衝突しない複数形
+        $tax('ts_genre', 'genre', 'ジャンル');
+        $tax('ts_type', 'type', '種別');
+        $tax('ts_keyword', 'keyword', 'キーワード');
+        $tax('ts_world', 'world', '共有世界');
+        register_taxonomy('ts_corpus', ['ts_work'], [   // 収蔵区分: 絞込用・URL は持たせない
+            'labels' => ['name' => '収蔵区分'], 'public' => false,
+            'show_ui' => true, 'show_admin_column' => true, 'show_in_rest' => true,
+            'rewrite' => false,
+        ]);
+
+        // ---- 代表的な post meta (書誌カード・テーマが読む分) --------------
+        foreach (['_ts_episode_id', '_ts_work_slug', '_ts_kind', '_ts_source_path', '_ts_corpus',
+                  '_ts_pub_date_raw', '_ts_orig_url', '_ts_annex_url', '_ts_annex_yays_url',
+                  '_ts_kansou_slug', '_ts_kansou_annex_url', '_ts_arasuji', '_ts_author_comment',
+                  '_ts_suisen', '_ts_catalog_ref'] as $key) {
+            register_post_meta('ts_work', $key, ['type' => 'string', 'single' => true,
+                'show_in_rest' => false, 'auth_callback' => '__return_false']);
+        }
+    }
+
+    /** コメント・ピンバックは全投稿タイプで閉鎖 (ts_dojo のアーカイブコメントは表示のみ) */
+    public static function no_comments($open, $post_id) {
+        $type = get_post_type($post_id);
+        if (in_array($type, ['ts_work', 'ts_doc', 'ts_dojo', 'ts_board_post'], true)) return false;
+        return $open;
+    }
+
+    /** 恒久 noindex 層: /boards/ /dojo/ (v1.5 — 公開ゲートではなく第三者のプライバシー配慮) */
+    public static function noindex_boards(): void {
+        if (is_singular(['ts_board_post', 'ts_dojo']) || is_post_type_archive('ts_dojo')) {
+            echo '<meta name="robots" content="noindex, follow">' . "\n";
+        }
+    }
 }
 
-define( 'TS_LIBRARY_VERSION', '0.1.0' );
-define( 'TS_LIBRARY_DIR', __DIR__ );
+TS_Library::boot();
 
-/** 本プラグインが管理する投稿タイプ。 */
-function ts_library_post_types(): array {
-	return array( 'ts_work', 'ts_doc', 'ts_dojo', 'ts_board_post' );
-}
-
-/** 本プラグインが管理するタクソノミー (6 本)。 */
-function ts_library_taxonomies(): array {
-	return array( 'ts_author', 'ts_genre', 'ts_type', 'ts_keyword', 'ts_world', 'ts_corpus' );
-}
-
-/**
- * 恒久 noindex 層の投稿タイプ。
- * 設計 v1.5 により全域 noindex は撤回されたが、当時の掲示板投稿者のハンドルが載る層だけは
- * 公開ゲートとは別の理由 (第三者のプライバシー配慮) で恒久的に noindex を維持する。
- */
-function ts_library_noindex_post_types(): array {
-	return array( 'ts_dojo', 'ts_board_post' );
-}
-
-require_once TS_LIBRARY_DIR . '/inc/post-types.php';
-require_once TS_LIBRARY_DIR . '/inc/taxonomies.php';
-require_once TS_LIBRARY_DIR . '/inc/meta.php';
-require_once TS_LIBRARY_DIR . '/inc/robots.php';
-
-if ( defined( 'WP_CLI' ) && WP_CLI ) {
-	require_once TS_LIBRARY_DIR . '/inc/class-ts-catalog.php';
-	require_once TS_LIBRARY_DIR . '/inc/class-ts-import.php';
-	require_once TS_LIBRARY_DIR . '/inc/class-ts-cli.php';
-	WP_CLI::add_command( 'ts', 'TS_Library_CLI' );
-}
+require __DIR__ . '/includes/commands.php';

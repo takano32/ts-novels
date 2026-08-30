@@ -51,7 +51,9 @@ else
   echo "(bodies/ が無い — python3 scripts/wp/body_convert.py で生成してから)"
 fi
 
-echo "== [3/4] mu-plugins を rsync"
+echo "== [3/4] mu-plugins を rsync (ローダ + 本体)"
+rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/mu-plugins/ts-library-loader.php" \
+      "$HOST:$REMOTE_BASE/public_html/wp-content/mu-plugins/ts-library-loader.php" | tail -2
 rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/mu-plugins/ts-library/" \
       "$HOST:$REMOTE_BASE/public_html/wp-content/mu-plugins/ts-library/" | tail -3
 if (( APPLY )); then
