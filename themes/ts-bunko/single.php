@@ -20,7 +20,9 @@ while (have_posts()) {
         continue;
     }
 
-    $children = get_children(['post_parent' => $post->ID, 'post_type' => 'ts_work', 'fields' => 'ids']);
+    // publish 限定 — 取り下げ (draft) の話を「全N話」に数えると件数が目次と食い違う
+    $children = get_children(['post_parent' => $post->ID, 'post_type' => 'ts_work',
+                              'post_status' => 'publish', 'fields' => 'ids']);
 
     ts_bunko_breadcrumb($post);
     echo '<article>';

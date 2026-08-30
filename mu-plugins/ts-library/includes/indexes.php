@@ -6,11 +6,26 @@
 
 if (!defined('ABSPATH')) { exit; }
 
+const TS_INDEX_KINDS = ['kana', 'timeline', 'bunrui', 'vocabulary', 'osusume', 'docs'];
+
 add_action('init', function () {
     add_rewrite_rule('^index/(kana|timeline|bunrui|vocabulary|osusume|docs)/?$',
         'index.php?ts_index=$matches[1]', 'top');
     add_rewrite_rule('^year/([0-9]{4})/?$', 'index.php?ts_year=$matches[1]', 'top');
 }, 6);
+
+/** query var は公開なので配列や任意文字列が来る。索引の種類は許可リストで正規化する
+ *  (配列を添字に使うと PHP 8 では TypeError = 500 になる) */
+function ts_index_kind() {
+    $v = get_query_var('ts_index');
+    if (!is_string($v)) return '';
+    return in_array($v, TS_INDEX_KINDS, true) ? $v : '';
+}
+
+function ts_index_year() {
+    $v = get_query_var('ts_year');
+    return is_string($v) && preg_match('/^[0-9]{4}$/', $v) ? (int) $v : 0;
+}
 
 add_filter('query_vars', function ($vars) {
     $vars[] = 'ts_index';
@@ -19,11 +34,11 @@ add_filter('query_vars', function ($vars) {
 });
 
 add_filter('template_include', function ($template) {
-    if (get_query_var('ts_index')) {
+    if (ts_index_kind()) {
         $t = locate_template('ts-index.php');
         if ($t) return $t;
     }
-    if (get_query_var('ts_year')) {
+    if (ts_index_year()) {
         $t = locate_template('ts-year.php');
         if ($t) return $t;
     }
@@ -33,17 +48,17 @@ add_filter('template_include', function ($template) {
 /** 索引ページを 404 にしない (メインクエリは投稿を引かないので) */
 add_action('pre_get_posts', function ($q) {
     if (is_admin() || !$q->is_main_query()) return;
-    if (get_query_var('ts_index')) {
+    if (ts_index_kind()) {
         $q->set('posts_per_page', 1);
         add_filter('pre_handle_404', '__return_true');
     }
-    if ($y = get_query_var('ts_year')) {
+    if ($y = ts_index_year()) {
         $q->set('post_type', 'ts_work');
         $q->set('post_parent', 0);
         $q->set('posts_per_page', -1);
         $q->set('orderby', 'date');
         $q->set('order', 'ASC');
-        $q->set('year', (int) $y);
+        $q->set('year', $y);
     }
 });
 
@@ -51,34 +66,47 @@ add_filter('document_title_parts', function ($parts) {
     $titles = ['kana' => '作者さくいん', 'timeline' => '年表', 'bunrui' => '分類さくいん',
                'vocabulary' => 'キーワードさくいん', 'osusume' => 'オススメの環',
                'docs' => '運営文書・資料'];
-    if ($k = get_query_var('ts_index')) $parts['title'] = $titles[$k] ?? 'さくいん';
-    if ($y = get_query_var('ts_year')) $parts['title'] = $y . '年の作品';
+    if ($k = ts_index_kind()) $parts['title'] = $titles[$k] ?? 'さくいん';
+    if ($y = ts_index_year()) $parts['title'] = $y . '年の作品';
     return $parts;
 });
 
 // ------------------------------------------------------------------ 描画部品
 
-/** 五十音行ごとの作者一覧 (term meta ts_yomi_group で分類) */
+/** 五十音行ごとの作者一覧。
+ *  見出しは catalog の ts_yomi_group の**実値**で作る (authors_build の値は「あ行」…「わ行」と
+ *  欧文名の「A」…「Z」。ここを 1 文字の 'あ' 等で決め打ちすると 303 名が無言で消える)。 */
 function ts_bunko_index_kana() {
-    $rows = ['あ', 'か', 'さ', 'た', 'な', 'は', 'ま', 'や', 'ら', 'わ'];
     $terms = get_terms(['taxonomy' => 'ts_author', 'hide_empty' => true]);
-    if (is_wp_error($terms)) return;
+    if (is_wp_error($terms) || !$terms) return;
     $by = [];
     foreach ($terms as $t) {
-        $g = get_term_meta($t->term_id, 'ts_yomi_group', true) ?: '他';
-        $by[$g][] = $t;
+        $g = get_term_meta($t->term_id, 'ts_yomi_group', true);
+        $by[$g !== '' && $g !== false ? $g : '他'][] = $t;
     }
+    // 並び: 五十音行 → 欧文 A-Z → 他
+    $kana = ['あ行', 'か行', 'さ行', 'た行', 'な行', 'は行', 'ま行', 'や行', 'ら行', 'わ行'];
+    $groups = [];
+    foreach ($kana as $g) if (!empty($by[$g])) $groups[] = $g;
+    $latin = array_filter(array_keys($by), fn($g) => (bool) preg_match('/^[A-Za-z]$/', $g));
+    sort($latin);
+    $groups = array_merge($groups, $latin);
+    foreach (array_keys($by) as $g) {   // 想定外の値も落とさない (最大掲載)
+        if (!in_array($g, $groups, true) && $g !== '他') $groups[] = $g;
+    }
+    if (!empty($by['他'])) $groups[] = '他';
+
     echo '<nav class="ts-kana-rows">';
-    foreach (array_merge($rows, ['他']) as $r) {
-        if (!empty($by[$r])) echo '<a href="#kana-' . esc_attr($r) . '">' . esc_html($r) . '</a> ';
+    foreach ($groups as $g) {
+        echo '<a href="#kana-' . esc_attr(rawurlencode($g)) . '">' . esc_html($g) . '</a> ';
     }
     echo '</nav>';
-    foreach (array_merge($rows, ['他']) as $r) {
-        if (empty($by[$r])) continue;
-        usort($by[$r], fn($a, $b) => strcmp($a->slug, $b->slug));
-        echo '<h2 id="kana-' . esc_attr($r) . '" class="ts-archive-title">' . esc_html($r) . '</h2>';
+    foreach ($groups as $g) {
+        usort($by[$g], fn($a, $b) => strcmp($a->slug, $b->slug));
+        echo '<h2 id="kana-' . esc_attr(rawurlencode($g)) . '" class="ts-archive-title">'
+            . esc_html($g) . '</h2>';
         echo '<ul class="ts-index-list">';
-        foreach ($by[$r] as $t) {
+        foreach ($by[$g] as $t) {
             echo '<li><a href="' . esc_url(get_term_link($t)) . '">' . esc_html($t->name)
                 . '</a> <span class="ts-count">(' . (int) $t->count . ')</span></li>';
         }
@@ -143,6 +171,18 @@ function ts_bunko_index_osusume() {
          JOIN {$wpdb->posts} p ON p.ID = pm.post_id
          WHERE pm.meta_key = '_ts_osusume' AND p.post_status = 'publish'");
     echo '<p class="ts-archive-desc">当時の目録にあった「この作品を読んだ人へのオススメ」の繋がりです。</p>';
+    // 投稿を 1 件ずつ引くと 700 本以上のクエリになるので、必要な ID をまとめて温める
+    $map = ts_bunko_source_map();
+    $need = [];
+    foreach ($rows as $r) {
+        $need[(int) $r->post_id] = true;
+        $o = maybe_unserialize($r->meta_value);
+        foreach ((array) ($o['refs'] ?? []) as $ref) {
+            $h = $ref['href'] ?? '';
+            if ($h !== '' && isset($map[$h])) $need[$map[$h]] = true;
+        }
+    }
+    if ($need) _prime_post_caches(array_keys($need), false, false);
     echo '<ul class="ts-index-list">';
     $n = 0;
     foreach ($rows as $r) {

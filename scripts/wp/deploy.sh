@@ -37,6 +37,23 @@ if ! git -C "$LOCAL_ROOT" merge-base --is-ancestor "$HEAD_LOCAL" origin/master 2
   exit 1
 fi
 
+echo "== [0/6] PHP 構文検査 (配備の前に。全 .php を対象)"
+PHP_FILES=$(find "$LOCAL_ROOT/mu-plugins" "$LOCAL_ROOT/themes" -name '*.php' 2>/dev/null | sed "s|$LOCAL_ROOT/||")
+if [ -n "$PHP_FILES" ]; then
+  echo "-- $(echo "$PHP_FILES" | wc -l) ファイル"
+  # サーバの PHP (8.0) で検査する。壊れたコードを本番に置いてから気づくのを避けるため配備前に行う
+  # (process substitution は使わない — リモートのログインシェルが bash とは限らない)
+  if ! tar -C "$LOCAL_ROOT" -cf - $PHP_FILES | ssh "$HOST" '
+      d=$(mktemp -d) && tar -xf - -C "$d" || exit 1
+      out=$(find "$d" -name "*.php" -exec php -l {} \; 2>&1 | grep -v "No syntax errors" || true)
+      rm -rf "$d"
+      [ -z "$out" ] || { echo "$out"; exit 1; }'; then
+    echo "!! PHP 構文エラー — 配備を中止します"
+    exit 1
+  fi
+  echo "-- 構文 OK"
+fi
+
 echo "== [1/6] サーバ側 repo を $HEAD_LOCAL に合わせる"
 if (( APPLY )); then
   ssh "$HOST" "if [ ! -d $REMOTE_BASE/repo/.git ]; then git clone --depth 100 '$REPO_URL' $REMOTE_BASE/repo; fi
@@ -67,9 +84,10 @@ rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/mu-plugins/ts-library-loader.php" \
 rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/mu-plugins/ts-library/" \
       "$HOST:$REMOTE_BASE/public_html/wp-content/mu-plugins/ts-library/" | tail -3
 if (( APPLY )); then
-  echo "-- php 構文検査 (サーバ側)"
-  ssh "$HOST" "php -l $REMOTE_BASE/public_html/wp-content/mu-plugins/ts-library/includes/commands.php \
-    && for f in $REMOTE_BASE/public_html/wp-content/mu-plugins/ts-library/*.php; do php -l \"\$f\"; done"
+  echo "-- 配備後の再検査 (転送で壊れていないか)"
+  ssh "$HOST" "find $REMOTE_BASE/public_html/wp-content/mu-plugins/ts-library \
+      $REMOTE_BASE/public_html/wp-content/mu-plugins/ts-library-loader.php \
+      -name '*.php' -exec php -l {} \; | grep -v 'No syntax errors' || true"
 fi
 
 echo "== [4/6] robots.txt"

@@ -34,7 +34,12 @@ function ts_bunko_workcard($post) {
         $bits[] = esc_html($authors[0]->name);
     }
     if ($d = ts_meta($post->ID, 'pub_date_raw')) $bits[] = esc_html($d);
-    $n = count(get_children(['post_parent' => $post->ID, 'post_type' => 'ts_work', 'fields' => 'ids']));
+    // 話数は import が書いたメタから (カード 1 枚ごとに get_children を投げない)
+    $n = (int) get_post_meta($post->ID, '_ts_episode_count', true);
+    if (!$n) {
+        $n = count(get_children(['post_parent' => $post->ID, 'post_type' => 'ts_work',
+                                 'post_status' => 'publish', 'fields' => 'ids']));
+    }
     if ($n > 1) $bits[] = '全' . $n . '話';
     echo '<li class="ts-workcard"><h2 class="ts-workcard-title"><a href="'
         . esc_url(get_permalink($post)) . '">' . esc_html(get_the_title($post)) . '</a></h2>';

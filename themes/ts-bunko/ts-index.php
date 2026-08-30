@@ -1,7 +1,7 @@
 <?php
 /** さくいんページ (/index/…/)。中身は mu-plugin の描画部品 */
 get_header();
-$kind = get_query_var('ts_index');
+$kind = function_exists('ts_index_kind') ? ts_index_kind() : '';
 $titles = ['kana' => '作者さくいん', 'timeline' => '年表', 'bunrui' => '分類さくいん',
            'vocabulary' => 'キーワードさくいん', 'osusume' => 'オススメの環',
            'docs' => '運営文書・資料'];

@@ -56,9 +56,21 @@ def rewrite_links(html, base_dir):
     return re.sub(r'(?i)\b(href|src)\s*=\s*(["\'])([^"\']+)\2', sub, html)
 
 
+# catalog_build.RE_BARE_MAIL と同型: `index@08201937.html` 型のファイル名や `bbs@log_…cgi` を
+# 誤検知しないよう、拡張子で終わる形を除外する
+RE_BARE_MAIL = re.compile(
+    r'[A-Za-z0-9._%+\-]+@[A-Za-z0-9.\-]+\.'
+    r'(?!s?html?\b|cgi\b|jpe?g\b|gif\b|png\b|txt\b|js\b)[A-Za-z]{2,}')
+# 技術記事の設定例 (Postfix の virtual 設定など) は個人情報ではないので残す
+RE_MAIL_KEEP = re.compile(r'(?i)hoge|example|localhost|virtual\.domain|foo@|bar@')
+
+
 def strip_mailto_text(html):
-    """本文中に生のメールアドレスが書かれていたら伏せる (DB に入れない)。"""
-    return re.sub(r'[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}', '(メールアドレスは省略)', html)
+    """本文中に生のメールアドレスが書かれていたら伏せる (DB に入れない)。
+    ファイル名やプレースホルダは巻き添えにしない (dialy の設定例が壊れる)。"""
+    return RE_BARE_MAIL.sub(
+        lambda m: m.group(0) if RE_MAIL_KEEP.search(m.group(0)) else '(メールアドレスは省略)',
+        html)
 
 
 def title_of(raw, fallback):

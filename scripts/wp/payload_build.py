@@ -44,6 +44,31 @@ SRC_RE = re.compile(r'(src\s*=\s*")([^"]*)(")', re.I)
 # 実体参照でない裸の & のみ escape する
 AMP_RE = re.compile(r'&(?![a-zA-Z][a-zA-Z0-9]*;|#\d+;|#[xX][0-9a-fA-F]+;)')
 
+# アドレス禁輸 (鉄則): catalog_build.RE_BARE_MAIL と同型 — ファイル名の @ (index@…html 等) を
+# 誤爆しない拡張子除外つき。明白なプレースホルダ (hoge/example/localhost) は史料性を優先して残す
+MAIL_RE = re.compile(
+    r'[A-Za-z0-9._%+\-]+@[A-Za-z0-9.\-]+\.'
+    r'(?!s?html?\b|cgi\b|jpe?g\b|gif\b|png\b|txt\b|js\b)[A-Za-z]{2,}')
+MAIL_KEEP_RE = re.compile(r'(?i)hoge|example|localhost|virtual\.domain')
+MAILTO_A_RE = re.compile(r'(?is)<a\b[^>]*href\s*=\s*["\']mailto:[^"\']*["\'][^>]*>(.*?)</a>')
+
+
+def scrub_addresses(text, counter):
+    """mailto リンクはリンクを解いて中身のテキストだけ残し、生アドレスは伏せる。
+    md と payload の両側に同じ適用をするので無損失検査とは干渉しない (visible は
+    scrub 済み同士を比べる)。"""
+    def drop_link(m):
+        counter['mailto'] += 1
+        return m.group(1)
+    text = MAILTO_A_RE.sub(drop_link, text)
+    text = re.sub(r'(?i)\s*href\s*=\s*["\']mailto:[^"\']*["\']', '', text)
+    def redact(m):
+        if MAIL_KEEP_RE.search(m.group(0)):
+            return m.group(0)
+        counter['bare'] += 1
+        return '(メールアドレスは省略)'
+    return MAIL_RE.sub(redact, text)
+
 
 def image_inventory():
     """小文字パス → git 上の実パス (Windows 由来の大文字小文字ゆらぎを吸収する)。"""
@@ -121,6 +146,16 @@ def b_html(raw):
 
 # --------------------------------------------------------------------------- md → blocks
 
+def unbalanced_table(text):
+    """開いたままの table 系タグを含むか (段落に入れると後続を呑む)"""
+    for tag in ('table', 'tr', 'td', 'th'):
+        opens = len(re.findall(r'(?i)<%s\b' % tag, text))
+        closes = len(re.findall(r'(?i)</%s\s*>' % tag, text))
+        if opens != closes:
+            return True
+    return False
+
+
 def table_run_end(lines, i):
     """i 行目から始まる table が閉じる行の次を返す。閉じないなら None (段落扱いに落とす)。"""
     depth = 0
@@ -165,8 +200,12 @@ def md_to_blocks(md, stats):
             while i < n and lines[i].startswith('>'):
                 qlines.append(lines[i][2:] if lines[i].startswith('> ') else lines[i][1:])
                 i += 1
-            # 引用内は空行 (空の '>' 行) 区切りで段落化。'----' は引用内の区切り線
-            body = '\n'.join(esc(x) for x in qlines)
+            # 引用内は空行 (空の '>' 行) 区切りで段落化。'----' は引用内の区切り線。
+            # 引用行に紛れた table 系タグは除去する — blockquote 内の未閉 <table> は
+            # ブラウザの in-table 挿入モードで後続ブロック全部を呑む (レビュー実測)。
+            # タグ除去は可視テキストに影響しないので無損失検査と干渉しない
+            body = '\n'.join(re.sub(r'(?i)</?(?:table|tbody|thead|t[rdh])\b[^>]*>', '', esc(x))
+                             for x in qlines)
             paras = [q.strip('\n').replace('\n', '<br>')
                      for q in re.split(r'\n\s*\n', body) if q.strip()]
             blocks.append(b_quote(paras)); stats['quote'] += 1
@@ -189,6 +228,10 @@ def md_to_blocks(md, stats):
         m = IMG_ONLY_RE.match(joined)
         if m:
             blocks.append(b_image(esc(m.group(1)))); stats['image'] += 1
+        elif unbalanced_table(joined):
+            # <p> の中に開いたままの <table> があるとブラウザが後続ブロックを呑む。
+            # 段落にせず wp:html として出す (可視テキストは変わらない)
+            blocks.append(b_html(esc(joined))); stats['table'] += 1
         else:
             blocks.append(b_para(esc(joined).replace('\n', '<br>'))); stats['paragraph'] += 1
     return blocks
@@ -241,11 +284,12 @@ def main():
     meta, violations, eyecatch = {}, [], {}
     written = 0
 
+    mail_n = {'mailto': 0, 'bare': 0}
     for md_path in sorted(BODIES.glob('*.md')):
         eid = md_path.name[:-3]
         ep = episodes.get(eid)
         src_dir = os.path.dirname(ep['source_path']) if ep else ''
-        md = md_path.read_text(encoding='utf-8')
+        md = scrub_addresses(md_path.read_text(encoding='utf-8'), mail_n)
         blocks = md_to_blocks(md, stats)
         out = '\n\n'.join(blocks) + '\n'
         out = rewrite_srcs(out, src_dir, images, warn)
@@ -265,7 +309,7 @@ def main():
         txt_path = ROOT / 'reposts' / f'{eid}.txt'
         if not txt_path.is_file():
             continue
-        text = txt_path.read_text(encoding='utf-8')
+        text = scrub_addresses(txt_path.read_text(encoding='utf-8'), mail_n)
         paras = [html.escape(p.strip('\n'), quote=False).replace('\n', '<br>')
                  for p in re.split(r'\n\s*\n', text) if p.strip()]
         out = '\n\n'.join(b_para(p) for p in paras) + '\n'
@@ -282,6 +326,7 @@ def main():
             continue
         raw, _enc = body_convert.read_text(str(ROOT / ep['source_path']))
         region = body_convert.extract_body(raw)
+        region = scrub_addresses(region, mail_n)   # 原本そのままの経路もアドレスは入れない
         region = rewrite_srcs(region, os.path.dirname(ep['source_path']), images, warn)
         (OUT / f'{eid}.html').write_text(b_html(region) + '\n', encoding='utf-8')
         meta[eid] = 'raw-fallback'
@@ -289,8 +334,20 @@ def main():
 
     (OUT / '_meta.json').write_text(
         json.dumps(meta, ensure_ascii=False, indent=0), encoding='utf-8')
+    # 出荷前の自己検査: 生アドレスが 1 つでも残っていたら失敗させる (鉄則の機械化)
+    leaked = []
+    for f in sorted(OUT.glob('*.html')):
+        body = f.read_text(encoding='utf-8')
+        for m in MAIL_RE.finditer(body):
+            if not MAIL_KEEP_RE.search(m.group(0)):
+                leaked.append(f.name)
+                break
+        if 'href="mailto:' in body or "href='mailto:" in body:
+            leaked.append(f.name)
     report = {
         'written': written,
+        'mail_redacted': mail_n,
+        'mail_leaked': sorted(set(leaked)),
         'converted': written - len(raw_fallbacks),
         'raw_fallback': sorted(raw_fallbacks),
         'blocks': stats,
@@ -305,10 +362,13 @@ def main():
     rp = ROOT / 'catalog' / 'reports' / 'payload_build.json'
     rp.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
     print(f"payloads: {written} 本 (raw {len(raw_fallbacks)}) blocks={stats}")
+    print(f"アドレス除去: mailto {mail_n['mailto']} / 生 {mail_n['bare']} 件、残存 {len(set(leaked))} 本")
     print(f"無損失検査: {'OK' if not violations else 'NG %d 件' % len(violations)}"
           f" / 画像未解決 {len(set(warn['missing']))} / 外部 {len(set(warn['external']))}")
     print(f"report: {rp}")
-    if violations:
+    if leaked:
+        print(f"!! アドレスが残っているペイロード {len(set(leaked))} 本: {sorted(set(leaked))[:5]}")
+    if violations or leaked:
         sys.exit(1)
 
 

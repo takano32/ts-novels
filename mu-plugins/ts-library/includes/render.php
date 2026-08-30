@@ -182,18 +182,43 @@ function ts_bunko_osusume($post) {
     echo '</ul></aside>';
 }
 
+/** 原パス → 投稿 ID の全対応表 (1 リクエスト 2 クエリで作り置き)。
+ *
+ *  参照 1 件ごとに meta 検索を投げると、オススメの環ページで数百本のクエリになる
+ *  (meta_value は無索引)。また話の `_ts_source_path` だけでは足りない — 連載を指す
+ *  参照は作品トビラ (`_ts_title_pages`) の側にしか無く、全体の約 1/4 を占める。 */
+function ts_bunko_source_map() {
+    static $map = null;
+    if ($map !== null) return $map;
+    global $wpdb;
+    $map = [];
+    $rows = $wpdb->get_results(
+        "SELECT pm.post_id, pm.meta_value v FROM {$wpdb->postmeta} pm
+         JOIN {$wpdb->posts} p ON p.ID = pm.post_id
+         WHERE pm.meta_key = '_ts_source_path'
+           AND p.post_type = 'ts_work' AND p.post_status = 'publish'");
+    foreach ($rows as $r) {
+        if ($r->v !== '' && !isset($map[$r->v])) $map[$r->v] = (int) $r->post_id;
+    }
+    $rows = $wpdb->get_results(
+        "SELECT pm.post_id, pm.meta_value v FROM {$wpdb->postmeta} pm
+         JOIN {$wpdb->posts} p ON p.ID = pm.post_id
+         WHERE pm.meta_key = '_ts_title_pages'
+           AND p.post_type = 'ts_work' AND p.post_status = 'publish'");
+    foreach ($rows as $r) {
+        $paths = maybe_unserialize($r->v);
+        foreach ((array) $paths as $p) {
+            if (is_string($p) && $p !== '' && !isset($map[$p])) $map[$p] = (int) $r->post_id;
+        }
+    }
+    return $map;
+}
+
 /** 原パス → この文庫内の URL (無ければ null)。オススメ等の内部リンク解決に使う */
 function ts_bunko_url_for_source($source_path) {
     if (!$source_path) return null;
-    static $cache = [];
-    if (array_key_exists($source_path, $cache)) return $cache[$source_path];
-    $q = new WP_Query([
-        'post_type' => 'ts_work', 'post_status' => 'publish', 'posts_per_page' => 1,
-        'meta_key' => '_ts_source_path', 'meta_value' => $source_path,
-        'fields' => 'ids', 'no_found_rows' => true,
-        'update_post_meta_cache' => false, 'update_post_term_cache' => false,
-    ]);
-    return $cache[$source_path] = ($q->posts ? get_permalink($q->posts[0]) : null);
+    $map = ts_bunko_source_map();
+    return isset($map[$source_path]) ? get_permalink($map[$source_path]) : null;
 }
 
 /** 作者ページ冒頭: ホームページリンクは既定で Wayback、現存確認済みのみ生 URL (設計 4.1) */

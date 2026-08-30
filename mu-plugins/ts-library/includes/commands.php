@@ -24,7 +24,7 @@ class TS_Command {
     private const TAXES = ['ts_author', 'ts_genre', 'ts_type', 'ts_keyword', 'ts_world', 'ts_corpus'];
 
     /** 割当ロジックを変えたら上げる (既存投稿が hash 不一致になり、reset なしでも収束し直す) */
-    private const HASH_VER = 'v4'; // v4: menu_order (話順) を書くようになった
+    private const HASH_VER = 'v5'; // v5: _ts_episode_count / _ts_alias_paths を書くようになった
 
     /** authors.json に載らない擬似作者 (works.jsonl の author_slug に現れる)。sync-terms が term を作る */
     private const PSEUDO_AUTHORS = ['unattributed' => '作者不詳', 'series-index' => '（シリーズ目録）'];
@@ -398,6 +398,9 @@ class TS_Command {
         update_post_meta($post_id, '_ts_kind', 'work');
         update_post_meta($post_id, '_ts_needs_review', !empty($w['needs_review']) ? 1 : 0);
         update_post_meta($post_id, '_ts_title_pages', $w['title_pages'] ?? []);
+        update_post_meta($post_id, '_ts_alias_paths', $w['alias_paths'] ?? []);
+        // 話数はカードで出す (毎回 get_children を投げないため)
+        update_post_meta($post_id, '_ts_episode_count', (int) ($w['episode_count'] ?? 0));
         wp_set_object_terms($post_id, $this->term_ids('ts_author', [$w['author_slug'] ?? '']), 'ts_author');
         $this->stamp_import($post_id, $hash);
         $n[$postarr['ID'] ?? null ? 'updated' : 'created']++;
@@ -742,27 +745,156 @@ class TS_Command {
     }
 
     /**
-     * denylist を適用して該当投稿を draft 化する。
-     * denylist.yml の `source_path:` / `work_slug:` 行を読む (最小パーサ)。
+     * denylist を適用して該当投稿を draft 化する (削除の第 1 層。SLA 72h)。
+     *
+     * takedown/denylist.yml の `entries[].target.{kind,value}` を読む
+     * (kind = work | episode | annex_path | author)。**work / author は
+     * 子投稿 (話) まで必ず波及させる** — 親だけ draft にしても子の URL は生きるため。
+     * 止めた URL は option `ts_takedown_urls` に残し、第 2 層 (.htaccess の 410) が
+     * `wp ts export-takedown-urls` 経由で同じ集合を使う (単一情報源)。
+     *
+     * ## OPTIONS
+     * [--repo=<path>] : リポジトリのルート
+     * [--dry-run] : 何が止まるかだけ表示する
      */
     public function apply_takedown($args, $assoc) {
         $root = $this->repo_root($assoc);
+        $dry = isset($assoc['dry-run']);
         $path = "$root/takedown/denylist.yml";
         if (!is_file($path)) WP_CLI::error("denylist がありません: $path");
-        $n = 0;
-        foreach (file($path) as $line) {
-            if (preg_match('/^\s*(?:-\s*)?(source_path|work_slug|episode_id):\s*["\']?([^"\'#\n]+)/', $line, $m)) {
-                $key = ['source_path' => '_ts_source_path', 'work_slug' => '_ts_work_slug',
-                        'episode_id' => '_ts_episode_id'][$m[1]];
-                $pid = $this->find_by_meta('ts_work', $key, trim($m[2]));
-                if ($pid && get_post_status($pid) !== 'draft') {
-                    wp_update_post(['ID' => $pid, 'post_status' => 'draft']);
-                    WP_CLI::line("draft 化: {$m[1]}={$m[2]} (post $pid)");
-                    $n++;
-                }
+        $entries = $this->parse_denylist($path);
+        if (!$entries) {
+            WP_CLI::success('apply-takedown: 対象エントリなし (denylist は空)');
+            if (!$dry) delete_option('ts_takedown_urls');
+            return;
+        }
+        $ids = [];   // post_id => 由来の説明
+        foreach ($entries as $e) {
+            if (($e['status'] ?? '') === 'reinstated') continue; // 復帰済みは止めない
+            $kind = $e['kind']; $value = $e['value'];
+            foreach ($this->takedown_targets($kind, $value) as $pid) {
+                $ids[$pid] = "{$e['id']} $kind=$value";
+            }
+            if (!$this->takedown_targets($kind, $value)) {
+                WP_CLI::warning("該当投稿なし: {$e['id']} $kind=$value");
             }
         }
-        WP_CLI::success("apply-takedown: $n 件を draft 化");
+        $urls = [];
+        $n = 0;
+        foreach ($ids as $pid => $why) {
+            $urls[] = wp_make_link_relative(get_permalink($pid));
+            if (get_post_status($pid) === 'draft') continue;
+            WP_CLI::line(($dry ? '(dry-run) ' : '') . "draft 化: $why → post $pid "
+                . get_the_title($pid));
+            if (!$dry) wp_update_post(['ID' => $pid, 'post_status' => 'draft']);
+            $n++;
+        }
+        if (!$dry) update_option('ts_takedown_urls', array_values(array_unique($urls)), false);
+        WP_CLI::success(sprintf('apply-takedown: %d 件を draft 化 (対象 %d 件)%s',
+            $n, count($ids), $dry ? ' (dry-run)' : ''));
+    }
+
+    /** denylist.yml の entries を読む (このスキーマ専用の最小パーサ。ブロック形式・フロー形式の両対応) */
+    private function parse_denylist($path) {
+        $out = []; $cur = null; $in_entries = false;
+        foreach (file($path) as $raw) {
+            $line = rtrim($raw, "\r\n");
+            if (preg_match('/^\s*#/', $line) || trim($line) === '') continue;
+            if (preg_match('/^entries:\s*(\[\s*\])?\s*$/', $line, $m)) {
+                $in_entries = true;
+                if (!empty($m[1])) return [];   // `entries: []`
+                continue;
+            }
+            if (!$in_entries) continue;
+            if (preg_match('/^\s*-\s*id:\s*(.+?)\s*$/', $line, $m)) {   // 新エントリ
+                if ($cur) $out[] = $cur;
+                $cur = ['id' => trim($m[1], "\"' "), 'kind' => null, 'value' => null, 'status' => ''];
+                continue;
+            }
+            if (!$cur) continue;
+            // target: { kind: work, value: foo } (フロー形式)
+            if (preg_match('/^\s*target:\s*\{(.+)\}\s*$/', $line, $m)) {
+                if (preg_match('/kind:\s*([A-Za-z_]+)/', $m[1], $k)) $cur['kind'] = $k[1];
+                if (preg_match('/value:\s*["\']?([^"\',}]+)/', $m[1], $v)) $cur['value'] = trim($v[1]);
+                continue;
+            }
+            if (preg_match('/^\s+kind:\s*([A-Za-z_]+)/', $line, $m)) { $cur['kind'] = $m[1]; continue; }
+            if (preg_match('/^\s+value:\s*["\']?([^"\'#]+)/', $line, $m)) { $cur['value'] = trim($m[1]); continue; }
+            if (preg_match('/^\s+status:\s*([A-Za-z_]+)/', $line, $m)) { $cur['status'] = $m[1]; continue; }
+        }
+        if ($cur) $out[] = $cur;
+        $valid = [];
+        foreach ($out as $e) {
+            if (!$e['kind'] || !$e['value']) {
+                WP_CLI::warning("denylist の不完全なエントリ: {$e['id']} (kind/value を確認)");
+                continue;
+            }
+            if (!in_array($e['kind'], ['work', 'episode', 'annex_path', 'author'], true)) {
+                WP_CLI::warning("未知の kind: {$e['kind']} ({$e['id']})");
+                continue;
+            }
+            $valid[] = $e;
+        }
+        return $valid;
+    }
+
+    /** kind/value → 止める投稿 ID の配列 (子投稿まで波及させる) */
+    private function takedown_targets($kind, $value) {
+        global $wpdb;
+        $ids = [];
+        if ($kind === 'work') {
+            $pid = $this->find_by_meta('ts_work', '_ts_work_slug', $value);
+            if ($pid) $ids[] = $pid;
+        } elseif ($kind === 'episode') {
+            // episodes.jsonl の source_path (アンカー分割話は "path#anchor")
+            [$sp, $anchor] = array_pad(explode('#', $value, 2), 2, null);
+            $rows = $wpdb->get_col($wpdb->prepare(
+                "SELECT post_id FROM {$wpdb->postmeta} WHERE meta_key='_ts_source_path' AND meta_value=%s", $sp));
+            foreach ($rows as $pid) {
+                if ($anchor !== null && get_post_meta($pid, '_ts_source_anchor', true) !== $anchor) continue;
+                $ids[] = (int) $pid;
+            }
+        } elseif ($kind === 'annex_path') {
+            $like = $wpdb->esc_like(rtrim($value, '*'));
+            $rows = $wpdb->get_col($wpdb->prepare(
+                "SELECT post_id FROM {$wpdb->postmeta} WHERE meta_key='_ts_source_path' AND meta_value LIKE %s",
+                $like . (substr($value, -1) === '*' ? '%' : '')));
+            foreach ($rows as $pid) $ids[] = (int) $pid;
+        } elseif ($kind === 'author') {
+            $term = get_term_by('slug', $value, 'ts_author');
+            if ($term) {
+                $ids = get_posts(['post_type' => 'ts_work', 'post_status' => 'any',
+                                  'posts_per_page' => -1, 'fields' => 'ids',
+                                  'tax_query' => [['taxonomy' => 'ts_author', 'field' => 'term_id',
+                                                   'terms' => $term->term_id]]]);
+            }
+        }
+        // 子孫まで波及 (親だけ draft にしても子の URL は生き続ける)
+        $all = [];
+        foreach ($ids as $pid) {
+            $all[$pid] = true;
+            foreach ($this->descendants($pid) as $cid) $all[$cid] = true;
+        }
+        return array_keys($all);
+    }
+
+    /** ts_work の子孫 (話) を再帰的に集める */
+    private function descendants($post_id) {
+        $out = [];
+        $children = get_posts(['post_type' => 'ts_work', 'post_parent' => $post_id,
+                               'post_status' => 'any', 'posts_per_page' => -1, 'fields' => 'ids']);
+        foreach ($children as $cid) {
+            $out[] = $cid;
+            foreach ($this->descendants($cid) as $gid) $out[] = $gid;
+        }
+        return $out;
+    }
+
+    /** 取り下げ済み URL のパスを 1 行 1 件で出す (.htaccess の 410 生成が読む) */
+    public function export_takedown_urls($args, $assoc) {
+        foreach ((array) get_option('ts_takedown_urls', []) as $u) {
+            WP_CLI::line($u);
+        }
     }
 
     /**
@@ -813,5 +945,6 @@ WP_CLI::add_command('ts sync-docs', [new TS_Command(), 'sync_docs']);
 WP_CLI::add_command('ts import', [new TS_Command(), 'import']);
 WP_CLI::add_command('ts verify', [new TS_Command(), 'verify']);
 WP_CLI::add_command('ts apply-takedown', [new TS_Command(), 'apply_takedown']);
+WP_CLI::add_command('ts export-takedown-urls', [new TS_Command(), 'export_takedown_urls']);
 WP_CLI::add_command('ts reset', [new TS_Command(), 'reset']);
 WP_CLI::add_command('ts export-pathmap', [new TS_Command(), 'export_pathmap']);

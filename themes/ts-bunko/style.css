@@ -115,6 +115,9 @@ html[data-ts-font="gothic"] .ts-reader { font-family: var(--ts-sans); }
 .ts-reader.is-raw { font-family: var(--ts-sans); }
 
 /* ---------- リーダー操作列 ---------- */
+/* UA の [hidden]{display:none} は作者オリジンの display に負けるので明示で戻す
+   (JS 無効時に死んだツールバーを出さないため) */
+[hidden] { display: none !important; }
 .ts-toolbar {
   display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center;
   border: 1px solid var(--ts-line); border-radius: 8px; padding: 0.4rem 0.6rem;

@@ -1,17 +1,22 @@
 {
   "written": 3646,
+  "mail_redacted": {
+    "mailto": 17,
+    "bare": 47
+  },
+  "mail_leaked": [],
   "converted": 3644,
   "raw_fallback": [
     "novel__200104__20050818__acgallary.htm",
     "novel__200510__19213555__koromogae1.htm"
   ],
   "blocks": {
-    "paragraph": 1052174,
+    "paragraph": 1052138,
     "separator": 9212,
     "quote": 665,
     "heading": 809,
     "image": 1377,
-    "table": 180
+    "table": 216
   },
   "invariant_ok": true,
   "invariant_violations": [],
