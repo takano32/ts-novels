@@ -1,0 +1,50 @@
+{
+ "source": "bc-cafe.net BC-Wiki (old data library)",
+ "source_note": "きりか進ノ介さんの現行サイト。旧 kirika.novels.name/wiki (青秋桜Wiki) の後継で、閉鎖せず稼働中。/bcwiki/ は Basic 認証で 401 だが /bcwiki.old/ は公開されている (Site admin: kirika)。",
+ "wiki_page": "トレイル/虹色のかけら",
+ "wiki_page_url": "https://bc-cafe.net/bcwiki.old/index.php?%A5%C8%A5%EC%A5%A4%A5%EB%2F%C6%FA%BF%A7%A4%CE%A4%AB%A4%B1%A4%E9",
+ "acquired_at": "2026-08-30",
+ "acquired_by": "直接 HTTP GET (plugin=attach&pcmd=open)。attach/ 直下は 403 で、plugin 経由のみ取得可",
+ "items": [
+  {
+   "file": "repost__bcwiki__ama.txt",
+   "attachment_name": "あま.txt",
+   "url": "https://bc-cafe.net/bcwiki.old/index.php?plugin=attach&pcmd=open&refer=%A5%C8%A5%EC%A5%A4%A5%EB%2F%C6%FA%BF%A7%A4%CE%A4%AB%A4%B1%A4%E9&file=%A4%A2%A4%DE.txt",
+   "md5": "a78f593a3c350e08f1fd28ca18175b6c",
+   "bytes": 14823,
+   "encoding_raw": "cp932",
+   "uploaded_at": "2008-09-25T23:08:51+09:00",
+   "author": "きりか進ノ介",
+   "published_in_bunko": false,
+   "identification": "無題。紅白のナスの花を食べた男が女になる話。**欠落作品「二代目は海女」(novel/201004/02215640/ama.htm) ではない**。目録の「二代目は海女」は 2010/5/14 掲載・あらすじ「白昼堂々、学校のプールサイドに唐突に現れたのは……？」・キーワード「セバスチャン 執事 着せ替え 海女 強制」で、本文には海女もセバスチャンも登場せず、添付の登録日時 2008-09 が掲載日を 2 年近く先行する。ファイル名 ama が一致するだけの別作品。"
+  },
+  {
+   "file": "repost__bcwiki__saidai_no_higaisha.htm",
+   "attachment_name": "最大の被害者、あるいは.htm",
+   "url": "https://bc-cafe.net/bcwiki.old/index.php?plugin=attach&pcmd=open&refer=%A5%C8%A5%EC%A5%A4%A5%EB%2F%C6%FA%BF%A7%A4%CE%A4%AB%A4%B1%A4%E9&file=%BA%C7%C2%E7%A4%CE%C8%EF%B3%B2%BC%D4%A1%A2%A4%A2%A4%EB%A4%A4%A4%CF.htm",
+   "md5": "f29035779b8f9c43d15a091d0ae3a73c",
+   "bytes": 7391,
+   "encoding_raw": "cp932",
+   "uploaded_at": "2008-01-11T00:05:43+09:00",
+   "author": "きりか進ノ介",
+   "published_in_bunko": false,
+   "identification": "「最大の被害者、あるいは」。本文冒頭のおことわりに「拙作『ザ・ゴールデンロード　３』番外編になります」とある。文庫のテンプレート (library.html へ戻る・nijiiro_title01.htm へのタイトルリンク・感想掲示板リンク) で組まれているが、lib1〜73 / lib-index-* のどのエントリにも該当がなく、文庫には掲載されていない。",
+   "content_warning": "性描写あり。本文のおことわりに「エロいです。なんとか１８禁ではないと思いますが微妙」と作者自身の注記がある。掲載時は年齢制限表示の要否を要判断。"
+  },
+  {
+   "file": "repost__bcwiki__bangai3ts.txt",
+   "attachment_name": "番外３Ts.txt",
+   "url": "https://bc-cafe.net/bcwiki.old/index.php?plugin=attach&pcmd=open&refer=%A5%C8%A5%EC%A5%A4%A5%EB%2F%C6%FA%BF%A7%A4%CE%A4%AB%A4%B1%A4%E9&file=%C8%D6%B3%B0%A3%B3Ts.txt",
+   "md5": "f5f3b41e7fa03aa19d354cb903f3e580",
+   "bytes": 11530,
+   "encoding_raw": "cp932",
+   "uploaded_at": "2007-10-27T23:34:04+09:00",
+   "author": "きりか進ノ介",
+   "published_in_bunko": false,
+   "identification": "無題。「フレグラント・スケッチ」の主人公 今井京彦/京香 が、共作企画 T's☆Heart の姫琴高校桜組へ編入してくる話。同作の登場人物 片賀井未森 (novel/200706/17105152/fregrant1.htm に既出) が視点人物。文庫の目録に該当エントリなし。ファイル名の 3Ts は T's☆Heart を指すとみられる。"
+  }
+ ],
+ "not_collected_from_same_source": [
+  "kin00a.htm / kin00b.htm (ザ・ゴールデンロード 0A/0B) — 同一内容が kirika.novels.name/wiki/index@plugin_attach_pcmd_open_file_kin00[ab].htm_refer_A5C8A5ECA5A4A5EB2FC6FABFA7A4CEA4ABA4B1A4E9.html に既収蔵 (タグ・空白除去 + NFC 正規化で完全一致)"
+ ]
+}
