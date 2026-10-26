@@ -56,7 +56,8 @@ qa:
 venv:
 	python3 -m venv $(VENV)
 	$(VENV)/bin/pip install -q --upgrade pip
-	$(VENV)/bin/pip install -q pyyaml pykakasi beautifulsoup4 html5lib
+	$(VENV)/bin/pip install -q PyYAML==6.0.3 pykakasi==2.3.0 jaconv==0.5.0 beautifulsoup4==4.15.0 html5lib==1.1
+	@# pykakasi の版が変わると作品・作者の slug (= 恒久 URL) が変わるので版を固定する
 	@echo 'できた。以後 make catalog は $(VENV)/bin/python を使う'
 
 # --- bodies/*.md の無損失性を html5lib (第二実装) で検算する
