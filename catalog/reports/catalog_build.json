@@ -7,8 +7,8 @@
  "parse_failure_detail": [],
  "unique_episode_ids": 2887,
  "unique_source_paths": 2862,
- "source_files_present": 2695,
- "source_files_missing": 192,
+ "source_files_present": 2679,
+ "source_files_missing": 208,
  "entry_types": {
   "html": 2865,
   "image": 21,
@@ -41,6 +41,9 @@
  "missing_by_year": {
   "1998": 3,
   "1999": 3,
+  "2002": 7,
+  "2003": 7,
+  "2004": 2,
   "2005": 9,
   "2006": 5,
   "2007": 56,
@@ -51,18 +54,18 @@
   "2012": 15
  },
  "missing_by_entry_type": {
-  "html": 186,
+  "html": 202,
   "external": 1,
   "image": 5
  },
- "annex_url_present": 2695,
- "annex_yays_url_present": 724,
+ "annex_url_present": 2679,
+ "annex_yays_url_present": 720,
  "mailto_dropped_distinct": 264,
  "mailto_dropped_entries": 1738,
- "provenance_covered": 2695,
- "provenance_coverage_pct": 93.35,
+ "provenance_covered": 2679,
+ "provenance_coverage_pct": 92.8,
  "provenance_routes": {
-  "wayback": 2466,
+  "wayback": 2450,
   "live-site": 103,
   "other": 29,
   "commoncrawl": 77,
@@ -104,7 +107,7 @@
    "table": 22
   },
   "added_commented_out": 12,
-  "added_source_present": 90,
+  "added_source_present": 83,
   "added_entry_roles": {
    "work": 96,
    "notice": 1
@@ -127,9 +130,9 @@
   },
   "noteky_links": 21,
   "zokusei_tokens_distinct": 4,
-  "provenance_covered": 90,
-  "provenance_coverage_pct": 92.78,
-  "annex_url_present": 90,
+  "provenance_covered": 83,
+  "provenance_coverage_pct": 85.57,
+  "annex_url_present": 83,
   "annex_yays_url_present": 84,
   "mailto_dropped_distinct": 12,
   "arasuji_present": 59,

@@ -240,11 +240,11 @@ entries:
     reason_class: author_request
     requested_at: 2026-10-26
     received_via: other
-    status: received
+    status: applied
     applied:
-      wp_draft: null
-      htaccess_410: null
-      annex_excluded: null
+      wp_draft: 2026-10-27
+      htaccess_410: 2026-10-27
+      annex_excluded: 2026-10-27
       git_history_purged: null
       removed_page_listed: null
     public_note: Ｍａｒｉｅさんの作品 (7 作) — 作者の申し出により掲載していません

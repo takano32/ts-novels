@@ -1,11 +1,11 @@
 {
  "generated_by": "scripts/wp/uncatalogued_build.py",
- "novel_body_files": 3818,
- "already_catalogued": 2724,
+ "novel_body_files": 3794,
+ "already_catalogued": 2701,
  "added": 859,
- "excluded": 235,
+ "excluded": 234,
  "excluded_by_reason": {
-  "duplicate-of-catalogued": 58,
+  "duplicate-of-catalogued": 57,
   "title-page": 117,
   "site-template": 3,
   "cgi-view": 56,
