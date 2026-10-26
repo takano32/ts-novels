@@ -65,7 +65,7 @@ WP サイトの各話の書誌カードから「原本を見る」で原本ア�
 | `*_overrides.yml` `*_map.yml` | 人の判断を書く上書きファイル。slug・作品のまとめ方・話の作者・語彙の正規化 (S72) |
 | `reports/` と `QA.md` | 各段の集計。`QA.md` は公開の前に目で確かめる (S69、S180) |
 
-各欄の意味は [catalog/README.md](../catalog/README.md) にあります。
+各欄の意味は S212 (episodes.jsonl)・S213 (authors.json)・S214 (provenance) に、ファイルと再生成は S211 にあります。
 
 - **話と作品** — 話 (Episode) は読者が 1 回で読む単位で、目録の 1 項目に対応します。
   作品 (Work) は連載やシリーズをまとめた単位で、目録には無いので合成します (S16)。
