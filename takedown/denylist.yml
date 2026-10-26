@@ -232,6 +232,23 @@ entries:
       git_history_purged: null
       removed_page_listed: 2026-08-30
     public_note: 「由香里聖伝 序章」(山陰しろいるかさん) — 作者の申し出により掲載していません
+  - id: TD-2026-0014
+    target:
+      kind: author
+      value: marie
+    reason: 旧サイト時代に作者本人から掲載取り下げの依頼があった (2026-10-26 サイト所有者の証言。目録に記載なし。S.103)
+    reason_class: author_request
+    requested_at: 2026-10-26
+    received_via: other
+    status: received
+    applied:
+      wp_draft: null
+      htaccess_410: null
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    public_note: Ｍａｒｉｅさんの作品 (7 作) — 作者の申し出により掲載していません
+    notes: requested_at は当時の年が分かれば差し替える (S.114 の 3)。/removed/ への名前の掲示・同居 2 ファイル・感想板 30 ファイル・git 履歴は所有者の回答待ち (T.18.1)
 
   # ------------------------------------------------------------------------
   # 第三者のプライバシー (運営判断による一時非公開。**サイト所有者の確認待ち**)
