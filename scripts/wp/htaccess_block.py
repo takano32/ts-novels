@@ -22,7 +22,8 @@ import sys
 import time
 from pathlib import Path
 
-HOST = 'novels'
+HOST = 'novels'   # 宛先表記用。実際の接続先は scripts/wp/novels-ssh が持つ
+RSH = str(Path(__file__).resolve().parent / 'novels-ssh')
 REMOTE_BASE = '~/novels.xwp.jp'
 REMOTE = f'{REMOTE_BASE}/public_html/.htaccess'
 BEGIN = '# BEGIN ts-library (scripts/wp/htaccess_block.py が管理。中を手で編集しない)'
@@ -39,7 +40,7 @@ def denylist_410_lines():
     黙って 0 件にせず、その旨を出して呼び出し側に判断させる。"""
     try:
         r = subprocess.run(
-            ['ssh', HOST, f'cd {REMOTE_BASE}/public_html && wp ts export-takedown-urls'],
+            [RSH, f'cd {REMOTE_BASE}/public_html && wp ts export-takedown-urls'],
             capture_output=True, text=True, timeout=120)
     except (subprocess.SubprocessError, OSError) as e:
         print(f'!! 取り下げ URL を取得できませんでした ({e}) — 410 ブロックは前回のまま据え置き')
@@ -104,7 +105,7 @@ def build_block():
 
 
 def ssh(cmd, **kw):
-    return subprocess.run(['ssh', HOST, cmd], check=True, capture_output=True,
+    return subprocess.run([RSH, cmd], check=True, capture_output=True,
                           text=True, **kw)
 
 
