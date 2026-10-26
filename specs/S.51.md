@@ -2,10 +2,10 @@
 
 - 種類: 実測
 - 状態: 有効
-- 出典: docs/data-inventory.md の「2. ツリー別目録」
+- 出典: docs/data-inventory.md の「ツリー別目録」
 - 関連: T.16.2.2, T.34, S.211
 
-## 2. ツリー別目録
+## ツリー別目録
 
 「WP 扱い」欄の意味 — **WP サイト**=WordPress (novels.xwp.jp) に投稿として載る /
 **原本アーカイブ**=GitHub Pages に原パスのまま残す(WP には載せない) /

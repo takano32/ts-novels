@@ -1,11 +1,11 @@
-# S.200 運営コンテンツの投入と固定ページ (T.10.5、元の 4.6)
+# S.200 運営コンテンツの投入と固定ページ (T.10.5)
 
 - 種類: 記録
 - 状態: 有効
 - 出典: docs/wp-implementation-tasks.md の 4.6
 - 関連: T.10.5
 
-- [x] 4.6 運営コンテンツ投入: `ts_doc` に comittee/ 21・columns/・dialy/・03summer 解題。
+- [x] T.10.5 (運営コンテンツと固定ページ) 運営コンテンツ投入: `ts_doc` に comittee/ 21・columns/・dialy/・03summer 解題。
       固定ページ `/about/`(**八重洲メディアリサーチの持ち主の依頼によるリブートである旨・
       運営者ハンドル・各作品の著作権は原著者に帰属する旨・原本アーカイブとの関係・
       無損失証明の説明**)・`/archive/`(原本アーカイブ 4 区画の案内。**URL にも表示にも内部語を出さない**)・`/removed/`(空)・
@@ -13,7 +13,7 @@
       - **表示文言の規則**: これらのページは読者が読む面なので、本文・見出し・リンクラベルに
         **「本館」「別館」「旧館」を書かない**。「原本アーカイブ」「当時のページ」
         「原本を見る」のように、具体的に何であるかを書く(→ S.14〜S.19)
-      - **4.6 実測 (2026-08-30)**: `wp ts sync-pages` = **created=4 updated=0 skipped=0**、
+      - **運営コンテンツと固定ページの実測 (2026-08-30)**: `wp ts sync-pages` = **created=4 updated=0 skipped=0**、
         `wp ts sync-docs` = **created=34 updated=0 skipped=0**
         (comittee 21 + columns 2 + dialy 1 + prehistory 8 + gallery 1 + 解題 1)。
         固定ページは 4 枚とも 200 で、h1 は

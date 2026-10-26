@@ -2,7 +2,7 @@
 
 - 種類: 実測
 - 状態: 有効
-- 出典: docs/wp-implementation-tasks.md の「0. 実行セッションの心得」の「環境の確定事実」
+- 出典: docs/wp-implementation-tasks.md の「実行セッションの心得」の「環境の確定事実」
 - 関連: S.59〜S.68
 
 **環境の確定事実**(調査済み・再確認不要):

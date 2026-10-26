@@ -2,10 +2,10 @@
 
 - 種類: 設計
 - 状態: 有効
-- 出典: docs/owner-feedback-2026-10.md の「1. サイドメニューの「オススメの環」は不要」
+- 出典: docs/owner-feedback-2026-10.md の「サイドメニューの「オススメの環」は不要」
 - 関連: T.19
 
-## 1. サイドメニューの「オススメの環」は不要
+## サイドメニューの「オススメの環」は不要
 
 **現状**: `mu-plugins/ts-library/includes/render.php:244-248` `ts_bunko_sidebar()` の `$items` に
 `['osusume', 'オススメの環']`。本番の全ページに表示中 (実測: `/about/` の HTML に 1 箇所)。

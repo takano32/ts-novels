@@ -2,12 +2,12 @@
 
 - 種類: 仕様
 - 状態: 有効
-- 出典: docs/visibility-roles-spec.md の「4. .htaccess の ts-library ブロック」
+- 出典: docs/visibility-roles-spec.md の「.htaccess の ts-library ブロック」
 - 関連: T.23.2, T.23.3.4, S.64, S.77
 
-## 4. `.htaccess` の ts-library ブロック
+## `.htaccess` の ts-library ブロック
 
-| 行の種類 | 従来 (v0) | v1 以後 |
+| 行の種類 | 従来 | 改訂後 |
 |---|---|---|
 | 恒久 noindex (`/boards/` `/dojo/`) の `X-Robots-Tag` | あり | あり (不変) |
 | WordPress の URL の `Redirect gone` | あり (`wp ts export-takedown-urls` から) | **書かない** (WordPress が 410 を返す) |

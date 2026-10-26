@@ -2,12 +2,12 @@
 
 - 種類: 手順
 - 状態: 有効
-- 出典: docs/rebuild-runbook.md の「2. 再走コマンド」
+- 出典: docs/rebuild-runbook.md の「再走コマンド」
 - 関連: S.72, S.152, T.40.7
 
-## 2. 再走コマンド
+## 再走コマンド
 
-### A. catalog を作り直して WP に反映(判断ファイル・builder を直した場合)
+### catalog を作り直して WP に反映(判断ファイル・builder を直した場合)
 
 ```sh
 # 開発機
@@ -23,18 +23,18 @@ wp ts verify
 ```
 
 **注意: slug を変えた場合は upsert では旧 URL の投稿が残る**。作者・作品 slug の変更は
-「別の投稿になる」ため、部分再走ではなく S.73 の C の全消し再構築を使うこと(公開解禁前なら
+「別の投稿になる」ため、部分再走ではなく下の全消し再構築を使うこと(公開解禁前なら
 迷わず全消し。解禁後なら旧 URL からのリダイレクトを .htaccess に足す)。
 
-### B. 本文だけ作り直した場合
+### 本文だけ作り直した場合
 
 ```sh
 python3 scripts/wp/body_convert.py   # bodies/ を再生成 (git 管理外)
 make verify
-# 以後 S.73 の A の本番手順 (import は --bodies)
+# 以後 上の「catalog を作り直して WP に反映」の本番手順 (import は --bodies)
 ```
 
-### C. WP を全消しして最初から(いちばん確実なやり直し)
+### WP を全消しして最初から(いちばん確実なやり直し)
 
 **公開解禁前はこれが既定**。DB は使い捨てなので迷ったら全消しする。
 
@@ -72,7 +72,7 @@ media import は 3 回でよく、同一実体の 2 パスには同じ attachmen
 **`wp media import` は毎回新しい attachment を作る**ので、
 やり直すときは先に古い attachment を消すか、重複を許容するか決めてから流すこと。
 
-### D. 何がいま本番に載っているかを知る
+### 何がいま本番に載っているかを知る
 
 `wp ts import` は投入時の **catalog の git コミットハッシュ**を `wp option get ts_catalog_commit`
 に記録する(S.182 の仕様)。レビューで NG を報告するときは

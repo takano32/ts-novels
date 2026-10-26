@@ -1,11 +1,11 @@
-# S.76 削除 ①: WP の投稿を draft にする
+# S.76 削除: WP の投稿を draft にする
 
 - 種類: 手順
 - 状態: 一部失効 (S.121 で上書き。draft → private)
-- 出典: docs/removal-runbook.md の「① WP を draft 化」
+- 出典: docs/removal-runbook.md の「WP を draft 化」
 - 関連: S.117, S.121
 
-## ① WP を draft 化 (T+72h まで)
+## WP を draft 化 (受領から 72 時間まで)
 
 ```sh
 scripts/wp/novels-ssh
@@ -17,4 +17,4 @@ wp post list --post_type=ts_work --post_status=draft --format=count
 ```
 
 - draft 化であって delete ではない (復帰の可能性と、再収蔵事故の防止のため投稿自体は残す)。
-- 実行後、対象 URL が 404/410 のどちらを返すかを②の前に確認しておく (draft のみだと 404)。
+- 実行後、対象 URL が 404/410 のどちらを返すかを本番 .htaccess の 410 (S.77) の前に確認しておく (draft のみだと 404)。

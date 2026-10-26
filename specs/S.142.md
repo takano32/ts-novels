@@ -2,9 +2,9 @@
 
 - 種類: 仕様
 - 状態: 有効
-- 出典: docs/versions-spec.md の「6. 別館 (GitHub Pages)」
+- 出典: docs/versions-spec.md の「原本アーカイブ (GitHub Pages)」
 - 関連: T.25
 
-## 6. 原本アーカイブ (GitHub Pages)
+## 原本アーカイブ (GitHub Pages)
 
 全版をそのまま置く (原本レイヤ)。新版の書誌カードの「無改変の原本を読む」は新版の `annex_url`、「初出時の姿 (2002年版)」は従来どおり。

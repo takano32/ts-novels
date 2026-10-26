@@ -7,7 +7,7 @@
 
 - [x] T.7.5.1 (サイト所有者の確認) work_overrides.yml と slug_overrides.yml の確認・確定。
       **これが済むまで S.185 (全量投入) に進まない**(needs_review 分の恒久 URL が変わるため。
-      2.4 のパイロット 100 件は確定済み分のみで先行可)
+      T.8.4 のパイロット 100 件は確定済み分のみで先行可)
       - **確定 (2026-08-30)**: 作者 slug **42 件を `status: confirmed`** にした
         (資料 S.217。元の `catalog/review/authors-slugs.md`、裁定は `catalog/slug_overrides.yml` の
         `authors:` セクションと同ファイル冒頭のコメント)。作品 slug 1,451 件と
@@ -44,7 +44,7 @@
           `jersey_red` を `kohdhi` に上書き。**`kohdhi` が 2 → 3 話(蒼い時 ao1–3 が
           1 作品にまとまった)、`jersey_red` は 27 → 26 話で
           `display_variants` から「コーディー」が消えた**
-      - **感想板一覧を第 2 の情報源にした** (S.217 (元の `catalog/review/authors-slugs.md`) の 8-1 の恒久対策):
+      - **感想板一覧を第 2 の情報源にした** (S.217 (元の `catalog/review/authors-slugs.md`) で見つけた「板 id を目録の感想リンクからしか取っていない」不具合の恒久対策):
         `~ts/kansou/bbs@log_.cgi`(**290 板**。うち共有世界の板 9 を除く作者板 281、
         `<title>` から作者名が取れたもの 278)と、**板一覧に載らない板ファイル 16 本**の
         `<title>` を `authors_build.py` が読む。目録から一度もリンクされていない板を

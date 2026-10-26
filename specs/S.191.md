@@ -1,13 +1,13 @@
-# S.191 verify の拡張 (T.9.4、元の 3.4)
+# S.191 verify の拡張 (T.9.4)
 
 - 種類: 記録
 - 状態: 有効
 - 出典: docs/wp-implementation-tasks.md の 3.4
 - 関連: T.9.4
 
-- [x] 3.4 verify 拡張: 全話に書誌カード用メタ(初出日・orig_url・annex_url・provenance)が
+- [x] T.9.4 verify 拡張: 全話に書誌カード用メタ(初出日・orig_url・annex_url・provenance)が
       揃っているか被覆率で確認
-      - **3.4 実測 (2026-08-30、コミット `8a70ca05`)**: `wp ts verify` に
+      - **T.9.4 の実測 (2026-08-30、コミット `8a70ca05`)**: `wp ts verify` に
         メタ被覆と本文 status 分布の照合が入り、**全項目が期待値と一致して verify OK**:
         **メタ `_ts_pub_date_raw` 2985=2985 / `_ts_orig_url` 3844=3844 /
         `_ts_annex_url` 3644=3644 / `_ts_provenance` 3646=3646**、

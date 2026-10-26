@@ -2,10 +2,10 @@
 
 - 種類: 実測
 - 状態: 有効
-- 出典: docs/environment.md の「9. 別館 (GitHub Pages) との役割分担」
+- 出典: docs/environment.md の「原本アーカイブ (GitHub Pages) との役割分担」
 - 関連: S.35
 
-## 9. 原本アーカイブ (GitHub Pages) との役割分担
+## 原本アーカイブ (GitHub Pages) との役割分担
 
 | | WP サイト (本番 WordPress) | 原本アーカイブ |
 |---|---|---|

@@ -2,10 +2,10 @@
 
 - 種類: 仕様
 - 状態: 有効
-- 出典: docs/cluster-overrides-spec.md の「6. URL の付け替え」
+- 出典: docs/cluster-overrides-spec.md の「URL の付け替え」
 - 関連: T.24.6, S.119, S.218
 
-## 6. URL の付け替え (`catalog/redirects.yml`)
+## URL の付け替え (`catalog/redirects.yml`)
 
 束ね直した作品・話の URL は変わる (S.218 (元の `catalog/review/works-risk-note.md`) の 0。公開中なので旧 URL を生かす)。
 

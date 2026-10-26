@@ -2,12 +2,12 @@
 
 - 種類: 仕様
 - 状態: 有効
-- 出典: docs/takedown-form-spec.md の「2. データ」
+- 出典: docs/takedown-form-spec.md の「データ」
 - 関連: T.26.3.1, S.215
 
-## 2. データ
+## データ
 
-- CPT **`ts_takedown_request`**: `public=false` / `show_ui=true` / `exclude_from_search=true` / `show_in_rest=false`。管理画面に出す条件は cap `ts_manage_takedown`。`post_title` = 「申請 #<ID> <pen_name>」、本文は使わない。
+- CPT **`ts_takedown_request`**: `public=false` / `show_ui=true` / `exclude_from_search=true` / `show_in_rest=false`。管理画面に出す条件は cap `ts_manage_takedown`。`post_title` = 「申請 <ID> <pen_name>」(<ID> は申請の投稿 ID)、本文は使わない。
 - **`wp ts reset` の対象に入れない** (`TS_Command::TYPES` に加えない)。運用の原本であり、catalog から再生成できないため。
 - post meta:
 
@@ -18,8 +18,8 @@
 | `_tr_targets` | JSON: `[{url, post_id|null, work_slug|null}]` |
 | `_tr_token` | 確認トークン (32 byte random、`wp_hash` で保存) |
 | `_tr_received_at` | フォーム送信時刻 |
-| `_tr_confirmed_at` | 確認リンクを踏んだ時刻 = **T0** |
-| `_tr_auto_apply_at` | T0 + `AUTO_APPLY_DAYS` |
+| `_tr_confirmed_at` | 確認リンクを踏んだ時刻 (以下「確認時刻」) |
+| `_tr_auto_apply_at` | 確認時刻 + `AUTO_APPLY_DAYS` |
 | `_tr_resolved_at` `_tr_resolution_note` `_tr_resolved_by` | 承認・却下・復帰の記録 (理由は内部メモ) |
 | `_tr_ip_hash` `_tr_ua` | 受付時の送信元 (ハッシュ) と UA |
 

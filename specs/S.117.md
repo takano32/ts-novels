@@ -2,10 +2,10 @@
 
 - 種類: 仕様
 - 状態: 有効
-- 出典: docs/visibility-roles-spec.md の「2. 可視性モデル」
+- 出典: docs/visibility-roles-spec.md の「可視性モデル」
 - 関連: T.23.3.2, S.102
 
-## 2. 可視性モデル
+## 可視性モデル
 
 - 読者に見えるかどうかは **`post_status`** で表す: `publish` = 見える / `private` = 運営委員のみ。**`draft` は使わない** (現行の取り下げ 18 件 + Marie 氏分は移行で `private` にする)。
 - 理由は post meta **`_ts_visibility`** で表す:

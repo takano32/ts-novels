@@ -25,7 +25,7 @@
   - 旧目録 (corpus=legacy) には板リンクが無い (作品単位の noteky ノートしかない)。
     表示名で正規目録 (corpus=honkan) 側の作者に寄せ、寄らないものは新規採番
 
-**板 id の情報源は 2 つある** (2026-08-30 追加。specs/S.217.md (元の catalog/review/authors-slugs.md) の 8-1 節の恒久対策):
+**板 id の情報源は 2 つある** (2026-08-30 追加。specs/S.217.md (元の catalog/review/authors-slugs.md) の「ついでに見つけた catalog の不具合」のうち、板 id を目録の感想リンクからしか取っていない件の恒久対策):
 
   1 目録 (`lib*.html`) の感想リンク … 話ごとに付いている
   2 **サイトの感想板一覧** `~ts/kansou/bbs@log_.cgi` … 板の側から引く対応表
@@ -513,7 +513,7 @@ def build(root, annex_base=DEFAULT_ANNEX_BASE):
 
     # 板一覧との突き合わせ — その作者の表示名がいずれかの板を指しているのに、
     # 作者 slug がどの板 id とも一致しないなら**取りこぼしか誤同定**。
-    # (specs/S.217.md (元の catalog/review/authors-slugs.md) の 8-1 節で 7 名を出した見落としを機械で塞ぐ検査)
+    # (specs/S.217.md (元の catalog/review/authors-slugs.md) の「ついでに見つけた catalog の不具合」で 7 名を出した見落としを機械で塞ぐ検査)
     board_mismatch = [
         {'slug': a['slug'], 'display_name': a['display_name'],
          'display_variants': a['display_variants'],
@@ -624,7 +624,7 @@ def selftest(payload, report):
     check('板を持つ作者の slug は板 id',
           all(a['slug'] == a['kansou_slug'] for a in payload['authors'] if a['kansou_slug']))
     # 感想板一覧 (~ts/kansou/bbs@log_.cgi、290 板) との突き合わせ。
-    # 「板があるのに機械の読みで採番していた 7 名」(specs/S.217.md (元の catalog/review/authors-slugs.md) の 8-1 節) の再発を構造的に防ぐ。
+    # 「板があるのに機械の読みで採番していた 7 名」(specs/S.217.md (元の catalog/review/authors-slugs.md) の「ついでに見つけた catalog の不具合」) の再発を構造的に防ぐ。
     check('confirmed slug と板一覧の不一致 0 (板がある表示名は必ずその板 id を使う)',
           report['board_slug_mismatch_count'] == 0,
           '不一致 %d 件 %s' % (report['board_slug_mismatch_count'],

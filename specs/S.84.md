@@ -2,10 +2,10 @@
 
 - 種類: 手順
 - 状態: 有効
-- 出典: docs/relocation.md の「5. Claude Code の memory の移し方」「6. 移設が終わった判定」
+- 出典: docs/relocation.md の「Claude Code の memory の移し方」「移設が終わった判定」
 - 関連: T.13, S.82
 
-## 5. Claude Code の memory の移し方
+## Claude Code の memory の移し方
 
 memory はプロジェクトのパスを鍵にした場所にある。パス鍵 = 作業ディレクトリの絶対パスの `/` を `-` にしたもの。
 
@@ -20,7 +20,7 @@ rsync -av ~/.claude/projects/-home-takano32-GitHub-ts-novels/memory/ \
 (現状と未決事項) と `delegate-work-to-opus.md` (作業分担の決まり) は再開時に読むこと。
 memory を運べなかった場合でも、同じ内容は S.92〜S.97 と TASKS.md・S.170〜S.204 に残してある。
 
-## 6. 移設が終わった判定
+## 移設が終わった判定
 
 - [x] `make catalog` 後に `git status` が空、`make check` の NG が 0
 - [x] `payload_build.py` が無損失 OK・アドレス残存 0

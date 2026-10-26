@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """uncatalogued_build.py — 目録に載っていない収蔵物を拾う (T.7.8、specs/S.178.md)。
 
-設計 v1.4「最大掲載原則」— サルベージしたものはすべて掲載する。`novel/` 配下の本文
+設計 (specs/S.41.md)「最大掲載原則」— サルベージしたものはすべて掲載する。`novel/` 配下の本文
 ファイルのうち、正規目録 (lib1–73) にも旧目録 (lib01–09) にも対応するエントリが無い
 ものを `corpus=uncatalogued` として `catalog/episodes.jsonl` に足す。
 
@@ -14,7 +14,7 @@
   4 dir-author   同じ投稿ディレクトリに居る既収蔵話の作者 (1 ディレクトリ = 1 作者)
   5 filename     最後の手段
 
-**掲載しない例外は 3 つだけ** (設計 v1.4) なので、ここで落とすのは「作品ではないもの」
+**掲載しない例外は 3 つだけ** (設計 S.41) なので、ここで落とすのは「作品ではないもの」
 だけに限る。落とした分は理由つきで `catalog/uncatalogued_excluded.jsonl` に全部残す:
 
   duplicate-of-catalogued  既収蔵ファイルと md5 が一致する別名コピー (alias として記録)

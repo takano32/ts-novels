@@ -1,13 +1,13 @@
-# S.77 削除 ②: 本番 .htaccess に 410 を書く
+# S.77 削除: 本番 .htaccess に 410 を書く
 
 - 種類: 手順
 - 状態: 一部失効 (S.119 で上書き。WP の URL の 410 は WordPress が返す)
-- 出典: docs/removal-runbook.md の「② 本番 .htaccess に 410 を追記」
+- 出典: docs/removal-runbook.md の「本番 .htaccess に 410 を追記」
 - 関連: S.64, S.119
 
-## ② 本番 .htaccess に 410 を追記 (T+72h まで)
+## 本番 .htaccess に 410 を追記 (受領から 72 時間まで)
 
-**ガード (S.10 の 5・7・9)**:
+**ガード (S.10 の復旧点・ログイン URL・rsync の決まり)**:
 - 必ず `cp .htaccess .htaccess.bak-YYYYMMDD` を先に取る。
 - ローカルで生成するのは**マーカーコメント間の追記ブロックだけ**。
   既存 `.htaccess` の全文をローカルに保存・コミットしない

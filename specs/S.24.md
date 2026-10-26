@@ -1,13 +1,13 @@
-# S.24 インポートパイプラインのスクリプト構成 (設計 v1.0 の 2.1)
+# S.24 インポートパイプラインのスクリプト構成
 
 - 種類: 設計
 - 状態: 一部失効 (S.35・S.37 で上書き)
-- 出典: docs/wordpress-library-design.md の「2. インポートパイプライン」の「2.1 スクリプト構成」
+- 出典: docs/wordpress-library-design.md の「インポートパイプライン」の「スクリプト構成」
 - 関連: S.35, S.37
 
-## 2. インポートパイプライン
+## インポートパイプライン
 
-### 2.1 スクリプト構成 (`scripts/wp/`、全段冪等)
+### スクリプト構成 (`scripts/wp/`、全段冪等)
 
 ```
 scripts/wp/
@@ -26,4 +26,4 @@ takedown/
 mu-plugins/ts-library/  # CPT/タクソノミー/メタ登録 + WP-CLI コマンド群 + テンプレタグ
 ```
 
-> **【失効】** v1.2 A により本文の切り出しは `body_extract.py`(HTML 出力)から **`body_convert.py`**(Markdown 正準+無損失証明、出力はリポジトリ直下の `bodies/`)に変更。v1.1 により静的マージ用の `annex_build.py` / `gen_headers.py` / `verify_site.py` は使わない(公開面がライブ WP になり `dist/` を作らないため)。実在するスクリプトの一覧は `scripts/README.md`。
+> **【失効】** S.37 により本文の切り出しは `body_extract.py`(HTML 出力)から **`body_convert.py`**(Markdown 正準+無損失証明、出力はリポジトリ直下の `bodies/`)に変更。S.35 により静的マージ用の `annex_build.py` / `gen_headers.py` / `verify_site.py` は使わない(公開面がライブ WP になり `dist/` を作らないため)。実在するスクリプトの一覧は `scripts/README.md`。

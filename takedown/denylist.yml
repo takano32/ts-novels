@@ -2,18 +2,18 @@
 # takedown/denylist.yml — 削除の単一情報源 (single source of truth)
 #
 # このファイル 1 本が「四層+掲示」の全てを駆動する:
-#   ① WP: wp ts apply-takedown  → 該当投稿を draft 化
-#   ② 本番 .htaccess: scripts/wp/gen_htaccess.py → Redirect gone (真の 410)
-#   ③ 原本アーカイブ (GitHub Pages): scripts/wp/annex_inject.py → 配信 artifact から除外
-#   ④ git 履歴: specs/S.79.md の手順 (git filter-repo)
-#   ⑤ 掲示: /removed/ 固定ページ (作者名 + 理由の要約のみ)
+#   - WP (S.76): wp ts apply-takedown  → 該当投稿を draft 化
+#   - 本番 .htaccess (S.77): scripts/wp/gen_htaccess.py → Redirect gone (真の 410)
+#   - 原本アーカイブ (GitHub Pages) (S.78): scripts/wp/annex_inject.py → 配信 artifact から除外
+#   - git 履歴 (S.79): specs/S.79.md の手順 (git filter-repo)
+#   - 掲示 (S.80): /removed/ 固定ページ (作者名 + 理由の要約のみ)
 #
-# 手順は specs/S.75.md〜S.81.md を優先する。SLA = 受領から 72 時間以内に ①②③ を完了。
+# 手順は specs/S.75.md〜S.81.md を優先する。SLA = 受領から 72 時間以内に WP・.htaccess・原本アーカイブの 3 層を完了。
 #
 # 【書いてはいけないこと】
 #   - 依頼者の氏名・メールアドレス・連絡先・依頼文の原文 (このリポジトリは public)
 #     → 依頼の実物は私有ストレージに保管し、ここには受領日と経路の分類だけを書く
-#   - CloudSecure のログイン URL 等、本番の秘匿値 (specs/S.10.md の普遍ルール 7)
+#   - CloudSecure のログイン URL 等、本番の秘匿値 (specs/S.10.md のログイン URL の変更値を転記しない決まり)
 #
 # スキーマ (version: 1)
 # ---------------------------------------------------------------------------
@@ -35,15 +35,15 @@
 # entries[].received_via  必須 enum  email | takedown_form | author_site | other
 # entries[].status        必須 enum  received | applied | verified | reinstated
 #                                    received  : 受領直後 (まだ何も止めていない)
-#                                    applied   : ①②③ 実施済み
+#                                    applied   : WP・.htaccess・原本アーカイブの 3 層を実施済み
 #                                    verified  : curl / WP-CLI で実地確認済み
 #                                    reinstated: 許諾が得られ復帰 (履歴として残す)
 # entries[].applied       必須 map   各層の実施日 (未実施は null)
-#   .wp_draft             date|null  ① WP 投稿を draft 化した日
-#   .htaccess_410         date|null  ② 本番 .htaccess に 410 を入れた日
-#   .annex_excluded       date|null  ③ Pages ビルドから除外した日
-#   .git_history_purged   date|null  ④ git filter-repo 実施日。要求されたときのみ
-#   .removed_page_listed  date|null  ⑤ /removed/ に掲載した日
+#   .wp_draft             date|null  WP 投稿を draft 化した日 (S.76)
+#   .htaccess_410         date|null  本番 .htaccess に 410 を入れた日 (S.77)
+#   .annex_excluded       date|null  Pages ビルドから除外した日 (S.78)
+#   .git_history_purged   date|null  git filter-repo 実施日 (S.79)。要求されたときのみ
+#   .removed_page_listed  date|null  /removed/ に掲載した日 (S.80)
 # entries[].public_note   任意 str   /removed/ に載せる 1 行 (作者名 + 理由の要約)。
 #                                    省略時は「作者の申し出により削除」を既定文言とする
 # entries[].notes         任意 str   内部メモ。個人情報は書かない
@@ -248,7 +248,7 @@ entries:
       git_history_purged: null
       removed_page_listed: null
     public_note: Ｍａｒｉｅさんの作品 (7 作) — 作者の申し出により掲載していません
-    notes: requested_at は当時の年が分かれば差し替える (S.114 の 3)。/removed/ への名前の掲示・同居 2 ファイル・感想板 30 ファイル・git 履歴は所有者の回答待ち (T.18.1)
+    notes: requested_at は当時の年が分かれば差し替える (所有者への質問のうち「Marie」、S.114)。/removed/ への名前の掲示・同居 2 ファイル・感想板 30 ファイル・git 履歴は所有者の回答待ち (T.18.1)
 
   # ------------------------------------------------------------------------
   # 第三者のプライバシー (運営判断による一時非公開。**サイト所有者の確認待ち**)

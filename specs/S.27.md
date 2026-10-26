@@ -1,17 +1,17 @@
-# S.27 読書体験 (設計 v1.0 の 4)
+# S.27 読書体験
 
 - 種類: 設計
 - 状態: 一部失効 (S.37 で上書き)
-- 出典: docs/wordpress-library-design.md の「4. 読書体験」
+- 出典: docs/wordpress-library-design.md の「読書体験」
 - 関連: T.10.2, S.37, S.192, S.193
 
-## 4. 読書体験
+## 読書体験
 
 **テーマ**: 自作の軽量ブロックテーマ `ts-bunko` (theme.json + テンプレート数枚。機能は全て mu-plugin 側に置き、テーマは見た目のみ)。外部依存ゼロ: システムフォントスタック (游明朝/Hiragino Mincho/serif、ゴシック切替)、Google Fonts 不使用。本文カラム max-width 38em・行間 1.9。
 
 **本文表示**: `.ts-reader` コンテナに原本 HTML (wp:html) を格納。デフォルト「整形表示」= コンテナ内の bgcolor/text/font color 属性を CSS で override (色トークンのみ、all:revert はしない) + 上記タイポグラフィ。**「原本配色」トグル**で当時の #EEEEEE 標準・黒背景変種もそのまま見られる。旧 IE 式 ruby は互換 CSS 同梱で無変換表示。
 
-> **【失効】** v1.2 A により本文は Markdown → Gutenberg コアブロックで表示に変更(`wp:html` は raw フォールバック専用)。「原本配色」トグルも raw フォールバックの話だけの機能に縮小した(実測 2 話)。
+> **【失効】** S.37 により本文は Markdown → Gutenberg コアブロックで表示に変更(`wp:html` は raw フォールバック専用)。「原本配色」トグルも raw フォールバックの話だけの機能に縮小した(実測 2 話)。
 
 **リーダー UI** (素 JS + localStorage、プラグイン不使用、静的配信と完全両立):
 - 文字サイズ 4 段階 / 行間 2 段階 / 明朝⇄ゴシック / ダークモード (prefers-color-scheme 追随+手動)

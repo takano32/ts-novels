@@ -36,7 +36,7 @@ import unicodedata
 
 DEFAULT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ORIG_BASE = 'http://ts.novels.jp/'
-# 原本アーカイブ = 現行 GitHub Pages ミラー (設計 v1.1 = S.35 で恒久併存が決定)。用語は specs/S.14.md〜S.19.md を優先する。
+# 原本アーカイブ = 現行 GitHub Pages ミラー (設計 S.35 で恒久併存が決定)。用語は specs/S.14.md〜S.19.md を優先する。
 # リポジトリは takano32/ts-novels、カスタムドメイン (CNAME) なし。
 DEFAULT_ANNEX_BASE = 'https://takano32.github.io/ts-novels/'
 YAYS_PREFIX = '~yays/library/'          # 2000-02 年の旧世代ツリー (初出版)
@@ -216,7 +216,7 @@ def drop_nav_anchors(fragment):
 
 
 def scrub_mailto(fragment):
-    """mailto 由来の値をエントリ HTML から根こそぎ落とす (普遍ルール 4)。
+    """mailto 由来の値をエントリ HTML から根こそぎ落とす (S.10 のメールアドレスを DB に入れない決まり)。
 
     戻り値 (scrubbed_html, dropped_addresses)。
       - `<a href="mailto:X">LABEL</a>` は LABEL だけを残す。LABEL 自体がアドレスなら消す

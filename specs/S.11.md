@@ -2,7 +2,7 @@
 
 - 種類: 仕様
 - 状態: 有効
-- 出典: docs/wp-implementation-tasks.md の「0. 実行セッションの心得」の「目録パースの地雷」
+- 出典: docs/wp-implementation-tasks.md の「実行セッションの心得」の「目録パースの地雷」
 - 関連: T.7.1, S.54, S.171
 
 **目録パースの地雷**(詳細は survey JSON の catalog 節):
@@ -17,5 +17,5 @@
   (200209 配下に 2014 年の話が実在)。post_date は必ず目録の日付欄から
 - 本文 HTML: bogus comment `<!　…!!`(没稿隠し)と裸の `<` はブラウザ等価処理(preclean の手本は
   `md_convert_probe.py`)
-- series.html の**有効行(リンクを持つ TR)は実測 112**。設計 v1.0 (S.25) と旧版のタスクリストの「123 行」は誤り
+- series.html の**有効行(リンクを持つ TR)は実測 112**。設計 (S.25) と旧版のタスクリストの「123 行」は誤り
   (数え方: `catalog/reports/work_builder.json` の `series_html_rows`)

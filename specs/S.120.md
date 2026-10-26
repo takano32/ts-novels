@@ -2,10 +2,10 @@
 
 - 種類: 手順
 - 状態: 有効
-- 出典: docs/visibility-roles-spec.md の「5. 実測項目」
+- 出典: docs/visibility-roles-spec.md の「実測項目」
 - 関連: T.23.1, S.62
 
-## 5. 実測項目: nginx キャッシュとログイン (実装前に必ず)
+## 実測項目: nginx キャッシュとログイン (実装前に必ず)
 
 1. 復旧点 (`wp db export`) → 試験ユーザ (`--role=editor`、強いパスワード) を作る。
 2. (高野さんの作業) ブラウザでログイン (ログイン URL は転記禁止)。

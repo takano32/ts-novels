@@ -1,13 +1,13 @@
-# S.185 全量メタ投入 (T.8.4、元の 2.5)
+# S.185 全量メタ投入 (T.8.4)
 
 - 種類: 記録
 - 状態: 有効
 - 出典: docs/wp-implementation-tasks.md の 2.5
 - 関連: T.8.4
 
-- [x] 2.5 全量メタ投入(本文なし)。直前に `wp db export` で復旧点。
+- [x] T.8.4 (全量投入) 全量メタ投入(本文なし)。直前に `wp db export` で復旧点。
       **冪等性テスト: 2 回目 import が created=0 / updated=0**
-      - **2.5 再投入の検収 (2026-08-30、修正コミット `70873826` / `2bd22a7d`)**:
+      - **全量投入の再投入の検収 (2026-08-30、修正コミット `70873826` / `2bd22a7d`)**:
         `wp ts reset --yes`(高野さんが手動で。投稿 4,363・term 1,931 を削除)→
         **`wp ts sync-terms` = created=1736 updated=0 skipped=0 / 5.6 秒**
         (1,734 + 擬似作者 `unattributed` `series-index` の 2)→
@@ -24,9 +24,9 @@
         ts_world 420=420・ts_corpus 3844=3844** はすべて一致、
         **ts_genre のみ WP=4974 期待=4963(+11)** で不一致。
         これと `term 未解決の値 (164 種)` の 2 件が残っているため
-        **verify の終了は依然 NG**。原因と直す場所は 2.2 の「残る未達 1 件」を参照。
+        **verify の終了は依然 NG**。原因と直す場所は S.182 の「T.8.2 に残っていた未達 1 件」を参照。
         **投入そのものは完走しており、残件は分類語彙の異表記マップだけ**
-      - **2.5 最終状態 (2026-08-30、コミット `322522a8` + `2fe08197`。reset なし)**:
+      - **全量投入の最終状態 (2026-08-30、コミット `322522a8` + `2fe08197`。reset なし)**:
         `sync-terms` **created=0 updated=1 skipped=1735** → `import` **created=0 updated=5295
         skipped=0 (2分18秒)** → **`wp ts verify` OK(全項目一致)** →
         `import --dry-run` **created=0 / updated=0 / skipped=5295**。
@@ -46,9 +46,9 @@
         単発作品 `/novel/yaji-trans11/` **200 `<title>trans11 – 少年少女文庫</title>`** /
         連載の子投稿 `/novel/unattributed-triangle-equation/triangle_equation2/` **200**
         (ASCII slug) / 作者アーカイブ `/authors/johdan/` **200 `<title>城弾 – 少年少女文庫</title>`**
-        で作品が 10 件並ぶ(旧バグ (D) の修正確認)/ 旧 `/novel/` 以前の
+        で作品が 10 件並ぶ(単発作品の作者欠落 (S.182) の修正確認)/ 旧 `/novel/` 以前の
         `/works/yaji-trans11/` は **301 → `/novel/yaji-trans11/`(最終 200)**
-      - **2.5 初回実行の記録 (2026-08-30。修正前。上の再投入で置き換わっている)**:
+      - **全量投入の初回実行の記録 (2026-08-30。修正前。上の再投入で置き換わっている)**:
         復旧点 `~/novels.xwp.jp/backup-phase2-20260830.sql` (1.8MB)。
         `wp ts import` (limit なし) = **created=2850 updated=970 skipped=1475 /
         2 分 00 秒**(created+updated+skipped = 5,295 = works 1,451 + episodes 3,844)。
@@ -58,10 +58,10 @@
         `ts_corpus` の内訳も catalog と完全一致(honkan 2,887 / uncatalogued 859 /
         legacy 97 / extern-repost 1 / dojo 0)。
         **2 回目の `wp ts import` = created=0 / updated=1864 / skipped=3431 (2 分 00 秒)**
-        → **受け入れ条件「created=0 かつ updated=0」を満たさない**。原因と実測は 2.2 (A)。
-        あわせて 2.2 (B)(C)(D) の語彙・作者の取り違えも要修正なので、
-        **修正後に `wp ts reset --yes` → 再 import して 2.5 をやり直すこと**
-        (→ 実施済み。結果は上の「2.5 再投入の検収」)
+        → **受け入れ条件「created=0 かつ updated=0」を満たさない**。原因と実測は S.182 の冪等性の不具合。
+        あわせて S.182 の語彙外 term の増殖・共有世界の板を作者と誤認・単発作品の作者欠落 (語彙・作者の取り違え) も要修正なので、
+        **修正後に `wp ts reset --yes` → 再 import して全量投入をやり直すこと**
+        (→ 実施済み。結果は上の「全量投入の再投入の検収」)
       - **運用上の注意**: `wp ts reset --yes` は Claude Code の権限分類器に掛かるため
         **実行セッションからは実行できない**。やり直しが要るときは人間 (高野さん) に手動実行を
         依頼する(迂回して `wp db query` 等で消さないこと)

@@ -2,10 +2,10 @@
 
 - 種類: 手順
 - 状態: 有効
-- 出典: docs/cluster-overrides-spec.md の「8. 検証」
+- 出典: docs/cluster-overrides-spec.md の「検証」
 - 関連: T.24.8
 
-## 8. 検証
+## 検証
 
 | 確認 | 期待 |
 |---|---|

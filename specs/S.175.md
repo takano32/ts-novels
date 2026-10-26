@@ -1,11 +1,11 @@
-# S.175 Episode → Work のクラスタリング (T.7.5、元の 1.5)
+# S.175 Episode → Work のクラスタリング (T.7.5)
 
 - 種類: 記録
 - 状態: 有効
 - 出典: docs/wp-implementation-tasks.md の 1.5
 - 関連: T.7.5, S.107
 
-- [x] 1.5 `scripts/wp/work_builder.py`: Episode → Work クラスタリング → `catalog/works.jsonl`
+- [x] T.7.5 `scripts/wp/work_builder.py`: Episode → Work クラスタリング → `catalog/works.jsonl`
       - シード: `series.html` 有効 **112** 行(コメント除去後にリンクを持つ TR。
         旧記述の「123 行」は誤り)+`share_world.html`+
         **シリーズタイトルページ(novel/ 配下の `*title*.htm*` および投稿ディレクトリ内 index.html 名、
@@ -15,7 +15,7 @@
       - work_slug = `{author_slug}-{作品ローマ字}`。**作品ローマ字も pykakasi 候補+
         `slug_overrides.yml` 経由の人間 (サイト所有者) の確認ゲートを通す**。重複ファイルは正本 1 つ+`alias_paths`
       - 受け入れ: 全 episode がいずれかの work に属す。orphan 0
-      - **1.5 実測 (2026-08-30 再計測。1.8/1.9 で episode が 2,984→3,844 に増えた分を反映)**:
+      - **T.7.5 の実測 (2026-08-30 再計測。T.7.8 (目録外収蔵と pixiv 再掲) で episode が 2,984→3,844 に増えた分を反映)**:
         **Work 1,463 件**(単発 946 / 連載 517)、3,844 episode 全部がどれかに属し **orphan 0**。
         `needs_review` は **328 件**(内訳: 弱い根拠のみ 269 / 15 話以上 22 /
         複数ディレクトリ 37)。md5 一致の重複ファイル 55 本を `alias_paths` に。

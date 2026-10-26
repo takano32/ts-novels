@@ -2,10 +2,10 @@
 
 - 種類: 実測
 - 状態: 有効
-- 出典: docs/environment.md の「1. 接続と身元」
+- 出典: docs/environment.md の「接続と身元」
 - 関連: T.13.3
 
-## 1. 接続と身元
+## 接続と身元
 
 ```sh
 scripts/wp/novels-ssh  # = ssh -p 10022 -o ForwardAgent=yes novels@sv3.xwp.ne.jp。~/.ssh/config は使わない。鍵認証・パスフレーズなし

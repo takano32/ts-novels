@@ -2,7 +2,7 @@
 
 - 種類: 手順
 - 状態: 一部失効 (S.98 で上書き。ts_catalog_commit の値)
-- 出典: docs/wp-implementation-tasks.md の「レビュー チェックポイント(Phase 4 完了時。ここで止まる)」
+- 出典: docs/wp-implementation-tasks.md の「レビューのチェックポイント」(いまの T.29)
 - 関連: T.29, S.92, S.98
 
 ## レビュー チェックポイント(T.10 完了時。ここで止まる)
@@ -10,7 +10,7 @@
 - [ ] (八重洲さんの判断。T.29) **サイト所有者のレビュー**。T.10 の全タスク完了後、実行セッションは
       **T.35 以降に進まず**、次を揃えて報告して止まること:
       1. レビュー用 URL 一覧(トップ / 作品 3 例 / 話 3 例〔MD・raw フォールバック・画像作品を各 1〕/
-         作者 2 例 / 各索引 / 検索。v1.5: 公開状態のままレビュー — noindex は /boards/ /dojo/ の恒久層のみ)
+         作者 2 例 / 各索引 / 検索。公開前提 (S.42) により公開状態のままレビュー — noindex は /boards/ /dojo/ の恒久層のみ)
       2. その時点の `wp option get ts_catalog_commit` の値(NG 報告の基準点)
       3. 既知の未了・妥協点の一覧
       NG の出し方と再走手順は S.74 と S.73。
@@ -22,7 +22,7 @@
         **基準点 `ts_catalog_commit` = `85cc9bf7dd436021dc5634fb05d07cb36d177814`**
         (配備コードは `82c98eba`。`85cc9bf7` 以降はテーマと mu-plugin のみの変更で
         **catalog の中身は不変**なのでこの値が内容の基準点として正しい)。
-      - **公開設定の現況 (v1.5 どおり)**: `/` `/novel/…` `/docs/gallery/` `/index/…` の
+      - **公開設定の現況 (S.42 どおり)**: `/` `/novel/…` `/docs/gallery/` `/index/…` の
         いずれにも **`X-Robots-Tag` も meta robots も出ていない = インデックス可**。
         `robots.txt` は AI 学習クローラ(GPTBot・ClaudeBot・CCBot・PerplexityBot ほか)を
         Disallow し、一般検索エンジンは止めていない。

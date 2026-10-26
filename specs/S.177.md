@@ -1,31 +1,32 @@
-# S.177 本文の Markdown 変換 (T.7.6、元の 1.6)
+# S.177 本文の Markdown 変換 (T.7.6)
 
 - 種類: 記録
 - 状態: 有効
 - 出典: docs/wp-implementation-tasks.md の 1.6 (仕様の行と、1.9 の後ろに置かれていた実測の行)
 - 関連: T.7.6, S.37
 
-- [x] 1.6 `scripts/wp/body_convert.py`: 本文 Markdown 変換(S.37「本文 Markdown 正準化」)
+- [x] T.7.6 `scripts/wp/body_convert.py`: 本文 Markdown 変換(S.37「本文 Markdown 正準化」)
       - `md_convert_probe.py` を本実装に昇格。追加対応: 装飾/レイアウト table の分類(title 箱=
         クローム除去、本文内 table=インライン HTML 温存)、Word `o:p`/`MsoNormal` 剥離、
         typo タグ(storng/senter 等)吸収、クローム剥がし(冒頭「戻る」〜2 個目 hr、末尾感想フッタ)
-      - **特殊エントリ 4 分類**: ① toukou01–03.html は `<a name>` アンカーで各話に分割
-        (episode_id に @anchor) ② 画像作品 21 件(.jpg/.gif 直リンク)は figure 1 枚の本文
-        ③ 外部絶対 URL 6 件+special/rb 1 件はリンクスタブ本文(死にリンクは Wayback URL に書換)
-        ④ 通常 HTML
+      - **特殊エントリ 4 分類**:
+        1. toukou01–03.html は `<a name>` アンカーで各話に分割 (episode_id に @anchor)
+        2. 画像作品 21 件(.jpg/.gif 直リンク)は figure 1 枚の本文
+        3. 外部絶対 URL 6 件+special/rb 1 件はリンクスタブ本文(死にリンクは Wayback URL に書換)
+        4. 通常 HTML
       - **無損失証明**: タグ・空白・山括弧除去+NFC の文字列が原本と完全一致した話だけ
         `bodies/{episode_id}.md` に出力。不合格は raw フォールバックの一覧へ。
         全話の判定を `catalog/convert_report.jsonl` に記録
       - **受け入れ: 証明合格率 ≥85%(目標 90〜95%)・合格分の不変量違反 0・
         乱数抽出 20 話の目視比較で本文欠落なし**
 
-      - **1.6 実測 (2026-08-30、変換器のバグ 4 種を潰したあとの再計測)**: 変換対象 3,644 のうち
+      - **T.7.6 の実測 (2026-08-30、変換器のバグ 4 種を潰したあとの再計測)**: 変換対象 3,644 のうち
         **3,642 話が証明つきで合格 (99.95%)**、証明違反 0、raw フォールバック 2 話。
         出力は `bodies/<episode_id>.md` (**3,642 ファイル**)・判定は
         `catalog/convert_report.jsonl`・サマリは `catalog/reports/body_convert.json`。
         (数え方: `ls bodies/*.md | wc -l` と `body_convert.json` の `status` / `md_rate_pct`)
         **`bodies/` は `.gitignore` 済みで git 管理外** — `make catalog` で再生成する派生物
-      - **設計を二段構えにした**: ①本文領域は無損失証明で完全保護 ②**クローム除去は証明の外側**
+      - **設計を二段構えにした**: 本文領域は無損失証明で完全保護し、**クローム除去は証明の外側**
         で行い、検証を通したあとに定型ナビ行だけを落とす。落とした 9,670 行 (3,273 話) は
         `nav_trimmed` に全件記録してあり、本文を巻き込んでいないか監査できる。
         これで先頭が「戻る」の話は 2,576→0、感想フッタ残りは 1,354→45 になった

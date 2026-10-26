@@ -2,10 +2,10 @@
 
 - 種類: 仕様
 - 状態: 有効
-- 出典: docs/versions-spec.md の「4. 出力」
+- 出典: docs/versions-spec.md の「出力」
 - 関連: T.25.2.2, T.25.2.4, S.212
 
-## 4. 出力
+## 出力
 
 - `catalog/works.jsonl` の `episodes[]` に **`superseded_by`** (新版の `episode_id`、新版自身と単独の話は `null`)。親 work に **`all_superseded`** (bool)。
 - `catalog/reports/versions_build.json`: `groups_total` / `auto_same` / `review_pending` / `review_decided` / `distinct` / `superseded_episodes` / `by_corpus_pair` (組合せ別の件数) / `threshold`。

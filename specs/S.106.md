@@ -2,10 +2,10 @@
 
 - 種類: 設計
 - 状態: 有効
-- 出典: docs/owner-feedback-2026-10.md の「6. バージョン違いの同一作品」
+- 出典: docs/owner-feedback-2026-10.md の「バージョン違いの同一作品」
 - 関連: T.25, S.137〜S.145
 
-## 6. バージョン違いの同一作品 — 新しいほうを残し、古いほうは運営委員のみ
+## バージョン違いの同一作品 — 新しいほうを残し、古いほうは運営委員のみ
 
 **現状 (実測。`catalog/episodes.jsonl` 3,844 話を 作者 × 題名 (NFKC・空白と記号を除去) で束ね、別ファイルを指すもの)**:
 
@@ -27,7 +27,7 @@
 
 **仕様 (決定案)**:
 
-1. **「新しい」の判定**: ① 目録の掲載日 (`date`) が新しい → ② 同日なら corpus 優先 `honkan` > `uncatalogued` > `legacy` (目録に載った版を正) → ③ なお同じなら本文の長い方。alias の正本選定も同じ規則に揃える (最古 → 最新)。
+1. **「新しい」の判定**: 目録の掲載日 (`date`) が新しい → 同日なら corpus 優先 `honkan` > `uncatalogued` > `legacy` (目録に載った版を正) → なお同じなら本文の長い方。alias の正本選定も同じ規則に揃える (最古 → 最新)。
 2. 新段 **`scripts/wp/versions_build.py`** (`make catalog` で `work_builder` の後): 作者 × 正規化題名 (+ `catalog/versions_overrides.yml` の手動指定: 異題同作・同題別作) で束ね、本文の正規化テキストの一致/類似度を取り、`works.jsonl` の各話に **`superseded_by: <episode_id>`** を付ける。自動確定 = バイト一致・テキスト一致・類似度 ≥0.95 (**209 組**)。<0.95 の **89 組**は雛形を出して人手確認 (0.5 未満 60 組の既定は「別作品」)。
 3. import: `superseded_by` のある話 → `post_status=private` + `_ts_visibility=superseded` + `_ts_superseded_by`。読者は旧 URL から新版へ **301** (URL は生かす)、運営委員は旧版を帯「旧版 (YYYY 年の掲載)。読者には新版を表示しています」付きで閲覧 (S.102)。新版の書誌カードには運営委員にだけ「旧版あり」を出す。
 4. 単発作品が superseded なら作品投稿ごと private。作品単位の同名 20 組は話の superseded で片方が空になるので、その作品も private。索引・件数は publish だけ数える現行実装 (`indexes.php:80-95`) のまま整合。

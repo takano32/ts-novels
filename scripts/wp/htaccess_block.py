@@ -2,7 +2,7 @@
 """本番 .htaccess の ts-library マーカーブロック管理 (T.8.6。高品位なモデルとエフォートの所管 — 本番を触るコード)。
 
 やること:
-  - 恒久 noindex 層 (/boards/ /dojo/ — v1.5: 公開ゲートではなく第三者配慮) の X-Robots-Tag
+  - 恒久 noindex 層 (/boards/ /dojo/ — S.42: 公開ゲートではなく第三者配慮) の X-Robots-Tag
   - 取り下げ済み URL の 410 (Redirect gone)。URL は `wp ts export-takedown-urls` に聞く
   - 上記だけを BEGIN/END マーカー間のブロックとして生成し、サーバ上で差し替える
 
@@ -88,7 +88,7 @@ def build_block():
         sys.exit(2)
     parts = [
         BEGIN,
-        '# 恒久 noindex 層: /boards/ /dojo/ (第三者ハンドルが載る層。設計 v1.5)',
+        '# 恒久 noindex 層: /boards/ /dojo/ (第三者ハンドルが載る層。設計 S.42)',
         '<IfModule mod_setenvif.c>',
         'SetEnvIf Request_URI "^/(boards|dojo)(/|$)" TS_NOINDEX',
         '</IfModule>',

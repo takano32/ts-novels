@@ -2,10 +2,10 @@
 
 - 種類: 設計
 - 状態: 有効
-- 出典: docs/owner-feedback-2026-10.md の「8. アイコン類 (将来)」
+- 出典: docs/owner-feedback-2026-10.md の「アイコン類 (将来)」
 - 関連: T.28
 
-## 8. アイコン類 (将来)
+## アイコン類 (将来)
 
 **現状**: テーマ `themes/ts-bunko` は外部依存ゼロ (S.27。Google Fonts 不使用)、`style.css` 10KB、JS は `reader.js` のみ。アイコンは無い。
 

@@ -18652,7 +18652,7 @@
      "count": 21,
      "core": true,
      "origin_author": "真城 悠",
-     "note": "ディレクトリ名は corrector だが中身はフォスター。設計 v1.0 の world 一覧が corrector を別世界として数えていたのは誤り",
+     "note": "ディレクトリ名は corrector だが中身はフォスター。設計 (S.22) の world 一覧が corrector を別世界として数えていたのは誤り",
      "rule": {
       "boards": [
        "foster"

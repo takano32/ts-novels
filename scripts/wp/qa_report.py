@@ -78,7 +78,7 @@ def main(argv=None):
         # (かつて移築先の WordPress = WP サイトをその語で呼んでいて紛らわしいため。S.15)。
         ('　正規目録 (`honkan`、lib1–73)', corpora.get('honkan', 0)),
         ('　旧目録 (`legacy`、lib01–09 の差分)', corpora.get('legacy', 0)),
-        ('　目録外収蔵 (`uncatalogued`、設計 v1.4)', corpora.get('uncatalogued', 0)),
+        ('　目録外収蔵 (`uncatalogued`、設計 S.41)', corpora.get('uncatalogued', 0)),
         ('　文庫未掲載の作者再掲 (`extern-repost`)', corpora.get('extern-repost', 0)),
         ('works (作品クラスタ)', wrk['works'] if wrk else '—'),
         ('　単発 / 連載', '%d / %d' % (wrk['works_single_episode'], wrk['works_multi_episode'])

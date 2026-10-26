@@ -36,7 +36,7 @@ class TS_Command {
     private $body_status = [];  // episode_id => converted / raw-fallback (payloads/_meta.json)
 
     /** terms.json の語彙を対応表に積む。term は必ず slug→ID で解決する (name 解決は
-     *  term_exists() が slug 照合を先にやるため sanitize_title の衝突で誤爆する — 実測 (B)) */
+     *  term_exists() が slug 照合を先にやるため sanitize_title の衝突で誤爆する — S.182 の実測: 語彙外 term の増殖) */
     private function load_vocab($root) {
         $t = $this->read_json("$root/catalog/terms.json");
         foreach ($t['taxonomies'] as $tax => $spec) {
@@ -187,7 +187,7 @@ class TS_Command {
     }
 
     /** 単発 work は work 側 (_ts_import_hash) と fill 側 (_ts_fill_hash) が別キー —
-     *  同じキーを奪い合うと毎回 updated=2 になり冪等が壊れる (実測 (A)) */
+     *  同じキーを奪い合うと毎回 updated=2 になり冪等が壊れる (S.182 の実測: 冪等性の不具合) */
     private function stamp_import($post_id, $hash, $key = '_ts_import_hash') {
         update_post_meta($post_id, $key, $hash);
         // 直前の update で post_modified が動いた「後」の値を記録する
@@ -327,7 +327,7 @@ class TS_Command {
                 }
             }
             // 作者 term は作品の author_slug からのみ付く。kansou_slug は板の slug であって
-            // 作者ではない (共有世界板で別人になる — 実測 (C)) ので、メタに置くだけ
+            // 作者ではない (共有世界板で別人になる — S.182 の実測: 共有世界の板を作者と誤認) ので、メタに置くだけ
             $author = $wslug !== null ? ($work_author[$wslug] ?? '') : '';
             // 単発作品は親 (work 投稿) が本文ごと担う — episode の子投稿は作らない
             if ($wslug !== null && isset($single_work[$wslug])) {
@@ -408,7 +408,7 @@ class TS_Command {
     }
 
     /** episode の共通メタ・タクソノミーを投稿に書く。$author_slug=null は作者 term に触らない
-     *  (単発 work — upsert_work が付けた作者を消さないため。実測 (D)) */
+     *  (単発 work — upsert_work が付けた作者を消さないため。S.182 の実測: 単発作品の作者欠落) */
     private function apply_episode_data($post_id, $ep, $author_slug) {
         $meta = [
             '_ts_episode_id' => $ep['episode_id'],
@@ -485,7 +485,7 @@ class TS_Command {
         $n[$creating ? 'created' : 'updated']++;
     }
 
-    /** 単発作品: 親 work 投稿に episode の本文とメタを載せる。hash は work 側と別キー (実測 (A)) */
+    /** 単発作品: 親 work 投稿に episode の本文とメタを載せる。hash は work 側と別キー (S.182 の実測: 冪等性の不具合) */
     private function fill_single_work($post_id, $ep, $bodies, $dry, $ow, &$n, &$manual) {
         if (!$post_id) return;
         $body = $this->episode_body($ep, $bodies);

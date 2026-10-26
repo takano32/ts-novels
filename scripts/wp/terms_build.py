@@ -92,7 +92,7 @@ DEFAULT_WORLD_MAP = {
     'foster': {'name': '次元管理人フォスターシリーズ', 'boards': ['foster'],
                'path_prefixes': ['novel/corrector/'], 'origin': '真城 悠',
                'note': 'ディレクトリ名は corrector だが中身はフォスター。'
-                       '設計 v1.0 の world 一覧が corrector を別世界として数えていたのは誤り'},
+                       '設計 (S.22) の world 一覧が corrector を別世界として数えていたのは誤り'},
     'rental': {'name': '「レンタル・ボディ」シリーズ', 'boards': ['rental_body'],
                'path_prefixes': ['novel/rental/'], 'origin': '２ｂｉｔ'},
     'mirror_ring': {'name': 'ミラーリングシリーズ', 'boards': [],

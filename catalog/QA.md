@@ -9,7 +9,7 @@
 | episodes 合計 | 3844 |
 | 　正規目録 (`honkan`、lib1–73) | 2887 |
 | 　旧目録 (`legacy`、lib01–09 の差分) | 97 |
-| 　目録外収蔵 (`uncatalogued`、設計 v1.4) | 859 |
+| 　目録外収蔵 (`uncatalogued`、設計 S.41) | 859 |
 | 　文庫未掲載の作者再掲 (`extern-repost`) | 1 |
 | works (作品クラスタ) | 1451 |
 | 　単発 / 連載 | 932 / 519 |

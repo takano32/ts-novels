@@ -1,13 +1,13 @@
-# S.171 catalog_build: 正規目録のパース (T.7.1、元の 1.1)
+# S.171 catalog_build: 正規目録のパース (T.7.1)
 
 - 種類: 記録
 - 状態: 有効
-- 出典: docs/wp-implementation-tasks.md の「Phase 1」の 1.1
+- 出典: docs/wp-implementation-tasks.md の「catalog 確立」の段の最初の行 (いまの T.7.1)
 - 関連: T.7.1, S.8, S.11, S.212
 
 ## T.7 — catalog 確立(目安 2〜3 週。ここが土台)
 
-- [x] 1.1 `scripts/wp/catalog_build.py`: lib1〜73 の 2,887 エントリを JSONL 化
+- [x] T.7.1 `scripts/wp/catalog_build.py`: lib1〜73 の 2,887 エントリを JSONL 化
       - survey JSON の fields 節の正規表現をそのまま実装(パース率 100% 検証済みの仕様)
       - 出力 `catalog/episodes.jsonl` の必須フィールド: **episode_id / source_path / source_anchor** /
         title / author / homepage(URL のみ。mailto は捨てる) / illustrator(+URL) / date_raw /
@@ -20,7 +20,7 @@
         (検査は「mailto: リンクから抽出した値が出力に無いこと」をロジックで確認する自動テストを同梱。
         シェル検査を使うなら `! grep -q` 形式にし、`index@08201937.html` 型ファイル名や homepage URL を
         誤検知しないこと)・provenance 被覆率をレポート**
-      - **1.1 実測メモ (2026-08-30 実装時。以降のフェーズはこちらが実測値)**:
+      - **T.7.1 の実測メモ (2026-08-30 実装時。以降のフェーズはこちらが実測値)**:
         2,887 エントリ / パース失敗 0 / mailto 264 アドレスを除去し残存 0 /
         provenance 被覆率 93.35%(2,695/2,887。残り 192 は原本ファイルが未回収の話 186 +
         外部 URL 6 で、回収されていない以上は経路も無い)。

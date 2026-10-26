@@ -2,10 +2,10 @@
 
 - 種類: 仕様
 - 状態: 有効
-- 出典: docs/cluster-overrides-spec.md の「5. 裁定の書き方 → YAML」
+- 出典: docs/cluster-overrides-spec.md の「裁定の書き方 → YAML」
 - 関連: T.24.4, T.24.5
 
-## 5. 裁定の書き方 → YAML
+## 裁定の書き方 → YAML
 
 | 裁定 | YAML |
 |---|---|

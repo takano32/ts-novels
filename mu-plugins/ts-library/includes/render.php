@@ -107,7 +107,7 @@ function ts_bunko_provenance_label($prov) {
     return $map[$prov['route'] ?? ($prov['method'] ?? '')] ?? ($prov['route'] ?? null);
 }
 
-/** 書誌カード: 初出・回収経路・原本リンク群。本文が整形表示である旨を明示する (設計 v1.4) */
+/** 書誌カード: 初出・回収経路・原本リンク群。本文が整形表示である旨を明示する (設計 S.41) */
 function ts_bunko_biblio_card($post) {
     $id = $post->ID;
     $src = ts_meta($id, 'source_path');

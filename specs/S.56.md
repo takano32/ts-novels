@@ -2,10 +2,10 @@
 
 - 種類: 実測
 - 状態: 有効
-- 出典: docs/data-inventory.md の「7. 本番ホスト(novels.xwp.jp)側の制約が効くファイル」
+- 出典: docs/data-inventory.md の「本番ホスト(novels.xwp.jp)側の制約が効くファイル」
 - 関連: T.16.4, S.63, S.110, T.40.5
 
-## 7. 本番ホスト(novels.xwp.jp)側の制約が効くファイル
+## 本番ホスト(novels.xwp.jp)側の制約が効くファイル
 
 **`.cgi` の件数は数え方で 1 件ずれる。文書で言及するときはどちらか明示すること。**
 

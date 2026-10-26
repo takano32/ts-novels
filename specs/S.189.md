@@ -1,11 +1,11 @@
-# S.189 img の書き換えと eyecatch (T.9.2、元の 3.2)
+# S.189 img の書き換えと eyecatch (T.9.2)
 
 - 種類: 記録
 - 状態: 有効
 - 出典: docs/wp-implementation-tasks.md の 3.2
 - 関連: T.9.2
 
-- [x] 3.2 img src を `assets/annex-img/` 参照に書換。**eyecatch 画像(実体 4 ファイル・参照 15 話)**は
+- [x] T.9.2 img src を `assets/annex-img/` 参照に書換。**eyecatch 画像(実体 4 ファイル・参照 15 話)**は
       dedup して該当話の featured image に設定(survey の「109 件」は参照回数であり実体数ではない)
       - **前半 (img src の書換) は完了 (2026-08-30)**: 本文に `/assets/annex-img/` を含む投稿は
         **688 件**。実配信も確認 — `/novel/wataru1024-futarinokaworu-contents-by-wataru1024/` の
@@ -31,4 +31,4 @@
       - **⚠ 運用注意**: `_thumbnail_id` は **catalog からの import では復元されない**
         (`wp media import` + `wp post meta update` で作った投入経路の外の状態)。
         **`wp ts reset` したら再実行が要る** → 手順を
-        S.73 の C の後処理に追記済み
+        S.73 の全消し再構築の後処理に追記済み

@@ -2,10 +2,10 @@
 
 - 種類: 記録
 - 状態: 有効
-- 出典: docs/author-outreach.md の「6. 新しい一次資料」
+- 出典: docs/author-outreach.md の「新しい一次資料」
 - 関連: T.34, S.204
 
-## 6. 新しい一次資料: `bc-cafe.net/bcwiki.old/` (2026-08-30 追記)
+## 新しい一次資料: `bc-cafe.net/bcwiki.old/` (2026-08-30 追記)
 
 きりか進ノ介さんの現行サイト `bc-cafe.net` に、既収蔵の `kirika.novels.name/wiki`
 (青秋桜Wiki) の**後継が公開されたまま稼働している**ことが判明し、全 317 ファイルを

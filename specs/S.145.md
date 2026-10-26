@@ -2,9 +2,9 @@
 
 - 種類: 記録
 - 状態: 有効
-- 出典: docs/versions-spec.md の「9. 更新する文書」
+- 出典: docs/versions-spec.md の「更新する文書」
 - 関連: T.25.6
 
-## 9. 更新する文書
+## 更新する文書
 
-S.49〜S.58 と S.92〜S.97 の収録規模を「公開 N / 旧版 M」の形に、S.20〜S.43 v1.6 の決定 3 に実測値を 1 行、S.72 の表に「版違いの判定 → `catalog/versions_overrides.yml`」を 1 行。
+S.49〜S.58 と S.92〜S.97 の収録規模を「公開 N / 旧版 M」の形に、版違いは新しい版を残す決定 (S.43) に実測値を 1 行、S.72 の表に「版違いの判定 → `catalog/versions_overrides.yml`」を 1 行。

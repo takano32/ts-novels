@@ -2,10 +2,10 @@
 
 - 種類: 仕様
 - 状態: 有効
-- 出典: docs/takedown-form-spec.md の「7. cron」
+- 出典: docs/takedown-form-spec.md の「cron」
 - 関連: T.26.3.4, T.26.4
 
-## 7. cron
+## cron
 
 - フック `ts_takedown_tick` を 1 時間おきに登録 (`wp_schedule_event`)。処理: 失効 → リマインド → 自動適用 (S.126 の順)。1 回の tick で処理する件数に上限は置かない (件数は少ない)。
 - 実行基盤: WP-Cron は閲覧駆動で、前段 nginx がキャッシュから返す閲覧では PHP が動かない (S.62) ため、**サーバの crontab** に

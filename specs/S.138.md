@@ -2,10 +2,10 @@
 
 - 種類: 仕様
 - 状態: 有効
-- 出典: docs/versions-spec.md の「2. 束ね方」
+- 出典: docs/versions-spec.md の「束ね方」
 - 関連: T.25.2.1
 
-## 2. 束ね方
+## 束ね方
 
 - 自動: **同一作者** (`catalog/authors.json` の slug) × **正規化題名**。正規化 = NFKC → 空白 (半角・全角) を除去 → 記号 `・ ･ - － — – ~ 〜 「 」 『 』 ( ) （ ） 【 】 ！ ! ？ ? 、 。 . , : ： ; ； ／ /` を除去 → 小文字。
 - 手動: **`catalog/versions_overrides.yml`** (git 管理。`make catalog` が読む)

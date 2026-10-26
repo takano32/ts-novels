@@ -2,19 +2,19 @@
 
 - 種類: 仕様
 - 状態: 有効
-- 出典: docs/cluster-overrides-spec.md の冒頭と「1. catalog/work_overrides.yml のスキーマ (version 2)」
+- 出典: docs/cluster-overrides-spec.md の冒頭と「catalog/work_overrides.yml のスキーマ (version 2)」
 - 関連: T.24.1, S.43, S.107, S.218
 
-## 作品クラスタの手動修正の仕様 v1 (2026-10-26)
+## 作品クラスタの手動修正の仕様 (2026-10-26)
 
-**位置づけ**: S.43 の決定 4 (作品クラスタの人手修正を可能にする) の実装仕様。
+**位置づけ**: 作品クラスタを人手で直せるようにする決定 (S.43) の実装仕様。
 根拠と実測は S.107、実装タスクは `TASKS.md` の T.24。
 版違いの整理 (S.137〜S.145) はこの修正の**後**に行う (束ね直すと版グループが変わる)。
 背景: `work_builder.py` の規則 5 (同一ディレクトリ・同一作者の連番ファイル名) と規則 6 (題名の芯の一致) が別作品を束ねる例が 71 作品あり、
 `work_overrides.yml` は現状 `work_title` と `note` しか効かない。T.7.5.1 (S.176) で確認したのは slug だけで、クラスタ本体は未確認
 (S.218。元の `catalog/review/works-risk-note.md`)。
 
-### 1. `catalog/work_overrides.yml` のスキーマ (version 2)
+### `catalog/work_overrides.yml` のスキーマ (version 2)
 
 鍵は現行どおり `"<作者slug>|<機械が付けた作品名>"`。値に次を足す。
 

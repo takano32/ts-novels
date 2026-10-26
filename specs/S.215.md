@@ -1,7 +1,7 @@
 # S.215 takedown/denylist.yml の層と運用の約束
 
 - 種類: 仕様
-- 状態: 一部失効 (S.43・S.112 で上書き。72 時間の SLA。S.121 で上書き。① の draft → private)
+- 状態: 一部失効 (S.43・S.112 で上書き。72 時間の SLA。S.121 で上書き。WP サイトの非公開化 (S.76) の draft → private)
 - 出典: takedown/README.md (2026-10-26 にここへ移した)
 - 関連: T.6.1, T.21.4, T.23.6, S.75〜S.81, S.112, S.113, S.121, S.123
 
@@ -14,11 +14,11 @@
 
 | 層 | 実行主体 | 入力 |
 |---|---|---|
-| ① WP 非公開化 (draft) | `wp ts apply-takedown --list=takedown/denylist.yml` | `target.kind` = work/episode/author |
-| ② 410 Gone | `scripts/wp/gen_htaccess.py` → 本番 `.htaccess` のマーカーブロック | orig パス (episode/annex_path) |
-| ③ 原本アーカイブから除外 | `scripts/wp/annex_inject.py` (GitHub Pages のビルド注入) | `annex_path` / episode の source_path |
-| ④ git 履歴除去 | 手作業 (`git filter-repo`)。**依頼があったときのみ** | 対象パス |
-| ⑤ 掲示 | 固定ページ `/removed/` | `public_note` |
+| WP 非公開化 (draft) (S.76) | `wp ts apply-takedown --list=takedown/denylist.yml` | `target.kind` = work/episode/author |
+| 410 Gone (S.77) | `scripts/wp/gen_htaccess.py` → 本番 `.htaccess` のマーカーブロック | orig パス (episode/annex_path) |
+| 原本アーカイブから除外 (S.78) | `scripts/wp/annex_inject.py` (GitHub Pages のビルド注入) | `annex_path` / episode の source_path |
+| git 履歴除去 (S.79) | 手作業 (`git filter-repo`)。**依頼があったときのみ** | 対象パス |
+| 掲示 (S.80) | 固定ページ `/removed/` | `public_note` |
 
 ## 運用の約束
 
