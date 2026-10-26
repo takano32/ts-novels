@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# 本番 (novels.xwp.jp) への ssh。~/.ssh/config の Host novels に頼らず、接続先はここだけに書く。
+#   scripts/wp/novels-ssh                                # ログイン
+#   scripts/wp/novels-ssh 'wp --info'                    # コマンド実行
+#   rsync -e scripts/wp/novels-ssh SRC novels:DEST       # rsync の遠隔シェルとして
+#     (rsync は先頭に宛先ホスト名 "novels" を渡してくるので、それは読み捨てる)
+set -euo pipefail
+[[ "${1:-}" == novels ]] && shift
+exec ssh -p 10022 -o ForwardAgent=yes novels@sv3.xwp.ne.jp "$@"

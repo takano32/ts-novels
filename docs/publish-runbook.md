@@ -14,7 +14,7 @@ WP 管理画面での手動編集は禁止 (修正は catalog 側の overrides �
 | 役割 | 場所 |
 |---|---|
 | 開発機 | このリポジトリ (python3.11、pip 可)。catalog / bodies / mu-plugins / theme を生成 |
-| 本館 (本番) | `ssh novels` = Xserver for WordPress。`~/novels.xwp.jp/` 直下に wp-config.php、公開ルートは `~/novels.xwp.jp/public_html/` |
+| 本館 (本番) | `scripts/wp/novels-ssh` = Xserver for WordPress。`~/novels.xwp.jp/` 直下に wp-config.php、公開ルートは `~/novels.xwp.jp/public_html/` |
 | 別館 | GitHub Pages (現行ミラー、18,006 ファイル)。`.cgi` を含む **9,022 ファイル**(フルパス基準。basename 基準なら 9,021) は nginx 403 のため本番には置けない = 恒久併存 |
 
 用語 (本館/別館/旧館 ほか) は [`glossary.md`](glossary.md) を参照。
@@ -74,14 +74,14 @@ deploy.sh が運ぶもの: サーバ側 repo の checkout・`bodies/`・`payload
 mu-plugins は `public_html/wp-content/mu-plugins/` へ。
 
 ```sh
-ssh novels 'ls -la ~/novels.xwp.jp/public_html/wp-content/mu-plugins/'
+scripts/wp/novels-ssh 'ls -la ~/novels.xwp.jp/public_html/wp-content/mu-plugins/'
 curl -s "https://novels.xwp.jp/robots.txt?_cb=$RANDOM" | head -20
 ```
 
 ### 3. 本番: 復旧点を取る
 
 ```sh
-ssh novels
+scripts/wp/novels-ssh
 mkdir -p ~/dumps
 cd ~/novels.xwp.jp/public_html
 wp db export ~/dumps/pre-import-$(date +%Y%m%d-%H%M).sql

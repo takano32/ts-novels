@@ -26,12 +26,13 @@ Web アーカイブ等から復元した静的ミラーであり、現在それ�
 | [wordpress-library-design.md](wordpress-library-design.md) | 移築の設計。v1.0 本文 + v1.1〜v1.4 の改訂章 | **方針と決定**。ただし**後の改訂章が前の記述に優先**(下記) |
 | [data-inventory.md](data-inventory.md) | リポジトリ収蔵物の目録(全ツリー・件数・出所・扱い) | **何がどこにいくつあるか** |
 | [glossary.md](glossary.md) | 本プロジェクト固有の用語定義 | **用語の意味** |
-| [environment.md](environment.md) | 本番環境(`ssh novels`)の構造・制約・作業ガード | **サーバの事実** |
+| [environment.md](environment.md) | 本番環境(`scripts/wp/novels-ssh`)の構造・制約・作業ガード | **サーバの事実** |
 | [publish-runbook.md](publish-runbook.md) | catalog 再生成から本番反映までの定常手順 | **公開手順** |
 | [removal-runbook.md](removal-runbook.md) | 削除依頼への対応(72h SLA・四層+掲示) | **削除手順** |
 | [rebuild-runbook.md](rebuild-runbook.md) | レビューで NG が出たときのやり直し(判断→変更場所→再走コマンド) | **再走手順** |
 | [relocation.md](relocation.md) | 別サーバへ git clone して作業場所を移す手順 (git 管理外の 4 つと検証) | **移設** |
 | [author-outreach.md](author-outreach.md) | 作者・元運営者への連絡計画と経路の棚卸し | **連絡の方針と経路** |
+| [../TASKS.md](../TASKS.md) | これまでの作業の通し一覧 (T.大.小.孫)。サルベージから移築・移設までと未了の残り | **何をやってきたかの要約** (細部は台帳) |
 | [../scripts/README.md](../scripts/README.md) | 回収・監査・変換ツールの台帳 | **ツールの使い方** |
 | [../README.md](../README.md) | 復元の全体像・回収の来歴・既知の欠落 | **ミラーの成り立ち** |
 | `catalog/README.md` | 生成データ(episodes.jsonl 等)の欄の説明 | **データの意味** |

@@ -37,7 +37,7 @@ make catalog          # 全再生成 (約20秒)。QA は catalog/QA.md
 make verify           # html5lib による本文の独立検算
 git add -A && git commit   # ← 再走の記録。必ずコミットしてから配備する
 
-# 本番 (ssh novels)
+# 本番 (scripts/wp/novels-ssh)
 wp db export ~/dumps/pre-rerun-$(date +%Y%m%d).sql   # 復旧点
 wp ts import ...      # 冪等 upsert。既存話は更新される
 wp ts verify
@@ -61,7 +61,7 @@ make verify
 **公開解禁前はこれが既定**。DB は使い捨てなので迷ったら全消しする。
 
 ```sh
-# 本番 (ssh novels)
+# 本番 (scripts/wp/novels-ssh)
 wp db export ~/dumps/pre-reset-$(date +%Y%m%d).sql
 wp ts reset --yes     # ts_* の全投稿・term・meta を削除 (mu-plugin のコマンド。WP本体設定は残る)
 wp ts sync-terms ... && wp ts import ... && wp ts apply-takedown && wp ts verify
@@ -76,7 +76,7 @@ wp ts sync-terms ... && wp ts import ... && wp ts apply-takedown && wp ts verify
 ts_* の meta ごと消える)。**reset して import し直したら、台帳 3.2 後半の手順を必ず再実行する**:
 
 ```sh
-# 本番 (ssh novels)。対応表は catalog/reports/payload_build.json の eyecatch_refs (15 話)
+# 本番 (scripts/wp/novels-ssh)。対応表は catalog/reports/payload_build.json の eyecatch_refs (15 話)
 R=$HOME/novels.xwp.jp/repo
 wp media import $R/novel/200012/03175506/eyecatch.gif --porcelain   # → attachment ID
 wp media import $R/novel/200104/20050818/eyecatch.jpg --porcelain

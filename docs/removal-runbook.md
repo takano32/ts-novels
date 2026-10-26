@@ -58,7 +58,7 @@ EOF
 ## ① WP を draft 化 (T+72h まで)
 
 ```sh
-ssh novels
+scripts/wp/novels-ssh
 cd ~/novels.xwp.jp/public_html
 wp db export ~/dumps/pre-takedown-$(date +%Y%m%d-%H%M).sql   # 復旧点 (必須)
 wp ts apply-takedown --list=../catalog/../takedown/denylist.yml --dry-run
@@ -83,10 +83,10 @@ wp post list --post_type=ts_work --post_status=draft --format=count
 # 開発機: 追記ブロックだけを生成
 python3 scripts/wp/htaccess_block.py            # 生成されるブロックを表示 (dry-run)
 python3 scripts/wp/htaccess_block.py --install  # 原本 .orig 保存 → 差し替え → curl 検証 → NG なら自動復元
-scp /tmp/ts-410-block.conf novels:/tmp/
+rsync -e scripts/wp/novels-ssh /tmp/ts-410-block.conf novels:/tmp/
 
 # 本番: バックアップ → マーカー間を差し替え
-ssh novels
+scripts/wp/novels-ssh
 cd ~/novels.xwp.jp/public_html
 cp .htaccess .htaccess.bak-$(date +%Y%m%d)
 python3 - <<'EOF'   # マーカー間だけを置換する最小スクリプト (全文は表示しない)
@@ -178,7 +178,7 @@ git push --force origin --tags
   「なぜここに穴があるのか」を確認できる場所を 1 つにする。
 
 ```sh
-ssh novels && wp post list --post_type=page --name=removed
+scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp post list --post_type=page --name=removed'
 # /removed/ の本文を catalog 側から再生成して更新 (手動編集はしない)
 ```
 
