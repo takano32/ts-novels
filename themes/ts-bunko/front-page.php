@@ -1,5 +1,5 @@
 <?php
-/** トップ: 今日の一作 (日付シード) + リロード毎ランダムの出会い + 索引入口 (設計 4.4) */
+/** トップ: 今日の一作 (日付シード) + リロード毎ランダムの出会い + 索引入口 (S195、T10.3) */
 get_header();
 
 $pick = function_exists('ts_bunko_todays_pick') ? ts_bunko_todays_pick() : null;

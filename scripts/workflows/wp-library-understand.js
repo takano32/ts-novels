@@ -26,7 +26,7 @@ lib1.html〜lib30前後 と lib2.html を Python で機械パースし (utf-8)�
 各: ファイル数・内容の性質・「感想をWPコメントとして作品に紐付けるインポート」の実現性(構造化パース可能性)を評価。`,
     {label: 'community', schema: S({kansou:{type:'string'}, bbs:{type:'string'}, rounge:{type:'string'}, noteky:{type:'string'}, importability:{type:'string'}})}),
   () => agent(`${ROOT} (少年少女文庫ミラー) の世代構造と重複を調査せよ(WordPress サイトの情報設計のため)。
-世代: ~ezpe (1999 tomato期) → ~yays + ~yays/library (八重洲メディアリサーチ期) → リポジトリ直下 (ts.novels.jp 本体 2002-2021) → ts.novels.name/kirika.novels.name/ts.raa0121.info (閉鎖後姉妹) → ts-novels.jp (2018再建)。各世代のファイル数・novel系コンテンツの重複度(~yays/library/novel/ と novel/ で同一basename数を集計)・世代固有コンテンツ(galleryのCG等)を報告。「ライブラリ本体(WP化)」と「史料アネックス(静的のまま)」の境界の提案も。`,
+世代: ~ezpe (1999 tomato期) → ~yays + ~yays/library (八重洲メディアリサーチ期) → リポジトリ直下 (ts.novels.jp 本体 2002-2021) → ts.novels.name/kirika.novels.name/ts.raa0121.info (閉鎖後姉妹) → ts-novels.jp (2018再建)。各世代のファイル数・novel系コンテンツの重複度(~yays/library/novel/ と novel/ で同一basename数を集計)・世代固有コンテンツ(galleryのCG等)を報告。「ライブラリ本体(WP化)」と「原本アーカイブ(静的のまま)」の境界の提案も。`,
     {label: 'generations', schema: S({generation_stats:{type:'string'}, duplication:{type:'string'}, unique_per_gen:{type:'string'}, boundary_proposal:{type:'string'}})}),
   () => agent(`${ROOT} (少年少女文庫ミラー) の本文 HTML の形式品質を調査せよ(WordPress 本文変換パイプライン設計のため)。
 novel/ 配下の .htm/.html を10-15ファイル無作為抽出して読み、判定: 文書構造(手書きHTML? テンプレ? framesets?)、本文マークアップ(<BR>連打? <P>? ルビ<ruby>? 縦書き指定?)、装飾(FONT/色/中央寄せ)、挿絵の参照方法、ナビゲーション(次話/目次リンク)、既にUTF-8化済みであること。Gutenberg ブロックへの変換戦略(本文抽出→整形)の難易度と、自動抽出できる範囲(タイトル/本文境界)を評価。`,

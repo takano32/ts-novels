@@ -1,6 +1,6 @@
-# 話 (episode) 1 件単位の上書き。**旧館の原本 (lib*.html) の誤植を catalog 側で直す唯一の場所**。
+# 話 (episode) 1 件単位の上書き。**旧サイトの原本 (lib*.html) の誤植を catalog 側で直す唯一の場所**。
 #
-# 別館 (GitHub Pages) は原本レイヤなので誤植もそのまま保つ。直すのはこちら側だけ。
+# 原本アーカイブ (GitHub Pages) は原本レイヤなので誤植もそのまま保つ。直すのはこちら側だけ。
 # `scripts/wp/episode_overrides.py` が `make catalog` の中で適用する (catalog_build →
 # uncatalogued_build → repost_build の後、terms/authors/works の前)。
 #
@@ -15,7 +15,7 @@
 # **episode_id は source_path から導くので、この上書きでは決して変わらない**
 # (episodes.jsonl ↔ bodies/ ↔ convert_report ↔ WP import の結合キーを壊さない)。
 #
-# 出所: catalog/review/authors-slugs.md §7 (2026-08-30 Fable 裁定) /
+# 出所: catalog/review/authors-slugs.md の 7 節 (2026-08-30 Fable 裁定) /
 #       catalog/slug_overrides.yml のヘッダに書かれた裁定
 
 episodes:
