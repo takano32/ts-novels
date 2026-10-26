@@ -32,7 +32,7 @@ v0 の時点では ①〜⑤ の手順は設計上のものであり、実行時
    `applied` は全て `null`。
 
 ```yaml
-- id: TD-2026-0001
+- id: TD.1
   target: { kind: work, value: <work_slug> }      # or episode / annex_path / author
   reason: <1 行の内部向け理由>
   reason_class: author_request
