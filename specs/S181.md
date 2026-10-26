@@ -11,7 +11,7 @@
 `wp ts verify` は **OK**(投稿 4,363・orphan 0・語彙外 term 0・taxonomy 割当 6 本すべて期待値と一致)、
 `wp ts import` は**実行・dry-run とも created=0 / updated=0 で冪等**。
 本番の `ts_catalog_commit` = `ca583444047f681a0e0b59009b1d54be6fa3d3de`。
-**2.6 も Fable が実施済み (htaccess_block.py)。既知の未解決バグは無い。**
+**2.6 も 高品位なモデルとエフォートで実施済み (htaccess_block.py)。既知の未解決バグは無い。**
 全 4,363 投稿が ASCII slug(パーセントエンコードの `post_name` 0 件)。
 
 - [x] 2.1 `mu-plugins/ts-library/` v0.1(リポジトリ管理→rsync 配備): CPT `ts_work`(hierarchical,

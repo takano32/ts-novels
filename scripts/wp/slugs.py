@@ -118,7 +118,7 @@ HEADER = """\
 # 麗香 → marie、ぽぽ → popo)。統合された表示名は authors.json の
 # display_variants に残り、URL は 1 本になる。
 #
-# --- 同名別 slug の裁定 (2026-08-30 Fable。実装済み: catalog/episode_overrides.yml) ---
+# --- 同名別 slug の裁定 (2026-08-30 高品位なモデルとエフォートによる裁定。実装済み: catalog/episode_overrides.yml) ---
 # 1) 神川綾乃: kamikawa_ayano_ は実在しない板 (CGI の hidden log 値が kamikawa_ayano)。
 #    kamikawa_ayano に統合し、novel/200104/15172112/angels_12.html を kamikawa_ayano へ。
 # 2) コーディー: jersey_red (ジャージレッド) とは別人。コーディーの正は kohdhi。

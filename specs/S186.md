@@ -12,7 +12,7 @@
       (c) 挿入は ssh 経由のサーバ上編集で行い、**既存 .htaccess 全文をローカルに保存・コミットしない**
       (d) 直後に無関係 URL 1 本の 200 と `X-Robots-Tag` ヘッダを curl(バスター付)で確認、
       失敗時は .bak を戻す
-      - **2.6 実測 (2026-08-30, Fable)**: `scripts/wp/htaccess_block.py` を実装し本番適用済み。
+      - **2.6 実測 (2026-08-30, 高品位なモデルとエフォート)**: `scripts/wp/htaccess_block.py` を実装し本番適用済み。
         dry-run でブロック表示 → `--install` で .bak 先行・メモリ内差し替え(全文は表示も保存もしない)・
         curl 検証・失敗時自動復元。初回は検証 NG → 自動復元が発動: mod_rewrite の内部リダイレクト後は
         env が `REDIRECT_TS_NOINDEX` になる Apache の仕様で、`Header … env=` を両名義にして解決。
