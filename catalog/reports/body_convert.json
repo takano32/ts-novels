@@ -1,20 +1,20 @@
 {
  "episodes": 3844,
  "status": {
-  "md": 3642,
-  "no-source": 200,
+  "md": 3619,
+  "no-source": 223,
   "raw-fallback": 2
  },
  "modes": {
-  "br-para": 3523,
-  "-": 200,
-  "table": 86,
+  "br-para": 3501,
+  "-": 223,
+  "table": 85,
   "hardwrap": 17,
   "image-work": 17,
   "plain-text": 1
  },
- "convertible": 3644,
- "md_rate_pct": 99.95,
+ "convertible": 3621,
+ "md_rate_pct": 99.94,
  "acceptance": {
   ">=85% of convertible": true,
   "invariant violations among md": 0

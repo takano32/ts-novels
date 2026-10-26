@@ -45,7 +45,6 @@
 {"source_path": "novel/200112/18230553/saketitle.htm", "reason": "title-page", "text_chars": 129}
 {"source_path": "novel/200112/19020205/l_title.htm", "reason": "title-page", "text_chars": 375}
 {"source_path": "novel/200201/20232742/vamptitle.htm", "reason": "title-page", "text_chars": 290}
-{"source_path": "novel/200202/03004409/imagine.html", "reason": "duplicate-of-catalogued", "text_chars": 322, "alias_of_path": "novel/reika/imagine/index.html"}
 {"source_path": "novel/200203/08004659/stolen.html", "reason": "duplicate-of-catalogued", "text_chars": 5635, "alias_of_path": "novel/200112/18230553/stolen.html"}
 {"source_path": "novel/200203/12200339/d_title.htm", "reason": "title-page", "text_chars": 231}
 {"source_path": "novel/200203/23203640/ame_title.html", "reason": "title-page", "text_chars": 226}

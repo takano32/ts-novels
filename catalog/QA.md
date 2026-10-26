@@ -33,10 +33,10 @@
 
 | 項目 | 値 |
 |---|---:|
-| `novel/` 配下の本文ファイル | 3818 |
-| 　既に目録にある | 2724 |
+| `novel/` 配下の本文ファイル | 3794 |
+| 　既に目録にある | 2701 |
 | 　目録外として追加 | 859 |
-| 　意図的除外 | 235 |
+| 　意図的除外 | 234 |
 | 　**取りこぼし** | 0 |
 | 題名の解決 | 859 / 859 |
 | 作者の解決 | 823 / 859 (不詳 36) |
@@ -47,7 +47,7 @@
 | 項目 | 値 |
 |---|---:|
 | cgi-view | 56 |
-| duplicate-of-catalogued | 58 |
+| duplicate-of-catalogued | 57 |
 | empty | 1 |
 | site-template | 3 |
 | title-page | 117 |
@@ -90,15 +90,15 @@
 | **needs_review** | 331 |
 | 　内訳 | {'multi-directory': 38, 'large-cluster': 22, 'weak-evidence': 271} |
 | タイトルページを持つ work | 231 |
-| md5 一致の重複ファイル (alias) | 55 |
+| md5 一致の重複ファイル (alias) | 50 |
 
 ## 6. 回収経路 (provenance) の被覆率
 
 | 項目 | 値 |
 |---|---:|
-| provenance あり | 3646 / 3844 (94.85%) |
-| 正規目録分の被覆率 | 93.35% |
-| 経路の内訳 (正規目録分) | {'wayback': 2466, 'live-site': 103, 'other': 29, 'commoncrawl': 77, 'narou': 3, 'megalodon': 15, 'pixiv': 1, 'yays-gapfill': 1} |
+| provenance あり | 3623 / 3844 (94.25%) |
+| 正規目録分の被覆率 | 92.8% |
+| 経路の内訳 (正規目録分) | {'wayback': 2450, 'live-site': 103, 'other': 29, 'commoncrawl': 77, 'narou': 3, 'megalodon': 15, 'pixiv': 1, 'yays-gapfill': 1} |
 | 出所 | git 履歴 (回収コミットの件名と日付)。collinfo.json ではない |
 
 ## 7. 特殊エントリの内訳
@@ -130,17 +130,17 @@
 
 | 項目 | 値 |
 |---|---:|
-| 変換対象 (convertible) | 3644 |
-| 　MD 正準に昇格 (無損失証明に合格) | 3642 |
+| 変換対象 (convertible) | 3621 |
+| 　MD 正準に昇格 (無損失証明に合格) | 3619 |
 | 　raw フォールバック (不合格) | 2 |
-| 本文の原本が未回収 (`no-source`) | 200 |
-| 証明合格率 | 99.95% |
+| 本文の原本が未回収 (`no-source`) | 223 |
+| 証明合格率 | 99.94% |
 | 合格分の不変量違反 | 0 |
 | 受け入れ (合格率 ≥85%) | OK |
-| `bodies/*.md` の実ファイル数 (照合) | 3642 |
+| `bodies/*.md` の実ファイル数 (照合) | 3642 ← レポートと不一致 |
 
 
-変換モードの内訳: {'br-para': 3523, '-': 200, 'table': 86, 'hardwrap': 17, 'image-work': 17, 'plain-text': 1}
+変換モードの内訳: {'br-para': 3501, '-': 223, 'table': 85, 'hardwrap': 17, 'image-work': 17, 'plain-text': 1}
 
 ## 9. 人間の確認待ち (T.7.5.1)
 
