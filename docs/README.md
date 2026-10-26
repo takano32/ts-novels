@@ -32,8 +32,13 @@ Web アーカイブ等から復元した静的ミラーであり、現在それ�
 | [rebuild-runbook.md](rebuild-runbook.md) | レビューで NG が出たときのやり直し(判断→変更場所→再走コマンド) | **再走手順** |
 | [relocation.md](relocation.md) | 別サーバへ git clone して作業場所を移す手順 (git 管理外の 4 つと検証) | **移設** |
 | [author-outreach.md](author-outreach.md) | 作者・元運営者への連絡計画と経路の棚卸し | **連絡の方針と経路** |
-| [owner-feedback-2026-10.md](owner-feedback-2026-10.md) | CP-4 でのサイト所有者コメント 11 件 + 質問 1 件の解析 (実測・該当コード・規模) と対応仕様。設計 v1.6 の根拠 | **所有者レビューへの対応の細部** (方針は設計書 v1.6) |
-| [../TASKS.md](../TASKS.md) | これまでの作業の通し一覧 (T.大.小.孫)。サルベージから移築・移設までと未了の残り | **何をやってきたかの要約** (細部は台帳) |
+| [owner-feedback-2026-10.md](owner-feedback-2026-10.md) | CP-4 でのサイト所有者コメント 11 件 + 質問 1 件の解析 (実測・該当コード・規模) と決定案、72 時間の記述一覧、所有者への質問 | **所有者レビューへの対応の決定とその根拠** (方針は設計書 v1.6、実装仕様は下の 4 本) |
+| [visibility-roles-spec.md](visibility-roles-spec.md) | 運営委員ロールの権限、取り下げ・旧版の可視性 (`private` + メタ)、WP が返す 410/301、`.htaccess` ブロック、実測手順 | **ロールと可視性の振る舞い** |
+| [takedown-form-spec.md](takedown-form-spec.md) | 取り下げフォーム、確認メール、10 日後の自動非公開、運営委員のオーバーライド、通知、cron、`/removed/` の生成、denylist との整合 | **取り下げ申請の状態機械** |
+| [versions-spec.md](versions-spec.md) | 同一作品の版違いの束ね方・類似度と閾値・新版の選び方・`versions_overrides.yml`・`superseded_by` | **版違いの判定** |
+| [cluster-overrides-spec.md](cluster-overrides-spec.md) | `work_overrides.yml` v2 (分割・併合・切り離し)、題名の芯の規則、レビュー資料、URL 付け替え表、再投入方式 | **作品クラスタの手動修正** |
+| [../TASKS.md](../TASKS.md) | 作業一覧 (T.大.小.孫)。要約と現在地だけを持ち、各行は「やること + 完了条件 + 参照先」。完了した大項目は消してよい | **現在地** (仕様・手順・実測は docs 側。下の「TASKS.md と docs の分担」) |
+| [worklog.md](worklog.md) | 完了した大項目の確定記録 (T.1〜T.14 を 2026-10-26 に写した)。TASKS.md から消すときはここへ | **何をやってきたか** (細部は台帳・README) |
 | [../scripts/README.md](../scripts/README.md) | 回収・監査・変換ツールの台帳 | **ツールの使い方** |
 | [../README.md](../README.md) | 復元の全体像・回収の来歴・既知の欠落 | **ミラーの成り立ち** |
 | `catalog/README.md` | 生成データ(episodes.jsonl 等)の欄の説明 | **データの意味** |
@@ -58,12 +63,27 @@ Web アーカイブ等から復元した静的ミラーであり、現在それ�
 - 公開先は `novels.xwp.jp`(Xserver for WordPress)。現行 GitHub Pages ミラーは**別館原本として恒久併存**
 - 本プロジェクトは**八重洲メディアリサーチ(文庫設立者)の依頼によるリブート**。ただし個別作品の著作権は各原著者にある
 - **サルベージしたもの・できるものはすべて掲載する**。掲載しない例外は denylist / スパム / メールアドレスのみ
-- 連絡不達の作者の作品も公開する。削除依頼は専用フォーム → 確認メール → **10 日後に自動で非公開**、運営委員が承認/却下/復帰で上書き (v1.6。「72 時間以内」の約束は撤回。実装は T.16)
+- 連絡不達の作者の作品も公開する。削除依頼は専用フォーム → 確認メール → **10 日後に自動で非公開**、運営委員が承認/却下/復帰で上書き (v1.6。「72 時間以内」の約束は撤回。実装は T.26 (フォーム) と T.21 (文言)、仕様は takedown-form-spec.md)
 - 本文は無損失証明つきの Markdown を正準とし、証明に通らない話だけ原本 HTML のまま載せる
 
 **未決・人間待ち**: 台帳の 👤 印のタスク(作者連絡の発送、恒久 URL になるローマ字 slug の確認、
 公開解禁の最終判断、本番のキャッシュクリア)。実装セッションは 👤 に当たったらスキップし、
 最後に「👤 待ち」として報告してください。
+
+## TASKS.md と docs の分担
+
+`TASKS.md` は完了した大項目を消してよい運用にするため、**TASKS.md を消しても失われる情報が無い**ように受け持ちを分ける。
+
+| 情報の種類 | 置き場所 |
+|---|---|
+| 何をやるか・完了条件・参照先 (現在地) | `TASKS.md` の各行 (ここだけ) |
+| 完了した大項目の記録 (T.1〜) | [worklog.md](worklog.md) (細部は台帳・README の来歴) |
+| 方針と決定 | [wordpress-library-design.md](wordpress-library-design.md) の改訂章 (v1.6 まで) |
+| 所有者レビューの解析・決定の根拠・実測値・質問 | [owner-feedback-2026-10.md](owner-feedback-2026-10.md) |
+| 判定基準・閾値・状態遷移・権限・ファイル形式・コマンド仕様 | 4 本の仕様書 (visibility-roles / takedown-form / versions / cluster-overrides) |
+| 受け入れ条件と実測値 (実装の細部) | [wp-implementation-tasks.md](wp-implementation-tasks.md) |
+| 恒久的な手順 | runbook 3 本 (publish / removal / rebuild) と [relocation.md](relocation.md) |
+| サーバの事実・収蔵物の件数・用語 | [environment.md](environment.md) / [data-inventory.md](data-inventory.md) / [glossary.md](glossary.md) |
 
 ## 作業のしかた(全セッション共通)
 

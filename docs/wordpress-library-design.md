@@ -678,7 +678,10 @@ v1.0 §7 の「公開初期は全域 noindex → 作者連絡後に段階解禁�
 CP-4 でサイト所有者 (八重洲さん = 文庫設立者) からコメント 11 件と質問 1 件を受けた。
 根拠 (実測・該当コード・規模・未決事項) と項目ごとの細部は
 **[`owner-feedback-2026-10.md`](owner-feedback-2026-10.md)** が持ち、本章は方針レベルの決定だけを書く。
-実装は `TASKS.md` の T.16。
+実装は `TASKS.md` の T.16〜T.28 (1 大項目 = 1 成果。CP-4 通過に必須なのは T.16〜T.21 と T.23)。
+実装仕様は性質ごとに [`visibility-roles-spec.md`](visibility-roles-spec.md) (決定 1)・
+[`takedown-form-spec.md`](takedown-form-spec.md) (決定 2)・[`versions-spec.md`](versions-spec.md) (決定 3)・
+[`cluster-overrides-spec.md`](cluster-overrides-spec.md) (決定 4) に分けた。
 
 ## 決定
 

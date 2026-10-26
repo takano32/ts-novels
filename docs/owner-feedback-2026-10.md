@@ -4,7 +4,10 @@
 (八重洲さん = 文庫設立者 yays、旧八重洲メディアリサーチ) のレビュー結果と、その対応の決定案。**
 方針としての位置づけは設計書 [`wordpress-library-design.md`](wordpress-library-design.md) の
 **v1.6 改訂章**が持ち、本書はその根拠と細部 (実測・該当コード・規模・未決) を担う。
-実装タスクは [`../TASKS.md`](../TASKS.md) の **T.16**。
+実装タスクは [`../TASKS.md`](../TASKS.md) の **T.16〜T.28** (1 大項目 = 1 成果)。
+実装仕様 (判定基準・閾値・状態遷移・権限・ファイル形式・コマンド) は性質ごとに 4 本に分け、そちらが正典:
+[`visibility-roles-spec.md`](visibility-roles-spec.md) (§2)・[`takedown-form-spec.md`](takedown-form-spec.md) (§11)・
+[`versions-spec.md`](versions-spec.md) (§6)・[`cluster-overrides-spec.md`](cluster-overrides-spec.md) (§7)。
 用語 (本館/別館/旧館 ほか) は [`glossary.md`](glossary.md) が正典。**この 3 語は内部用語**で、
 本書が提案する表示文言には使わない。
 
@@ -113,6 +116,7 @@ administrator を渡すことも技術的には可能だが、プラグイン追
 | environment §3 nginx キャッシュ | 読者向け 410/301 がキャッシュされ、ログイン中の運営委員にもキャッシュが返る恐れ | **要実測**: ログイン Cookie 付きリクエストがキャッシュを素通りするか (`_probe/` と試験ユーザで確認)。素通りしないなら代替案 (上) に切り替える |
 
 **規模**: mu-plugin 150〜250 行 (ロール・visibility・template_redirect・title filter) + `apply-takedown` 改修 + `htaccess_block.py` の 410 を資産限定に + removal-runbook v1。実測 半日。
+**実装仕様**: [`visibility-roles-spec.md`](visibility-roles-spec.md) (ロールの権限・可視性メタ・410/301 の振る舞い・`.htaccess` ブロック・実測手順・検証表)。
 
 ---
 
@@ -129,6 +133,15 @@ administrator を渡すことも技術的には可能だが、プラグイン追
 | 目録の告知 | **無し**。TD-0001〜0009 は目録の「公開停止」文言を機械で拾った (`scripts/wp/catalog_build.py:159-163`、検査 `:1263-1266`) が、Marie 氏の件は目録に記載が無く**所有者の記憶が唯一の一次資料** |
 | denylist | 未掲載 |
 | 原本アーカイブ (別館) | 本人のファイル **28** (`novel/200202/03004409/` 17・フラット期 `novel/` 直下 6・`novel/reika/imagine/` 1・`~yays/library/novel/200202/03004409/` 4) + **他の作者と同居するファイル 2** (`novel/toukou01.html` = Marie 3 話 + ダイナモ 1 話、`novel/toukou02.html` = Marie 1 + みたま 1) + **作者感想板 30** (`~ts/kansou/bbs@log_marie.cgi` と res 29) + 名前の言及 52 ファイル (目録 lib*.html・series.html 等) |
+
+**取り下げ対象の一覧 (実測 2026-10-26。T.18 が参照する)**:
+
+- WP: 作品 7 (`marie-kyaria-dei-97` / `marie-haatonopendanto` / `marie-hananoseirei` / `marie-youseinomizuumi` / `marie-puukotowatashi` / `marie-imajin` / `marie-imajin-dai`) + 話 26 = **33 投稿** (すべて publish)。`apply-takedown` の `kind: author` が子孫ごと止める
+- 原本アーカイブの本人ファイル **28**: `novel/200202/03004409/` の 17 本 (`career2023 career97 earring fairylake future heart01 heart02 ichigo imagine imagine01〜06 pink seirei`.html。`imagine.html` はシリーズのトビラ) / フラット期 `novel/` 直下の 6 本 (`marie01 marie02 heart2 seirei fairylake career23`.html) / `novel/reika/imagine/index.html` / `~yays/library/novel/200202/03004409/` の 4 本 (`career97 earring future pink`.html)
+- 他作者と同居 (👤): `novel/toukou01.html` (Marie 3 話 + ダイナモさん 1 話)、`novel/toukou02.html` (Marie 1 + みたまさん 1)
+- 作者感想板 (👤): `~ts/kansou/bbs@log_marie.cgi` + `bbs@res_*_log_marie.cgi` 29 本 = 30 ファイル
+- 名前の言及 52 ファイル (`lib*.html` `series.html` 等の目録) は原本として残す (取り下げの対象ではない)
+- `marie-puukotowatashi` (旧目録のみ、原本未回収) は目録項目だけだが同様に止める
 
 **仕様 (決定案)**:
 
@@ -149,6 +162,7 @@ administrator を渡すことも技術的には可能だが、プラグイン追
 ただし 12 のうち**重複が多い**: `clone01` 旧目録版と正規版が同じ作品に 2 話として並ぶ / 「ＭＹ ＰＵＲＥ ＣＬＯＮＥ−ＤＯＬＬ」は −(U+2212) と －(U+FF0D) の差で 2 作品 / 「奇術」は旧目録版と正規版が 2 作品 (`yays-kijutsu` / `yays-kijutsu-2`。題名 2 文字で題名一致の規則が働かない) / `grangear01` ×2 / アニパロ 3 本 ×2 版 / 「Capsule Monsters」(目録外・英題) と「カプセル モンスター」(目録・類似度 0.987、目録版が長い) で 2 作品。実質 **9〜10 作**。
 
 **仕様**: サイドバーに「オーナー作品集」→ `/authors/yays/` を足す (置き場は「この文庫について」ブロック `render.php:260-265` の先頭か、索引ブロックの末尾)。重複の解消は本書 6/7 で行う (6 が入れば作品カードは自動的に 9〜10 になる)。作者ページ冒頭に説明文「文庫設立者・八重洲二世の作品」を出すなら、`sync-terms` が description を上書きするので **catalog 側に持たせる** (`authors.json` に `description` 欄を足す。`authors_build.py` の出力項目 `:485` 付近)。
+形式: `catalog/author_notes.yml` (git 管理) に `notes: { yays: { description: "文庫設立者・八重洲二世の作品" } }` のように作者 slug ごとの `description` を書き、`authors_build.py` が `authors.json` の各作者に `description` (無ければ null) として出す。`sync-terms` は term の description に書く (ハッシュに含まれるので冪等)。
 
 **未決**: ラベルは「オーナー作品集」のままでよいか (「設立者の作品」等) / 説明文の有無と文言 / 犬瓦ハム太 名義 (本書 5) をこの作者ページに結び付けるか。
 **規模**: 1〜3 行 + 配備。
@@ -209,6 +223,7 @@ administrator を渡すことも技術的には可能だが、プラグイン追
 
 **未決**: 類似度 0.8〜0.95 (16 組) を自動にするか / 旧目録 (1997–98) 版を「初出の姿」として残す史料価値を取るか (既定: 非表示。原本アーカイブで読める) / 相違の大きい改稿 (例 城弾 `angelvoice` 2013 vs 2007、類似度 0.24) を「版違い」とみなすか「別作」とみなすか。
 **規模**: builder 1 本 (~200 行) + import/テーマ改修 + 人手確認 89 組 (1〜2 時間) + 再投入。**本書 7 の後に実施**。
+**実装仕様**: [`versions-spec.md`](versions-spec.md) (束ね方・類似度と閾値・新版の選び方・`versions_overrides.yml` の形式・出力・検証)。
 
 ---
 
@@ -238,6 +253,7 @@ administrator を渡すことも技術的には可能だが、プラグイン追
 
 **未決**: レビューを所有者が行うか、セッションが一次案を作って所有者が承認する形か (推奨: 後者)。
 **規模**: builder 改修 1 日 / レビュー 71 件 (1〜2 時間) / 再投入 + 301。**本書 6 より先**。
+**実装仕様**: [`cluster-overrides-spec.md`](cluster-overrides-spec.md) (`work_overrides.yml` v2 の形式・適用順・題名の芯の規則・レビュー資料・`redirects.yml`・再投入方式)。
 
 ---
 
@@ -247,7 +263,7 @@ administrator を渡すことも技術的には可能だが、プラグイン追
 
 **仕様 (後回し)**: テーマ内のインライン SVG スプライト (`themes/ts-bunko/assets/icons.svg`、`<use>`) か CSS mask。置き場: 作品カードの題名前 (ブック型)・話ページのパンくず・索引の各項目 (種別)。外部 CDN・アイコンフォントは使わない。`currentColor` でダークモード追随。配備は deploy.sh のテーマ同期で済む。
 **未決**: 所有者が素材を用意するか、既製 (MIT ライセンスのアイコン集) か。
-**規模**: 半日。T.16 の最後。
+**規模**: 半日。T.28 (最後)。
 
 ---
 
@@ -256,6 +272,8 @@ administrator を渡すことも技術的には可能だが、プラグイン追
 **現状**: `content/pages/about.html` (git) → `wp ts sync-pages` (`commands.php:522-549`。ハッシュで冪等、WP 側の手動編集は保護、`--overwrite-manual` で上書き)。本番 ID 8736、最終更新 2026-08-30 11:02 (= sync 時刻、手編集なし)。現文面「八重洲メディアリサーチのもとで長く運営されたのち、管理が途絶え」は所有者の指摘どおり**独立後の文庫運営委員会に触れていない**。glossary「少年少女文庫」の定義と author-outreach §5 も「別の管理者へ移管」と書いており、所有者の説明 (文庫運営委員会による運営) で訂正が要る。行 17 に「72 時間以内」。
 
 **仕様**: 所有者の原稿を正典 `content/pages/about.html` に入れる (経路 A/B は本書 Q)。ファイル冒頭に `<!-- owner-authored: YYYY-MM-DD -->` を付け、以後セッションは所有者文責の部分を書き換えない (72 時間の差し替えだけは本書 11 の一括改訂で行い、事前に所有者へ知らせる)。glossary の「少年少女文庫」定義と author-outreach §5 の「移管先の管理者」を「文庫運営委員会」に訂正 (所有者確認後)。
+
+**`wp ts export-pages` の仕様 (新設)**: WP の固定ページ (`page`、publish) を `content/pages/<post_name>.html` に書き戻す。1 行目は `<!-- title: <post_title> -->`、以降は `post_content` を無加工で (ブロックコメントも含む)。既存ファイルの 2 行目に `<!-- owner-authored: YYYY-MM-DD -->` があればその行を保ち、`sync-pages` はこのコメント行を本文から除いて投入する。`--slug=<name>` で 1 枚だけ、`--dry-run` で差分の行数だけ表示。受け入れ条件は往復 (export → `sync-pages`) が `skipped` になること。
 
 **未決**: 経路 A/B / 運営者名義の表記 (takano32 のまま・運営委員会名義の併記) / 運営委員会の正式名称。
 
@@ -283,10 +301,23 @@ administrator を渡すことも技術的には可能だが、プラグイン追
 
 **仕様**:
 
-1. **恒久化**: `scripts/wp/secret_scan.py` (上表の検査 = シェバン・Perl 構文・秘密らしい hidden 値・`password=` 系・設定ファイル名) を `make check` に組み込み、新規収蔵のたびに 0 件を確認する。
+1. **恒久化**: `scripts/wp/secret_scan.py` を `make check` に組み込み、新規収蔵のたびに 0 件を確認する (規則は §10.5)。
 2. **小さな対処 (即時)**: エラー出力 2 ファイルをリポジトリから削除 (史料価値なし、サーバパス露出)。EXE 分割 (2 系統 3 本 + bat) の配信を続けるかは所有者判断 (ゲーム本体は企画の作品だが、実行ファイルの配信はリスク。原本は git 履歴に残る)。
 3. **ダウンロード問題の解消**: Phase 5.2 `annex_inject.py` (ビルド注入) で `.cgi` 保存画面を HTML として配信できる形にする。案: 各 `x.cgi` を `x.cgi/index.html` に置き換え + `<base href>` 注入 (GitHub Pages は `/x.cgi` を `/x.cgi/` に 301 して `text/html` で返す。**要検証**)。Phase 6 の `/boards/` ができれば本館側の感想板リンクは `.cgi` に頼らなくなる。
 4. 文書: environment §4.3 の「前段 nginx」訂正は既記載。本書の結果を `data-inventory.md` §7 に 1 行で反映。
+
+### 10.5 `secret_scan.py` の仕様
+
+- 対象: `git ls-files` の全ファイルから `scripts/` `mu-plugins/` `themes/` `docs/` `catalog/` `takedown/` `content/` `.github/` を除いたもの (= 配信される原本)。`--root <dir>` で別ツリーを指せる (テスト用)。
+- 検査 (いずれも**値は出力しない**):
+  ① 先頭 2 バイトが `#!`
+  ② Perl/シェル構文: 行頭の `use strict` / `use CGI` / `require "…"` / `sub 名 {` / `$ENV{` / `print "Content-type` / `open(IN|OUT|FH|DAT|LOG`
+  ③ `<input type=hidden …>` で name が `pass|pw|passwd|password|admin|adminpass|delkey|secret` かつ value が非空。ただし value が数字のみ (投稿番号・タイムスタンプ)、または英小文字 1 語 (6 字以下) でリポジトリ内の他ファイルに通常語として 50 回以上現れるものは除外
+  ④ `password=` `passwd=` `pass=` の直後に 4 字以上の値 (HTML 属性 `type=password` は除外)
+  ⑤ ファイル名が `.htaccess` `.htpasswd` `wp-config*` `*.env` `*.pem` `id_rsa*`
+- 出力: `catalog/reports/secret_scan.json` = `{"scanned": N, "hits": [{"rule": "③", "path": "…", "line": 46}], "generated": "<ISO 8601>"}` と標準出力の要約。path と行番号だけで、行の内容は書かない。
+- 終了コード: hits が 0 なら 0、1 件以上なら 1 (`make check` が止まる)。検証済みの許容 (例: モード語の hidden 値) は `scripts/wp/secret_scan_allow.yml` に `path:行` と理由を書いて除外する。
+- 2026-10-26 の全数走査 (§10 の表) がこの規則の初回結果で hits 0。
 
 **未決**: EXE 配信の可否。
 **規模**: 走査スクリプト 半日 / 削除 2 ファイル即時 / 5.2 は Phase 5。
@@ -325,6 +356,7 @@ administrator を渡すことも技術的には可能だが、プラグイン追
 
 **未決**: 「10 日」を公開文面に書いてよいか / 確認メールなしでも受理するか (なりすまし取り下げのリスクを所有者が受容するか) / 依頼者情報の保持期間 / 運営委員の通知先メール / 却下時に依頼者へ返事するか。
 **規模**: mu-plugin 400〜600 行 + テンプレート + メール文 + crontab + 文書改訂 33 箇所 + 削除リハーサル (台帳 7.2) での実流し。2〜3 日。
+**実装仕様**: [`takedown-form-spec.md`](takedown-form-spec.md) (入力項目と検証・データ・状態遷移表・通知・cron・`/removed/` の生成規則・`export-takedowns` の形式・裁定待ちパラメータの既定値・検証手順)。
 
 ---
 
@@ -345,7 +377,8 @@ administrator を渡すことも技術的には可能だが、プラグイン追
 | `docs/wordpress-library-design.md` | `:259 :265 :300 :572 :634 :657 :664` (7。すべて v1.0〜v1.5 の章) | 追記ルールにより書き換えず、**v1.6 章で失効を宣言** |
 | `docs/cp4-review.md` | `:111` (未了 ⑪) / `:143` (履歴) | `:111` に v1.6 への注記。`:143` は履歴 |
 | `mu-plugins/ts-library/includes/commands.php` | `:748` (コメント) | 修正 |
-| `TASKS.md` | `:79` (T.6.2 の履歴) | 残す |
+| `TASKS.md` / `docs/worklog.md` | T.6.2 の履歴 | 残す |
+| 本書・設計書 v1.6 章・`takedown-form-spec.md`・`visibility-roles-spec.md`・`docs/README.md` の分担表 | 撤回の記録・説明として「72 時間」に触れる | 残す (公開面の文言ではない) |
 
 ---
 
@@ -368,6 +401,7 @@ administrator を渡すことも技術的には可能だが、プラグイン追
 ## 14. 文書・台帳への反映 (本書と同時に行った追記)
 
 - 設計書に **v1.6 改訂章**を追記 (方針レベルの決定 6 点と失効の宣言。本書へリンク)。
-- `docs/README.md` のドキュメント地図に本書を追加し、「決定済み」の 72 時間の行を v1.6 の言い方に。
-- `TASKS.md`: T.15.1 を「レビュー受領」に更新、**T.16** を追加 (本書の項目番号と対応)。
-- 台帳 (`wp-implementation-tasks.md`) への展開 (受け入れ条件・実測値) は T.16 の実装着手時に行う。
+- 実装仕様を性質ごとに 4 本に分けて新設: [`visibility-roles-spec.md`](visibility-roles-spec.md) (§2) / [`takedown-form-spec.md`](takedown-form-spec.md) (§11) / [`versions-spec.md`](versions-spec.md) (§6) / [`cluster-overrides-spec.md`](cluster-overrides-spec.md) (§7)。判定基準・閾値・状態遷移・権限・ファイル形式・コマンド仕様はそちらが正典。
+- `docs/README.md` のドキュメント地図に本書・4 本の仕様書・`worklog.md` を追加し、「決定済み」の 72 時間の行を v1.6 の言い方に、「TASKS.md と docs の分担」を追記。
+- `TASKS.md`: T.15.1 を「レビュー受領」に更新、**T.16〜T.28** を追加 (1 大項目 = 1 成果、着手順。各行は やること + 完了条件 + 参照先 のみ)。完了済み T.1〜T.14 の確定記録を [`worklog.md`](worklog.md) に写した。
+- 台帳 (`wp-implementation-tasks.md`) への展開 (受け入れ条件・実測値) は T.22.2 で行う。2026-08-31 のユーザ裁定 (索引と検索窓を右サイドバーに常設、表示文言「索引」「開いた」) が台帳に無かったので 4.4 に追記した。
