@@ -125,7 +125,7 @@
         - 参考(不具合ではない): authors.json の `karaage_New` は WP が slug を小文字化して
           `karaage_new` になる。`unattributed` / `series-index` は authors.json に無い
           擬似作者なので import 側で term 名 = slug のまま作られる
-        - **修正記録 (2026-08-30, Fable)**: (A)〜(E) を commands.php で修正済み —
+        - **修正記録 (2026-08-30, 高品位なモデルとエフォート)**: (A)〜(E) を commands.php で修正済み —
           (A) 単発 fill の hash を `_ts_fill_hash` に分離 /
           (B) terms.json の name・raw_variants→slug 対応表を積み全 taxonomy を **term ID で割当**。
           未解決値は場当たり term を作らず option `ts_term_warnings` に記録。あわせて未実装だった

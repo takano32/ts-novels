@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# 本番 (scripts/wp/novels-ssh = novels.xwp.jp) への配備 (T.8.3。Fable 所管 — 本番を触るコード)。
+# 本番 (scripts/wp/novels-ssh = novels.xwp.jp) への配備 (T.8.3。高品位なモデルとエフォートの所管 — 本番を触るコード)。
 #
 # 既定は DRY-RUN。実際に書き込むには --apply を付ける。
 #   scripts/wp/deploy.sh            # 何が起きるかだけ表示 (rsync -n)

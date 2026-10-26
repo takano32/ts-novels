@@ -22,7 +22,7 @@
 # 麗香 → marie、ぽぽ → popo)。統合された表示名は authors.json の
 # display_variants に残り、URL は 1 本になる。
 #
-# --- 同名別 slug の裁定 (2026-08-30 Fable。実装済み: catalog/episode_overrides.yml) ---
+# --- 同名別 slug の裁定 (2026-08-30 高品位なモデルとエフォートによる裁定。実装済み: catalog/episode_overrides.yml) ---
 # 1) 神川綾乃: kamikawa_ayano_ は実在しない板 (CGI の hidden log 値が kamikawa_ayano)。
 #    kamikawa_ayano に統合し、novel/200104/15172112/angels_12.html を kamikawa_ayano へ。
 # 2) コーディー: jersey_red (ジャージレッド) とは別人。コーディーの正は kohdhi。
@@ -34,7 +34,7 @@
 
 authors:
   (原作:TWO-BIT):
-    note: 既存作者への注記。RB企画ページの筆頭は運営委員会だが板一覧の two_bit に寄せる (2026-08-30 Fable 裁定)
+    note: 既存作者への注記。RB企画ページの筆頭は運営委員会だが板一覧の two_bit に寄せる (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: two_bit
     source: pykakasi
     status: confirmed
@@ -67,7 +67,7 @@ authors:
     source: kansou-board
     status: auto
   Bシュウ:
-    note: シュウとは別人 (サイトの索引・板の扱いに従う) (2026-08-30 Fable 裁定)
+    note: シュウとは別人 (サイトの索引・板の扱いに従う) (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: bshuu
     source: pykakasi
     status: confirmed
@@ -76,7 +76,7 @@ authors:
     source: kansou-board
     status: auto
   DEKOI（協力　DATTA）:
-    note: 注記表記。メールローカル部が DEKOI 4表記で同一 (2026-08-30 Fable 裁定)
+    note: 注記表記。メールローカル部が DEKOI 4表記で同一 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: dekoi
     source: pykakasi
     status: confirmed
@@ -257,12 +257,12 @@ authors:
     source: kansou-board
     status: auto
   you':
-    note: you’と同一人物 (板 you_)。統合 (2026-08-30 Fable 裁定)
+    note: you’と同一人物 (板 you_)。統合 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: you_
     source: ascii
     status: confirmed
   you’:
-    note: 板 log 値 you_。ASCII 表記 you' と同一人物として統合 (2026-08-30 Fable 裁定)
+    note: 板 log 値 you_。ASCII 表記 you' と同一人物として統合 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: you_
     source: pykakasi
     status: confirmed
@@ -291,7 +291,7 @@ authors:
     source: kansou-board
     status: auto
   あのよろし:
-    note: 索引位置と一致 (2026-08-30 Fable 裁定)
+    note: 索引位置と一致 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: anoyoroshi
     source: pykakasi
     status: confirmed
@@ -344,7 +344,7 @@ authors:
     source: kansou-board
     status: auto
   この市場:
-    note: 板一覧 konoichiba。読みは「このいちば」 (2026-08-30 Fable 裁定)
+    note: 板一覧 konoichiba。読みは「このいちば」 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: konoichiba
     source: pykakasi
     status: confirmed
@@ -377,12 +377,12 @@ authors:
     source: kansou-board
     status: auto
   ぴろ:
-    note: 索引位置と一致 (2026-08-30 Fable 裁定)
+    note: 索引位置と一致 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: piro
     source: pykakasi
     status: confirmed
   ふう:
-    note: 板一覧と一致 (2026-08-30 Fable 裁定)
+    note: 板一覧と一致 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: fuu
     source: pykakasi
     status: confirmed
@@ -395,7 +395,7 @@ authors:
     source: kansou-board
     status: auto
   ぽぽ:
-    note: 板タイトル「ぽぽさん(HIKUさん)…」= サイト自身が同一視。HIKU も slug popo (2026-08-30 Fable 裁定)
+    note: 板タイトル「ぽぽさん(HIKUさん)…」= サイト自身が同一視。HIKU も slug popo (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: popo
     source: pykakasi
     status: confirmed
@@ -424,7 +424,7 @@ authors:
     source: kansou-board
     status: auto
   もと(ＭＯＴＯ):
-    note: 同一人物の別表記。板一覧 moto (2026-08-30 Fable 裁定)
+    note: 同一人物の別表記。板一覧 moto (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: moto
     source: pykakasi
     status: confirmed
@@ -441,7 +441,7 @@ authors:
     source: kansou-board
     status: auto
   ゆあさのみき 画：もぐたん様:
-    note: 画師併記の巻き込み。感想リンクが yuasano_miki (2026-08-30 Fable 裁定)
+    note: 画師併記の巻き込み。感想リンクが yuasano_miki (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: yuasano_miki
     source: pykakasi
     status: confirmed
@@ -474,7 +474,7 @@ authors:
     source: kansou-board
     status: auto
   ろっほ:
-    note: 索引位置と一致 (roppo=思案の六ぽ と混同しない) (2026-08-30 Fable 裁定)
+    note: 索引位置と一致 (roppo=思案の六ぽ と混同しない) (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: rohho
     source: pykakasi
     status: confirmed
@@ -511,7 +511,7 @@ authors:
     source: kansou-board
     status: auto
   コンカナ:
-    note: 索引位置と一致 (2026-08-30 Fable 裁定)
+    note: 索引位置と一致 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: konkana
     source: pykakasi
     status: confirmed
@@ -537,13 +537,13 @@ authors:
     status: auto
   シェアワールド:
     note: '作者ではない (シリーズ目次ページの誤登録)。authors_build で作者化せず、話は ts_world 姫神奇譚へ — 実装は role:
-      not-an-author を参照 (2026-08-30 Fable 裁定)'
+      not-an-author を参照 (2026-08-30 高品位なモデルとエフォートによる裁定)'
     role: not-an-author
     slug: himekami_series
     source: pykakasi
     status: confirmed
   シュウ:
-    note: Bシュウとは別人 (2026-08-30 Fable 裁定)
+    note: Bシュウとは別人 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: shuu
     source: pykakasi
     status: confirmed
@@ -553,7 +553,7 @@ authors:
     status: auto
   ジブドレ:
     note: 独立作者として維持 (mr_nagasaki と birthday0420 が共通し同一人物の疑いはあるが、確証なしのため安全側) (2026-08-30
-      Fable 裁定)
+      高品位なモデルとエフォートによる裁定)
     slug: jibudore
     source: pykakasi
     status: confirmed
@@ -634,7 +634,7 @@ authors:
     source: kansou-board
     status: auto
   ヒラリーマン:
-    note: 長音は省略する翻字を採用 (hirariiman は読みにくい) (2026-08-30 Fable 裁定)
+    note: 長音は省略する翻字を採用 (hirariiman は読みにくい) (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: hirariman
     source: pykakasi
     status: confirmed
@@ -663,7 +663,7 @@ authors:
     source: kansou-board
     status: auto
   メガ\:
-    note: 末尾  は文字化け由来。後年の改名「日本海」は display_variants へ (2026-08-30 Fable 裁定)
+    note: 末尾  は文字化け由来。後年の改名「日本海」は display_variants へ (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: mega
     source: pykakasi
     status: confirmed
@@ -728,12 +728,12 @@ authors:
     source: kansou-board
     status: auto
   亜希みちる＆こうけい:
-    note: 合作。筆頭 aki_michiru に寄せ、こうけいは display_variants/話メタへ (2026-08-30 Fable 裁定)
+    note: 合作。筆頭 aki_michiru に寄せ、こうけいは display_variants/話メタへ (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: aki_michiru
     source: pykakasi
     status: confirmed
   仲根多鎖:
-    note: 読み未確定 (たくさり/たさ)。訓読み複合「たくさり」を採用し姓と区切る (2026-08-30 Fable 裁定)
+    note: 読み未確定 (たくさり/たさ)。訓読み複合「たくさり」を採用し姓と区切る (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: nakane_takusari
     source: pykakasi
     status: confirmed
@@ -742,7 +742,7 @@ authors:
     source: kansou-board
     status: auto
   佐藤由衣:
-    note: 板一覧 satoh_yui。「由衣」とは別人 (板が別) (2026-08-30 Fable 裁定)
+    note: 板一覧 satoh_yui。「由衣」とは別人 (板が別) (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: satoh_yui
     source: pykakasi
     status: confirmed
@@ -759,7 +759,7 @@ authors:
     source: kansou-board
     status: auto
   匿名希望:
-    note: 連作2話の同一匿名者。1名として残す (2026-08-30 Fable 裁定)
+    note: 連作2話の同一匿名者。1名として残す (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: tokumeikibou
     source: pykakasi
     status: confirmed
@@ -816,7 +816,7 @@ authors:
     source: kansou-board
     status: auto
   塵芥王:
-    note: さ行索引の位置 (じ〜す) より「じんかいおう」 (2026-08-30 Fable 裁定)
+    note: さ行索引の位置 (じ〜す) より「じんかいおう」 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: jinkaiou
     source: pykakasi
     status: confirmed
@@ -857,7 +857,7 @@ authors:
     source: kansou-board
     status: auto
   天爛／絵：ムクゲさん（:
-    note: 目録パース事故。天爛=板 shining_heaven (2026-08-30 Fable 裁定)
+    note: 目録パース事故。天爛=板 shining_heaven (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: shining_heaven
     source: pykakasi
     status: confirmed
@@ -939,12 +939,12 @@ authors:
     status: auto
   根室　眞琴:
     note: 改名前名義。同一人物 (メールローカル部一致・同作品の改訂)。作者ページは slents に一本化し旧名義は display_variants
-      へ (2026-08-30 Fable 裁定)
+      へ (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: slents
     source: pykakasi
     status: confirmed
   根室　眞琴改め、スレントス-Slents-:
-    note: 改名告知の表記。slents へ (2026-08-30 Fable 裁定)
+    note: 改名告知の表記。slents へ (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: slents
     source: pykakasi
     status: confirmed
@@ -985,7 +985,7 @@ authors:
     source: kansou-board
     status: auto
   海津里花:
-    note: 本文署名「会津里花」・作品集合一致。サイト側の誤記 (2026-08-30 Fable 裁定)
+    note: 本文署名「会津里花」・作品集合一致。サイト側の誤記 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: aizu_rika
     source: pykakasi
     status: confirmed
@@ -1018,7 +1018,7 @@ authors:
     source: kansou-board
     status: auto
   由衣:
-    note: 板一覧と一致 (2026-08-30 Fable 裁定)
+    note: 板一覧と一致 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: yui
     source: pykakasi
     status: confirmed
@@ -1059,7 +1059,7 @@ authors:
     source: kansou-board
     status: auto
   空知かたほ:
-    note: 索引位置と一致 (2026-08-30 Fable 裁定)
+    note: 索引位置と一致 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: sorachikataho
     source: pykakasi
     status: confirmed
@@ -1068,7 +1068,7 @@ authors:
     source: kansou-board
     status: auto
   米津 画：みっしんぐ:
-    note: 画師併記の巻き込み。板一覧 yonezu (2026-08-30 Fable 裁定)
+    note: 画師併記の巻き込み。板一覧 yonezu (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: yonezu
     source: pykakasi
     status: confirmed
@@ -1085,7 +1085,7 @@ authors:
     source: kansou-board
     status: auto
   胡乱太:
-    note: か行索引の位置 (こと〜こん) より「こらんた」 (2026-08-30 Fable 裁定)
+    note: か行索引の位置 (こと〜こん) より「こらんた」 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: koranta
     source: pykakasi
     status: confirmed
@@ -1114,7 +1114,7 @@ authors:
     source: kansou-board
     status: auto
   薪喬（まきたかし）:
-    note: 括弧内読みが板 slug と一致 (2026-08-30 Fable 裁定)
+    note: 括弧内読みが板 slug と一致 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: maki_takashi
     source: pykakasi
     status: confirmed
@@ -1127,12 +1127,12 @@ authors:
     source: kansou-board
     status: auto
   虎之助:
-    note: 最も自然な読み。tiger はドメイン由来で本人表記でない (2026-08-30 Fable 裁定)
+    note: 最も自然な読み。tiger はドメイン由来で本人表記でない (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: toranosuke
     source: pykakasi
     status: confirmed
   西さとる:
-    note: 板一覧 nishi_satoru (2026-08-30 Fable 裁定)
+    note: 板一覧 nishi_satoru (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: nishi_satoru
     source: pykakasi
     status: confirmed
@@ -1141,7 +1141,7 @@ authors:
     source: kansou-board
     status: auto
   角さん(絵) / オヤジ さん(文):
-    note: 筆頭 角さん=板 kakusan。オヤジは話メタへ (2026-08-30 Fable 裁定)
+    note: 筆頭 角さん=板 kakusan。オヤジは話メタへ (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: kakusan
     source: pykakasi
     status: confirmed
@@ -1242,7 +1242,7 @@ authors:
     source: kansou-board
     status: auto
   高樹ひろむ:
-    note: 索引位置と一致 (2026-08-30 Fable 裁定)
+    note: 索引位置と一致 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: takakihiromu
     source: pykakasi
     status: confirmed
@@ -1256,7 +1256,7 @@ authors:
     status: auto
   麗香:
     note: novel/reika/ を Ｍａｒｉｅ・Ｒｅｉｋａ と共有 (imagine が by Reika Marie)。marie に統合し麗香は
-      display_variants へ (2026-08-30 Fable 裁定)
+      display_variants へ (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: marie
     source: pykakasi
     status: confirmed
@@ -1277,7 +1277,7 @@ authors:
     source: kansou-board
     status: auto
   龍酒 原案：超！海老寿司:
-    note: 筆頭 龍酒。原案者は話メタへ (2026-08-30 Fable 裁定)
+    note: 筆頭 龍酒。原案者は話メタへ (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: ryuhju
     source: pykakasi
     status: confirmed
@@ -1290,7 +1290,7 @@ authors:
     source: kansou-board
     status: auto
   ？？？？:
-    note: ????? の全半角ゆれ。lib-index 両索引で同一4作 (2026-08-30 Fable 裁定)
+    note: ????? の全半角ゆれ。lib-index 両索引で同一4作 (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: qqqqq
     source: fallback
     status: confirmed
@@ -1307,7 +1307,7 @@ authors:
     source: kansou-board
     status: auto
   ＨＩＫＯ（原作：城弾さん）:
-    note: HIKO 本人。原作クレジットは話メタへ (2026-08-30 Fable 裁定)
+    note: HIKO 本人。原作クレジットは話メタへ (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: hiko
     source: pykakasi
     status: confirmed
@@ -1352,7 +1352,7 @@ authors:
     source: kansou-board
     status: auto
   Ｍａｃｆｉｓｔ:
-    note: 板一覧 macfist (見落とし分) (2026-08-30 Fable 裁定)
+    note: 板一覧 macfist (見落とし分) (2026-08-30 高品位なモデルとエフォートによる裁定)
     slug: macfist
     source: ascii
     status: confirmed

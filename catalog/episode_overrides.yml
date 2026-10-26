@@ -15,7 +15,7 @@
 # **episode_id は source_path から導くので、この上書きでは決して変わらない**
 # (episodes.jsonl ↔ bodies/ ↔ convert_report ↔ WP import の結合キーを壊さない)。
 #
-# 出所: specs/S.217.md (元の catalog/review/authors-slugs.md) の 7 節 (2026-08-30 Fable 裁定) /
+# 出所: specs/S.217.md (元の catalog/review/authors-slugs.md) の 7 節 (2026-08-30 高品位なモデルとエフォートによる裁定) /
 #       catalog/slug_overrides.yml のヘッダに書かれた裁定
 
 episodes:

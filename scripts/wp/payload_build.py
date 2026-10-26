@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""bodies/*.md → Gutenberg ブロック HTML (T.9.1 + T.9.2 の src 書換。Fable 所管)。
+"""bodies/*.md → Gutenberg ブロック HTML (T.9.1 + T.9.2 の src 書換。高品位なモデルとエフォートの所管)。
 
 入力:
   bodies/<episode_id>.md            … body_convert.py の成果 (3,642 本)

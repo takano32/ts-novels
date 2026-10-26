@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""運営文書・前史・ギャラリーを ts_doc 用ペイロードにする (T.10.5。Fable 所管)。
+"""運営文書・前史・ギャラリーを ts_doc 用ペイロードにする (T.10.5。高品位なモデルとエフォートの所管)。
 
 入力 (git 管理下の原本):
   comittee/*.html (21) ・ columns/*.html (2) ・ dialy/index.html (1)   … 運営文書

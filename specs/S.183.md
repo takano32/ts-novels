@@ -19,6 +19,6 @@
       - **補足**: S.69〜S.71 は deploy.sh が `themes/` と `assets/annex-img/` も運ぶと
         書いているが、**現行 deploy.sh は運ばない**(2.7 は手動 rsync で実施した)。
         どちらかに合わせること
-        → **解消 (2026-08-30, Fable)**: deploy.sh に [5] 画像(`git ls-files novel` の
+        → **解消 (2026-08-30, 高品位なモデルとエフォート)**: deploy.sh に [5] 画像(`git ls-files novel` の
         jpg/gif/png/bmp → `assets/annex-img/`)と [6] `themes/ts-bunko`(存在すれば)を追加。
         runbook の記述どおりになった
