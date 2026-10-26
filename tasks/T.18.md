@@ -12,5 +12,5 @@
   - [ ] T.18.2.5 content/pages/removed.html に 1 行 (T.18.1 の文言) → sync-pages → curl 確認。denylist の `applied` 3 層に日付・`status: applied` → コミット
 - [ ] T.18.3 原本アーカイブ側 (T.18.1 の後。S.78 の暫定手順 = リポジトリから削除)
   - [x] T.18.3.1 S.103「取り下げ対象の一覧」の本人ファイル 28 (+ T.18.1 で決めた分) を `git rm` → `make catalog && make check` OK (QA.md で source_exists=False の 28 話を確認)
-  - [ ] T.18.3.2 push → Pages で代表 3 本が 404 (curl)。denylist の `annex_excluded` に日付・`status: verified` → コミット
+  - [x] T.18.3.2 (2026-10-27 代表 3 本の 404 を確認。同居 2 ファイル等は回答待ち) push → Pages で代表 3 本が 404 (curl)。denylist の `annex_excluded` に日付・`status: verified` → コミット
 - [ ] T.18.4 (八重洲さんの判断) git 履歴の除去は依頼があった場合のみ (S.79)。T.18.1 で「行う」なら別の大項目として起票
