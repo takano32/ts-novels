@@ -14,6 +14,7 @@
 | [DOCS.md](DOCS.md) | 人が通して読む説明 (`docs/`)。最初に読むならここ |
 | [SPECS.md](SPECS.md) | 仕様 (`specs/S.n.md`)。復元の経緯・件数・既知の欠落は S.205〜S.208 |
 | [TASKS.md](TASKS.md) | 作業 (`tasks/T.n.md`) |
+| [TODO.md](TODO.md) | 実行計画と取り下げ (`TD.n`) |
 
 ---
 

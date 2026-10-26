@@ -26,7 +26,7 @@
   受領日 (`requested_at`) と経路の分類 (`received_via`) だけを残し、依頼の実物は私有ストレージへ。
 - エントリは**消さない**。復帰した場合も `status: reinstated` にして履歴として残す
   (同じ作品を再収蔵してしまう事故を防ぐため)。
-- `id` は再利用しない (`TD-YYYY-NNNN`)。
+- `id` は再利用しない (`TD.n`。TODO.md と共通の通し番号。2026-10-26 から。S.221)。
 - 状態は `received → applied → verified`。`applied` の各層の日付が全部埋まる前に
   `verified` にしない。
 

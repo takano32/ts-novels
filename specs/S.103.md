@@ -30,7 +30,7 @@
 
 **仕様 (決定案)**:
 
-1. `takedown/denylist.yml` に **TD-2026-0014** `target: {kind: author, value: marie}`、`reason_class: author_request`、`received_via: other` (所有者の証言)、`requested_at` は当時の年が分かれば当時、分からなければ受領日 2026-10-26。`public_note`「Ｍａｒｉｅさんの作品 (7 作) — 作者の申し出により掲載していません」。
+1. `takedown/denylist.yml` に **TD.14** `target: {kind: author, value: marie}`、`reason_class: author_request`、`received_via: other` (所有者の証言)、`requested_at` は当時の年が分かれば当時、分からなければ受領日 2026-10-26。`public_note`「Ｍａｒｉｅさんの作品 (7 作) — 作者の申し出により掲載していません」。
 2. WP は既存機構で即日: `wp ts apply-takedown` は author 単位に対応済み (`commands.php:890-897`、子へ波及 `:899-905`) → 33 URL を 410 (`htaccess_block.py --install`)。S.102 が入れば自動的に「運営委員は閲覧可」になる。`/removed/` に掲示。
 3. 原本アーカイブ (T.35.2 のビルド除外が未実装なので、S.75〜S.81 ③ の暫定手順どおり) 本人のファイル 28 をリポジトリから削除してコミット (`.github/workflows/deploy-pages.yml` はリポジトリ直下をそのまま配信)。**同居ファイル 2 本**は Marie 氏の区画だけを切除した版に差し替えるか、そのまま残すか → 所有者判断。**感想板 30 本**は読者の投稿 (作品ではない) なので既定は残す → 所有者判断。
 4. git 履歴の除去 (④) は既定どおり行わない (依頼があれば)。public リポジトリと `raw-original` タグに残る事実は S.75〜S.81 ④ のとおり。

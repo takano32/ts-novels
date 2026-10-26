@@ -17,7 +17,7 @@
 #
 # スキーマ (version: 1)
 # ---------------------------------------------------------------------------
-# entries[].id            必須 str   "TD-YYYY-NNNN" 連番。once assigned, never reused
+# entries[].id            必須 str   "TD.n" 連番 (TODO.md と共通の通し番号)。once assigned, never reused
 # entries[].target        必須 map   削除対象。kind と value の対
 #   .kind                 必須 enum  work | episode | annex_path | author
 #                                    work       : catalog/works.jsonl の work_slug
@@ -51,7 +51,7 @@
 #
 # 記入例 (コメントアウト。実エントリは entries: 配下に同じ形で追加する)
 #
-# - id: TD-2026-0001
+# - id: TD.n
 #   target:
 #     kind: work
 #     value: example-author-example-work
@@ -80,7 +80,7 @@ entries:
   # 拾っていなかったため、取り下げ済み作品が本文つきで再公開されていた (最長 152KB の全文)。
   # requested_at は目録に記載された当時の停止日。received_via: other = 旧目録の記載。
   # ------------------------------------------------------------------------
-  - id: TD-2026-0001
+  - id: TD.1
     target:
       kind: work
       value: two_bit-shoujoshinkoukeimonogatari-miss-ing
@@ -97,7 +97,7 @@ entries:
       removed_page_listed: 2026-08-30
     public_note: 「少女進行形物語 Miss-ing」(ＴＷＯ−ＢＩＴさん) — 作者の申し出により掲載していません
 
-  - id: TD-2026-0002
+  - id: TD.2
     target:
       kind: work
       value: two_bit-hibikorenichijounari-renkaban
@@ -114,7 +114,7 @@ entries:
       removed_page_listed: 2026-08-30
     public_note: 「日々是日常成り／廉価版」(ＴＷＯ−ＢＩＴさん) — 作者の申し出により掲載していません
 
-  - id: TD-2026-0003
+  - id: TD.3
     target:
       kind: work
       value: suzuki_murasaki-inside
@@ -131,7 +131,7 @@ entries:
       removed_page_listed: 2026-08-30
     public_note: 「Inside」(鈴忌 紫さん) — 作者の申し出により掲載していません
 
-  - id: TD-2026-0004
+  - id: TD.4
     target:
       kind: work
       value: shiroiruka-harunanoritaanmatchi
@@ -148,7 +148,7 @@ entries:
       removed_page_listed: 2026-08-30
     public_note: 「春奈のリターンマッチ」(山陰しろいるかさん) — 作者の申し出により掲載していません
 
-  - id: TD-2026-0005
+  - id: TD.5
     target:
       kind: work
       value: shiroiruka-nanaironosuishou
@@ -165,7 +165,7 @@ entries:
       removed_page_listed: 2026-08-30
     public_note: 「七色の水晶」(山陰しろいるかさん) — 作者の申し出により掲載していません
 
-  - id: TD-2026-0006
+  - id: TD.6
     target:
       kind: work
       value: shiroiruka-yumitochika
@@ -182,7 +182,7 @@ entries:
       removed_page_listed: 2026-08-30
     public_note: 「由美と智香」(山陰しろいるかさん) — 作者の申し出により掲載していません
 
-  - id: TD-2026-0007
+  - id: TD.7
     target:
       kind: work
       value: shiroiruka-yukarihijiridensenshitanjou
@@ -199,7 +199,7 @@ entries:
       removed_page_listed: 2026-08-30
     public_note: 「由香里聖伝戦士誕生」(山陰しろいるかさん) — 作者の申し出により掲載していません
 
-  - id: TD-2026-0008
+  - id: TD.8
     target:
       kind: work
       value: shiroiruka-yukarihijiriden-senshitanjou
@@ -216,7 +216,7 @@ entries:
       removed_page_listed: 2026-08-30
     public_note: 「由香里聖伝 戦士誕生」(山陰しろいるかさん) — 作者の申し出により掲載していません
 
-  - id: TD-2026-0009
+  - id: TD.9
     target:
       kind: work
       value: shiroiruka-yukarihijiriden-joshou
@@ -232,7 +232,7 @@ entries:
       git_history_purged: null
       removed_page_listed: 2026-08-30
     public_note: 「由香里聖伝 序章」(山陰しろいるかさん) — 作者の申し出により掲載していません
-  - id: TD-2026-0014
+  - id: TD.14
     target:
       kind: author
       value: marie
@@ -257,7 +257,7 @@ entries:
   # 写っている人は再公開に同意していない。検索インデックス可の状態で公開されていた。
   # 復帰させる場合は写真の除去・noindex 等の条件を決めてから。同一内容が 2 パスにある。
   # ------------------------------------------------------------------------
-  - id: TD-2026-0010
+  - id: TD.10
     target:
       kind: work
       value: johdan-nenmatsuofu
@@ -273,7 +273,7 @@ entries:
       git_history_purged: null
       removed_page_listed: null
     notes: 運営判断による一時非公開。サイト所有者の確認待ち (掲示は保留)
-  - id: TD-2026-0011
+  - id: TD.11
     target:
       kind: work
       value: hotaru-nenmatsuofu
@@ -292,7 +292,7 @@ entries:
   # 上記 2 件が本文中で参照している写真そのもの。投稿を非公開にしても画像ファイルは
   # 直接 URL で取得できてしまうため、配信も止める (実測: 取り下げ後も 200 だった)。
   # ファイル名 01123002〜01123016.jpg = 2001-12-30 の撮影分。
-  - id: TD-2026-0012
+  - id: TD.12
     target:
       kind: annex_path
       value: novel/200907/19181513/011230*
@@ -308,7 +308,7 @@ entries:
       git_history_purged: null
       removed_page_listed: null
     notes: 運営判断による一時停止。所有者の確認待ち。GitHub Pages 側は未対応 (要判断)
-  - id: TD-2026-0013
+  - id: TD.13
     target:
       kind: annex_path
       value: novel/201009/16215412/011230*
