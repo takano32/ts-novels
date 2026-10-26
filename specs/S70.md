@@ -11,5 +11,5 @@
 |---|---|
 | import が途中で落ちた / 変なデータが入った | `wp db import ~/dumps/pre-import-*.sql` |
 | .htaccess を変えたら無関係 URL が 500/403 | `cp .htaccess.bak-YYYYMMDD .htaccess` |
-| 反映されない | ①キャッシュバスター付き curl で確認 ②キャッシュクリア (高野さんの作業) ③それでも駄目なら調査 |
+| 反映されない | 1. キャッシュバスター付き curl で確認 2. キャッシュクリア (高野さんの作業) 3. それでも駄目なら調査 |
 | catalog が壊れた | git で戻して `make catalog` を再実行 (catalog は生成物であり、手で直さない) |

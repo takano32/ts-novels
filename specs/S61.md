@@ -2,10 +2,10 @@
 
 - 種類: 実測
 - 状態: 有効
-- 出典: docs/environment.md の「2. ディレクトリ構成」
+- 出典: docs/environment.md の「ディレクトリ構成」
 - 関連: なし
 
-## 2. ディレクトリ構成
+## ディレクトリ構成
 
 ```
 /home/novels/

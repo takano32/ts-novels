@@ -2,10 +2,10 @@
 
 - 種類: 実測
 - 状態: 有効
-- 出典: docs/environment.md の「6. サーバ上で使えるツールと WordPress の現状」
+- 出典: docs/environment.md の「サーバ上で使えるツールと WordPress の現状」
 - 関連: なし
 
-## 6. サーバ上で使えるツールと WordPress の現状
+## サーバ上で使えるツールと WordPress の現状
 
 | ツール | バージョン(実測) | 備考 |
 |---|---|---|

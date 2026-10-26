@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""本文 HTML → Markdown 変換 (T7.6 / 設計 v1.2 改訂 A = S37)
+"""本文 HTML → Markdown 変換 (T7.6 / 設計 S37)
 
 方針:
   1. ブラウザ等価の前処理 (preclean) — script/style/コメント/bogus comment/裸の '<'/
