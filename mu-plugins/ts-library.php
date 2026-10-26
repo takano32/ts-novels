@@ -5,7 +5,7 @@
  * Version:     0.1.0
  * Requires PHP: 8.0
  *
- * 進行台帳 タスク 2.1。リポジトリ mu-plugins/ が正本で、本番へは scripts/wp/deploy.sh が rsync する。
+ * T.8.1 (specs/S.181.md)。リポジトリ mu-plugins/ が正本で、本番へは scripts/wp/deploy.sh が rsync する。
  * サーバ上で直接編集しないこと (次の deploy で消える)。
  */
 

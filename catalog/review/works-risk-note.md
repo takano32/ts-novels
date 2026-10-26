@@ -8,14 +8,14 @@
 対象データ: `catalog/works.jsonl`(Work 1,463 件 / episode 3,844)と
 `catalog/work_overrides.yml`(`needs_review` の雛形 361 行 = 現行 328 件 + 旧版の残骸 37 件)。
 生成元は `scripts/wp/work_builder.py`。
-用語は [`docs/glossary.md`](../../docs/glossary.md) が正典
+用語は [`specs/S.14.md`〜`S.19.md`](../../specs/S.14.md) が正典
 (**本館 / 別館 / 旧館** は内部用語で、読者に見せる文面では使わない)。
 
 ---
 
 ## 0. なぜ「作品クラスタの誤り」が URL に効くのか
 
-設計 3.2 のパーマリンクは **話が作品の下に入れ子**になります:
+設計 3.2 ([`specs/S.26.md`](../../specs/S.26.md)) のパーマリンクは **話が作品の下に入れ子**になります:
 
 | 種別 | URL |
 |---|---|
@@ -145,12 +145,12 @@ catalog が単一真実源で import が冪等なので、**直して再イン�
      (§2-3 の 10 組の曖昧さを消すため)
 2. `make catalog` → `catalog/works.jsonl` 再生成 → 差分を確認
 3. **旧 slug → 新 slug の対応表を作る**。`wp ts export-pathmap` の出力を再生成前後で diff する
-4. 本番の `.htaccess` に 301 を追記(`docs/publish-runbook.md` の手順)。
+4. 本番の `.htaccess` に 301 を追記([`specs/S.69.md`](../../specs/S.69.md) の手順)。
    **恒久 URL を無告知で捨てない**のがこのプロジェクトの原則
 5. `wp ts import` → `wp ts verify`。2 回目が created=0 / updated=0 になることを確認
-6. 👤 nginx キャッシュクリア
+6. nginx キャッシュクリア (高野さんの作業)
 
-**直すなら早いほうが安い**。公開前(Phase 7 の解禁前)なら 301 も不要です。
+**直すなら早いほうが安い**。公開前(T.37 の解禁前)なら 301 も不要です。
 
 ---
 

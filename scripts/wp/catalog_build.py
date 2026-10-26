@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """catalog_build.py — 目録 (正規 lib1〜73 + 旧 lib01〜09) を catalog/episodes.jsonl へ正規化する。
 
-進行台帳 docs/wp-implementation-tasks.md のタスク 1.1 (corpus=honkan) と 1.2 (corpus=legacy)。
+T.7.1 (corpus=honkan) と T.7.2 (corpus=legacy)。仕様と記録は specs/S.171.md・S.172.md。
 仕様は scripts/workflows/wp-survey-2026-08-30.json の catalog 節 (fields / parse_strategy)。
 
   - honkan のエントリ = `<TABLE BORDER=1 …>` 1 つ。必ず 4 行、1 行目は 6 セル。
@@ -36,7 +36,7 @@ import unicodedata
 
 DEFAULT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ORIG_BASE = 'http://ts.novels.jp/'
-# 別館 = 現行 GitHub Pages ミラー (設計 v1.1 で恒久併存が決定)。用語は docs/glossary.md が正典。
+# 別館 = 現行 GitHub Pages ミラー (設計 v1.1 で恒久併存が決定)。用語は specs/S.14.md〜S.19.md が正典。
 # リポジトリは takano32/ts-novels、カスタムドメイン (CNAME) なし。
 DEFAULT_ANNEX_BASE = 'https://takano32.github.io/ts-novels/'
 YAYS_PREFIX = '~yays/library/'          # 2000-02 年の旧世代ツリー (初出版)
@@ -285,7 +285,7 @@ def classify_route(subject):
 def build_provenance_map(root):
     """git 履歴からパスごとの初回追加コミットを引く。
 
-    ※ 進行台帳 1.1 は provenance の出所を `collinfo.json` と書いているが、実物は
+    ※ T.7.1 のタスクリスト (specs/S.171.md) は provenance の出所を `collinfo.json` と書いているが、実物は
       CommonCrawl のコレクション一覧 (127 件) でありファイル単位の来歴情報を一切持たない。
       ファイルがどの経路で入ったかを実際に記録しているのは git 履歴 (回収コミットの件名と日付)
       なので、そちらを出所とする。差異は QA レポートにも記録する。

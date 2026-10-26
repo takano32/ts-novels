@@ -925,7 +925,7 @@ class TS_Command {
     }
 
     /**
-     * ts_* の投稿・term を全削除する (やり直し用。docs/rebuild-runbook.md §2-C)。
+     * ts_* の投稿・term を全削除する (やり直し用。specs/S.73.md の C)。
      * ## OPTIONS
      * --yes : 確認なしで実行 (必須)
      */

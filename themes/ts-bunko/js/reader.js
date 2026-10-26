@@ -1,4 +1,4 @@
-/* リーダー UI (設計 §4): 素の JS + localStorage。外部依存なし。
+/* リーダー UI (設計 specs/S.27.md): 素の JS + localStorage。外部依存なし。
    設定は <html data-ts-*> 属性 (style.css のトークンが反応) + localStorage 'ts-reader'。
    しおりは URL パス単位のスクロール位置 (端末内完結、サーバに送らない)。 */
 (function () {

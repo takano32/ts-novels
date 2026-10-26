@@ -64,7 +64,7 @@
 共有世界 (`ts_world`) 14 本 / 該当 408 話。
 
 
-収蔵区分 (`ts_corpus`) — 語と表示名は `docs/glossary.md` の corpus 表が正典:
+収蔵区分 (`ts_corpus`) — 語と表示名は `specs/S.16.md` の corpus 表が正典:
 
 | term | 表示名 | 話数 |
 |---|---|---:|

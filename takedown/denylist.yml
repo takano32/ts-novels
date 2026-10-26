@@ -5,15 +5,15 @@
 #   ① WP: wp ts apply-takedown  → 該当投稿を draft 化
 #   ② 本番 .htaccess: scripts/wp/gen_htaccess.py → Redirect gone (真の 410)
 #   ③ アネックス(GitHub Pages): scripts/wp/annex_inject.py → 配信 artifact から除外
-#   ④ git 履歴: docs/removal-runbook.md の手順 (git filter-repo)
+#   ④ git 履歴: specs/S.79.md の手順 (git filter-repo)
 #   ⑤ 掲示: /removed/ 固定ページ (作者名 + 理由の要約のみ)
 #
-# 手順の正典は docs/removal-runbook.md。SLA = 受領から 72 時間以内に ①②③ を完了。
+# 手順の正典は specs/S.75.md〜S.81.md。SLA = 受領から 72 時間以内に ①②③ を完了。
 #
 # 【書いてはいけないこと】
 #   - 依頼者の氏名・メールアドレス・連絡先・依頼文の原文 (このリポジトリは public)
 #     → 依頼の実物は私有ストレージに保管し、ここには受領日と経路の分類だけを書く
-#   - CloudSecure のログイン URL 等、本番の秘匿値 (進行台帳の普遍ルール 7)
+#   - CloudSecure のログイン URL 等、本番の秘匿値 (specs/S.10.md の普遍ルール 7)
 #
 # スキーマ (version: 1)
 # ---------------------------------------------------------------------------

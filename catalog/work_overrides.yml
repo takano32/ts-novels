@@ -6,7 +6,7 @@
 #
 # 下に並んでいるのは needs_review が立ったクラスタ (根拠が弱い / 複数ディレクトリに
 # 散らばる / 15 話以上) の雛形です。**正しければ何もしなくて構いません**。
-# 進行台帳 docs/wp-implementation-tasks.md の 👤 1.5b がこのファイルの確認タスクです。
+# T.7.5.1 (specs/S.176.md) がこのファイルの確認タスクです。
 works:
   7cy|数奇な:
     confirmed: false

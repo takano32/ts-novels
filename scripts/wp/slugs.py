@@ -5,7 +5,7 @@
 slug は**恒久 URL** になる (`/genre/gakuen/` `/authors/johdan/` `/works/johdan-d-upboy/`)。
 日本語の読みは機械には確定できない (pykakasi は 城弾→shirodan、実際の板 id は johdan、
 華代ちゃん→hanayochan、実際は kayo_chan) ので、このモジュールは**候補**しか作らない。
-確定は人間 (進行台帳 1.5b の 👤 ゲート)。
+確定は人間 (T.7.5.1、specs/S.176.md の確認ゲート)。
 
 `catalog/slug_overrides.yml` の構造:
 
@@ -104,7 +104,7 @@ HEADER = """\
 #           fallback     … 読みが取れず連番を振った。要確認
 #
 # 直したいときは slug を書き換えて status を confirmed にしてください。
-# 進行台帳 docs/wp-implementation-tasks.md の 👤 1.5b がこのファイルの確認タスクです。
+# T.7.5.1 (specs/S.176.md) がこのファイルの確認タスクです。
 #
 # authors セクションで使える追加の欄:
 #   note: …   裁定の根拠。人間が読むためのもの (生成器は触らない)

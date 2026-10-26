@@ -2,14 +2,14 @@
 
 > **状態: 完了 (2026-08-30)。** 作者 slug 42 件が `catalog/slug_overrides.yml` に
 > `status: confirmed` で入り、build 側 (`authors_build.py` の作者併合と `role: not-an-author`、
-> 新設した `catalog/episode_overrides.yml`) も裁定に追随済みです。実測は進行台帳の
-> 👤 1.5b の項に、統合した作者の一覧は `catalog/QA.md` §9 にあります。
+> 新設した `catalog/episode_overrides.yml`) も裁定に追随済みです。実測は
+> [`specs/S.176.md`](../../specs/S.176.md) (T.7.5.1) に、統合した作者の一覧は `catalog/QA.md` §9 にあります。
 > **以下は裁定に至るまでの調査記録**として残しています。
 
 
 
-進行台帳 [`docs/wp-implementation-tasks.md`](../../docs/wp-implementation-tasks.md) の
-**👤 1.5b「work_overrides.yml と slug_overrides.yml の確認・確定」**のための資料です。
+T.7.5.1 ([`specs/S.176.md`](../../specs/S.176.md)) の
+**「work_overrides.yml と slug_overrides.yml の確認・確定」**のための資料です。
 `catalog/` の生成物そのものではなく、**人間が読むために作った説明**です
 (`make catalog` では再生成されません)。
 
@@ -29,7 +29,7 @@
 | **[authors-slugs.md](authors-slugs.md)** | **確認が要るのはこれだけ。** 作者 slug 40 件。恒久 URL `/authors/<slug>/` になるので最重要。調査の結果 25 件は「確信度 高」まで詰めてあり、**目を通すのは 15 件**(§3 の 10 件 + §4 の 5 件) | 15〜20 分 |
 | [works-risk-note.md](works-risk-note.md) | 作品クラスタ 328 件を自動生成のまま採用したときに**何がどう壊れうるか**。判断は不要、**把握のためだけ** | 5 分 |
 
-`authors-slugs.md` には、進行台帳 1.4 が「機械では決められない」としていた
+`authors-slugs.md` には、T.7.4 のタスクリスト ([`specs/S.174.md`](../../specs/S.174.md)) が「機械では決められない」としていた
 **同名別 slug 2 件(神川綾乃 / コーディー)の調査結果**も §6 に入っています。
 **両方とも証拠つきで決着**しますが、恒久 URL に関わるので**統合の実行はしていません**。
 承認をもらってから別セッションが実行します。
@@ -53,7 +53,7 @@ authors:
 - **`status: confirmed` にすると、`make catalog` で再生成しても上書きされません。**
   `candidate` のままだと毎回 pykakasi の候補で塗り直されます
 - `slug` が推奨値のままでよい場合も、**`status` は `confirmed` に変えてください**
-  (「確認した」ことがこのファイルに残るのが 1.5b の受け入れ条件です)
+  (「確認した」ことがこのファイルに残るのが T.7.5.1 の受け入れ条件です)
 - **40 件すべてを `confirmed` にする**のがゴールです。「読まなくてよい」25 件も
   `status` だけは `confirmed` に変わっている必要があります
   (一括置換でよい。§1・§2・§5 の推奨 slug は本文の表に全部書いてあります)
@@ -68,25 +68,25 @@ authors:
 「§1 は全部統合してよい」「§3-1 の 海津里花 は統合、ぽぽ は保留」のように
 **箇条書きで返してください**。実装は別セッションが行います。
 
-### 3. 済んだら台帳を更新する
+### 3. 済んだらタスクリストを更新する
 
 ```
-- [x] 👤 1.5b work_overrides.yml と slug_overrides.yml の確認・確定。
+- [x] T.7.5.1 work_overrides.yml と slug_overrides.yml の確認・確定。
 ```
 
-`docs/wp-implementation-tasks.md` の該当行を `[x]` にして、
+`TASKS.md` の該当行 (当時はタスクリスト。いまの記録は [`specs/S.176.md`](../../specs/S.176.md)) を `[x]` にして、
 `catalog/slug_overrides.yml` の差分と一緒にコミットしてください。
 
 ### 4. これが済むと何が進むか
 
-- **Phase 2.5(全量投入)に進めます。** 1.5b は 2.5 のブロッカーです
+- **全量投入 (T.8.4、specs/S.185.md) に進めます。** T.7.5.1 は全量投入のブロッカーです
 - 2.4 のパイロット投入 100 件は確定済み分だけで先行できます
 
 ---
 
 ## 用語
 
-このディレクトリの文書で使う語は [`docs/glossary.md`](../../docs/glossary.md) が正典です。
+このディレクトリの文書で使う語は [`specs/S.14.md`〜`S.19.md`](../../specs/S.14.md) が正典です。
 特に **エントリ / 話(Episode) / 作品(Work) / 感想板 / 本館 / 別館 / 旧館** は
 ここでの意味が普通の日本語と違うので、迷ったら用語集を見てください。
 **本館・別館・旧館は内部用語**で、読者に見せる文面(サイト上の表示・about・バナー)では使いません。

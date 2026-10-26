@@ -1,9 +1,9 @@
 # takedown/ — 削除依頼の単一情報源
 
 `denylist.yml` 1 本で、削除の**四層 + 掲示**をすべて駆動する。
-手順の正典は [`docs/removal-runbook.md`](../docs/removal-runbook.md)。**SLA = 受領から 72 時間**。
+手順の正典は [`specs/S.75.md`〜`S.81.md`](../specs/S.75.md)。**SLA = 受領から 72 時間**。
 用語 (本館 = 移築先の WordPress / 別館 = 原本を保つ GitHub Pages ミラー / 旧館 = 消滅した原サイト) は
-[`docs/glossary.md`](../docs/glossary.md) を参照。**この 3 語は内部用語**で、読者に見せる文面では使わない。
+[`specs/S.14.md`〜`S.19.md`](../specs/S.14.md) を参照。**この 3 語は内部用語**で、読者に見せる文面では使わない。
 
 | 層 | 実行主体 | 入力 |
 |---|---|---|
@@ -30,7 +30,7 @@
 
 ## 一貫性チェック
 
-catalog 側の値と付き合わせる簡易検査 (Phase 2 の `wp ts apply-takedown` にも同等の検査を入れる):
+catalog 側の値と付き合わせる簡易検査 (T.8 の `wp ts apply-takedown` にも同等の検査を入れる):
 
 ```sh
 python3 - <<'EOF'

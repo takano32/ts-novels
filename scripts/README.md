@@ -4,7 +4,7 @@
 （`workflows/` は Claude Code の Workflow ツール用 JavaScript）。
 
 用語（**本館** = 移築先の WordPress / **別館** = 原本を保つ GitHub Pages ミラー /
-**旧館** = 消滅した原サイト、ほか）は [`../docs/glossary.md`](../docs/glossary.md) が正典。
+**旧館** = 消滅した原サイト、ほか）は [`specs/S.14.md`〜`S.19.md`](../specs/S.14.md) が正典。
 **この 3 語は内部用語**で、生成物のうち読者の目に触れる文言には使わない。
 
 ## 監査・修正
@@ -97,7 +97,7 @@ episode_overrides が最後に人手の上書きを当て、terms/authors/works 
 **2 回連続実行で全出力が同一**であることを確認済み。
 
 - **wp/catalog_build.py** — 正規目録 lib1〜73 の 2,887 エントリと旧目録 lib01〜09 の差分 97 件を
-  `catalog/episodes.jsonl` へ正規化 (タスク 1.1 / 1.2)。mailto をこの段階で除去し、受け入れ条件
+  `catalog/episodes.jsonl` へ正規化 (T.7.1 / T.7.2、specs/S.171.md・S.172.md)。mailto をこの段階で除去し、受け入れ条件
   (件数・パース失敗 0・mailto 残存 0・survey 実測値との一致)を自己検査として同梱。
   provenance は git 履歴から算出。`--check` で書き込みなしの検査のみ、`--no-legacy` で
   `corpus=honkan`(正規目録 lib1–73 由来) のみ。
@@ -105,7 +105,7 @@ episode_overrides が最後に人手の上書きを当て、terms/authors/works 
 - **wp/slugs.py** — 恒久 URL になるローマ字 slug の候補生成 (pykakasi) と
   `catalog/slug_overrides.yml` の往復。`status: confirmed` の行は再生成でも上書きしない。
   機械の読みは幻覚しうる (城弾→shirodan、実際の板 id は johdan) ので候補どまり。
-- **wp/terms_build.py** — 分類語彙を `catalog/terms.json` へ (タスク 1.3)。ジャンル/種別/
+- **wp/terms_build.py** — 分類語彙を `catalog/terms.json` へ (T.7.3、specs/S.173.md)。ジャンル/種別/
   キーワードを NFKC・「」外し・？除去・同義語マップ (`catalog/*_map.yml`) で正規化し、
   原表記は raw_variants に保持。ts_world 14 本 (`catalog/world_map.yml` の板/ディレクトリ/
   題名規則) と ts_corpus 4 本もここで生成。当時の語彙定義ページ (genre.html /
@@ -118,7 +118,7 @@ episode_overrides が最後に人手の上書きを当て、terms/authors/works 
   触れるのは author / kansou_slug / entry_role / title / homepage / date だけで、
   **結合キー episode_id と provenance には触れない**。
 
-- **wp/authors_build.py** — 作者を `catalog/authors.json` へ (タスク 1.4)。感想板 id を
+- **wp/authors_build.py** — 作者を `catalog/authors.json` へ (T.7.4、specs/S.174.md)。感想板 id を
   同定の鍵にし、共有シリーズ板 (華代ちゃん等 11 板) は作者板ではないので表示名で同定する。
   板 id の情報源は 2 つ — 目録の感想リンクと、**サイト自身の感想板一覧
   `~ts/kansou/bbs@log_.cgi` (290 板の「表示名 → 板 id」対応表)**。後者を足したことで
@@ -128,22 +128,22 @@ episode_overrides が最後に人手の上書きを当て、terms/authors/works 
   `slug_overrides.yml` で**複数の表示名に同じ slug** を書くと同一人物として併合し、
   `role: not-an-author` を書くとその表示名では作者を作らない。
 
-- **wp/work_builder.py** — Episode → Work クラスタリング (タスク 1.5)。6 段の根拠
+- **wp/work_builder.py** — Episode → Work クラスタリング (T.7.5、specs/S.175.md)。6 段の根拠
   (シリーズタイトルナビ / series.html / タイトルページ / 話ナビ / ファイル名連番 / 題名接頭辞)
   を強い順に積み、どれで繋がったかを works.jsonl の evidence に残す。**Work は必ず 1 作者に
   閉じる** (共有世界のタイトルページは 69 名の話を 1 つに束ねてしまうため)。
   弱い根拠だけのクラスタは needs_review を立て `catalog/work_overrides.yml` に雛形を出す。
 
-- **wp/uncatalogued_build.py** — 目録に載っていない収蔵物を拾う (タスク 1.8、設計 v1.4)。
+- **wp/uncatalogued_build.py** — 目録に載っていない収蔵物を拾う (T.7.8、specs/S.178.md・S.41.md)。
   `novel/` 配下の本文 3,818 のうち既収蔵でない分を `corpus=uncatalogued` で追加。メタは
   lib-index-*.html → 本文の「作：」行 → `<title>` → 同ディレクトリの作者、の順に解決し
   `metadata_source` に記録。落としたものは理由つきで `catalog/uncatalogued_excluded.jsonl` に。
-- **wp/repost_build.py** — 作者本人の再掲から回収した本文を catalog に入れる (タスク 1.9)。
+- **wp/repost_build.py** — 作者本人の再掲から回収した本文を catalog に入れる (T.7.8、specs/S.179.md)。
   検証済みの pixiv 2 件のみ (雨女 = 既存エントリに本文と来歴を追加 / きらいなもの→ＧＷ =
   文庫未掲載として `corpus=extern-repost` で新規収録)。本文は `reposts/*.txt`。
 
 - **wp/qa_report.py** — `catalog/reports/*.json` を集めて `catalog/QA.md` を書く
-  (タスク 1.7)。数字は各段のレポートからの転記だけで、ここでは再計算しない。
+  (T.7.7、specs/S.180.md)。数字は各段のレポートからの転記だけで、ここでは再計算しない。
 
 - **wp/verify_bodies_html5.py** — `bodies/*.md` の無損失性を **html5lib で検算**する
   (`make verify`。要 `make venv`)。body_convert.py は正規表現で HTML を解釈し、無損失証明も
@@ -163,8 +163,8 @@ episode_overrides が最後に人手の上書きを当て、terms/authors/works 
   プローブ。実測: log 97%・res 100%、log∪res 重複排除で約 3,978 投稿。boards_build.py の手本。
 - **wp/assets/robots.txt** — 本番 novels.xwp.jp 用 robots.txt の草案(AI 学習クローラ全域
   Disallow・ia_archiver 許可・検索エンジンは**止めない**〔noindex ヘッダを読ませるため〕)。
-  配備は deploy.sh(タスク 2.3)。リポジトリ直下の robots.txt は Wayback 誤回収物なので使わない。
-- **wp/qa_phase3_check.py** — タスク 3.3「無作為 100 話の原本併読 QA」の**独立検算**。
+  配備は deploy.sh(T.8.3、specs/S.183.md)。リポジトリ直下の robots.txt は Wayback 誤回収物なので使わない。
+- **wp/qa_phase3_check.py** — T.9.3 (specs/S.190.md)「無作為 100 話の原本併読 QA」の**独立検算**。
   本番ページ(キャッシュバスター付き)の本文と、リポジトリの原本 (source_path) を
   **別実装で**抽出して突き合わせる(標準ライブラリの `html.parser` を使い、
   body_convert.py / payload_build.py の正規化は流用しない = 同じバグを二度踏まないため)。

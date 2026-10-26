@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""qa_report.py — catalog/reports/*.json をまとめて `catalog/QA.md` を書く (進行台帳 1.7)。
+"""qa_report.py — catalog/reports/*.json をまとめて `catalog/QA.md` を書く (T.7.7、specs/S.180.md)。
 
 `make catalog` の最後に走る。数字はすべて各段のレポート JSON から引くだけで、
 ここでは何も計算し直さない (二重帳簿を作らないため)。
@@ -74,7 +74,7 @@ def main(argv=None):
     L.append('## 1. 収蔵件数\n')
     L.append(table([
         ('episodes 合計', len(episodes)),
-        # 表示名は docs/glossary.md の corpus 表が正典。`honkan` を「本館」とは書かない
+        # 表示名は specs/S.16.md の corpus 表が正典。`honkan` を「本館」とは書かない
         # (三館の「本館」= 移築先 WordPress と別概念のため)。
         ('　正規目録 (`honkan`、lib1–73)', corpora.get('honkan', 0)),
         ('　旧目録 (`legacy`、lib01–09 の差分)', corpora.get('legacy', 0)),
@@ -139,7 +139,7 @@ def main(argv=None):
         L.append('\n'.join(rows) + '\n')
         L.append('\n共有世界 (`ts_world`) %d 本 / 該当 %d 話。\n'
                  % (trm['worlds_total'], trm['episodes_with_world']))
-        L.append('\n収蔵区分 (`ts_corpus`) — 語と表示名は `docs/glossary.md` の corpus 表が正典:\n')
+        L.append('\n収蔵区分 (`ts_corpus`) — 語と表示名は `specs/S.16.md` の corpus 表が正典:\n')
         crows = ['| term | 表示名 | 話数 |', '|---|---|---:|']
         for t in trm.get('corpus_terms') or []:
             crows.append('| `%s` | %s | %d |' % (t['slug'], t['name'], t['count']))

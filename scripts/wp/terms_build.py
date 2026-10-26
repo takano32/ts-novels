@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""terms_build.py — 分類語彙を `catalog/terms.json` に正規化する (進行台帳 タスク 1.3)。
+"""terms_build.py — 分類語彙を `catalog/terms.json` に正規化する (T.7.3、specs/S.173.md)。
 
 入力
   catalog/episodes.jsonl      … 1.1/1.2 の出力 (genre_raw / type_raw / keywords_raw / zokusei_raw)
@@ -47,9 +47,9 @@ RE_DEFPAIR = re.compile(
     r'<TD[^>]*>\s*<B>(.*?)</B>\s*</TD>\s*<TD[^>]*>(.*?)</TD>', re.S | re.I)
 
 # --- 既定の正規化マップ (初回のみ YAML に書き出す。以後は YAML が正)
-# 設計書 §1.2 が名指しした類義統合 + 当時の語彙定義ページ (genre.html) の見出し語に寄せる。
+# 設計書 specs/S.22.md が名指しした類義統合 + 当時の語彙定義ページ (genre.html) の見出し語に寄せる。
 DEFAULT_GENRE_MAP = {
-    'ミステリ': 'ミステリー',          # 設計 §1.2 の指定。語彙ページの見出しは「ミステリ」
+    'ミステリ': 'ミステリー',          # 設計 specs/S.22.md の指定。語彙ページの見出しは「ミステリ」
     'SS': 'ショートショート',
     '学園物': '学園',
     '2次創作': '二次創作',             # NFKC 後の ２次創作
@@ -111,12 +111,12 @@ DEFAULT_WORLD_MAP = {
     'utanotsuki': {'name': '詩の月シリーズ', 'boards': ['utanotsuki'], 'path_prefixes': []},
 }
 
-# ts_corpus — 収蔵区分。**語・表示名・意味は docs/glossary.md の corpus 表が正典**。
+# ts_corpus — 収蔵区分。**語・表示名・意味は specs/S.16.md の corpus 表が正典**。
 # 実データ (catalog/episodes.jsonl の corpus 欄) に現れる値を必ず全部そろえること
 # (足りないと term を持たない話ができる。build() の末尾で自己検査している)。
 # dojo は Phase 6 で投入する枠を先に定義してあるだけで、実データにはまだ無い (count=0)。
 CORPUS_TERMS = [
-    # term 名は WP 側の表示に出るので、内部用語の「本館」ではなく具体語で書く (docs/glossary.md)。
+    # term 名は WP 側の表示に出るので、内部用語の「本館」ではなく具体語で書く (specs/S.15.md・S.16.md)。
     ('honkan', '正規目録 (lib1–73)', '正規目録 lib1–73 に載った収蔵作品'),
     ('legacy', '旧目録 (lib01–09)', '1997.11–2000.2 の旧形式目録にだけ載る初期史料'),
     ('uncatalogued', '目録外収蔵',
@@ -370,7 +370,7 @@ def build(root, core_min=None):
     for tax, meta in TAXONOMY_META.items():
         agg = collect(records, meta['field'], synonyms[tax])
         if tax == 'ts_keyword':
-            # 旧目録の【属性】17 語はキーワードへ統合する (設計 §1.2)
+            # 旧目録の【属性】17 語はキーワードへ統合する (設計 specs/S.22.md)
             zok = collect(records, 'zokusei_raw', synonyms[tax])
             for name, slot in zok.items():
                 dst = agg.setdefault(name, {'count': 0, 'raw_variants': collections.Counter(),

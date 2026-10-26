@@ -1,0 +1,30 @@
+# S.100 「手元で編集できるか」への回答
+
+- 種類: 設計
+- 状態: 有効
+- 出典: docs/owner-feedback-2026-10.md の「Q. 「私の手元で編集を行うことは可能か」」
+- 関連: T.27, S.116
+
+## Q. 「私の手元で編集を行うことは可能か」
+
+**現状**: 可能だが、何を編集するかで安全性が全く違う。
+
+- 設計原則 1 (S.20、S.10 の 1): **単一真実源は `catalog/`、WP の DB は使い捨ての派生ビュー、管理画面での手動編集は禁止**。
+- `wp ts import` は前回 import 後に編集された投稿を検知して **上書きせず skip** する (`mu-plugins/ts-library/includes/commands.php:181-187` `manually_edited`、`:358-361` 警告)。ただし `wp ts verify` はその投稿を **NG** として挙げ続ける (`:736-741`)。`--overwrite-manual` を付けると消える。
+- `wp ts reset --yes` は `ts_work / ts_doc / ts_dojo / ts_board_post` を全消しする (`:932-951`) → これらへの手編集は**やり直し (S.73 の C) で消える**。
+- 固定ページ (`page`) は reset の対象外。`wp ts sync-pages` も手動編集を保護する (`:536-539`)。ただし優先する文書は `content/pages/*.html` (git) なので、WP 側で直した内容は git に無い状態になる。
+- アカウントは現在 administrator 3 名のみ。ロールは WP 既定の 5 種 (本番 `wp role list`)。
+
+**仕様 (決定案)**:
+
+| 編集対象 | 可否 | 経路 |
+|---|---|---|
+| 固定ページ 4 枚 (`/about/` `/archive/` `/takedown/` `/removed/`) と解題 (`content/docs/`) | **可** | A: 原稿をもらってセッションが `content/pages/*.html` に入れコミット → `sync-pages`。B: 所有者が WP 管理画面で編集 → セッションが **`wp ts export-pages` (新設)** で `content/pages/*.html` に書き戻してコミット。どちらでも git を優先するまま |
+| 作品・話 (`ts_work`)、作者 term、分類 term | **不可** (次の import/reset で消える・verify NG) | 「この作品のここを直して」と伝えてもらい、セッションが `catalog/episode_overrides.yml` / `work_overrides.yml` / `slug_overrides.yml` (S.107) / 版の指定 (S.106) に反映して再投入 |
+| 取り下げ申請の確認・承認・却下、取り下げ済み/旧版の閲覧 | **可** | ロール「運営委員」の管理画面 (S.102・S.112) |
+| テーマ・プラグイン・設定 | 不可 (deploy.sh が git から配備する) | 変更要望として受ける |
+
+アカウントは 2 種を用意する: **運営委員** (閲覧 + 申請処理) と **運営委員 (編集可)** (+ 固定ページ・解題の編集)。
+administrator を渡すことも技術的には可能だが、プラグイン追加・テーマ編集が配備で巻き戻る構造なので勧めない。
+
+**未決 (所有者に聞く)**: どの種別のアカウントにするか / ログイン URL の伝え方 (CloudSecure の値は文書に書かない。口頭または別経路) / 2 要素認証の要否。

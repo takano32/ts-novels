@@ -1,0 +1,155 @@
+# S.69 公開の手順 v0 (catalog 再生成から本番反映まで)
+
+- 種類: 手順
+- 状態: 有効
+- 出典: docs/publish-runbook.md の冒頭・「前提」・「所要時間の目安」・「手順」
+- 関連: T.6.3, T.38, S.67, S.70, S.71
+
+## 公開ランブック v0 — catalog 再生成から本番反映まで
+
+対象読者: 運営者本人と、実行セッション。
+publish = **catalog(単一真実源)を作り直して、派生ビューである本番 WP を作り直す**こと。
+WP DB は使い捨てなので、迷ったら「catalog を直して再インポート」が常に正しい。
+WP 管理画面での手動編集は禁止 (修正は catalog 側の overrides ファイルで)。
+
+**v0 の注記**: T.7〜T.8 のスクリプト (`catalog_build.py` 以外) と mu-plugin は未実装のため、
+以下の手順は **2026-08-31 に実機で通したもの**である (以前は「予定のインタフェース」だった)。
+実装が進むたびに、実際に流したコマンドと所要時間でこのファイルを更新すること。
+
+### 前提
+
+| 役割 | 場所 |
+|---|---|
+| 開発機 | このリポジトリ (python3.11、pip 可)。catalog / bodies / mu-plugins / theme を生成 |
+| WP サイト (本番) | `scripts/wp/novels-ssh` = Xserver for WordPress。`~/novels.xwp.jp/` 直下に wp-config.php、公開ルートは `~/novels.xwp.jp/public_html/` |
+| 原本アーカイブ | GitHub Pages (現行ミラー、18,006 ファイル)。`.cgi` を含む **9,022 ファイル**(フルパス基準。basename 基準なら 9,021) は nginx 403 のため本番には置けない = 恒久併存 |
+
+用語 (WP サイト/原本アーカイブ/旧サイト ほか) は S.14〜S.19 を参照。
+**この呼び分け (S.15) は内部用語**で、読者に見せる文面では使わない。
+
+サーバ内で使えるもの: WP-CLI 2.8.1 / mysql / rsync / git / curl / python3.6 (PHP 8.0.30)。
+
+本番環境の詳細 (ディレクトリ構成・ツール版・キャッシュ層・`.cgi` 403 制約・.htaccess の
+ブロック構造・危険操作チェックリスト) は S.59〜S.68 を参照。
+
+### 所要時間の目安 (v0 は未実測。実測値で置き換えること)
+
+| 段 | 目安 |
+|---|---|
+| `make catalog` (開発機) | **44 秒** (3,844 話 + 本文 MD 変換。2026-08-30 実測 `time make catalog`) |
+| rsync | 初回は bodies/ と画像で数分、以後は差分のみ |
+| `wp ts import` 全量 | 未実測 (パイロット 100 件で実測してから全量に進む) |
+| 反映確認 | nginx キャッシュのため、キャッシュクリア (高野さんの作業) まで見えないことがある |
+
+### 手順
+
+#### 1. 開発機: catalog を再生成する
+
+```sh
+cd ~/GitHub/ts-novels
+make catalog          # catalog_build → terms_build → authors_build → work_builder → body_convert
+```
+
+生成物と、その場で見る受け入れ条件:
+
+| 生成物 | 見るもの |
+|---|---|
+| `catalog/episodes.jsonl` | **3,844 行** (正規目録 2,887 + 旧目録 97 + 目録外収蔵 859 + 文庫未掲載 1)。パース失敗 0 |
+| `catalog/authors.json` | **作者 342 名**。全 episode の author が解決 (作者不詳 37 を除く 3,807 話)。※旧記述の「≈399」は表示名の異なり数であって人数ではない |
+| `catalog/terms.json` | genre 196 (中核 30) / type 165 (中核 30) / keyword 1,032 (中核 74) / **world 14** / **corpus 5**。corpus は全 episode 分の term がそろっていること (terms_build の自己検査) |
+| `catalog/works.jsonl` | orphan 0 (全 episode がどれかの work に属す) |
+| `bodies/*.md` + `catalog/convert_report.jsonl` | 無損失証明の合格率 ≥85% (実測 **99.95% = 3,642 / 3,644**)。`bodies/` は git 管理外なので `git diff` には出ない |
+| `catalog/QA.md` | 上記の集計。**publish 前に必ず目視する** |
+
+```sh
+git diff --stat catalog/             # 意図しない大量差分が出ていないか
+                                     # bodies/ payloads/ は .gitignore 済み (add してはいけない)
+git add catalog && git commit -m "catalog: 再生成 (YYYY-MM-DD)"
+```
+
+**catalog に差分が出ないなら publish する必要はない。**
+
+#### 2. 開発機 → 本番: 配備
+
+```sh
+scripts/wp/deploy.sh          # 引数なし = dry-run (必ず先に。--delete は使わない)
+scripts/wp/deploy.sh --apply  # 実配備 (--apply が無いと何も書き込まない)
+```
+
+deploy.sh が運ぶもの: サーバ側 repo の checkout・`bodies/`・`payloads/`・`payloads-docs/`・`mu-plugins/`・`themes/ts-bunko`・`assets/annex-img/`・`robots.txt`。配備の**前**に全 .php をサーバの PHP で構文検査し、失敗したら配備しない。
+宛先 `~/novels.xwp.jp/` 直下には **wp-config.php が居る**ので、`--delete` は禁止。
+mu-plugins は `public_html/wp-content/mu-plugins/` へ。
+
+```sh
+scripts/wp/novels-ssh 'ls -la ~/novels.xwp.jp/public_html/wp-content/mu-plugins/'
+curl -s "https://novels.xwp.jp/robots.txt?_cb=$RANDOM" | head -20
+```
+
+#### 3. 本番: 復旧点を取る
+
+```sh
+scripts/wp/novels-ssh
+mkdir -p ~/dumps
+cd ~/novels.xwp.jp/public_html
+wp db export ~/dumps/pre-import-$(date +%Y%m%d-%H%M).sql
+ls -la ~/dumps | tail -3
+```
+
+**この段より先はここを戻せば復旧できる。** ダンプは私有ストレージへ退避し、
+公開リポジトリには入れない (T.38.1)。
+
+#### 4. 本番: インポート
+
+```sh
+wp ts sync-terms --authors=../catalog/authors.json --terms=../catalog/terms.json
+wp ts import --works=../catalog/works.jsonl --episodes=../catalog/episodes.jsonl --dry-run
+wp ts import --bodies=$HOME/novels.xwp.jp/repo/payloads
+# 入力は repo から自動で読む (--repo で上書き可)。**--bodies は payloads/ を指すこと** —
+# bodies/ は .md なので、渡すと全話がプレースホルダ本文に置き換わる
+wp ts apply-takedown --list=../takedown/denylist.yml
+```
+
+`import` は created / updated / skipped を集計出力する。
+**冪等性の確認 = もう一度そのまま流して created=0 / updated=0**:
+
+```sh
+wp ts import --works=../catalog/works.jsonl --episodes=../catalog/episodes.jsonl
+# → created=0 updated=0 skipped=N であること。そうでなければインポータのバグ
+```
+
+#### 5. 本番: verify
+
+```sh
+wp ts verify
+```
+
+見るもの: 件数照合 (**episodes 3,844 / works 1,463 / 作者 342**) / orphan 0 / taxonomy 被覆率 /
+特殊エントリ内訳 (正規目録分 28 件 = 画像作品 21・外部 1・アンカー 5 ほか。全 corpus では 100 件) /
+冪等性。
+
+curl 側 (**毎回キャッシュバスターを付ける**):
+
+```sh
+for u in / /novel/ /authors/ /index/ /about/ /takedown/; do
+  printf '%s ' "$u"; curl -s -o /dev/null -w '%{http_code}\n' "https://novels.xwp.jp$u?_cb=$RANDOM"
+done
+curl -sI "https://novels.xwp.jp/novel/?_cb=$RANDOM" | grep -i 'x-robots-tag'   # 解禁(T.37.4)前は noindex
+curl -s "https://novels.xwp.jp/novel/<slug>/?_cb=$RANDOM" | grep -o '<title>.*</title>'
+```
+
+#### 6. nginx キャッシュのクリアを依頼 (高野さんの作業)
+
+wpX のキャッシュ削除はパネル操作のためセッションからは実行できない。
+**「反映されない」と見えたら、まずキャッシュを疑う。** .htaccess や mu-plugin を
+直し続けるループに入らないこと。キャッシュバスター付き URL で正しい応答が返るなら、
+それは反映済みでキャッシュだけが古い。
+
+#### 7. 原本アーカイブ (GitHub Pages) 側
+
+catalog に `path_map.json` の変化があるとき (= WP の URL が変わったとき) だけ再デプロイする。
+
+```sh
+wp ts export-pathmap > catalog/path_map.json    # 本番で生成 → 開発機へ持ち帰る
+git add catalog/path_map.json && git commit -m "catalog: path_map 更新" && git push
+# → deploy-pages.yml が Pages を再デプロイ (バナー・noindex・mailto 除去はビルド注入: T.35.2)
+```

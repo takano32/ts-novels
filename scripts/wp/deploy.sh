@@ -11,10 +11,10 @@
 #   2) bodies/         → ~/novels.xwp.jp/repo/bodies (git 管理外の生成物なので rsync)
 #   3) mu-plugins      → public_html/wp-content/mu-plugins/ts-library/
 #   4) robots.txt 草案 → public_html/robots.txt
-#   5) novel/ の画像   → public_html/assets/annex-img/ (git ls-files の jpg/gif/png/bmp。台帳 2.7)
-#   6) themes/ts-bunko → public_html/wp-content/themes/ (Phase 4 以降、存在すれば)
+#   5) novel/ の画像   → public_html/assets/annex-img/ (git ls-files の jpg/gif/png/bmp。T.8.7、specs/S.187.md)
+#   6) themes/ts-bunko → public_html/wp-content/themes/ (T.10 以降、存在すれば)
 #
-# 安全則 (docs/environment.md):
+# 安全則 (specs/S.59.md〜S.68.md):
 #   - rsync に --delete は使わない (宛先に wp-config.php ほか消してはいけない物が居る)
 #   - 本番の既存ファイルを消す操作はしない。上書きは配備物のパスに限る
 #   - 配備後の検証 curl はキャッシュバスター付きで行うこと (このスクリプトの外)
@@ -97,7 +97,7 @@ if [ -f "$LOCAL_ROOT/scripts/wp/assets/robots.txt" ]; then
         "$HOST:$REMOTE_BASE/public_html/robots.txt" | tail -2
 fi
 
-echo "== [5/6] 画像 (novel/ + ~yays/gallery/ の画像) → assets/annex-img/ (台帳 2.7/4.7)"
+echo "== [5/6] 画像 (novel/ + ~yays/gallery/ の画像) → assets/annex-img/ (T.8.7/T.10.5)"
 IMG_LIST=$(mktemp)
 git -C "$LOCAL_ROOT" ls-files novel '~yays/gallery' | grep -Ei '\.(jpe?g|gif|png|bmp)$' > "$IMG_LIST" || true
 if [ -s "$IMG_LIST" ]; then
@@ -108,14 +108,14 @@ if [ -s "$IMG_LIST" ]; then
 fi
 rm -f "$IMG_LIST"
 
-echo "== [6/6] テーマ (Phase 4 以降。無ければ何もしない)"
+echo "== [6/6] テーマ (T.10 以降。無ければ何もしない)"
 if [ -d "$LOCAL_ROOT/themes/ts-bunko" ]; then
   rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/themes/ts-bunko/" \
         "$HOST:$REMOTE_BASE/public_html/wp-content/themes/ts-bunko/" | tail -3
 fi
 
 if (( APPLY )); then
-  echo "== 配備完了。次: cd public_html で wp ts sync-terms / import (docs/publish-runbook.md)"
+  echo "== 配備完了。次: cd public_html で wp ts sync-terms / import (specs/S.69.md)"
   echo "   検証 curl は ?_cb=\$RANDOM を付けること。キャッシュクリアは 👤 (パネル)"
 else
   echo "== DRY-RUN でした。実配備は: scripts/wp/deploy.sh --apply"

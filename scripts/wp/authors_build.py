@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""authors_build.py — 作者を `catalog/authors.json` にまとめる (進行台帳 タスク 1.4)。
+"""authors_build.py — 作者を `catalog/authors.json` にまとめる (T.7.4、specs/S.174.md)。
 
 入力
   catalog/episodes.jsonl   … 1.1/1.2 の出力 (episode_overrides.py 適用後)
@@ -596,7 +596,7 @@ def selftest(payload, report):
     def check(name, ok, detail=''):
         results.append((name, bool(ok), detail))
     n = report['authors']
-    # 台帳の「作者数 ≈ 399」は survey の author_count=399 を引いたものだが、
+    # タスクリスト (specs/S.174.md) の「作者数 ≈ 399」は survey の author_count=399 を引いたものだが、
     # 399 は**表示名の異なり数**であって作者の人数ではない。表記揺れを感想板 id で
     # 統合すると人数はこれより減る。ここでは「表示名 − 統合で消えた分 = 作者数」が
     # 帳尻として合うことを検査する。

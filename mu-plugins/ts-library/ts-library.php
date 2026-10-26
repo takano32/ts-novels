@@ -5,7 +5,7 @@
  *              mu-plugins 配置 = 管理画面から無効化できない (コンテンツモデル消失事故の防止)。
  * Version: 0.1.0
  *
- * 根幹コード (Fable 所管)。設計: docs/wordpress-library-design.md §1 (+v1.2/v1.5 改訂)。
+ * 根幹コード (Fable 所管)。設計: specs/S.21.md〜S.23.md (+v1.2/v1.5 改訂 specs/S.37.md・S.42.md)。
  * - 投稿タイプ: ts_work (階層 = 親が作品/子が話)・ts_doc・ts_dojo・ts_board_post
  * - タクソノミー: ts_author/ts_genre/ts_type/ts_keyword/ts_world (公開) + ts_corpus (非公開)
  * - v1.5: サイトは公開前提。恒久 noindex は /boards/ /dojo/ (第三者ハンドルが載る層) のみ

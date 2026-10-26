@@ -6,7 +6,7 @@
   - 取り下げ済み URL の 410 (Redirect gone)。URL は `wp ts export-takedown-urls` に聞く
   - 上記だけを BEGIN/END マーカー間のブロックとして生成し、サーバ上で差し替える
 
-安全則 (台帳 2.6・心得 7):
+安全則 (specs/S.186.md・specs/S.10.md の 7):
   - 実行前に原本 .htaccess.orig (初回のみ) と直前状態 .bak-<時刻> を必ず作る
   - 既存 .htaccess の中身は**メモリ内でのみ**扱い、ローカル保存・表示・コミットしない
     (CloudSecure のログイン URL 変更値が含まれるため。diff も出さない)

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""work_builder.py — Episode を Work にまとめる (進行台帳 タスク 1.5)。
+"""work_builder.py — Episode を Work にまとめる (T.7.5、specs/S.175.md)。
 
 入力
   catalog/episodes.jsonl / catalog/authors.json
@@ -449,7 +449,7 @@ WORK_OVERRIDES_HEADER = """\
 #
 # 下に並んでいるのは needs_review が立ったクラスタ (根拠が弱い / 複数ディレクトリに
 # 散らばる / 15 話以上) の雛形です。**正しければ何もしなくて構いません**。
-# 進行台帳 docs/wp-implementation-tasks.md の 👤 1.5b がこのファイルの確認タスクです。
+# T.7.5.1 (specs/S.176.md) がこのファイルの確認タスクです。
 """
 
 

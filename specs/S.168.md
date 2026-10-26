@@ -1,0 +1,13 @@
+# S.168 T.13 作業環境の移設 の記録
+
+- 種類: 記録
+- 状態: 有効
+- 出典: docs/worklog.md の「T.13 …」の節
+- 関連: T.13
+
+## T.13 作業環境の移設 — 2026-10-26
+
+- [x] T.13.1 移設手順書 S.82〜S.84。venv の版を固定 (slug = 恒久 URL を守るため)
+- [x] T.13.2 新しい機 a1-free で再現を確認。make catalog の差分 0・make check の NG 0・payload は無損失、
+      本番とは checksum で 0 件差
+- [x] T.13.3 ~/.ssh/config に頼らない本番接続 scripts/wp/novels-ssh。deploy.sh と手順書を切り替える

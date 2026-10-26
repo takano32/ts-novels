@@ -1,6 +1,6 @@
 <?php
 /**
- * ts-bunko — 見た目だけのテーマ (機能は mu-plugin ts-library 側。設計 §4)。
+ * ts-bunko — 見た目だけのテーマ (機能は mu-plugin ts-library 側。設計 specs/S.27.md)。
  */
 
 if (!defined('ABSPATH')) { exit; }

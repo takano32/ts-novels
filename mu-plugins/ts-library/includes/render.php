@@ -1,8 +1,8 @@
 <?php
 /**
- * テーマ ts-bunko が呼ぶ表示部品 (設計 §4「機能は全て mu-plugin 側」。Fable 所管)。
+ * テーマ ts-bunko が呼ぶ表示部品 (設計 specs/S.27.md「機能は全て mu-plugin 側」。Fable 所管)。
  *
- * 表示文言の規則 (台帳 4.6): 内部語「本館/別館/旧館」は出さない。リンクは
+ * 表示文言の規則 (specs/S.200.md): 内部語「本館/別館/旧館」は出さない。リンクは
  * 「無改変の原本を読む」「初出時の姿」「当時の感想を読む」のように中身を書く。
  */
 
@@ -133,7 +133,7 @@ function ts_bunko_biblio_card($post) {
     }
     // 当時の感想板ログへのリンクは保留中。理由は 2 つあり、どちらも未解決:
     //   (a) .cgi がブラウザでダウンロード扱いになる / 一部 404 で、読者が読めない
-    //   (b) ログに第三者の連絡先が残っている (docs/annex-privacy-decision.md の判断待ち)
+    //   (b) ログに第三者の連絡先が残っている (specs/S.155.md の判断待ち)
     // 直すと (b) の露出が増えるので、判断が出るまで出さない
     if (false && ($u = ts_meta($id, 'kansou_annex_url'))) {
         $links[] = '<a href="' . esc_url($u) . '">当時の感想を読む</a>';
@@ -234,7 +234,7 @@ function ts_bunko_author_links($term) {
     $links = [];
     if ($live) $links[] = '<a href="' . esc_url($live) . '" rel="external">ホームページ</a>';
     elseif ($wb) $links[] = '<a href="' . esc_url($wb) . '" rel="external">ホームページ (当時の保存版)</a>';
-    // 感想板ログへのリンクは保留 (上と同じ理由。docs/annex-privacy-decision.md)
+    // 感想板ログへのリンクは保留 (上と同じ理由。specs/S.155.md)
     if ($links) echo '<p class="ts-author-links">' . implode('　·　', $links) . '</p>';
 }
 

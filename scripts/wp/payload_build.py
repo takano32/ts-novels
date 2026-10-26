@@ -12,7 +12,7 @@
   payloads/_meta.json               … episode_id → body_status (importer が _ts_body_status に書く)
   catalog/reports/payload_build.json
 
-ブロック対応 (台帳 3.1): paragraph / separator / quote / heading / image。
+ブロック対応 (T.9.1、specs/S.188.md): paragraph / separator / quote / heading / image。
 ruby はパラグラフ内インライン HTML、本文内 table は wp:html ブロック。
 raw フォールバックは原本の本体域 (body_convert.extract_body) を wp:html 1 ブロックに。
 

@@ -1,0 +1,22 @@
+# S.12 実装の所管と、人間にしかできないタスクの扱い
+
+- 種類: 手順
+- 状態: 有効
+- 出典: docs/wp-implementation-tasks.md の「0. 実行セッションの心得」の「実装の所管(最終)」と人間のタスクの印
+- 関連: S.5
+
+**実装の所管(最終)**: **コードは親セッション(Fable)が書く**。実行セッションはコードを
+書かず、Fable 製スクリプトとランブックの**実行・検収報告**に専念する(例外: verify_*_html5 系の
+独立検算のみ、別の書き手であることが価値なので実行セッションが書いてよい)。
+Opus の作業は目視でなく検査コード(make check / wp ts verify / 不変量)で検証する。
+以下は特に変更禁止の根幹ファイル: 
+実行セッションは変更せず、不具合を見つけたら報告すること:
+`scripts/wp/body_convert.py` / `mu-plugins/ts-library/includes/commands.php` /
+catalog 系パーサの変更(catalog_build・uncatalogued_build・authors_build・work_builder・
+episode_overrides) / 今後の `boards_build.py`(T.36.1)・`annex_inject.py`(T.35.2)・
+MD→Gutenberg ペイロード生成(T.9.1)・**`deploy.sh`(T.8.3。本番を触るコードは全部 Fable)**。
+実行セッションは Fable 製スクリプトを**ランブックどおり実行する**のは可。
+逆に**独立検算(verify_*_html5 系)は本体と別の書き手が担当**する(相互検証のため)。
+
+**人間(サイト所有者)しかできないタスクは、TASKS.md で誰の判断・作業かを書いてある**。実行セッションは人間のタスクに当たったら
+スキップして次へ進み、最後に「人間の判断・作業待ち」一覧を報告する。

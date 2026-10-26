@@ -1,6 +1,6 @@
 # 少年少女文庫 → WordPress ライブラリ: catalog の再生成
 #
-#   make catalog   … 単一真実源 catalog/ を素の状態から作り直す (進行台帳 Phase 1)
+#   make catalog   … 単一真実源 catalog/ を素の状態から作り直す (T.7、specs/S.171.md〜S.180.md)
 #   make check     … ファイルを書かずに各段の自己検査だけ走らせる
 #   make qa        … catalog/reports/*.json から catalog/QA.md を書き直す
 #   make venv      … pykakasi / PyYAML / beautifulsoup4 / html5lib を入れた .venv を作る

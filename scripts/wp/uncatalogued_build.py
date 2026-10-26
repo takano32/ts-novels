@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""uncatalogued_build.py — 目録に載っていない収蔵物を拾う (進行台帳 タスク 1.8)。
+"""uncatalogued_build.py — 目録に載っていない収蔵物を拾う (T.7.8、specs/S.178.md)。
 
 設計 v1.4「最大掲載原則」— サルベージしたものはすべて掲載する。`novel/` 配下の本文
 ファイルのうち、正規目録 (lib1–73) にも旧目録 (lib01–09) にも対応するエントリが無い
