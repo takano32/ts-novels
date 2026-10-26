@@ -3,7 +3,7 @@
 """terms_build.py — 分類語彙を `catalog/terms.json` に正規化する (T.7.3、specs/S.173.md)。
 
 入力
-  catalog/episodes.jsonl      … 1.1/1.2 の出力 (genre_raw / type_raw / keywords_raw / zokusei_raw)
+  catalog/episodes.jsonl      … T.7.1/T.7.2 の出力 (genre_raw / type_raw / keywords_raw / zokusei_raw)
   genre.html / type_of_change.html / keyword.html … 当時の語彙定義ページ (term description の原資料)
   share_world.html            … シェアワールドの一覧 (ts_world の原資料)
   catalog/*_map.yml           … 正規化マップ。無ければ既定値で書き出す (以後は人手で編集)
@@ -11,7 +11,7 @@
 出力
   catalog/terms.json                  … 6 本のタクソノミーの語彙 (raw_variants 付き)
   catalog/genre_map.yml / type_map.yml / keyword_map.yml / world_map.yml
-  catalog/slug_overrides.yml          … slug 候補 (👤 1.5b の確認対象。terms_* セクション)
+  catalog/slug_overrides.yml          … slug 候補 (T.7.5.1 の人手確認の対象。terms_* セクション)
   catalog/reports/terms_build.json    … 件数・被覆率・表記揺れ候補
 
 正規化の段取り (原表記は必ず raw_variants に残す):
@@ -111,12 +111,12 @@ DEFAULT_WORLD_MAP = {
     'utanotsuki': {'name': '詩の月シリーズ', 'boards': ['utanotsuki'], 'path_prefixes': []},
 }
 
-# ts_corpus — 収蔵区分。**語・表示名・意味は specs/S.16.md の corpus 表が正典**。
+# ts_corpus — 収蔵区分。**語・表示名・意味は specs/S.16.md の corpus 表を優先する**。
 # 実データ (catalog/episodes.jsonl の corpus 欄) に現れる値を必ず全部そろえること
 # (足りないと term を持たない話ができる。build() の末尾で自己検査している)。
-# dojo は Phase 6 で投入する枠を先に定義してあるだけで、実データにはまだ無い (count=0)。
+# dojo は T.36 (感想板の近代ビュー・道場) で投入する枠を先に定義してあるだけで、実データにはまだ無い (count=0)。
 CORPUS_TERMS = [
-    # term 名は WP 側の表示に出るので、内部用語の「本館」ではなく具体語で書く (specs/S.15.md・S.16.md)。
+    # term 名は WP 側の表示に出るので、corpus 値 honkan の直訳ではなく具体語で書く (specs/S.15.md・S.16.md)。
     ('honkan', '正規目録 (lib1–73)', '正規目録 lib1–73 に載った収蔵作品'),
     ('legacy', '旧目録 (lib01–09)', '1997.11–2000.2 の旧形式目録にだけ載る初期史料'),
     ('uncatalogued', '目録外収蔵',
@@ -125,7 +125,7 @@ CORPUS_TERMS = [
      '作者の再掲載など外部由来。文庫に載ったことがない'),
     ('dojo', 'ストーリー道場', '第二掲示板 2ndbbs に投稿された作品 (Phase 6 で追加)'),
 ]
-# Phase 6 以降に投入予定で、実データにまだ 1 件も無くてよい term (自己検査の除外リスト)。
+# T.36 以降に投入予定で、実データにまだ 1 件も無くてよい term (自己検査の除外リスト)。
 CORPUS_TERMS_PLANNED = {'dojo'}
 
 TAXONOMY_META = {
@@ -225,7 +225,7 @@ def collect(records, field, synonyms):
 
     lookup には NFKC 形 (catalog_build の split_tokens が episodes.jsonl の正規化欄に
     書く形そのもの) を貯める。raw_variants (原表記) と name (正規化名) の中間形で、
-    これが対応表に無いと importer が『学園?』等を term に解決できない (Phase 2 実測)。"""
+    これが対応表に無いと importer が『学園?』等を term に解決できない (T.8 の実測)。"""
     agg = collections.OrderedDict()
     for rec in records:
         for raw in rec.get(field) or []:
@@ -300,7 +300,7 @@ def selftest(records, corpus_terms):
         ('全 episode の corpus 値に term がある',
          not missing,
          '被覆 %d/%d 話 / term の無い値 %s' % (covered, len(records), missing or 'なし')),
-        ('term はあるが実データが 0 件の corpus が無い (Phase 6 予定枠 %s を除く)'
+        ('term はあるが実データが 0 件の corpus が無い (T.36 の予定枠 %s を除く)'
          % '/'.join(sorted(CORPUS_TERMS_PLANNED)),
          not unused,
          '空 term %s' % (unused or 'なし')),

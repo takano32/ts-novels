@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# 本番 (scripts/wp/novels-ssh = novels.xwp.jp) への配備 (タスク 2.3。Fable 所管 — 本番を触るコード)。
+# 本番 (scripts/wp/novels-ssh = novels.xwp.jp) への配備 (T.8.3。Fable 所管 — 本番を触るコード)。
 #
 # 既定は DRY-RUN。実際に書き込むには --apply を付ける。
 #   scripts/wp/deploy.sh            # 何が起きるかだけ表示 (rsync -n)
@@ -116,7 +116,7 @@ fi
 
 if (( APPLY )); then
   echo "== 配備完了。次: cd public_html で wp ts sync-terms / import (specs/S.69.md)"
-  echo "   検証 curl は ?_cb=\$RANDOM を付けること。キャッシュクリアは 👤 (パネル)"
+  echo "   検証 curl は ?_cb=\$RANDOM を付けること。キャッシュクリアは高野さんの作業 (サーバパネル)"
 else
   echo "== DRY-RUN でした。実配備は: scripts/wp/deploy.sh --apply"
 fi

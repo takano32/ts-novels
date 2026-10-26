@@ -2,7 +2,7 @@
 /**
  * テーマ ts-bunko が呼ぶ表示部品 (設計 specs/S.27.md「機能は全て mu-plugin 側」。Fable 所管)。
  *
- * 表示文言の規則 (specs/S.200.md): 内部語「本館/別館/旧館」は出さない。リンクは
+ * 表示文言の規則 (specs/S.200.md): 内部語 (「WP サイト」「旧サイト」など S.15 の呼び分け) は出さない。リンクは
  * 「無改変の原本を読む」「初出時の姿」「当時の感想を読む」のように中身を書く。
  */
 
@@ -227,7 +227,7 @@ function ts_bunko_url_for_source($source_path) {
     return isset($map[$source_path]) ? get_permalink($map[$source_path]) : null;
 }
 
-/** 作者ページ冒頭: ホームページリンクは既定で Wayback、現存確認済みのみ生 URL (設計 4.1) */
+/** 作者ページ冒頭: ホームページリンクは既定で Wayback、現存確認済みのみ生 URL (S.192、T.10.2) */
 function ts_bunko_author_links($term) {
     $live = get_term_meta($term->term_id, 'ts_homepage_live', true);
     $wb = get_term_meta($term->term_id, 'ts_homepage_wayback', true);

@@ -5,7 +5,7 @@
 slug は**恒久 URL** になる (`/genre/gakuen/` `/authors/johdan/` `/works/johdan-d-upboy/`)。
 日本語の読みは機械には確定できない (pykakasi は 城弾→shirodan、実際の板 id は johdan、
 華代ちゃん→hanayochan、実際は kayo_chan) ので、このモジュールは**候補**しか作らない。
-確定は人間 (T.7.5.1、specs/S.176.md の確認ゲート)。
+確定は人間 (T.7.5.1 の人手確認、specs/S.176.md)。
 
 `catalog/slug_overrides.yml` の構造:
 
@@ -94,7 +94,7 @@ def unique_slug(base, used, fallback_prefix='term'):
 # --------------------------------------------------------------------------- overrides
 
 HEADER = """\
-# 恒久 URL になる slug の確認台帳 (自動生成 + 人手確定)。
+# 恒久 URL になる slug の確認表 (自動生成 + 人手確定)。
 #
 #   status: candidate  … 機械が作った候補。**まだ確定していない**
 #   status: confirmed  … 人間が確認済み。再生成しても上書きされない

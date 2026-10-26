@@ -13,8 +13,8 @@
                      `corpus=extern-repost` で区別し、書誌カードに
                      「文庫未掲載・pixiv 由来」と出せるメタを持たせる。
 
-本文はプレーンテキストなので **1.6 body_convert の対象外** (`body_convert_exempt: true`)。
-Phase 3 で空行区切りの段落分割 → core/paragraph ブロック化する。
+本文はプレーンテキストなので **T.7.6 の body_convert の対象外** (`body_convert_exempt: true`)。
+T.9 (本文の投入) で空行区切りの段落分割 → core/paragraph ブロック化する。
 本文の正本はリポジトリ直下 `reposts/<episode_id>.txt` (git 管理)。
 
 `catalog_build.py` / `uncatalogued_build.py` の後に実行すること
@@ -178,7 +178,7 @@ def build(root, holding, acquired_at):
         ('added_extern_repost', added),
         ('missing_inputs', missing),
         ('bodies_written', sorted(bodies)),
-        ('note', 'holding の他の回収物は検証未完のため対象外 (進行台帳 8.4)'),
+        ('note', 'holding の他の回収物は検証未完のため対象外 (T.4.4、S.204)'),
     ])
     return records, bodies, report
 

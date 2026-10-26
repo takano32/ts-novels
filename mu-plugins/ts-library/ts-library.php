@@ -27,7 +27,7 @@ final class TS_Library {
         add_filter('render_block_core/heading', [self::class, 'home_heading'], 10, 2);
         add_filter('render_block_core/navigation-link', [self::class, 'drop_placeholder_nav'], 10, 2);
         add_filter('render_block_core/paragraph', [self::class, 'drop_empty_meta_row'], 10, 2);
-        // 原文尊重: 表示時の字面変換をしない (QA 3.3 の指摘。書誌カードで「原本と一致」と
+        // 原文尊重: 表示時の字面変換をしない (T.9.3 の QA の指摘。書誌カードで「原本と一致」と
         // 宣言している以上、`--`→ダーシ・`...`→省略記号・顔文字→絵文字 の変換は矛盾する)
         add_filter('run_wptexturize', '__return_false');
         add_filter('option_use_smilies', '__return_false');
@@ -36,7 +36,7 @@ final class TS_Library {
         add_filter('do_redirect_guess_404_permalink', '__return_false');
     }
 
-    /** 既定テーマ (TT5) の home テンプレが出す「ブログ」見出しを差し替える (Phase 4 で正式トップに) */
+    /** 既定テーマ (TT5) の home テンプレが出す「ブログ」見出しを差し替える (T.10 で正式トップに) */
     public static function home_heading($content, $block) {
         if (is_home() && strpos($content, '>ブログ<') !== false) {
             return str_replace('>ブログ<', '>作品一覧<', $content);
@@ -50,7 +50,7 @@ final class TS_Library {
     }
 
     /** TT5 の single テンプレが出す空のメタ行 (「執筆者: 」「カテゴリ: 」— ts_work は
-     *  post_author もコアのカテゴリも使わないため値が空) を出さない (Phase 4 で正式テーマに) */
+     *  post_author もコアのカテゴリも使わないため値が空) を出さない (T.10 で正式テーマに) */
     public static function drop_empty_meta_row($content, $block) {
         if (!is_singular(['ts_work', 'ts_doc', 'ts_dojo', 'ts_board_post'])) return $content;
         $txt = trim(wp_strip_all_tags($content));
@@ -59,7 +59,7 @@ final class TS_Library {
 
     /** トップ: 作品 (親投稿) をリロード毎ランダムで見せる (ユーザ裁定 2026-08-30 —
      *  閉架アーカイブに新着順は不向き。定額ホストなので RAND() の負荷は許容)。
-     *  「今日の一作」等のセクションは Phase 4 の front-page テンプレートで足す。 */
+     *  「今日の一作」等のセクションは T.10 の front-page テンプレートで足す。 */
     public static function front_page_query($q): void {
         if (is_admin() || !$q->is_main_query() || !$q->is_home()) return;
         $q->set('post_type', 'ts_work');
@@ -97,7 +97,7 @@ final class TS_Library {
             'public' => true, 'hierarchical' => true, 'has_archive' => false,
             'menu_icon' => 'dashicons-book',
             'supports' => ['title', 'editor', 'excerpt', 'custom-fields', 'page-attributes', 'thumbnail'],
-            // URL 基底はユーザ裁定 (2026-08-30) で /novel/ — 旧館の URL 語彙 (ts.novels.jp/novel/…) と揃える
+            // URL 基底はユーザ裁定 (2026-08-30) で /novel/ — 旧サイトの URL 語彙 (ts.novels.jp/novel/…) と揃える
             'rewrite' => ['slug' => 'novel', 'with_front' => false, 'hierarchical' => true],
             'show_in_rest' => true, // 管理画面のエディタ用 (運用上の編集は catalog 経由が正)
         ]);

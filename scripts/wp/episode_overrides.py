@@ -3,11 +3,11 @@
 """episode_overrides.py — 話 1 件単位の人手上書きを episodes.jsonl に適用する。
 
 入力  catalog/episode_overrides.yml … 鍵 = source_path (`#anchor` 可)
-      catalog/episodes.jsonl        … 1.1/1.2/1.8/1.9 の出力
+      catalog/episodes.jsonl        … T.7.1/T.7.2/T.7.8 の出力
 出力  catalog/episodes.jsonl        … 上書きを適用して書き戻す
       catalog/reports/episode_overrides.json
 
-**旧館の原本 (lib*.html) の誤植を catalog 側で直す唯一の場所**。別館 (GitHub Pages)
+**旧サイトの原本 (lib*.html) の誤植を catalog 側で直す唯一の場所**。原本アーカイブ (GitHub Pages)
 は原本レイヤなので誤植もそのまま保ち、直すのはこちらだけ、という分担にしている。
 `make catalog` では repost_build の直後・terms_build の直前に走らせる
 (terms / authors / works が上書き後の episodes.jsonl を読むように)。

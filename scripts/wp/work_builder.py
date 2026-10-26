@@ -8,8 +8,8 @@
   novel/**/title*.htm*   … シリーズタイトルページ (シード)
 出力
   catalog/works.jsonl          … Work 1 件 1 行
-  catalog/work_overrides.yml   … あいまいなクラスタの人手上書き雛形 (👤 1.5b)
-  catalog/slug_overrides.yml   … work slug の候補 (👤 1.5b)
+  catalog/work_overrides.yml   … あいまいなクラスタの人手上書き雛形 (T.7.5.1 の人手確認)
+  catalog/slug_overrides.yml   … work slug の候補 (T.7.5.1 の人手確認)
   catalog/reports/work_builder.json
 
 **クラスタリングの根拠を強い順に積む** (どの規則で繋がったかは works.jsonl の

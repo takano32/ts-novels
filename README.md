@@ -17,7 +17,7 @@
 - **全 18,006 ファイル**（HTML／CGI 出力スナップショット／画像／音源／テキスト。
   数え方は git 管理ファイル総数 18,093 から作業用ツリー
   `catalog/` `scripts/` `docs/` `takedown/` `reposts/` `.github/` の 87 を引いた「ミラー相当」。
-  内訳の実測は [`specs/S.49.md`〜`S.58.md`](specs/S.49.md) が正典）
+  内訳の実測は [`specs/S.49.md`〜`S.58.md`](specs/S.49.md) を優先する）
 - トップページ `index.html`、目次 `lib*.html` / `lib-index-*.html`、作品本体 `novel/YYYYMM/<投稿ID>/<作品>.html`
 - Wayback の ts.novels.jp ミラー（status 200 全 3,828 件）に加え、複数の手段で **計 約11,000 ページ以上を追加回収**:
   - **103 ページ** … CommonCrawl（Wayback 未収録の作品本体）。うち 1 件（ヴィスティア chapter 11）は
@@ -195,7 +195,7 @@ CGI としては動作しません（静的な記録のみ）。
   `~ezpe/` = `www2.tomato.ne.jp/~ezpe/`、`ts.novels.name/` ほかホスト名ディレクトリ = 各姉妹ドメイン。
 - `scripts/` … 回収・監査・変換ツール一式（ミラー本体ではない）。
 - `TASKS.md` と `SPECS.md` + `specs/` … タスク (T) と、設計・手順・記録の仕様 (S)。**プロジェクト内で使う語の定義は
-  [`specs/S.14.md`〜`S.19.md`](specs/S.14.md) が正典**（WordPress 移築の設計文書で使う内部用語を含む）。
+  [`specs/S.14.md`〜`S.19.md`](specs/S.14.md) を優先する**（WordPress 移築の設計文書で使う内部用語を含む）。
 - タグ **`raw-original`** … 初期 Wayback 回収分の変換前原本バイト。以後の追加回収分も、
   いずれも**変換前の生バイトを一旦コミットしてから** UTF-8 化しており、各 raw コミットが履歴に残っています。
 - `.nojekyll` … GitHub Pages の Jekyll 処理を無効化。

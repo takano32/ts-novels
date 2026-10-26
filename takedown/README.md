@@ -1,15 +1,15 @@
 # takedown/ — 削除依頼の単一情報源
 
 `denylist.yml` 1 本で、削除の**四層 + 掲示**をすべて駆動する。
-手順の正典は [`specs/S.75.md`〜`S.81.md`](../specs/S.75.md)。**SLA = 受領から 72 時間**。
-用語 (本館 = 移築先の WordPress / 別館 = 原本を保つ GitHub Pages ミラー / 旧館 = 消滅した原サイト) は
+手順は [`specs/S.75.md`〜`S.81.md`](../specs/S.75.md) を優先する。**SLA = 受領から 72 時間**。
+用語 (WP サイト = 移築先の WordPress / 原本アーカイブ = 原本を保つ GitHub Pages ミラー / 旧サイト = 消滅した原サイト) は
 [`specs/S.14.md`〜`S.19.md`](../specs/S.14.md) を参照。**この 3 語は内部用語**で、読者に見せる文面では使わない。
 
 | 層 | 実行主体 | 入力 |
 |---|---|---|
 | ① WP 非公開化 (draft) | `wp ts apply-takedown --list=takedown/denylist.yml` | `target.kind` = work/episode/author |
 | ② 410 Gone | `scripts/wp/gen_htaccess.py` → 本番 `.htaccess` のマーカーブロック | orig パス (episode/annex_path) |
-| ③ 別館から除外 | `scripts/wp/annex_inject.py` (GitHub Pages のビルド注入) | `annex_path` / episode の source_path |
+| ③ 原本アーカイブから除外 | `scripts/wp/annex_inject.py` (GitHub Pages のビルド注入) | `annex_path` / episode の source_path |
 | ④ git 履歴除去 | 手作業 (`git filter-repo`)。**依頼があったときのみ** | 対象パス |
 | ⑤ 掲示 | 固定ページ `/removed/` | `public_note` |
 
@@ -25,7 +25,7 @@
 
 ## スキーマ
 
-`denylist.yml` 冒頭のコメントが正典 (フィールド一覧・enum・記入例)。
+`denylist.yml` 冒頭のコメントを優先する (フィールド一覧・enum・記入例)。
 現在は `version: 1` / `entries: []`(空)。
 
 ## 一貫性チェック

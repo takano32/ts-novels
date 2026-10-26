@@ -3,12 +3,12 @@
 WordPress は `wp ts import` でいつでも作り直せる**使い捨ての派生ビュー**であり、
 正本はここにある JSONL / JSON。WP 管理画面での手動編集は禁止で、修正は必ずこちら側で行う
 (設計 `specs/S.20.md` の 3 原則 1)。
-用語は [`specs/S.14.md`〜`S.19.md`](../specs/S.14.md) が正典
-(**本館** = 移築先の WordPress / **別館** = 原本を保つ GitHub Pages ミラー / **旧館** = 消滅した原サイト。
-いずれも内部用語で、読者に見せる文面では使わない)。
+用語は [`specs/S.14.md`〜`S.19.md`](../specs/S.14.md) を優先する
+(**WP サイト** = 移築先の WordPress / **原本アーカイブ** = 原本を保つ GitHub Pages ミラー / **旧サイト** = 消滅した原サイト。
+いずれも内部用語で、読者に見せる文面では使わない。S.15)。
 **注意**: corpus の値 `honkan` は「**正規目録 lib1–73 由来**」という収蔵区分の名前であって、
-移築先 WordPress を指す三館の「本館」ではない。混同を避けるため、本書と `catalog/QA.md` では
-`honkan` を日本語で書くとき必ず「正規目録 (lib1–73)」と表記する(glossary の corpus 表が正典)。
+移築先の WordPress (WP サイト) とは関係が無い。混同を避けるため、本書と `catalog/QA.md` では
+`honkan` を日本語で書くとき必ず「正規目録 (lib1–73)」と表記する([S.16](../specs/S.16.md) の corpus 表を優先する)。
 
 **本書の数値は 2026-08-30 の実測**(数え方は各行に添えてある)。生成物が正で、食い違ったら
 `make catalog` を流し直して本書を直すこと。
@@ -17,17 +17,17 @@ WordPress は `wp ts import` でいつでも作り直せる**使い捨ての派�
 
 | ファイル | 生成元 | 内容 | 状態 |
 |---|---|---|---|
-| `episodes.jsonl` | `catalog_build.py` → `uncatalogued_build.py` → `repost_build.py` → `episode_overrides.py` | 全 3,844 話 = 正規目録 2,887 + 旧目録 97 + 目録外収蔵 859 + 文庫未掲載の再掲 1(数え方: `episodes.jsonl` の行数と `corpus` 欄の内訳) | ✅ タスク 1.1 / 1.2 / 1.8 / 1.9 |
-| `uncatalogued_excluded.jsonl` | `uncatalogued_build.py` | 目録外走査で「作品ではない」と判定して落としたファイルと理由 | ✅ |
-| `reports/catalog_build.json` | 同上 | 件数・被覆率・自己検査結果の機械可読レポート | ✅ |
-| `terms.json` | `terms_build.py` | 分類語彙 5 本 (genre 196 / type 165 / keyword 1,032 / world 14 / corpus 5)。数え方: `terms.json` の各 taxonomy の `terms` 配列長。WP のタクソノミーは `ts_author` を足して 6 本だが、作者語彙は `authors.json` 側 | ✅ T.7.3 |
-| `genre_map.yml` / `type_map.yml` / `keyword_map.yml` / `world_map.yml` | 同上 (初回生成→以後は人手で編集) | 正規化マップと ts_world の判定規則 | ✅ |
-| `slug_overrides.yml` | `terms_build.py` / `authors_build.py` / `work_builder.py` | 恒久 URL slug の確認台帳 (T.7.5.1、specs/S.176.md)。**作者 42 件は `status: confirmed` で確定**、作品 1,451 件と分類語彙 1,407 件は自動生成のまま採用 | ✅ T.7.5.1 で確定 |
-| `episode_overrides.yml` | 人手で編集 (`episode_overrides.py` が読む) | 話 1 件単位の上書き。**旧館の原本 `lib*.html` の誤植を catalog 側で直す唯一の場所**。現状 3 行 (神川綾乃の板の誤植 / コーディーの板の誤植 / シェアワールド = シリーズ目次) | ✅ |
-| `authors.json` | `authors_build.py` | 作者 **322 名** (表示名 427 種を感想板 id と T.7.5.1 の裁定で統合。板あり 300 / 板なし 22)。数え方: `authors.json` の `authors` 配列長 / `reports/authors_build.json` の `display_name_strings_distinct` / `authors_with_board` | ✅ タスク 1.4 / 1.5b |
-| `works.jsonl` / `work_overrides.yml` | `work_builder.py` | Episode → Work クラスタ **1,451 件** (単発 932 / 連載 519、orphan 0、needs_review 331)。数え方: `works.jsonl` の行数 | ✅ T.7.5 |
-| `convert_report.jsonl` | `body_convert.py` | 本文 MD 変換の無損失証明ログ (全 3,844 話分の判定) | ✅ T.7.6 |
-| `QA.md` | `qa_report.py` (`make catalog` の最後) | 全体の QA レポート | ✅ T.7.7 |
+| `episodes.jsonl` | `catalog_build.py` → `uncatalogued_build.py` → `repost_build.py` → `episode_overrides.py` | 全 3,844 話 = 正規目録 2,887 + 旧目録 97 + 目録外収蔵 859 + 文庫未掲載の再掲 1(数え方: `episodes.jsonl` の行数と `corpus` 欄の内訳) | 完了 (T.7.1 / T.7.2 / T.7.8) |
+| `uncatalogued_excluded.jsonl` | `uncatalogued_build.py` | 目録外走査で「作品ではない」と判定して落としたファイルと理由 | 完了 |
+| `reports/catalog_build.json` | 同上 | 件数・被覆率・自己検査結果の機械可読レポート | 完了 |
+| `terms.json` | `terms_build.py` | 分類語彙 5 本 (genre 196 / type 165 / keyword 1,032 / world 14 / corpus 5)。数え方: `terms.json` の各 taxonomy の `terms` 配列長。WP のタクソノミーは `ts_author` を足して 6 本だが、作者語彙は `authors.json` 側 | 完了 (T.7.3) |
+| `genre_map.yml` / `type_map.yml` / `keyword_map.yml` / `world_map.yml` | 同上 (初回生成→以後は人手で編集) | 正規化マップと ts_world の判定規則 | 完了 |
+| `slug_overrides.yml` | `terms_build.py` / `authors_build.py` / `work_builder.py` | 恒久 URL slug の確認表 (T.7.5.1、specs/S.176.md)。**作者 42 件は `status: confirmed` で確定**、作品 1,451 件と分類語彙 1,407 件は自動生成のまま採用 | 完了 (T.7.5.1 で確定) |
+| `episode_overrides.yml` | 人手で編集 (`episode_overrides.py` が読む) | 話 1 件単位の上書き。**旧サイトの原本 `lib*.html` の誤植を catalog 側で直す唯一の場所**。現状 3 行 (神川綾乃の板の誤植 / コーディーの板の誤植 / シェアワールド = シリーズ目次) | 完了 |
+| `authors.json` | `authors_build.py` | 作者 **322 名** (表示名 427 種を感想板 id と T.7.5.1 の裁定で統合。板あり 300 / 板なし 22)。数え方: `authors.json` の `authors` 配列長 / `reports/authors_build.json` の `display_name_strings_distinct` / `authors_with_board` | 完了 (T.7.4 / T.7.5.1) |
+| `works.jsonl` / `work_overrides.yml` | `work_builder.py` | Episode → Work クラスタ **1,451 件** (単発 932 / 連載 519、orphan 0、needs_review 331)。数え方: `works.jsonl` の行数 | 完了 (T.7.5) |
+| `convert_report.jsonl` | `body_convert.py` | 本文 MD 変換の無損失証明ログ (全 3,844 話分の判定) | 完了 (T.7.6) |
+| `QA.md` | `qa_report.py` (`make catalog` の最後) | 全体の QA レポート | 完了 (T.7.7) |
 
 本文 Markdown の置き場はリポジトリ直下の `bodies/`(catalog の下ではない)。
 **実測 3,642 ファイル**(数え方: `ls bodies/*.md | wc -l`。変換対象 3,644 のうち証明合格
@@ -38,7 +38,7 @@ WordPress は `wp ts import` でいつでも作り直せる**使い捨ての派�
 
 ```sh
 make venv        # 初回のみ: pykakasi / PyYAML 入りの .venv を作る
-make catalog     # 1.1〜1.9 を順に実行して catalog/ を作り直し、QA.md まで書く
+make catalog     # T.7.1〜T.7.8 の段を順に実行して catalog/ を作り直し、QA.md まで書く
 make check       # ファイルを書かずに各段の自己検査だけ
 ```
 
@@ -61,30 +61,30 @@ mailto 由来の値の残存 0 / survey 実測値との突き合わせ)。1 つ�
 | `episode_id` | 結合キー (episodes ↔ bodies/ ↔ convert_report ↔ import) |
 | `corpus` | `honkan` (lib1–73) / `legacy` (旧目録 lib01–09) / `uncatalogued` (目録に無い収蔵物) / `extern-repost` (文庫未掲載の作者再掲) |
 | `source_path` / `source_anchor` / `source_kind` | 原パス空間での位置。`source_kind` = local / external |
-| `source_exists` | その原パスがこのリポジトリ (=別館の配信元) に実在するか |
+| `source_exists` | その原パスがこのリポジトリ (=原本アーカイブの配信元) に実在するか |
 | `source_shared_by` | 同じ原パスを指す目録エントリの数 (1 なら固有) |
 | `entry_type` | html / image (CG 作品) / external |
 | `title` `author` `homepage` | 目録 1 行目。`homepage` は URL のみ (mailto は捨てる) |
 | `illustrator[]` `illustrator_url` `illustrator_raw` | 画師 (複数可)。原表記も保持 |
 | `date` `date_raw` `weekday` | 掲載日。**post_date は必ずこれを使う** (ディレクトリ名の日付は投稿バッチであり話の日付ではない) |
 | `size_kb` `files_n` | 目録のサイズ欄 (`154KB / 4FILES`) |
-| `kansou_slug` `kansou_annex_url` | 作者感想板の id と、別館上の板ログ URL |
+| `kansou_slug` `kansou_annex_url` | 作者感想板の id と、原本アーカイブ上の板ログ URL |
 | `arasuji` `comment` `suisen` | あらすじ / 作者コメント / 推薦文 (編集部)。話ナビリンクは除いた表示用テキスト |
 | `osusume` | `{recommender, refs[{href,title,author,author_inherited}], text}` |
 | `nav_links[]` | 【第N話はこちら】形の話ナビ (Work クラスタリングの材料) |
 | `inline_links[]` | 本文欄の 【】 でないリンク |
 | `genre[]` `type[]` `keywords[]` | NFKC 正規化後のトークン |
-| `genre_raw[]` `type_raw[]` `keywords_raw[]` | 原表記 (史料性の担保 + 1.3 の頻度集計用) |
+| `genre_raw[]` `type_raw[]` `keywords_raw[]` | 原表記 (史料性の担保 + T.7.3 の頻度集計用) |
 | `zokusei[]` | 旧目録の【属性】欄。正規目録 (`honkan`) のエントリでは常に空 |
 | `catalog_ref` | 出典 (`lib17.html#12`)。情報メタであり結合キーではない |
 | `orig_url` | 当時の URL (`http://ts.novels.jp/…`) |
-| `annex_url` | GitHub Pages (別館) の原本 URL (実在する場合のみ) |
+| `annex_url` | GitHub Pages (原本アーカイブ) の原本 URL (実在する場合のみ) |
 | `annex_yays_url` | `~yays/library/` に同一相対パスがある場合の初出版 URL |
 | `provenance` | 回収経路・取得日・コミット・(アーカイブ系は) 照会 URL |
 
 ## 旧目録 (corpus=legacy) の追加欄
 
-旧目録は書式が違うため、**legacy レコードにだけ**次の欄が付く (honkan レコードの形は 1.1 のまま不変)。
+旧目録は書式が違うため、**legacy レコードにだけ**次の欄が付く (honkan レコードの形は T.7.1 のまま不変)。
 
 | フィールド | 内容 |
 |---|---|
@@ -124,7 +124,7 @@ mailto 由来の値の残存 0 / survey 実測値との突き合わせ)。1 つ�
 | フィールド | 内容 |
 |---|---|
 | `body_source_path` | 本文の在処 (`reposts/<episode_id>.txt`)。プレーンテキスト |
-| `body_format` / `body_convert_exempt` | `plain-text` / `true` = **1.6 の HTML→MD 変換の対象外**。T.9 で空行区切りの段落分割 |
+| `body_format` / `body_convert_exempt` | `plain-text` / `true` = **T.7.6 の HTML→MD 変換の対象外**。T.9 で空行区切りの段落分割 |
 | `published_in_bunko` | `false` なら**文庫には一度も載っていない**。書誌カードに「文庫未掲載・pixiv 由来」と明示する |
 | `repost_url` | 再掲元 (pixiv 作品ページ) |
 
@@ -132,10 +132,10 @@ mailto 由来の値の残存 0 / survey 実測値との突き合わせ)。1 つ�
 
 | フィールド | 内容 |
 |---|---|
-| `overrides_applied[]` | `{field, from, to}`。**旧館の原本 `lib*.html` の値をどう直したか**。現状 3 話 |
+| `overrides_applied[]` | `{field, from, to}`。**旧サイトの原本 `lib*.html` の値をどう直したか**。現状 3 話 |
 | `override_note` | なぜ直したのか (`catalog/episode_overrides.yml` の `note:` の転記) |
 
-別館 (GitHub Pages) は原本レイヤなので誤植もそのまま保つ。直すのは catalog 側だけで、
+原本アーカイブ (GitHub Pages) は原本レイヤなので誤植もそのまま保つ。直すのは catalog 側だけで、
 その差分がこの 2 欄に残る。上書き可能な欄は author / kansou_slug / entry_role / title /
 homepage / date に限っており、**結合キー `episode_id` と `provenance` には触れない**。
 
@@ -145,7 +145,7 @@ homepage / date に限っており、**結合キー `episode_id` と `provenance
 |---|---|
 | `slug` | 恒久 URL `/authors/<slug>/`。感想板 id が最優先、無ければ T.7.5.1 (specs/S.176.md) の裁定 |
 | `display_name` / `display_variants[]` | 代表表示名と、統合した全表記 (`Ｍａｒｉｅ` / `麗香` など) |
-| `kansou_slug` / `kansou_annex_url` | 本人の感想板 id と別館上の板ログ URL |
+| `kansou_slug` / `kansou_annex_url` | 本人の感想板 id と原本アーカイブ上の板ログ URL |
 | `kansou_slug_alt[]` | **同じ人を指す別の板** — 旧名義の板 (薪喬 → `shinkyou`)・別名の板 (HIKU → `hiku`)・誤植の板 (`kamikawa_ayano_`)。現状 8 名 |
 | `shared_boards[]` | 共有世界の板 (華代ちゃん等)。作者の板ではない |
 | `yomi_group` | `lib-index-*.html` の五十音索引での所属行 |

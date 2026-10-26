@@ -1,6 +1,6 @@
 <?php
 /**
- * `wp ts` — catalog → WordPress の投入コマンド群 (タスク 2.2)。
+ * `wp ts` — catalog → WordPress の投入コマンド群 (T.8.2)。
  *
  * ここは移築の根幹コード (本番 DB に書く唯一の経路)。設計の要点:
  *  - 冪等: episode_id / work_slug をメタキーに upsert。`_ts_import_hash` が同じなら skip。
@@ -512,7 +512,7 @@ class TS_Command {
     }
 
     /**
-     * 固定ページ (/about/ 等) を content/pages/*.html から同期する (タスク 4.6)。
+     * 固定ページ (/about/ 等) を content/pages/*.html から同期する (T.10.5)。
      * 1 行目の <!-- title: … --> が題。冪等 (hash skip)・手動編集は保護。
      *
      * ## OPTIONS
@@ -549,7 +549,7 @@ class TS_Command {
     }
 
     /**
-     * 運営文書・前史・ギャラリー (ts_doc) を payloads-docs/ から同期する (タスク 4.6/4.7/4.9)。
+     * 運営文書・前史・ギャラリー (ts_doc) を payloads-docs/ から同期する (T.10.5)。
      * scripts/wp/docs_build.py の出力を読む。冪等・手動編集保護。
      *
      * ## OPTIONS
@@ -698,7 +698,7 @@ class TS_Command {
             if ($actual[$tax] !== $expect[$tax]) { $ok = false; WP_CLI::warning("$tax の割当数不一致"); }
         }
 
-        // 4b) 書誌カード用メタの被覆 (タスク 3.4): catalog の非空数 = DB の meta 行数
+        // 4b) 書誌カード用メタの被覆 (T.9.4): catalog の非空数 = DB の meta 行数
         $meta_expect = ['_ts_pub_date_raw' => 'date_raw', '_ts_orig_url' => 'orig_url',
                         '_ts_annex_url' => 'annex_url', '_ts_provenance' => 'provenance'];
         $cnt = array_fill_keys(array_keys($meta_expect), 0);
@@ -950,7 +950,7 @@ class TS_Command {
         WP_CLI::success("reset: 投稿 $deleted 件・term $terms_deleted 件を削除 (WP 本体設定は無変更)");
     }
 
-    /** 原パス (alias 含む) → 本館 URL の対応表を出力する */
+    /** 原パス (alias 含む) → WP サイトの URL の対応表を出力する */
     public function export_pathmap($args, $assoc) {
         $map = [];
         $q = new WP_Query(['post_type' => 'ts_work', 'post_status' => 'any',

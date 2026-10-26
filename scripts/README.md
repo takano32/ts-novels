@@ -3,8 +3,8 @@
 ミラー本体ではなく、サルベージと検証に使ったツール群。すべて標準ライブラリのみの Python 3
 （`workflows/` は Claude Code の Workflow ツール用 JavaScript）。
 
-用語（**本館** = 移築先の WordPress / **別館** = 原本を保つ GitHub Pages ミラー /
-**旧館** = 消滅した原サイト、ほか）は [`specs/S.14.md`〜`S.19.md`](../specs/S.14.md) が正典。
+用語（**WP サイト** = 移築先の WordPress / **原本アーカイブ** = 原本を保つ GitHub Pages ミラー /
+**旧サイト** = 消滅した原サイト、ほか）は [`specs/S.14.md`〜`S.19.md`](../specs/S.14.md) を優先する (呼び分けは S.15)。
 **この 3 語は内部用語**で、生成物のうち読者の目に触れる文言には使わない。
 
 ## 監査・修正
@@ -88,7 +88,7 @@ python3 scripts/audit_full.py                                 # 検証
 
 ## wp/ (WordPress 移築の実装)
 
-`make catalog` で 1.1〜1.9 を一発実行できる (リポジトリ直下の Makefile)。
+`make catalog` で T.7.1〜T.7.8 の段を一発実行できる (リポジトリ直下の Makefile)。
 段の順番には意味がある — episodes.jsonl は catalog_build が新規に書き、
 uncatalogued_build と repost_build が**自分の corpus 分だけ差し替えて**追記し、
 episode_overrides が最後に人手の上書きを当て、terms/authors/works はその出来上がりを読む。
@@ -112,8 +112,8 @@ episode_overrides が最後に人手の上書きを当て、terms/authors/works 
   type_of_change.html / keyword.html) を term description に転用する。
 
 - **wp/episode_overrides.py** — 話 1 件単位の人手上書きを episodes.jsonl に当てる
-  (`catalog/episode_overrides.yml`)。**旧館の原本 `lib*.html` の誤植を catalog 側で直す
-  唯一の場所**で、別館 (Pages) は原本レイヤなので誤植もそのまま保つ、という分担。
+  (`catalog/episode_overrides.yml`)。**旧サイトの原本 `lib*.html` の誤植を catalog 側で直す
+  唯一の場所**で、原本アーカイブ (Pages) は原本レイヤなので誤植もそのまま保つ、という分担。
   上書き前にあるはずの値を `expect:` に書かせ、合わなければ自己検査が落ちる。
   触れるのは author / kansou_slug / entry_role / title / homepage / date だけで、
   **結合キー episode_id と provenance には触れない**。

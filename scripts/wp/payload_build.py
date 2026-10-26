@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""bodies/*.md → Gutenberg ブロック HTML (タスク 3.1 + 3.2 の src 書換。Fable 所管)。
+"""bodies/*.md → Gutenberg ブロック HTML (T.9.1 + T.9.2 の src 書換。Fable 所管)。
 
 入力:
   bodies/<episode_id>.md            … body_convert.py の成果 (3,642 本)
@@ -168,7 +168,7 @@ def table_run_end(lines, i):
 
 
 def md_to_blocks(md, stats):
-    # Markdown 画像記法 → img タグ (QA 3.3 で発見: 画像 1 枚ものエントリが記法のまま漏れていた)
+    # Markdown 画像記法 → img タグ (T.9.3 の QA で発見: 画像 1 枚ものエントリが記法のまま漏れていた)
     md = MD_IMG_RE.sub(
         lambda m: '<img src="%s" alt="%s">' % (m.group(2).replace('"', '&quot;'),
                                                m.group(1).replace('"', '&quot;')), md)
@@ -301,7 +301,7 @@ def main():
         meta[eid] = 'converted'
         written += 1
 
-    # 1.9 の作者再掲ぶん: md が無く reposts/<episode_id>.txt がある話はプレーンテキストを段落化
+    # T.7.8 の作者再掲ぶん (S.179): md が無く reposts/<episode_id>.txt がある話はプレーンテキストを段落化
     # (pixiv 再掲はプレーンテキスト。全て escape するので HTML 断片の混入はない)
     for eid, ep in episodes.items():
         if eid in meta:

@@ -45,7 +45,7 @@ def main(argv=None):
     trm = load(root, 'terms_build.json')
     aut = load(root, 'authors_build.json')
     wrk = load(root, 'work_builder.json')
-    cnv = load(root, 'body_convert.json')       # 1.6 のサマリ (ファイル名は body_convert.json)
+    cnv = load(root, 'body_convert.json')       # T.7.6 のサマリ (ファイル名は body_convert.json)
 
     episodes = [json.loads(line) for line in
                 open(os.path.join(root, 'catalog', 'episodes.jsonl'), encoding='utf-8')]
@@ -74,8 +74,8 @@ def main(argv=None):
     L.append('## 1. 収蔵件数\n')
     L.append(table([
         ('episodes 合計', len(episodes)),
-        # 表示名は specs/S.16.md の corpus 表が正典。`honkan` を「本館」とは書かない
-        # (三館の「本館」= 移築先 WordPress と別概念のため)。
+        # 表示名は specs/S.16.md の corpus 表を優先する。`honkan` を直訳した語では書かない
+        # (かつて移築先の WordPress = WP サイトをその語で呼んでいて紛らわしいため。S.15)。
         ('　正規目録 (`honkan`、lib1–73)', corpora.get('honkan', 0)),
         ('　旧目録 (`legacy`、lib01–09 の差分)', corpora.get('legacy', 0)),
         ('　目録外収蔵 (`uncatalogued`、設計 v1.4)', corpora.get('uncatalogued', 0)),
@@ -111,7 +111,7 @@ def main(argv=None):
                 L.append('- %s — %s' % (t['name'], t['detail']))
         L.append('')
 
-    L.append('## 3. 目録外収蔵 (タスク 1.8)\n')
+    L.append('## 3. 目録外収蔵 (T.7.8)\n')
     if unc:
         L.append(table([
             ('`novel/` 配下の本文ファイル', unc['novel_body_files']),
@@ -128,7 +128,7 @@ def main(argv=None):
     else:
         L.append('_未実行_\n')
 
-    L.append('## 4. 分類語彙 (タスク 1.3)\n')
+    L.append('## 4. 分類語彙 (T.7.3)\n')
     if trm:
         rows = [('| タクソノミー | 原表記の異なり | 正規化後 | 中核語 | 中核語の被覆 |'),
                 ('|---|---:|---:|---:|---:|')]
@@ -139,7 +139,7 @@ def main(argv=None):
         L.append('\n'.join(rows) + '\n')
         L.append('\n共有世界 (`ts_world`) %d 本 / 該当 %d 話。\n'
                  % (trm['worlds_total'], trm['episodes_with_world']))
-        L.append('\n収蔵区分 (`ts_corpus`) — 語と表示名は `specs/S.16.md` の corpus 表が正典:\n')
+        L.append('\n収蔵区分 (`ts_corpus`) — 語と表示名は `specs/S.16.md` の corpus 表を優先する:\n')
         crows = ['| term | 表示名 | 話数 |', '|---|---|---:|']
         for t in trm.get('corpus_terms') or []:
             crows.append('| `%s` | %s | %d |' % (t['slug'], t['name'], t['count']))
@@ -150,7 +150,7 @@ def main(argv=None):
     else:
         L.append('_未実行_\n')
 
-    L.append('## 5. Work クラスタ (タスク 1.5)\n')
+    L.append('## 5. Work クラスタ (T.7.5)\n')
     if wrk:
         L.append(table([
             ('works', wrk['works']),
@@ -177,7 +177,7 @@ def main(argv=None):
              '- `external` … 当時から外部サイトを指していたエントリ\n'
              '- `anchor` … 1 ファイルに複数作品が同居する投稿アンソロジー (`toukou01–03.html`)\n'
              '- `plain-text-repost` … 作者本人の再掲から回収したプレーンテキスト '
-             '(1.6 の HTML→MD 変換の対象外)\n'
+             '(T.7.6 の HTML→MD 変換の対象外)\n'
              '- `commented-out-in-source` … 旧目録の HTML コメント内に隠されていたエントリ\n'
              '- `notice` / `unattributed` … 作者欄が無い編集部告知 / 作者を特定できなかった目録外収蔵\n'
              '- `series-index` … 目録の作者欄に人名でない値が入っていたシリーズ目次ページ '
@@ -185,7 +185,7 @@ def main(argv=None):
              '- `human-override` … `catalog/episode_overrides.yml` で原本の誤植を直した話。'
              '内訳は `catalog/reports/episode_overrides.json`\n')
 
-    L.append('## 8. 本文 Markdown 変換 (タスク 1.6)\n')
+    L.append('## 8. 本文 Markdown 変換 (T.7.6)\n')
     if cnv:
         st = cnv.get('status') or {}
         acc = cnv.get('acceptance') or {}
@@ -209,7 +209,7 @@ def main(argv=None):
     else:
         L.append('_未実行 — `catalog/reports/body_convert.json` が無い_\n')
 
-    L.append('## 9. 人間の確認待ち (👤 1.5b)\n')
+    L.append('## 9. 人間の確認待ち (T.7.5.1)\n')
     L.append(table([
         ('slug 確認待ち (作者)', aut['slug_pending_review'] if aut else '—'),
         ('slug 確認待ち (作品)', wrk['slug_pending_review'] if wrk else '—'),
@@ -237,7 +237,7 @@ def main(argv=None):
         L.append('')
 
     if rep:
-        L.append('## 10. 作者本人の再掲 (タスク 1.9)\n')
+        L.append('## 10. 作者本人の再掲 (T.7.8)\n')
         L.append(table([
             ('既存エントリに本文と来歴を追加', ', '.join(rep['patched_existing']) or '—'),
             ('文庫未掲載として新規収録', ', '.join(rep['added_extern_repost']) or '—'),
@@ -248,7 +248,7 @@ def main(argv=None):
     qa3 = load(root, 'qa_phase3_check.json')
     if qa3 and qa3.get('summary'):
         s = qa3['summary']
-        L.append('## 11. 本番ページの原本併読 QA (タスク 3.3、独立検算)\n')
+        L.append('## 11. 本番ページの原本併読 QA (T.9.3、独立検算)\n')
         rows = [('標本', '%d 話 (seed %s)' % (s.get('n', 0), s.get('seed', '?')))]
         for k, v in (s.get('counts') or {}).items():
             rows.append((k, v))

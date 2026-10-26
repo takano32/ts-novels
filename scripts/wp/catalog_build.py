@@ -19,7 +19,7 @@ T.7.1 (corpus=honkan) と T.7.2 (corpus=legacy)。仕様と記録は specs/S.171
     python3 scripts/wp/catalog_build.py                 # 生成 + 自己検査 + レポート
     python3 scripts/wp/catalog_build.py --check         # 何も書かずに検査だけ
     python3 scripts/wp/catalog_build.py --no-provenance # git 走査を省く (高速)
-    python3 scripts/wp/catalog_build.py --no-legacy     # corpus=honkan のみ (1.1 相当の出力)
+    python3 scripts/wp/catalog_build.py --no-legacy     # corpus=honkan のみ (T.7.1 相当の出力)
 """
 import argparse
 import collections
@@ -36,7 +36,7 @@ import unicodedata
 
 DEFAULT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ORIG_BASE = 'http://ts.novels.jp/'
-# 別館 = 現行 GitHub Pages ミラー (設計 v1.1 で恒久併存が決定)。用語は specs/S.14.md〜S.19.md が正典。
+# 原本アーカイブ = 現行 GitHub Pages ミラー (設計 v1.1 = S.35 で恒久併存が決定)。用語は specs/S.14.md〜S.19.md を優先する。
 # リポジトリは takano32/ts-novels、カスタムドメイン (CNAME) なし。
 DEFAULT_ANNEX_BASE = 'https://takano32.github.io/ts-novels/'
 YAYS_PREFIX = '~yays/library/'          # 2000-02 年の旧世代ツリー (初出版)
@@ -81,7 +81,7 @@ RE_BARE_MAIL = re.compile(
     r'[A-Za-z0-9._%+\-]+@[A-Za-z0-9.\-]+\.'
     r'(?!s?html?\b|cgi\b|jpe?g\b|gif\b|png\b|txt\b|js\b)[A-Za-z]{2,}')
 
-# --- 旧目録 (1.2) 専用
+# --- 旧目録 (T.7.2) 専用
 # lib01-06: `44KB(updated 4/5)<b><a href="…">［題名］</a>　作・NAME</b><br>` が 1 エントリの頭。
 # KB も (updated …) も欠ける形 (CG エントリ) があるので両方 optional。
 RE_LEG_HEAD = re.compile(
@@ -115,7 +115,7 @@ MARKERS = {
     'genre': '【ジャンル】',
     'type': '【種別】',
     'keywords': '【キーワード】',
-    'zokusei': '【属性】',          # 旧目録 lib07-09 のみ (1.2 用)
+    'zokusei': '【属性】',          # 旧目録 lib07-09 のみ (T.7.2 用)
     'comment_legacy': '【作者様コメント】',
 }
 
@@ -513,7 +513,7 @@ def parse_entry(table, page, ordinal):
         'genre': genre, 'genre_raw': genre_raw,
         'type': typ, 'type_raw': type_raw,
         'keywords': kw, 'keywords_raw': kw_raw,
-        'zokusei': [],                      # 旧目録 (1.2) のみ使う欄
+        'zokusei': [],                      # 旧目録 (T.7.2) のみ使う欄
         'catalog_ref': '%s#%d' % (page, ordinal),
     }
 
@@ -570,7 +570,7 @@ def entry_type_of(source_path, kind):
     return 'html'
 
 
-# --------------------------------------------------------------------------- 旧目録 (タスク 1.2)
+# --------------------------------------------------------------------------- 旧目録 (T.7.2)
 
 def leg_clean_name(s):
     """旧目録の氏名表記から敬称・全角空白の前後余白を落とす。"""
@@ -1033,7 +1033,7 @@ def build(root, annex_base, prov_map=None):
 
 
 def build_legacy(root, annex_base, honkan_records, prov_map):
-    """旧目録 lib01〜09 を正規目録 (corpus=honkan) との差分だけ corpus=legacy のレコードにする (タスク 1.2)。
+    """旧目録 lib01〜09 を正規目録 (corpus=honkan) との差分だけ corpus=legacy のレコードにする (T.7.2)。
 
     dedup は**パス単位** — honkan 側が同じ `source_path` を(アンカー付きの集約リンクや
     改訂再掲として)既に持っているなら、旧目録側は重複とみなして落とす。
@@ -1162,7 +1162,7 @@ def selftest(records, failures, legacy_stats=None):
     def check(name, ok, detail=''):
         results.append((name, bool(ok), detail))
 
-    check('本館エントリ数 == %d' % EXPECTED_ENTRIES, len(honkan) == EXPECTED_ENTRIES,
+    check('正規目録エントリ数 == %d' % EXPECTED_ENTRIES, len(honkan) == EXPECTED_ENTRIES,
           '実測 %d 件' % len(honkan))
     check('パース失敗 0', not failures,
           '失敗 %d 件%s' % (len(failures), (': ' + failures[0]) if failures else ''))
@@ -1236,7 +1236,7 @@ def selftest(records, failures, legacy_stats=None):
         missing = sum(1 for r in honkan if r.get(field) in (None, '', []))
         check('必須欄 %s に欠落なし (honkan)' % field, missing == 0, '欠落 %d 件' % missing)
 
-    # --- 旧目録 (タスク 1.2)
+    # --- 旧目録 (T.7.2)
     if legacy_stats is not None:
         check('旧目録ブロック数 == %d (lib01-06 の 252 + lib07-09 の 84)' % EXPECTED_LEGACY_BLOCKS,
               legacy_stats['blocks_parsed'] == EXPECTED_LEGACY_BLOCKS,
@@ -1245,7 +1245,7 @@ def selftest(records, failures, legacy_stats=None):
               '失敗 %d 件%s' % (legacy_stats['parse_failures'],
                               (': ' + legacy_stats['parse_failure_detail'][0])
                               if legacy_stats['parse_failure_detail'] else ''))
-        check('旧目録の追加件数 == blocks - 本館重複',
+        check('旧目録の追加件数 == blocks - 正規目録との重複',
               legacy_stats['added'] ==
               legacy_stats['blocks_parsed'] - legacy_stats['dropped_as_honkan_duplicate'],
               '追加 %d / 重複除外 %d' % (legacy_stats['added'],
@@ -1253,7 +1253,7 @@ def selftest(records, failures, legacy_stats=None):
         for field in ('episode_id', 'source_path', 'title', 'date', 'catalog_ref'):
             missing = sum(1 for r in legacy if r.get(field) in (None, '', []))
             check('必須欄 %s に欠落なし (legacy)' % field, missing == 0, '欠落 %d 件' % missing)
-        # author は 1.4 の受け入れ条件「全 episode の author が解決」に直結するので個別に見る
+        # author は T.7.4 の受け入れ条件「全 episode の author が解決」に直結するので個別に見る
         # (entry_role=notice は作品ではなく編集部の告知ブロックなので対象外)
         noauthor = [r['catalog_ref'] for r in legacy
                     if not r['author'] and r['entry_role'] == 'work']

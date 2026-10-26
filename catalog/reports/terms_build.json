@@ -226,7 +226,7 @@
    "detail": "被覆 3844/3844 話 / term の無い値 なし"
   },
   {
-   "name": "term はあるが実データが 0 件の corpus が無い (Phase 6 予定枠 dojo を除く)",
+   "name": "term はあるが実データが 0 件の corpus が無い (T.36 の予定枠 dojo を除く)",
    "ok": true,
    "detail": "空 term なし"
   },

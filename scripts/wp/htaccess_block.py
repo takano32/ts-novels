@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""本番 .htaccess の ts-library マーカーブロック管理 (タスク 2.6。Fable 所管 — 本番を触るコード)。
+"""本番 .htaccess の ts-library マーカーブロック管理 (T.8.6。Fable 所管 — 本番を触るコード)。
 
 やること:
   - 恒久 noindex 層 (/boards/ /dojo/ — v1.5: 公開ゲートではなく第三者配慮) の X-Robots-Tag

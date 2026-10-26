@@ -1,6 +1,6 @@
-# robots.txt — novels.xwp.jp (少年少女文庫 資料館 / WordPress 整理版)
+# robots.txt — novels.xwp.jp (少年少女文庫 資料館 / WP サイト)
 #
-# 配備先: ~/novels.xwp.jp/public_html/robots.txt (デプロイは scripts/wp/deploy.sh = タスク 2.3)
+# 配備先: ~/novels.xwp.jp/public_html/robots.txt (デプロイは scripts/wp/deploy.sh = T.8.3)
 # リポジトリ直下の robots.txt は archive.org 自身のものを Wayback 経由で誤回収した残骸なので、
 # 参照も流用もしないこと。
 #
@@ -8,14 +8,14 @@
 #   1. AI 学習・データセット化クローラは全域 Disallow (作者の許諾なく学習素材にしない)
 #   2. Internet Archive (ia_archiver / archive.org_bot) は許可 — この資料館自体が
 #      Wayback に救われて成立している。恩は返す
-#   3. 一般検索エンジンは**ブロックしない**。公開解禁 (タスク 7.4) までの noindex は
+#   3. 一般検索エンジンは**ブロックしない**。公開解禁 (T.37.4) までの noindex は
 #      .htaccess の X-Robots-Tag と meta robots で行う。
-#      ★robots.txt で Disallow すると noindex ヘッダを読ませられず、かえって
+#      注意: robots.txt で Disallow すると noindex ヘッダを読ませられず、かえって
 #        「URL だけ検索結果に載る」事故になる。ここで検索エンジンを止めてはいけない
 #   4. 恒久 noindex 区画 (/boards/ /dojo/ /assets/annex-img/) も同じ理由で Disallow しない。
 #      ヘッダ側で noindex を返し続ける
 #
-# 解禁 (7.4) 時にやること: 末尾の Sitemap 行のコメントを外す。他は変更しない。
+# 解禁 (T.37.4) 時にやること: 末尾の Sitemap 行のコメントを外す。他は変更しない。
 
 # ---- AI 学習・データセット収集クローラ (全域拒否) ----
 User-agent: GPTBot
@@ -75,5 +75,5 @@ Disallow: /search/
 Disallow: /*?replytocom=
 Crawl-delay: 5
 
-# ---- サイトマップ (公開解禁 = タスク 7.4 でコメントを外す) ----
+# ---- サイトマップ (公開解禁 = T.37.4 でコメントを外す) ----
 # Sitemap: https://novels.xwp.jp/sitemap.xml

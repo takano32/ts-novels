@@ -1,6 +1,6 @@
 <?php
 /**
- * 索引ページ群 (タスク 4.3/4.4。Fable 所管): /index/{kana,timeline,bunrui,vocabulary,osusume}/
+ * 索引ページ群 (T.10.3。Fable 所管): /index/{kana,timeline,bunrui,vocabulary,osusume}/
  * と /year/YYYY/。ルーティングはここ、見た目はテーマ (ts-index.php / ts-year.php)。
  */
 

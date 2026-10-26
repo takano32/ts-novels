@@ -3,9 +3,9 @@
 """authors_build.py — 作者を `catalog/authors.json` にまとめる (T.7.4、specs/S.174.md)。
 
 入力
-  catalog/episodes.jsonl   … 1.1/1.2 の出力 (episode_overrides.py 適用後)
+  catalog/episodes.jsonl   … T.7.1/T.7.2 の出力 (episode_overrides.py 適用後)
   catalog/terms.json       … ts_world (= 共有感想板の一覧。作者板と区別するために要る)
-  catalog/slug_overrides.yml … 👤 1.5b の裁定 (confirmed / role: not-an-author)
+  catalog/slug_overrides.yml … T.7.5.1 の人手確認による確定 (confirmed / role: not-an-author)
   ~ts/kansou/bbs@log_.cgi  … **サイト自身の感想板一覧 (290 板)**。「表示名 → 板 id」の
                              権威ある対応表。目録から板がリンクされていない作者を拾う
   ~ts/kansou/bbs@log_*.cgi … 板一覧に載らない板ファイル (<title> から作者名が取れる)
@@ -13,7 +13,7 @@
 
 出力
   catalog/authors.json             … 作者 1 人 1 レコード
-  catalog/slug_overrides.yml       … 板を持たない作者の slug 候補 (👤 1.5b の確認対象)
+  catalog/slug_overrides.yml       … 板を持たない作者の slug 候補 (T.7.5.1 の人手確認の対象)
   catalog/reports/authors_build.json
 
 **同定の考え方** — slug は当時の感想板 id (`~ts/kansou/bbs@log_<id>.cgi`) が最も信頼できる。
@@ -25,7 +25,7 @@
   - 旧目録 (corpus=legacy) には板リンクが無い (作品単位の noteky ノートしかない)。
     表示名で正規目録 (corpus=honkan) 側の作者に寄せ、寄らないものは新規採番
 
-**板 id の情報源は 2 つある** (2026-08-30 追加。review/authors-slugs.md §8-1 の恒久対策):
+**板 id の情報源は 2 つある** (2026-08-30 追加。catalog/review/authors-slugs.md の 8-1 節の恒久対策):
 
   1 目録 (`lib*.html`) の感想リンク … 話ごとに付いている
   2 **サイトの感想板一覧** `~ts/kansou/bbs@log_.cgi` … 板の側から引く対応表
@@ -35,7 +35,7 @@
 板一覧に載らない板ファイル (`bbs@log_memuro_makoto.cgi` 等) も `<title>` から拾う。
 再発防止として、自己検査に**「板一覧が示す板 id と作者 slug の不一致 0」**を置いた。
 
-**作者の併合** — 👤 1.5b の裁定 (`slug_overrides.yml` の `status: confirmed`) で
+**作者の併合** — T.7.5.1 の人手確認による確定 (`slug_overrides.yml` の `status: confirmed`) で
 複数の表示名が同じ slug を指すとき (根室　眞琴 → slents、麗香 → marie、ぽぽ/HIKU → popo、
 海津里花 → aizu_rika 等)、**1 人の作者に統合**し、表示名は `display_variants` に集約する。
 `role: not-an-author` の名前 (シェアワールド) は作者を作らない。
@@ -146,7 +146,7 @@ def parse_index(root):
     """作家別五十音目録 → (rows, yomi_of_name)。
 
     rows = [{path, title, author, homepage, kana, page}] — 題名→作者の第二情報源
-    (タスク 1.8 の目録外収蔵でも使う)。yomi_of_name は表示名 → 所属行 (あ行/A/その他)。
+    (T.7.8 の目録外収蔵でも使う)。yomi_of_name は表示名 → 所属行 (あ行/A/その他)。
     """
     rows, yomi = [], {}
     for page in INDEX_PAGES_OLD:
@@ -291,7 +291,7 @@ def build(root, annex_base=DEFAULT_ANNEX_BASE):
     index_rows, yomi_of = parse_index(root)
     board_of_name, board_stats = parse_boards(root, shared)
 
-    # 👤 1.5b の裁定を先に読む。confirmed は「表示名 → 確定 slug」で、
+    # T.7.5.1 の確定 (confirmed) を先に読む。confirmed は「表示名 → 確定 slug」で、
     # role: not-an-author は「この表示名では作者を作らない」の意。
     overrides_path = os.path.join(cat, 'slug_overrides.yml')
     overrides = slugmod.load_overrides(overrides_path)
@@ -458,7 +458,7 @@ def build(root, annex_base=DEFAULT_ANNEX_BASE):
             old = prev.get(variant)
             if isinstance(old, dict) and old.get('status') == 'confirmed':
                 entries.setdefault(variant, old)
-    for name, rec in prev.items():                 # 作者を作らない名前も台帳に残す
+    for name, rec in prev.items():                 # 作者を作らない名前も slug_overrides.yml に残す
         if isinstance(rec, dict) and rec.get('role') == 'not-an-author':
             entries[name] = rec
     overrides = slugmod.merge_section(overrides, 'authors', entries)
@@ -492,7 +492,7 @@ def build(root, annex_base=DEFAULT_ANNEX_BASE):
             ('homepage', homepage),
             ('homepage_wayback', WAYBACK_FMT % homepage if homepage else None),
             ('homepage_all', [u for u, _ in a['homepages'].most_common()]),
-            ('active_links', []),          # なろう/pixiv 等。7.1 の作者連絡で埋める
+            ('active_links', []),          # なろう/pixiv 等。T.33 の作者連絡で埋める
             ('contact_status', 'uncontacted'),
             ('episode_count', len(a['episodes'])),
             ('corpora', dict(a['corpora'])),
@@ -513,7 +513,7 @@ def build(root, annex_base=DEFAULT_ANNEX_BASE):
 
     # 板一覧との突き合わせ — その作者の表示名がいずれかの板を指しているのに、
     # 作者 slug がどの板 id とも一致しないなら**取りこぼしか誤同定**。
-    # (review/authors-slugs.md §8-1 で 7 名を出した見落としを機械で塞ぐ検査)
+    # (catalog/review/authors-slugs.md の 8-1 節で 7 名を出した見落としを機械で塞ぐ検査)
     board_mismatch = [
         {'slug': a['slug'], 'display_name': a['display_name'],
          'display_variants': a['display_variants'],
@@ -524,7 +524,7 @@ def build(root, annex_base=DEFAULT_ANNEX_BASE):
                        if v.get('role') != 'not-an-author'}
     confirmed_missing = sorted(confirmed_slugs - {a['slug'] for a in out})
     # 板 id は分かっているが、板ログの原本が回収できていない作者。
-    # kansou_annex_url は別館に実体が無い (=書誌カードの「当時の感想を読む」が出せない)。
+    # kansou_annex_url は原本アーカイブに実体が無い (=書誌カードの「当時の感想を読む」が出せない)。
     # 板 id 自体は当時のサイトが付けた正しい値なので slug には使う。
     board_file_missing = sorted(
         a['slug'] for a in out if a['kansou_slug'] and not os.path.exists(
@@ -569,7 +569,7 @@ def build(root, annex_base=DEFAULT_ANNEX_BASE):
         ('authors_with_missing_board_file_slugs', board_file_missing),
         ('board_slug_mismatch', board_mismatch),
         ('board_slug_mismatch_count', len(board_mismatch)),
-        # --- 👤 1.5b の裁定 (confirmed) の反映状況 ---
+        # --- T.7.5.1 の確定 (confirmed) の反映状況 ---
         ('confirmed_names', len(confirmed)),
         ('confirmed_slugs_distinct', len(confirmed_slugs)),
         ('confirmed_slugs_missing_in_authors', confirmed_missing),
@@ -604,7 +604,7 @@ def selftest(payload, report):
           report['display_variant_slots'] - report['display_variants_merged'] == n,
           '%d - %d == %d' % (report['display_variant_slots'],
                              report['display_variants_merged'], n))
-    check('作者数を記録 (台帳の ≈399 は表示名の異なり数であり人数ではない)', True,
+    check('作者数を記録 (T.7.4 の当初の受け入れ条件 ≈399 は表示名の異なり数であり人数ではない。S.174)', True,
           '実測 %d 名 / 表示名 %d 種 / 複数作者が使う表示名 %d 種'
           % (n, report['display_name_strings_distinct'],
              report['display_names_shared_by_authors']))
@@ -624,12 +624,12 @@ def selftest(payload, report):
     check('板を持つ作者の slug は板 id',
           all(a['slug'] == a['kansou_slug'] for a in payload['authors'] if a['kansou_slug']))
     # 感想板一覧 (~ts/kansou/bbs@log_.cgi、290 板) との突き合わせ。
-    # 「板があるのに機械の読みで採番していた 7 名」(review §8-1) の再発を構造的に防ぐ。
+    # 「板があるのに機械の読みで採番していた 7 名」(catalog/review/authors-slugs.md の 8-1 節) の再発を構造的に防ぐ。
     check('confirmed slug と板一覧の不一致 0 (板がある表示名は必ずその板 id を使う)',
           report['board_slug_mismatch_count'] == 0,
           '不一致 %d 件 %s' % (report['board_slug_mismatch_count'],
                                [m['display_name'] for m in report['board_slug_mismatch'][:5]]))
-    check('👤 1.5b の裁定 (confirmed) が全て authors.json に出ている',
+    check('T.7.5.1 の確定 (confirmed) が全て authors.json に出ている',
           not report['confirmed_slugs_missing_in_authors'],
           '未反映 %s' % report['confirmed_slugs_missing_in_authors'][:5])
     check('裁定による作者の併合を記録', True,
