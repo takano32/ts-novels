@@ -13,7 +13,7 @@ WordPress 本館の本番ホストについて、**実際に ssh して確かめ
 | 項目 | 値 |
 |---|---|
 | 調査日 | 2026-08-30 |
-| 方法 | `ssh novels` での**読み取り専用**コマンド + 外部からの `curl`(HTTP GET / HEAD)のみ。設定変更・ファイル作成は一切行っていない |
+| 方法 | `scripts/wp/novels-ssh` での**読み取り専用**コマンド + 外部からの `curl`(HTTP GET / HEAD)のみ。設定変更・ファイル作成は一切行っていない |
 | 未検証事項 | §4 の末尾に明記 |
 
 ---
@@ -21,7 +21,7 @@ WordPress 本館の本番ホストについて、**実際に ssh して確かめ
 ## 1. 接続と身元
 
 ```sh
-ssh novels            # ~/.ssh/config に設定済み。鍵認証・パスフレーズなし
+scripts/wp/novels-ssh  # = ssh -p 10022 -o ForwardAgent=yes novels@sv3.xwp.ne.jp。~/.ssh/config は使わない。鍵認証・パスフレーズなし
 ```
 
 | 項目 | 実測値 |
@@ -228,7 +228,7 @@ curl -sI "https://novels.xwp.jp/works/?_cb=$RANDOM"
    構造を確認したいときは中身を見ずに済む読み方をする:
 
    ```sh
-   ssh novels 'grep -n "^\s*#" ~/novels.xwp.jp/public_html/.htaccess'   # マーカーだけ
+   scripts/wp/novels-ssh 'grep -n "^\s*#" ~/novels.xwp.jp/public_html/.htaccess'   # マーカーだけ
    ```
 4. 変更直後に **無関係な URL が 200 のままか**を curl で確認する。壊れていたら即 `.bak` を戻す。
 5. 検証済みで使える機能(v1.1 で確認済み・本調査でも `.htaccess` に実在を確認):

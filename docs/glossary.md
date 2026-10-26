@@ -125,7 +125,7 @@ NFC 正規化した文字列が原本と完全一致すること」を機械検�
 
 ## 移築先の環境
 
-**xwp** — Xserver for WordPress(`novels.xwp.jp`、`ssh novels`)。nginx キャッシュ → Apache →
+**xwp** — Xserver for WordPress(`novels.xwp.jp`、`scripts/wp/novels-ssh`)。nginx キャッシュ → Apache →
 PHP 8.0 の構成。**ファイル名に `.cgi` を含む URL を前段の nginx が一律 403 にする**制約があり、
 これが別館を GitHub Pages に残す直接の理由。詳細は [environment.md](environment.md)。
 

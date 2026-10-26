@@ -20,14 +20,15 @@
 | Python 環境 | `.venv/` | × | `make venv` で作り直す (版は Makefile で固定済み) |
 | 本文の生成物 | `bodies/` (123MB) `payloads/` (178MB) `payloads-docs/` | × | **作り直す** (手順 3)。rsync で運んでもよいが、作り直して差分ゼロを確かめる方が移設の検証になる |
 | サルベージ途中の資材 | `~/ts-novels-holding/` (59MB) | × | **rsync で運ぶ**。作り直せない (取得済みの Wayback/CC の状態ファイル等) |
-| ssh 設定 | `~/.ssh/config` の `Host novels` | × | 旧機のブロックをそのままコピー。新機の公開鍵を本番 (Xserver パネル) に登録 |
+| ssh 接続先 | `scripts/wp/novels-ssh` | ○ | `~/.ssh/config` は不要 (接続先はラッパに書いてある)。新機の公開鍵を本番 (Xserver パネル) に登録し、初回接続でホスト鍵を受け入れる |
 | Claude の memory | `~/.claude/projects/<パス鍵>/memory/` | × | コピー (手順 5) |
 
 ## 2. 新サーバの前提
 
 - `git` `rsync` `curl` `make` `python3` (3.11 以上。旧機は 3.14)
 - **PHP は不要** — 構文検査は deploy.sh が本番サーバの PHP 8.0 で行う
-- GitHub への push 権限 (ssh 鍵) と `ssh novels` が通ること
+- GitHub への push 権限 (ssh 鍵) と `scripts/wp/novels-ssh true` が通ること
+  (ホスト鍵 `[sv3.xwp.ne.jp]:10022` ECDSA SHA256:a0gd1KO5BA+7RXOznQtr4Ta5zVf89AUTaSd++QDd5k0)
 
 ## 3. 手順
 
@@ -49,15 +50,22 @@ python3 scripts/wp/payload_build.py   # 「無損失検査: OK」「残存 0 本
 python3 scripts/wp/docs_build.py
 
 # 3-5 本番への疎通 (読み取りのみ)
-ssh novels 'cd ~/novels.xwp.jp/public_html && wp ts verify | tail -1'   # Success: verify OK
-scripts/wp/deploy.sh                  # 引数なし = dry-run。転送予定が差分のみ (ほぼ 0) であること
+scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp ts verify | tail -1'   # Success: verify OK
+scripts/wp/deploy.sh                  # 引数なし = dry-run。エラーなく最後まで通ること
+
+# 3-6 生成物が本番と同じ中身か (checksum 比較。転送予定が 0 件であること)
+for d in bodies payloads payloads-docs; do
+  printf '%s: ' $d
+  rsync -rnc -i -e scripts/wp/novels-ssh $d/ novels:"~/novels.xwp.jp/repo/$d/" | grep -c '^<f'
+done
 ```
 
-3-5 の dry-run で payloads/ などに大量の転送予定が出たら、生成物が旧機と違う。
+deploy.sh は時刻を保たない rsync なので、dry-run の一覧には毎回全件が出る (`<f..T` = 時刻だけ違う)。
+中身の一致は 3-6 の checksum 比較で見る。ここで 1 件でも出たら生成物が旧機と違う。
 **`--apply` せずに原因を調べる** (本番の本文を書き換えてしまうため)。
 
 ```bash
-# 3-6 holding とメモリを旧機から運ぶ (旧機で実行)
+# 3-7 holding とメモリを旧機から運ぶ (旧機で実行)
 rsync -av ~/ts-novels-holding/ NEWHOST:~/ts-novels-holding/
 ```
 
@@ -65,7 +73,7 @@ rsync -av ~/ts-novels-holding/ NEWHOST:~/ts-novels-holding/
 
 - **deploy.sh は origin/master に含まれるコミットしか配備しない**。先に push する
 - `wp ts reset --yes` は Claude Code の権限分類器に止められる。必要なら所有者に
-  `! ssh novels 'cd ~/novels.xwp.jp/public_html && wp ts reset --yes'` を手で打ってもらう。
+  `! scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp ts reset --yes'` を手で打ってもらう。
   reset 後は eyecatch の再設定が要る (`docs/rebuild-runbook.md` §2-C)
 - `wp ts import --bodies=` には **payloads/** を渡す (bodies/ を渡すと全話がプレースホルダ本文になる)
 - 本番の `.htaccess` 全文・CloudSecure のログイン URL は文書にもコミットにも書かない
@@ -89,8 +97,10 @@ memory を運べなかった場合でも、同じ内容は `docs/cp4-review.md` 
 
 ## 6. 移設が終わった判定
 
-- [ ] `make catalog` 後に `git status` が空、`make check` の NG が 0
-- [ ] `payload_build.py` が無損失 OK・アドレス残存 0
-- [ ] `ssh novels … wp ts verify` が OK
-- [ ] `deploy.sh` (dry-run) の転送予定がほぼ 0
-- [ ] `~/ts-novels-holding/` と memory を運んだ
+- [x] `make catalog` 後に `git status` が空、`make check` の NG が 0
+- [x] `payload_build.py` が無損失 OK・アドレス残存 0
+- [x] `scripts/wp/novels-ssh … wp ts verify` が OK
+- [x] `deploy.sh` (dry-run) が通り、3-6 の checksum 比較が全て 0 件
+- [x] `~/ts-novels-holding/` と memory を運んだ
+
+2026-10-26 新機 `a1-free` で全項目を確認済み (checksum 比較は 3 系統とも 0 件、mu-plugins・テーマも一致)。

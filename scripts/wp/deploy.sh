@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# 本番 (ssh novels = novels.xwp.jp) への配備 (タスク 2.3。Fable 所管 — 本番を触るコード)。
+# 本番 (scripts/wp/novels-ssh = novels.xwp.jp) への配備 (タスク 2.3。Fable 所管 — 本番を触るコード)。
 #
 # 既定は DRY-RUN。実際に書き込むには --apply を付ける。
 #   scripts/wp/deploy.sh            # 何が起きるかだけ表示 (rsync -n)
@@ -20,14 +20,15 @@
 #   - 配備後の検証 curl はキャッシュバスター付きで行うこと (このスクリプトの外)
 set -euo pipefail
 
-HOST=novels
+HOST=novels   # rsync の宛先表記用。実際の接続先は scripts/wp/novels-ssh が持つ
 REMOTE_BASE='~/novels.xwp.jp'
 REPO_URL='https://github.com/takano32/ts-novels'
 LOCAL_ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
+RSH="$LOCAL_ROOT/scripts/wp/novels-ssh"
 
 APPLY=0
 [[ "${1:-}" == "--apply" ]] && APPLY=1
-RSYNC_FLAGS=(-rv --no-perms --no-owner --no-group)
+RSYNC_FLAGS=(-rv --no-perms --no-owner --no-group -e "$RSH")
 (( APPLY )) || RSYNC_FLAGS+=(-n)
 
 HEAD_LOCAL=$(git -C "$LOCAL_ROOT" rev-parse HEAD)
@@ -43,7 +44,7 @@ if [ -n "$PHP_FILES" ]; then
   echo "-- $(echo "$PHP_FILES" | wc -l) ファイル"
   # サーバの PHP (8.0) で検査する。壊れたコードを本番に置いてから気づくのを避けるため配備前に行う
   # (process substitution は使わない — リモートのログインシェルが bash とは限らない)
-  if ! tar -C "$LOCAL_ROOT" -cf - $PHP_FILES | ssh "$HOST" '
+  if ! tar -C "$LOCAL_ROOT" -cf - $PHP_FILES | "$RSH" '
       d=$(mktemp -d) && tar -xf - -C "$d" || exit 1
       out=$(find "$d" -name "*.php" -exec php -l {} \; 2>&1 | grep -v "No syntax errors" || true)
       rm -rf "$d"
@@ -56,11 +57,11 @@ fi
 
 echo "== [1/6] サーバ側 repo を $HEAD_LOCAL に合わせる"
 if (( APPLY )); then
-  ssh "$HOST" "if [ ! -d $REMOTE_BASE/repo/.git ]; then git clone --depth 100 '$REPO_URL' $REMOTE_BASE/repo; fi
+  "$RSH" "if [ ! -d $REMOTE_BASE/repo/.git ]; then git clone --depth 100 '$REPO_URL' $REMOTE_BASE/repo; fi
     cd $REMOTE_BASE/repo && git fetch --depth 100 origin master && git checkout -q '$HEAD_LOCAL' \
     && echo 'repo @' \$(git rev-parse --short HEAD)"
 else
-  echo "(dry-run) ssh $HOST git clone/fetch/checkout $HEAD_LOCAL"
+  echo "(dry-run) novels-ssh: git clone/fetch/checkout $HEAD_LOCAL"
 fi
 
 echo "== [2/6] bodies/ と payloads/ (git 管理外の生成物) を rsync"
@@ -85,7 +86,7 @@ rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/mu-plugins/ts-library/" \
       "$HOST:$REMOTE_BASE/public_html/wp-content/mu-plugins/ts-library/" | tail -3
 if (( APPLY )); then
   echo "-- 配備後の再検査 (転送で壊れていないか)"
-  ssh "$HOST" "find $REMOTE_BASE/public_html/wp-content/mu-plugins/ts-library \
+  "$RSH" "find $REMOTE_BASE/public_html/wp-content/mu-plugins/ts-library \
       $REMOTE_BASE/public_html/wp-content/mu-plugins/ts-library-loader.php \
       -name '*.php' -exec php -l {} \; | grep -v 'No syntax errors' || true"
 fi
@@ -100,7 +101,7 @@ echo "== [5/6] 画像 (novel/ + ~yays/gallery/ の画像) → assets/annex-img/ 
 IMG_LIST=$(mktemp)
 git -C "$LOCAL_ROOT" ls-files novel '~yays/gallery' | grep -Ei '\.(jpe?g|gif|png|bmp)$' > "$IMG_LIST" || true
 if [ -s "$IMG_LIST" ]; then
-  (( APPLY )) && ssh "$HOST" "mkdir -p $REMOTE_BASE/public_html/assets/annex-img"
+  (( APPLY )) && "$RSH" "mkdir -p $REMOTE_BASE/public_html/assets/annex-img"
   echo "-- $(wc -l < "$IMG_LIST") 点"
   rsync "${RSYNC_FLAGS[@]}" --files-from="$IMG_LIST" "$LOCAL_ROOT/" \
         "$HOST:$REMOTE_BASE/public_html/assets/annex-img/" | tail -2

@@ -24,7 +24,7 @@
 語彙頻度表は catalog_build の出力から再集計(survey には top-50 しか残っていない)。
 
 **環境の確定事実**(調査済み・再確認不要):
-- 本番: `ssh novels` = Xserver for WordPress。`https://novels.xwp.jp`、WP 設置済み、
+- 本番: `scripts/wp/novels-ssh` = Xserver for WordPress。`https://novels.xwp.jp`、WP 設置済み、
   wp-config.php は `~/novels.xwp.jp/` 直下、公開ルートは `~/novels.xwp.jp/public_html/`
 - サーバ内ツール: WP-CLI 2.8.1 / mysql / rsync / git / **PHP 8.0.30**(コードは 8.0 互換)/ python3.6
 - 構成: nginx キャッシュ → Apache(.htaccess 有効)→ PHP。`Header set X-Robots-Tag` ✓・
