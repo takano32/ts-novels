@@ -3,7 +3,7 @@
 - 種類: 仕様
 - 状態: 有効
 - 出典: docs/cluster-overrides-spec.md の冒頭と「1. catalog/work_overrides.yml のスキーマ (version 2)」
-- 関連: T.24.1, S.43, S.107
+- 関連: T.24.1, S.43, S.107, S.218
 
 ## 作品クラスタの手動修正の仕様 v1 (2026-10-26)
 
@@ -12,7 +12,7 @@
 版違いの整理 (S.137〜S.145) はこの修正の**後**に行う (束ね直すと版グループが変わる)。
 背景: `work_builder.py` の規則 5 (同一ディレクトリ・同一作者の連番ファイル名) と規則 6 (題名の芯の一致) が別作品を束ねる例が 71 作品あり、
 `work_overrides.yml` は現状 `work_title` と `note` しか効かない。T.7.5.1 (S.176) で確認したのは slug だけで、クラスタ本体は未確認
-([`../catalog/review/works-risk-note.md`](../catalog/review/works-risk-note.md))。
+(S.218。元の `catalog/review/works-risk-note.md`)。
 
 ### 1. `catalog/work_overrides.yml` のスキーマ (version 2)
 

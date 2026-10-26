@@ -3,7 +3,7 @@
 - 種類: 記録
 - 状態: 有効
 - 出典: docs/wp-implementation-tasks.md の「Phase 1」の 1.1
-- 関連: T.7.1, S.8, S.11
+- 関連: T.7.1, S.8, S.11, S.212
 
 ## T.7 — catalog 確立(目安 2〜3 週。ここが土台)
 
@@ -24,7 +24,7 @@
         2,887 エントリ / パース失敗 0 / mailto 264 アドレスを除去し残存 0 /
         provenance 被覆率 93.35%(2,695/2,887。残り 192 は原本ファイルが未回収の話 186 +
         外部 URL 6 で、回収されていない以上は経路も無い)。
-        レポートは `catalog/reports/catalog_build.json`、欄の説明は `catalog/README.md`。
+        レポートは `catalog/reports/catalog_build.json`、欄の説明は S.212 (元の `catalog/README.md`)。
       - **タスクリストの記述の訂正 3 点**(実物を見て判明):
         (a) provenance の出所は `collinfo.json` **ではない** — 中身は CommonCrawl の
         コレクション一覧 127 件で来歴情報を持たない。実際の出所は **git 履歴**(回収コミットの

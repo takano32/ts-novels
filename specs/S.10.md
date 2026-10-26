@@ -3,14 +3,14 @@
 - 種類: 手順
 - 状態: 有効
 - 出典: docs/wp-implementation-tasks.md の「0. 実行セッションの心得」の「普遍ルール」
-- 関連: T.27.6, S.5, S.67
+- 関連: T.27.6, S.5, S.67, S.210
 
 **普遍ルール**:
 1. **単一真実源は `catalog/`**。WP DB は使い捨ての派生ビュー。WP 管理画面での手動編集は禁止、
    修正は必ず catalog 側 overrides ファイルで
 2. すべてのインポートは冪等(上記キーで upsert)。**受け入れ条件は「2 回連続実行で 2 回目が
    created=0 / updated=0」**。import コマンドは created/updated/skipped を集計出力すること
-3. 新スクリプトは `scripts/wp/` に置き、`scripts/README.md` に 1 行追記してコミット
+3. 新スクリプトは `scripts/wp/` に置き、ツールの一覧 S.210 (元の `scripts/README.md`) に 1 行追記してコミット
 4. メールアドレス(mailto 由来の値)は catalog 生成段階で除去し、**WP の DB に入れない**
    (**目録メタだけでなく本文も**。本文は `payload_build.scrub_addresses` が担当し、
    出荷前の自己検査で残存 0 を機械判定する。2026-08-30 のレビューで本文経路の抜けが発覚した)

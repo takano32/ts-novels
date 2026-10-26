@@ -226,7 +226,7 @@ def main(argv=None):
              '作品 slug と分類語彙 slug は**サイト所有者の決定により自動生成のまま採用**する'
              '(確認しない)ので、上の「確認待ち」は残ったままでよい。\n')
     if aut and aut.get('author_merges'):
-        L.append('\n併合した作者 (裁定 = `catalog/review/authors-slugs.md`):\n')
+        L.append('\n併合した作者 (裁定 = `specs/S.217.md`):\n')
         for m in aut['author_merges']:
             L.append('- `%s` ← %s' % (m['slug'], ' / '.join([m['kept']] + m['merged'])))
         L.append('')

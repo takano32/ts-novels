@@ -3,7 +3,7 @@
 - 種類: 設計
 - 状態: 有効
 - 出典: docs/owner-feedback-2026-10.md の「11. 72 時間の明記をやめ、…」
-- 関連: T.26, T.17, S.124〜S.136
+- 関連: T.26, T.17, S.124〜S.136, S.215
 
 ## 11. 72 時間の明記をやめ、専用フォーム → 10 日後に自動取り下げ → 運営委員がオーバーライド
 
@@ -24,7 +24,7 @@
 ```
 
 1. **窓口**: `/takedown/` に mu-plugin のフォーム (`admin-post.php` の nopriv アクション。外部プラグインなし)。項目: 当時のペンネーム / 対象 URL (複数可) / 連絡先メール / 立場 (作者本人・権利継承者・その他) / 本人確認の手がかり (任意) / 自由記述 / 名前の掲示可否。スパム対策: nonce・honeypot・送信所要時間・IP 単位 rate limit (transient)・**確認メール必須**。GitHub Issue の記載は削除し、メール窓口を併記。
-2. **保存**: CPT `ts_takedown_request` (`public=false`、管理画面は運営委員のみ)。連絡先は WP の DB にだけ置き (dump は私有ストレージ)、リポジトリには書かない (`takedown/README.md` の約束を維持)。`wp ts reset` の対象に**入れない**。
+2. **保存**: CPT `ts_takedown_request` (`public=false`、管理画面は運営委員のみ)。連絡先は WP の DB にだけ置き (dump は私有ストレージ)、リポジトリには書かない (S.215 (元の `takedown/README.md`) の約束を維持)。`wp ts reset` の対象に**入れない**。
 3. **自動適用** (`applied`): 対象投稿 (+ 子) を `private` + `_ts_visibility=withdrawn`、`ts_takedown_urls` 更新、`/removed/` は **WP の withdrawn 投稿から動的生成**に切り替える (手書きをやめる)。
 4. **運営委員の操作**: 申請の編集画面にボタン 3 つ (承認して即時適用 / 却下 / 復帰)。却下は自動適用を止めるだけで記録は残す。
 5. **通知** (`wp_mail`): 受付 → 依頼者に確認リンク / 確認 → 運営委員全員 (「YYYY-MM-DD に自動適用」) / T0+7 日 → 運営委員にリマインド / 適用・却下 → 依頼者 + 運営委員。

@@ -3,7 +3,7 @@
 - 種類: 記録
 - 状態: 有効
 - 出典: docs/wp-implementation-tasks.md の 1.3
-- 関連: T.7.3, S.22
+- 関連: T.7.3, S.22, T.42.1
 
 - [x] 1.3 `scripts/wp/terms_build.py`: `catalog/terms.json` 生成
       - genre 244→約 30 語・type 187→約 25 語。正規化マップは `catalog/genre_map.yml` /

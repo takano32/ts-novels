@@ -6,9 +6,10 @@
 |---|---|---|---|
 | 説明 | `docs/` | この DOCS.md | 人が通して読むための説明。仕様の正ではない |
 | 仕様 (S) | `specs/S.n.md` | [SPECS.md](SPECS.md) | 設計・仕様・実測・手順・記録・用語。1 話題 1 ファイル。仕様の正 |
-| 作業 (T) | [TASKS.md](TASKS.md) | — | やること・完了条件・参照する S と、現在地 (S.4) |
+| 作業 (T) | `tasks/T.n.md` | [TASKS.md](TASKS.md) | やること・完了条件・参照する S と、現在地。大項目ごとに 1 ファイル |
 
-`docs/` に書いてあることはすべて S と TASKS.md からの要約です。文中の「(S.50)」のような番号は、その事実の出典です。
+この 3 つのほかに説明の文書は置きません。ルートの [README.md](README.md) は GitHub の表紙で、ディレクトリに残っている README は説明を移した先への案内だけです (S.220)。
+`docs/` に書いてあることはすべて S と tasks/ (一覧は TASKS.md) からの要約です。文中の「(S.50)」のような番号は、その事実の出典です。
 docs にしか無い仕様や決定は作らず、S を変えたら関係する docs も直します。
 S と食い違うところを見つけたら S を信じてください (S.2)。
 
@@ -45,16 +46,17 @@ S と食い違うところを見つけたら S を信じてください (S.2)。
 | [architecture.md](docs/architecture.md) | 仕組み。原本アーカイブ・目録データ (catalog)・本文の変換・配備・WP サイトの中身・本番環境の制約・取り下げの仕組み |
 | [operations.md](docs/operations.md) | 運用の手引き。公開 (配備)・失敗したときの戻し方・やり直し・削除依頼への対応・作業場所の移設・定期の作業 |
 | [owner-guide.md](docs/owner-guide.md) | 八重洲さんと運営委員の方へ。サイトで何ができるか、取り下げや版違いがどう扱われるか、お願いしたい判断 |
+| [tools.md](docs/tools.md) | ツールの使い方。スクリプトの置き場所、Makefile の入口、サルベージのやり直し・配備・スクリプトの足し方 |
 
 ## 誰が何を読めばよいか
 
 | 読む人 | 最初に読むもの | 次に |
 |---|---|---|
-| **高野さん** (運営者。配備・本番・人として行う連絡の担当) | [overview.md](docs/overview.md) の「これから」と [operations.md](docs/operations.md) | TASKS.md で「(高野さんの作業)」と書かれた行。本番に触るときは S.67 |
+| **高野さん** (運営者。配備・本番・人として行う連絡の担当) | [overview.md](docs/overview.md) の「これから」と [operations.md](docs/operations.md) | tasks/ で「(高野さんの作業)」と書かれた行 (一覧は TASKS.md)。本番に触るときは S.67 |
 | **八重洲さん** (サイト所有者・元運営者) | [owner-guide.md](docs/owner-guide.md) | 所有者に確認すること S.114、レビュー用の URL S.92 |
 | **後から入る作業者や AI** | この DOCS.md、[overview.md](docs/overview.md)、[architecture.md](docs/architecture.md) | SPECS.md の「後で読む AI が最初に読む S」(S.2・S.5・S.10・S.15・S.43・S.98〜S.99)。立場別の読み順は S.1 |
 
 ## ほかの文書
 
-- ルートの [README.md](README.md) — 原本ミラーの成り立ちと回収の来歴 (S.2)。
-- [scripts/README.md](scripts/README.md) はツールの使い方、[catalog/README.md](catalog/README.md) は目録データの欄の意味です (S.2)。
+- 原本ミラーの成り立ちと回収の来歴は S.205〜S.208 (元はルートの README.md)。
+- ツールの一覧と引数は S.209〜S.210 (元は scripts/README.md。手引きは [tools.md](docs/tools.md))、目録データの欄の意味は S.211〜S.214 (元は catalog/README.md) です (S.2)。

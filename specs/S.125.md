@@ -3,7 +3,7 @@
 - 種類: 仕様
 - 状態: 有効
 - 出典: docs/takedown-form-spec.md の「2. データ」
-- 関連: T.26.3.1
+- 関連: T.26.3.1, S.215
 
 ## 2. データ
 
@@ -23,5 +23,5 @@
 | `_tr_resolved_at` `_tr_resolution_note` `_tr_resolved_by` | 承認・却下・復帰の記録 (理由は内部メモ) |
 | `_tr_ip_hash` `_tr_ua` | 受付時の送信元 (ハッシュ) と UA |
 
-- 連絡先は WP の DB にだけ置く。**リポジトリ (`takedown/denylist.yml`) には書かない** (`takedown/README.md` の約束)。DB dump は私有ストレージへ (既存運用 T.38.1)。
+- 連絡先は WP の DB にだけ置く。**リポジトリ (`takedown/denylist.yml`) には書かない** (S.215 (元の `takedown/README.md`) の約束)。DB dump は私有ストレージへ (既存運用 T.38.1)。
 - 保持: 解決 (`applied`/`rejected`/`reinstated`/`expired`) から **`RETENTION_DAYS` (既定 365 日)** 経過で `_tr_contact` `_tr_evidence` `_tr_message` `_tr_ip_hash` `_tr_ua` を消す (申請の骨格と結果は残す)。

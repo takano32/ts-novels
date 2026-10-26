@@ -1,7 +1,7 @@
 # 少年少女文庫 → WordPress ライブラリ: catalog の再生成
 #
 #   make catalog   … 単一真実源 catalog/ を素の状態から作り直す (T.7、specs/S.171.md〜S.180.md)
-#   make check     … ファイルを書かずに各段の自己検査だけ走らせる
+#   make check     … ファイルを書かずに各段の自己検査と文書の検査 (scripts/doc_check.py) だけ走らせる
 #   make qa        … catalog/reports/*.json から catalog/QA.md を書き直す
 #   make venv      … pykakasi / PyYAML / beautifulsoup4 / html5lib を入れた .venv を作る
 #                    (開発機のみ。git 管理外)
@@ -49,6 +49,7 @@ check:
 	$(PYTHON) $(WP)/terms_build.py --check
 	$(PYTHON) $(WP)/authors_build.py --check
 	$(PYTHON) $(WP)/work_builder.py --check
+	$(PYTHON) scripts/doc_check.py            # 文書 (docs / specs / tasks) の番号・リンク・一覧・使わない語 (specs/S.219.md)
 
 qa:
 	$(PYTHON) $(WP)/qa_report.py

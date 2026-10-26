@@ -1,0 +1,94 @@
+# S.209 サルベージ用ツール (scripts/) の一覧と引数
+
+- 種類: 仕様
+- 状態: 有効
+- 出典: scripts/README.md の冒頭から「典型的な再実行手順」まで (2026-10-26 にここへ移した)
+- 関連: T.3.1, T.4.2, S.17, S.206, S.210
+
+## scripts/ — 回収・監査・変換ツール一式
+
+ミラー本体ではなく、サルベージと検証に使ったツール群。すべて標準ライブラリのみの Python 3
+（`workflows/` は Claude Code の Workflow ツール用 JavaScript）。
+
+用語（**WP サイト** = 移築先の WordPress / **原本アーカイブ** = 原本を保つ GitHub Pages ミラー /
+**旧サイト** = 消滅した原サイト、ほか）は [`specs/S.14.md`〜`S.19.md`](S.14.md) を優先する (呼び分けは S.15)。
+**この 3 語は内部用語**で、生成物のうち読者の目に触れる文言には使わない。
+
+## 監査・修正
+
+- **audit_full.py** — 全 HTML の内部リンク監査。href/src/action/background を抽出し、
+  サイト族ホストの写像・クエリ→`name@query.ext` 規約・ルート相対・拡張子なしルートを解決して
+  解決/未解決を集計。未解決ターゲットは `missing_targets.json` に出力。
+- **fix_links.py** — 未解決リンクの構造的修正候補（深さずれ・セグメント重複・`&amp;` 二重
+  エスケープ変種・雛形ページ等）を生成し、**一意に既存ファイルへ解決する場合のみ**書き換える。
+  既定はドライラン、`--apply` で適用。
+- **gapfill_basename.py** — 本体ツリーの欠落ファイルを、旧世代ツリー（~yays/library・~ezpe）から
+  **basename 一意照合**で補完コピー。雛形ページ（library.html 等）は除外。`--apply` で適用。
+
+## Wayback 回収パイプライン
+
+1. **cdx_dump.py `<outdir>`** — 全ホスト系統（novels.jp ドメイン・~yays・~ezpe・novels.name
+   ドメイン・raa0121・ts-novels.jp・sts）の CDX を resumeKey ページングで全量ダンプ。
+2. **cdx_recover.py `<dumpdir>` `<manifest.json>`** — ダンプをリポジトリ規約名に写像して
+   未収ファイルを列挙し、URL ごとに最良キャプチャ（HTML は length>700 の最新 200）を選んだ
+   取得マニフェストを生成。
+3. **wb_fetch.py `<manifest>` `<stagedir>`** — keep-alive 持続接続 ×5 で `id_`（raw）モード一括取得。
+   既取得スキップ・リダイレクト追従・429 バックオフ・ファイル/ディレクトリ衝突回避。
+   逆順マニフェストで 2 プロセス並走可（同一 stage、両端から挟む）。
+4. **wb_retry.py `<dumpdir>` `<failed.json>` `<stagedir>`** — 再生 404 を URL の全キャプチャ
+   新→旧で再試行。
+5. **place_convert.py** — `--place <stagedir>`: エラースタブ（内容マーカー+サイズ）を弾いて
+   リポジトリへ配置（**まず raw をコミットすること**）。`--convert <list>`: SJIS/EUC→UTF-8・
+   meta charset 書き換え・広告 script 除去・リンクのリポジトリ規約名化。
+   `--relink`: 既存全ページの絶対 URL を、現存する回収ファイルへの相対リンクに書き換え。
+
+## 他アーカイブのプローブ
+
+- **megalodon_probe.py `<urls.txt>` `<out.json>`** — ウェブ魚拓の `?url=` 照会を 1.15 秒間隔で
+  総当たりし、`/ref/` キャプチャ URL を収集。
+- **timetravel_probe.py `<urls.txt>` `<out.json>`** — Memento TimeTravel 横断照会
+  （archive.today・NDL WARP 等をまとめて確認）。
+- **cc_probe.py `<urls.txt>` `<out.json>` [--colls=…]** — CommonCrawl の per-collection index を
+  照会。**非常に遅い**のでバックグラウンド実行前提。
+- **live_probe.py `<list.tsv>` `<stagedir>`** — 生存中サーバへの直接プローブ
+  （www14.big.or.jp の広告 soft-404 を size+マーカーで除外）。
+
+## 第4次サルベージ (復元範囲拡張) のツール
+
+- **reverse_missing_urls.py `<missing.json>` `<out.tsv>`** — 監査の欠落ターゲットを元 URL に逆写像
+  (既知の @ マングル族 log/res/noteky/karte 等を復元。不明形式はスキップ)。各プローブの共通入力。
+- **at_sweep.py `<out.json>` `<prefix>…`** — archive.today のドメインワイルドカード一覧
+  (`archive.md/<prefix>*`) を巡回し、捕獲されている元 URL を列挙。CAPTCHA 検出で中断。
+- **cc_zipnum_sweep.py `<urls.tsv>` `<out.jsonl>` [collフィルタ]** — CommonCrawl 全コレクションを
+  **API を使わず** cluster.idx の HTTP レンジ二分探索 + 該当 cdx ブロックのレンジ取得で照会
+  (`COLLINFO=collinfo.json` でコレクション一覧をローカル参照)。同一ドメインの URL は同じブロックに
+  固まるため全 127 コレクションでも現実的。
+- **cdx_single_host.py `<host>` `<topdir>` `<out.json>`** — 新発見ホストの CDX ダンプ+
+  wb_fetch 用マニフェスト生成の一発ツール (aetherworks.org 回収で使用)。
+- **bcwiki_fetch.py `<stagedir>` [--attach] [--media] [--relink]** — 現存する作者サイト
+  `bc-cafe.net/bcwiki.old/` (きりか進ノ介さん。既収蔵 `kirika.novels.name/wiki` の後継で
+  今も稼働) の PukiWiki を丸ごと回収。`?cmd=list` でページ一覧、`?plugin=attach&pcmd=list` で
+  添付一覧を取り、`?plugin=attach&pcmd=open` 経由で添付を落とす (`attach/` 直下は 403)。
+  ファイル名は kirika.novels.name/wiki と同じ `index@<クエリの % 除去>` 規約なので
+  旧ミラーとページ単位で突き合わせられる。`--relink` は収蔵後に、ページ内の絶対 URL を
+  ミラー内の相対パスへ書き換える (place_convert の一般写像はクエリを unquote するため
+  EUC-JP の %XX 名と食い違う。ここでは回収時の URL→ファイル名対応表をそのまま使う)。
+
+## workflows/
+
+- **wp-library-understand.js** — WordPress ライブラリ化のための 8 視点並列調査
+  （目録スキーマ・作品モデル・分類語彙・作者・コミュニティ層・世代・本文形式・権利/運用）。
+- **wp-library-design.js** — 調査結果（`args.survey`）を入力に、4 独立設計案 → 3 審査員 →
+  統合設計を生成する設計パネル。
+
+## 典型的な再実行手順
+
+```sh
+python3 scripts/cdx_dump.py /tmp/cdx_dumps
+python3 scripts/cdx_recover.py /tmp/cdx_dumps /tmp/manifest.json
+python3 scripts/wb_fetch.py /tmp/manifest.json /tmp/stage     # 必要なら逆順でもう1本
+python3 scripts/place_convert.py --place /tmp/stage           # → git commit (raw)
+python3 scripts/place_convert.py --convert /tmp/stage/_placed.txt
+python3 scripts/fix_links.py --apply && python3 scripts/place_convert.py --relink
+python3 scripts/audit_full.py                                 # 検証
+```
