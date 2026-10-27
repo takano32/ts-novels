@@ -12,7 +12,7 @@
 
 | `_ts_visibility` | 意味 | 付随メタ | 設定する主体 |
 |---|---|---|---|
-| `withdrawn` | 取り下げ (作者の申し出・運営判断) | `_ts_takedown_id` = `TD.n` (denylist。TODO.md と共通の番号) または `req:<申請の post ID>` (フォーム) | `wp ts apply-takedown` / 取り下げ申請の自動適用・承認 |
+| `withdrawn` | 取り下げ (作者の申し出・運営判断) | `_ts_takedown_id` = `S.n` (denylist の id = その取り下げの記録の S 番号) または `req:<申請の post ID>` (フォーム) | `wp ts apply-takedown` / 取り下げ申請の自動適用・承認 |
 | `superseded` | 旧版 (同じ作品の新しい版がある) | `_ts_superseded_by` = 新版の `episode_id` (親 work なら新版の `work_slug`) | `wp ts import` (catalog の `superseded_by`。S.137〜S.145) |
 | (無し) | 公開 | — | `wp ts import` |
 

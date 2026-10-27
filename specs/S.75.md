@@ -32,7 +32,7 @@
    `applied` は全て `null`。
 
 ```yaml
-- id: TD.1
+- id: S.222
   target: { kind: work, value: <work_slug> }      # or episode / annex_path / author
   reason: <1 行の内部向け理由>
   reason_class: author_request

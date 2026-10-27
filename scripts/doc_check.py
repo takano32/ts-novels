@@ -8,7 +8,7 @@
   4. SPECS.md の一覧と specs/ が一致する (番号の欠け・重複、題名・種類・状態)
   5. TASKS.md の一覧と tasks/ が一致する (番号の欠け・重複、題名・状態)。tasks/T.n.md の書式
   6. SPECS.md・TASKS.md の「いまの最後は … 次は …」が実際の最後の番号と合う
-  8. TD 番号 (TD.n) が TODO.md の行として実在し、takedown/denylist.yml の id が TODO.md にある
+  8. takedown/denylist.yml の各 id が S 番号で、specs/S.n.md として実在する (取り下げの記録の S。S.221)
   7. 使わない語 (旧形式の取り下げ番号・§・台帳・Phase n・CP-4・👤・本館/別館/旧館・正典・Tier A/B/C・OF/VR/TF/VS/CO の単独語)
      と、エージェントが作った識別子 (要決定事項の Q 番号・不具合の (A) 記号・丸数字・設計の版 v1.n・文書の版 v0/v1・
      計画の第 n 段・「S.n の 記号/番号」・決定 n・取り下げ番号の旧略記 TD-0・cat + 数字・T0/T+n・審査員 n・
@@ -26,7 +26,8 @@ import sys
 from pathlib import Path
 
 BANNED = [
-    ('旧形式の取り下げ番号', re.compile(r'TD-(?:20[0-9][0-9]|YYYY)-')),
+    ('廃止した取り下げ番号 (TD-…・TD.n)', re.compile(r'TD-(?:20[0-9][0-9]|YYYY|0)|(?<![\w.])TD\.(?:[0-9]|n\b)')),
+    ('廃止した TODO.md', re.compile(r'TODO\.md')),
     ('§', re.compile(r'§')),
     ('台帳', re.compile(r'台帳')),
     ('Phase n', re.compile(r'Phase [0-9]')),
@@ -60,14 +61,12 @@ S_REF = re.compile(r'(?<![\w.])(?<!次は )S\.([0-9]+)(?:〜S\.([0-9]+))?(?![0-9
 T_REF = re.compile(r'(?<![\w.])(?<!次は )(T\.[0-9]+(?:\.[0-9]+)*)(?![0-9])')
 CODE = re.compile(r'`[^`]*`')
 LINK = re.compile(r'\]\(([^)\s]+)\)')
-TD_REF = re.compile(r'(?<![\w.])(?<!次は )(TD\.[0-9]+)(?![0-9])')
-TD_ITEM = re.compile(r'^\s*- \[[ x]\] (TD\.[0-9]+)(?![0-9])')
 TASK_ITEM = re.compile(r'^\s*- \[([ x])\] (T\.[0-9]+(?:\.[0-9]+)*)(?![0-9.])')
 STATES_T = ('完了', '未了', '一部完了')
 
 
 def doc_files(root):
-    files = [root / n for n in ('README.md', 'DOCS.md', 'SPECS.md', 'TASKS.md', 'TODO.md')]
+    files = [root / n for n in ('README.md', 'DOCS.md', 'SPECS.md', 'TASKS.md')]
     files += sorted((root / 'docs').glob('*.md'))
     files += sorted((root / 'specs').glob('S.*.md'), key=lambda p: int(p.stem.split('.')[1]))
     files += sorted((root / 'tasks').glob('T.*.md'), key=lambda p: int(p.stem.split('.')[1]))
@@ -127,25 +126,14 @@ def main():
             if m:
                 t_ids.add(m.group(2))
 
-    td_ids = set()
-    todo_md = root / 'TODO.md'
-    if todo_md.exists():
-        for ln in todo_md.read_text(encoding='utf-8').split('\n'):
-            m = TD_ITEM.match(ln)
-            if m:
-                td_ids.add(m.group(1))
-        m = re.search(r'いまの最後は TD\.([0-9]+)、次は TD\.([0-9]+)', todo_md.read_text(encoding='utf-8'))
-        nums = sorted(int(x[3:]) for x in td_ids)
-        if nums and (not m or int(m.group(1)) != nums[-1] or int(m.group(2)) != nums[-1] + 1):
-            report(todo_md, 0, 'list', f'「いまの最後は TD.{nums[-1]}、次は TD.{nums[-1] + 1}」と書かれていない')
-        if nums and nums != list(range(1, nums[-1] + 1)):
-            report(todo_md, 0, 'list', 'TODO.md の TD 番号に欠けか重複がある')
     deny = root / 'takedown' / 'denylist.yml'
     if deny.exists():
         for i, ln in enumerate(deny.read_text(encoding='utf-8').split('\n'), 1):
             m = re.match(r'^  - id: (\S+)', ln)
-            if m and m.group(1) not in td_ids:
-                report(deny, i, 'TD', f'denylist の {m.group(1)} が TODO.md に無い', ln)
+            if m:
+                mm = re.fullmatch(r'S\.([0-9]+)', m.group(1))
+                if not mm or int(mm.group(1)) not in spec_files:
+                    report(deny, i, 'deny', f'denylist の id {m.group(1)} が specs/ の S として無い', ln)
 
     # --- 1〜3, 7: 各文書の行
     for f in doc_files(root):
@@ -154,9 +142,6 @@ def main():
                 for n in (a, b):
                     if n and int(n) not in spec_files:
                         report(f, i, 'S', f'S.{n} が specs/ に無い', ln)
-            for t in TD_REF.findall(ln):
-                if t not in td_ids:
-                    report(f, i, 'TD', f'{t} が TODO.md に無い', ln)
             for t in T_REF.findall(ln):
                 if t not in t_ids:
                     report(f, i, 'T', f'{t} が tasks/ に無い', ln)

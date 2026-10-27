@@ -29,7 +29,7 @@
 4. **運営委員の操作**: 申請の編集画面にボタン 3 つ (承認して即時適用 / 却下 / 復帰)。却下は自動適用を止めるだけで記録は残す。
 5. **通知** (`wp_mail`): 受付 → 依頼者に確認リンク / 確認 → 運営委員全員 (「YYYY-MM-DD に自動適用」) / 確認時刻から 7 日 → 運営委員にリマインド / 適用・却下 → 依頼者 + 運営委員。
 6. **cron**: サーバ crontab `*/10 * * * * cd ~/novels.xwp.jp/public_html && wp cron event run --due-now` と wp-config `DISABLE_WP_CRON` (高野さんの作業。`wp-config.php` は公開ルート外にあり、手で入れる)。
-7. **denylist.yml との整合**: WP で `applied` になった申請は `wp ts export-takedowns` が denylist 形式で出力 → セッションが追記してコミット → 原本アーカイブのビルド除外 (T.35.2) に伝播。**denylist.yml = git に残す確定記録、申請 CPT = 運用の原本**。手動エントリ (TD.1〜TD.14) は従来どおり denylist → `apply-takedown`。
+7. **denylist.yml との整合**: WP で `applied` になった申請は `wp ts export-takedowns` が denylist 形式で出力 → セッションが追記してコミット → 原本アーカイブのビルド除外 (T.35.2) に伝播。**denylist.yml = git に残す確定記録、申請 CPT = 運用の原本**。手動エントリ (S.222〜S.235) は従来どおり denylist → `apply-takedown`。
 8. **原本アーカイブの自動化 (任意)**: `deploy-pages.yml` がWP サイトの公開 REST `GET /wp-json/ts/v1/withdrawn` (source_path の一覧だけ。依頼者情報は含めない) を取り込んで除外すれば、人手なしで 10 日後に原本アーカイブからも消える。
 9. **文言**: 公開面から「72 時間」を全部外す。案: 「フォームからのお申し出は、確認メールの到達から **10 日後に自動的に非公開**になります。運営委員が内容を確認し、早めることや、本人確認が取れない場合に保留することがあります」。作者連絡文 (S.88) も同じ趣旨に。S.75〜S.81 を改訂する (SLA 節 → 自動適用の仕組み、WP サイトの非公開化 (S.76)・本番 .htaccess の 410 (S.77)・原本アーカイブ側の除外 (S.78) の時間指定を撤去)。
 

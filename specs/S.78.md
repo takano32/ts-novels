@@ -16,7 +16,7 @@
   **git の原本は消さない**(これは git 履歴からの除去 (S.79) の判断とは別レイヤ)。
 
 ```sh
-git add takedown/denylist.yml && git commit -m "takedown: TD.1 を追加" && git push
+git add takedown/denylist.yml && git commit -m "takedown: S.222 を追加" && git push
 # → deploy-pages.yml が走る。デプロイ完了後に確認
 curl -sI "https://takano32.github.io/ts-novels/novel/200209/19204751/d_upboy06.htm" | head -1  # 404
 ```

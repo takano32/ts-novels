@@ -1,0 +1,13 @@
+# S.222 取り下げ: 「少女進行形物語 Miss-ing」(ＴＷＯ−ＢＩＴさん)
+
+- 種類: 記録
+- 状態: 有効
+- 出典: takedown/denylist.yml の id: S.222 の行 (2026-10-27 に一件ずつの記録として起こした。S.221)
+- 関連: T.12, T.35, S.75〜S.81
+
+取り下げの一件の記録。各段階 (WP サイトの非公開・410・原本アーカイブからの除外・git 履歴・/removed/ への掲示) の状態と日付は `takedown/denylist.yml` の同じ id の行を正とする。
+
+- 対象: `work` = `two_bit-shoujoshinkoukeimonogatari-miss-ing`
+- 理由: 旧運営時に作者本人の要望で公開停止 (目録に明記) (分類: author_request)
+- 受領: 2013-04-26 (経路: other)
+- /removed/ に掲げる文: 「少女進行形物語 Miss-ing」(ＴＷＯ−ＢＩＴさん) — 作者の申し出により掲載していません
