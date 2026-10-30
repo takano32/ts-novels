@@ -70,6 +70,7 @@ function ts_bunko_episode_nav($post) {
     if (!$post->post_parent) return;
     $siblings = get_posts([
         'post_type' => 'ts_work', 'post_parent' => $post->post_parent,
+        'post_status' => ts_visibility_child_statuses($post->post_parent),
         'posts_per_page' => -1, 'orderby' => 'menu_order', 'order' => 'ASC',
         'fields' => 'ids', 'no_found_rows' => true,
     ]);
@@ -93,6 +94,7 @@ function ts_bunko_episode_nav($post) {
 function ts_bunko_work_toc($post) {
     $eps = get_posts([
         'post_type' => 'ts_work', 'post_parent' => $post->ID,
+        'post_status' => ts_visibility_child_statuses($post->ID),
         'posts_per_page' => -1, 'orderby' => 'menu_order', 'order' => 'ASC',
         'no_found_rows' => true,
     ]);
