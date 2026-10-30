@@ -7,10 +7,10 @@
 - [ ] T.16.2 サーバパスを晒すエラー出力 2 ファイルの削除 (S.110 の仕様「小さな対処」)
   - [ ] T.16.2.1 `git rm` で 2 ファイルを削除 → `git grep -l -E 'public_html|WWWROOT' -- . ':!scripts' ':!specs'` が 0 件 → コミット
   - [ ] T.16.2.2 push 後に 2 URL が Pages で 404 (curl)。S.51 の `www2.sts.co.jp/` と `~yaji/` の件数を 1 ずつ減らす
-- [ ] T.16.3 秘密走査 `scripts/wp/secret_scan.py` の恒久化 (S.111)
-  - [ ] T.16.3.1 S.111 の規則どおりに実装 → 現状のリポジトリで 0 件・終了コード 0、`catalog/reports/secret_scan.json` が出る
-  - [ ] T.16.3.2 Makefile の `check` に組み込む → `make check` が通る。`#!/usr/bin/perl` 1 行の疑似ファイルを置いた一時ツリー (`--root`) で非 0
-  - [ ] T.16.3.3 ツールの一覧 S.210 (元の scripts/README.md) に 1 行追記 (S.10 の新しいスクリプトをツールの一覧に足す決まり)
+- [x] T.16.3 秘密走査 `scripts/wp/secret_scan.py` の恒久化 (S.111)
+  - [x] T.16.3.1 S.111 の規則どおりに実装 → 現状のリポジトリで 0 件・終了コード 0、`catalog/reports/secret_scan.json` が出る (2026-10-30。18,036 ファイルで該当 0。実装の細部は S.111)
+  - [x] T.16.3.2 Makefile の `check` に組み込む → `make check` が通る。`#!/usr/bin/perl` 1 行の疑似ファイルを置いた一時ツリー (`--root`) で非 0 (2026-10-30。`--check` で組み込み、一時ツリーで終了コード 1。偽陽性 0 で許容リストは空)
+  - [x] T.16.3.3 ツールの一覧 S.210 (元の scripts/README.md) に 1 行追記 (S.10 の新しいスクリプトをツールの一覧に足す決まり) (2026-10-30)
 - [x] T.16.4 S.56 の `.cgi` の行に点検結果を 1 行追記 (S.110 の仕様「文書」) (2026-10-30)
 - [ ] T.16.5 `.cgi` 保存画面が Pages でダウンロードになる件の解消 (S.110 の仕様「ダウンロード問題の解消」) (T.35.2 と同時)
   - [ ] T.16.5.1 検証用の別リポジトリ (GitHub Pages) で `x.cgi/index.html` 方式を試す → 301・`text/html`・`<base href>` で相対リンクが解決することを curl で記録。NG なら代案を S.110 に追記して判断を仰ぐ

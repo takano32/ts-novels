@@ -11,8 +11,8 @@
 | 　旧目録 (`legacy`、lib01–09 の差分) | 97 |
 | 　目録外収蔵 (`uncatalogued`、設計 S.41) | 859 |
 | 　文庫未掲載の作者再掲 (`extern-repost`) | 1 |
-| works (作品クラスタ) | 1451 |
-| 　単発 / 連載 | 932 / 519 |
+| works (作品クラスタ) | 1440 |
+| 　単発 / 連載 | 920 / 520 |
 | authors (作者) | 322 |
 | 　うち感想板を持つ | 300 |
 
@@ -85,11 +85,11 @@
 
 | 項目 | 値 |
 |---|---:|
-| works | 1451 |
+| works | 1440 |
 | orphan (どの work にも属さない話) | 0 |
-| **needs_review** | 331 |
-| 　内訳 | {'multi-directory': 38, 'large-cluster': 22, 'weak-evidence': 271} |
-| タイトルページを持つ work | 231 |
+| **needs_review** | 333 |
+| 　内訳 | {'multi-directory': 39, 'large-cluster': 22, 'weak-evidence': 272} |
+| タイトルページを持つ work | 229 |
 | md5 一致の重複ファイル (alias) | 50 |
 
 ## 6. 回収経路 (provenance) の被覆率
@@ -147,9 +147,9 @@
 | 項目 | 値 |
 |---|---:|
 | slug 確認待ち (作者) | 0 |
-| slug 確認待ち (作品) | 1298 |
+| slug 確認待ち (作品) | 1286 |
 | slug 確認待ち (分類語彙) | 1407 |
-| work_overrides.yml の雛形 | 331 |
+| work_overrides.yml の雛形 | 333 |
 | 裁定済み (作者 slug の `status: confirmed`) | 42 |
 | 裁定による作者の併合 | 16 組 / 作者 17 名が統合で消えた |
 

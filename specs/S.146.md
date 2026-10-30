@@ -3,7 +3,7 @@
 - 種類: 仕様
 - 状態: 有効
 - 出典: docs/cluster-overrides-spec.md の冒頭と「catalog/work_overrides.yml のスキーマ (version 2)」
-- 関連: T.24.1, S.43, S.107, S.218
+- 関連: T.24.1, S.43, S.107, S.218, S.238
 
 ## 作品クラスタの手動修正の仕様 (2026-10-26)
 
@@ -37,4 +37,5 @@ works:
 - `split` の `episodes` に無い話は元のクラスタに残る。`split` 先の slug は `slug_overrides.yml` に confirmed があればそれ、無ければ `work_builder` が候補を作る。
 - `detach` は `split` の省略形 (1 話 1 作品、題名は話の題名)。
 - `merge_into` の併合先の鍵は、併合先クラスタの**機械の題名**で書く (併合先に `work_title` があってもよい)。
+- 実装 (2026-10-30) で足した検証と振る舞いは S.238 (鍵に当たるクラスタがちょうど 1 件・指示の話がそのクラスタの話・連鎖と自分自身への併合を誤りにする・split と detach でできた作品は needs_review を立てない)。
 - 検証 (`work_builder.py --check`): 参照する `episode_id` が実在する / 同じ話が複数の指示に現れない / `merge_into` の先が実在し作者が同じ / 適用後も orphan 0 / `split` の `work_title` が非空 / `confirmed: true` のクラスタは `needs_review` false。

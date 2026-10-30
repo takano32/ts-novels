@@ -56,17 +56,26 @@ RE_TITLE_PAGE = re.compile(r'(?:^|/)(?:[a-z0-9_\-]*title[a-z0-9_\-]*|index|conte
 RE_SERIES_NAV = re.compile(r'シリーズタイトル')
 RE_EPISODE_NAV = re.compile(r'第[0-9０-９一二三四五六七八九十百]+[話章編]|前編|後編|中編|上巻|下巻')
 # 題名から「第N話」「(前編)」などの巻号表記を落として作品名の芯を出す
+# 巻号の数字 (漢数字と大字を含む。「第壱話」「其の弐」)
+_NUM = r'[0-9０-９〇零一二三四五六七八九十百壱弐参肆伍陸漆捌玖拾]'
+# 回 / Lesson N / EPISODE N / stage / その N / 其の N / № N (NFKC で No) / No. N (specs/S.148.md)。
+# 英語の語は直前が英字でないときだけ (Piano 5 の no を巻号と取らない)。stage は数字つきに限る
+# (原本の形は「Experience 1st stage」。「Back to stage」は巻号ではない)
+_EXTRA = (r'|(?<![A-Za-z])(?:lesson|episode)\s*#?\s*[0-9]+(?:_[0-9]+)*'
+          r'|(?<![A-Za-z])stage\s*[0-9]+|[0-9]+(?:st|nd|rd|th)\s*stage'
+          r'|(?:その|其の)\s*' + _NUM + r'+'
+          r'|(?<![A-Za-z])no\.?\s*[0-9]+')
 RE_TITLE_TRIM = re.compile(
-    r'(?:\s|　)*(?:[（(【「『]?\s*(?:第\s*[0-9０-９一二三四五六七八九十百]+\s*[話章巻部編幕夜]'
+    r'(?:\s|　)*(?:[（(【「『]?\s*(?:第\s*' + _NUM + r'+\s*[話章巻部編幕夜回]'
     r'|[0-9０-９]{1,3}|前編|後編|中編|完結編|最終話|序章|終章|外伝|番外編|特別編|Ｐａｒｔ\s*[0-9０-９]+'
-    r'|part\s*[0-9]+|#[0-9]+|vol\.?\s*[0-9]+)\s*[）)】」』]?)+\s*$', re.I)
+    r'|part\s*[0-9]+|#[0-9]+|vol\.?\s*[0-9]+' + _EXTRA + r')\s*[）)】」』]?)+\s*$', re.I)
 STEM_TRIM = re.compile(r'[-_]?(?:[0-9]{1,3})(?:[-_.][0-9]{1,3})?$')
 # 巻号表記が題名の途中に来る形 (「女神仮面ミィミル 第一話 女神テオドラの帰還」) は
 # そこで切ると作品名の芯が残る
 RE_TITLE_CUT = re.compile(
-    r'\s*(?:[（(【「『]\s*)?(?:第\s*[0-9０-９一二三四五六七八九十百]+\s*[話章巻部編幕夜]'
+    r'\s*(?:[（(【「『]\s*)?(?:第\s*' + _NUM + r'+\s*[話章巻部編幕夜回]'
     r'|前編|後編|中編|完結編|最終話|序章|終章|外伝|番外編|特別編'
-    r'|Ｐａｒｔ\s*[0-9０-９]+|part\s*[0-9]+|#\s*[0-9]+|vol\.?\s*[0-9]+)', re.I)
+    r'|Ｐａｒｔ\s*[0-9０-９]+|part\s*[0-9]+|#\s*[0-9]+|vol\.?\s*[0-9]+' + _EXTRA + r')', re.I)
 
 
 class Union:
@@ -281,7 +290,182 @@ def episode_order_key(rec):
     return (rec.get('date') or '', num, rec['source_path'])
 
 
-def build(root):
+def group_author(members, author_of):
+    """クラスタの作者 slug。作者に紐づかない話の受け皿は 2 つ。
+
+    目録外収蔵で作者が特定できなかったもの (entry_role=unattributed) は「作者不詳」だが、
+    シリーズ目次ページ (entry_role=series-index。目録の作者欄が「シェアワールド」だった
+    姫神奇譚の目次) は**作者不詳ではなく目次**なので別の受け皿に分ける。
+    """
+    aslug = author_of.get(members[0]['episode_id'])
+    if not aslug:
+        aslug = ('series-index'
+                 if {m.get('entry_role') for m in members} == {'series-index'}
+                 else 'unattributed')
+    return aslug
+
+
+def machine_title(members):
+    """機械が付ける作品名 (members は episode_order_key 順)。
+    タイトルページの題名 > 巻号を落とした題名の一致 > 共通接頭辞。"""
+    cores = [trim_title(m.get('title')) for m in members]
+    core_counts = collections.Counter(c for c in cores if c)
+    if len(members) == 1:
+        return members[0].get('title')
+    if core_counts and core_counts.most_common(1)[0][1] >= max(2, len(members) // 2):
+        return core_counts.most_common(1)[0][0]
+    pref = common_prefix([unicodedata.normalize('NFKC', m.get('title') or '')
+                          for m in members]).strip(' 　-–—「」『』()（）')
+    return pref if len(pref) >= 3 else (members[0].get('title') or '')
+
+
+# --------------------------------------------------------------------------- 人手の上書き
+
+# work_overrides.yml の 1 鍵に書けるもの (specs/S.146.md)。episodes / evidence は雛形が書く参考値で、読まない
+OV_KEYS = {'confirmed', 'note', 'work_title', 'split', 'detach', 'merge_into', 'episodes', 'evidence'}
+OV_SPLIT_KEYS = {'work_title', 'episodes'}
+
+
+def has_directive(ov):
+    """クラスタの形か needs_review を変える指示 (version 2) があるか。"""
+    return bool(ov.get('split') or ov.get('detach') or ov.get('merge_into')
+                or ov.get('confirmed') is True)
+
+
+def apply_overrides(groups, work_overrides, author_of, order_of):
+    """union-find のクラスタに work_overrides.yml の指示を当てる (specs/S.146.md・S.147.md)。
+
+    順序は merge_into → split → detach。戻り値は (units, errors)。unit は
+      members  … 話のレコード (episodes.jsonl の順)
+      key      … 上書きを引く鍵 (cluster のみ。当てる前の "<作者slug>|<機械の題名>")
+      kind     … cluster (union-find のまま、または指示の残り) / split / detach
+      title    … split の work_title (split のみ)
+      override … 指示 (version 2) を当てたか (evidence に override を足す)
+      confirmed… 人手で確認済み (needs_review を落とす)
+    errors が空でなければ catalog を書かずに止める。
+    """
+    errors = []
+    units = []
+    by_key = collections.defaultdict(list)
+    for g in groups:
+        members = sorted(g, key=episode_order_key)
+        un = {'members': list(g), 'kind': 'cluster', 'title': None,
+              'override': False, 'confirmed': False,
+              'key': '%s|%s' % (group_author(members, author_of), machine_title(members))}
+        units.append(un)
+        by_key[un['key']].append(un)
+
+    directives = {}
+    for key, ov in sorted(work_overrides.items(), key=lambda kv: str(kv[0])):
+        if not isinstance(ov, dict):
+            errors.append('%s: 値が辞書ではない' % key)
+            continue
+        unknown = set(ov) - OV_KEYS
+        if unknown:
+            errors.append('%s: 知らない項目 %s' % (key, sorted(unknown)))
+        if 'confirmed' in ov and not isinstance(ov['confirmed'], bool):
+            errors.append('%s: confirmed は true / false' % key)
+        if not has_directive(ov):
+            continue                    # work_title / note / 雛形だけの鍵は従来どおり (当たらなくてもよい)
+        hit = by_key.get(key) or []
+        if len(hit) != 1:
+            errors.append('%s: 鍵に当たるクラスタが %d 件 (1 件であること)' % (key, len(hit)))
+            continue
+        directives[key] = ov
+
+    # merge_into — 併合先は当てる前の鍵で書く。連鎖・自分自身・作者違いは誤り
+    for key, ov in directives.items():
+        tgt = ov.get('merge_into')
+        if not tgt:
+            continue
+        src_un = by_key[key][0]
+        tgt_hit = by_key.get(tgt) or []
+        if not isinstance(tgt, str) or len(tgt_hit) != 1:
+            errors.append('%s: merge_into の先 %r に当たるクラスタが %d 件 (1 件であること)'
+                          % (key, tgt, len(tgt_hit)))
+            continue
+        if tgt == key:
+            errors.append('%s: merge_into の先が自分自身' % key)
+            continue
+        if (directives.get(tgt) or {}).get('merge_into'):
+            errors.append('%s: merge_into の先 %s も merge_into を持つ (連鎖は書かない)' % (key, tgt))
+            continue
+        if ov.get('split') or ov.get('detach'):
+            errors.append('%s: merge_into と split / detach を同じ鍵に書いている' % key)
+            continue
+        tgt_un = tgt_hit[0]
+        if key.split('|', 1)[0] != tgt.split('|', 1)[0]:
+            errors.append('%s: merge_into の先 %s と作者が違う' % (key, tgt))
+            continue
+        tgt_un['members'].extend(src_un['members'])
+        tgt_un['members'].sort(key=lambda r: order_of[r['episode_id']])
+        src_un['members'] = []
+        tgt_un['override'] = True
+
+    # split → detach — 列挙した話をそのクラスタから抜き出す
+    seen = {}
+
+    def take(key, un, eid, what):
+        if not isinstance(eid, str) or eid not in order_of:
+            errors.append('%s: %s の %r は実在しない episode_id' % (key, what, eid))
+            return None
+        if eid in seen:
+            errors.append('%s: %s の %s は %s にも現れる (同じ話は 1 つの指示だけ)'
+                          % (key, what, eid, seen[eid]))
+            return None
+        seen[eid] = '%s の %s' % (key, what)
+        for i, m in enumerate(un['members']):
+            if m['episode_id'] == eid:
+                return un['members'].pop(i)
+        errors.append('%s: %s の %s はこのクラスタの話ではない' % (key, what, eid))
+        return None
+
+    for phase in ('split', 'detach'):
+        for key, ov in directives.items():
+            if ov.get('merge_into') or not ov.get(phase):
+                continue
+            un = by_key[key][0]
+            if not un['members']:
+                errors.append('%s: merge_into で併合済みのクラスタに %s を書いている' % (key, phase))
+                continue
+            items = ov[phase]
+            if not isinstance(items, list):
+                errors.append('%s: %s はリスト' % (key, phase))
+                continue
+            for item in items:
+                if phase == 'detach':
+                    rec = take(key, un, item, 'detach')
+                    if rec is not None:
+                        units.append({'members': [rec], 'kind': 'detach', 'title': None,
+                                      'override': True, 'confirmed': False, 'key': None})
+                    continue
+                if not isinstance(item, dict) or set(item) - OV_SPLIT_KEYS:
+                    errors.append('%s: split の各項目は work_title と episodes だけ' % key)
+                    continue
+                title = item.get('work_title')
+                if not isinstance(title, str) or not title.strip():
+                    errors.append('%s: split の work_title が空' % key)
+                    continue
+                eps = item.get('episodes')
+                if not isinstance(eps, list) or not eps:
+                    errors.append('%s: split 「%s」の episodes が空' % (key, title))
+                    continue
+                recs = [r for r in (take(key, un, e, 'split 「%s」' % title) for e in eps) if r]
+                if recs:
+                    recs.sort(key=lambda r: order_of[r['episode_id']])
+                    units.append({'members': recs, 'kind': 'split', 'title': title.strip(),
+                                  'override': True, 'confirmed': False, 'key': None})
+            un['override'] = True
+
+    for key, ov in directives.items():
+        if ov.get('confirmed') is True:
+            un = by_key[key][0]
+            un['confirmed'] = True
+            un['override'] = True
+    return [un for un in units if un['members']], errors
+
+
+def build(root, work_overrides_path=None):
     cat = os.path.join(root, 'catalog')
     records = [json.loads(line) for line in
                open(os.path.join(cat, 'episodes.jsonl'), encoding='utf-8')]
@@ -304,40 +488,35 @@ def build(root):
     overrides_path = os.path.join(cat, 'slug_overrides.yml')
     overrides = slugmod.load_overrides(overrides_path)
     prev_slugs = overrides.get('works') or {}
-    wo_path = os.path.join(cat, 'work_overrides.yml')
+    wo_path = work_overrides_path or os.path.join(cat, 'work_overrides.yml')
     work_overrides = {}
     if os.path.exists(wo_path) and yaml is not None:
         with open(wo_path, encoding='utf-8') as fh:
             work_overrides = (yaml.safe_load(fh) or {}).get('works') or {}
 
-    used_slugs, works, slug_entries = set(), [], {}
-    ordered = sorted(groups.values(), key=lambda g: (-len(g), g[0]['episode_id']))
-    for members in ordered:
+    # 人手の上書き (merge_into → split → detach、confirmed) を当ててから題名・slug を決める (specs/S.147.md)
+    order_of = {r['episode_id']: i for i, r in enumerate(records)}
+    units, override_errors = apply_overrides(list(groups.values()), work_overrides,
+                                             author_of, order_of)
+
+    used_slugs, works, slug_entries, review_keys = set(), [], {}, []
+    ordered = sorted(units, key=lambda un: (-len(un['members']), un['members'][0]['episode_id']))
+    for unit in ordered:
+        members = unit['members']
         members.sort(key=episode_order_key)
         eids = [m['episode_id'] for m in members]
-        # 作者に紐づかない話の受け皿。目録外収蔵で作者が特定できなかったもの
-        # (entry_role=unattributed) は「作者不詳」だが、シリーズ目次ページ
-        # (entry_role=series-index。目録の作者欄が「シェアワールド」だった姫神奇譚の
-        # 目次) は**作者不詳ではなく目次**なので別の受け皿に分ける。
-        aslug = author_of.get(eids[0])
-        if not aslug:
-            aslug = ('series-index'
-                     if {m.get('entry_role') for m in members} == {'series-index'}
-                     else 'unattributed')
+        aslug = group_author(members, author_of)
         rules = set()
         for eid in eids:
             rules |= u.why.get(eid, set())
-        # 作品名 — タイトルページの題名 > 巻号を落とした題名の一致 > 共通接頭辞
-        cores = [trim_title(m.get('title')) for m in members]
-        core_counts = collections.Counter(c for c in cores if c)
-        if len(members) == 1:
+        if unit['override']:
+            rules.add('override')
+        if unit['kind'] == 'split':
+            work_title = unit['title']
+        elif unit['kind'] == 'detach':
             work_title = members[0].get('title')
-        elif core_counts and core_counts.most_common(1)[0][1] >= max(2, len(members) // 2):
-            work_title = core_counts.most_common(1)[0][0]
         else:
-            pref = common_prefix([unicodedata.normalize('NFKC', m.get('title') or '')
-                                  for m in members]).strip(' 　-–—「」『』()（）')
-            work_title = pref if len(pref) >= 3 else (members[0].get('title') or '')
+            work_title = machine_title(members)
         title_pages = sorted({m['source_path'] for m in members
                               if RE_TITLE_PAGE.search(m['source_path'])}
                              | {norm_path(n['href']) for m in members
@@ -364,9 +543,14 @@ def build(root):
         multi_dir = len({os.path.dirname(m['source_path']) for m in members}) > 1
         needs_review = bool(
             len(members) > 1 and (not (rules & STRONG) or multi_dir or len(members) >= 15))
+        if unit['confirmed'] or unit['kind'] != 'cluster':
+            needs_review = False        # 人手で確認した / 人手で分けた作品
 
         key = '%s|%s' % (aslug, work_title)
-        ov = work_overrides.get(key) or {}
+        machine_key = key
+        ov = (work_overrides.get(unit['key']) or {}) if unit['kind'] == 'cluster' else {}
+        if not isinstance(ov, dict):
+            ov = {}
         if ov.get('work_title'):
             work_title = ov['work_title']
 
@@ -379,6 +563,8 @@ def build(root):
             status = 'auto' if source == 'ascii' else 'candidate'
         slug = slugmod.unique_slug(slug, used_slugs, fallback_prefix='%s-work' % aslug)
         slug_entries[key] = {'slug': slug, 'status': status, 'source': source}
+        if needs_review:
+            review_keys.append(unit['key'])
 
         works.append(collections.OrderedDict([
             ('work_slug', slug),
@@ -413,6 +599,7 @@ def build(root):
     orphans = [r['episode_id'] for r in records
                if r['episode_id'] not in {e['episode_id'] for w in works for e in w['episodes']}]
     review = [w for w in works if w['needs_review']]
+    assert len(review) == len(review_keys)
     report = collections.OrderedDict([
         ('generated_by', 'scripts/wp/work_builder.py'),
         ('episodes', len(records)),
@@ -437,15 +624,30 @@ def build(root):
         ('slug_sources', dict(collections.Counter(w['slug_source'] for w in works))),
         ('slug_pending_review', sum(1 for w in works if w['slug_status'] == 'candidate')),
     ])
-    return works, report, overrides, overrides_path, review
+    return works, report, overrides, overrides_path, list(zip(review_keys, review)), override_errors
+
+
+def work_overrides_of(root):
+    path = os.path.join(root, 'catalog', 'work_overrides.yml')
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding='utf-8') as fh:
+        return (yaml.safe_load(fh) or {}).get('works') or {}
 
 
 WORK_OVERRIDES_HEADER = """\
 # Work クラスタの人手上書き (scripts/wp/work_builder.py が読む)。
 #
-# 鍵は "<作者slug>|<機械が付けた作品名>"。値に書けるもの:
+# 鍵は "<作者slug>|<機械が付けた作品名>"。値に書けるもの (specs/S.146.md・S.150.md):
 #   work_title: 正しい作品名   … これを直すと slug の候補も作り直される
 #   note:       メモ
+#   confirmed:  true           … 人手で確認した (needs_review を落とす)
+#   split:      [{work_title: 新しい作品名, episodes: [episode_id, …]}, …]
+#                              … 列挙した話を新しい作品に分ける。残りは元の作品に残る
+#   detach:     [episode_id, …] … 1 話ずつ単独の作品にする (題名は話の題名)
+#   merge_into: "<鍵>"         … このクラスタの全話を同じ作者の別のクラスタへ併合する
+#                                (先の鍵も機械が付けた作品名で書く)
+# 当てる順は merge_into → split → detach (specs/S.147.md)。参照の誤りは --check が止める。
 #
 # 下に並んでいるのは needs_review が立ったクラスタ (根拠が弱い / 複数ディレクトリに
 # 散らばる / 15 話以上) の雛形です。**正しければ何もしなくて構いません**。
@@ -462,7 +664,7 @@ def main(argv=None):
         print('PyYAML が要ります', file=sys.stderr)
         return 2
     root = os.path.abspath(args.root)
-    works, report, overrides, overrides_path, review = build(root)
+    works, report, overrides, overrides_path, review, override_errors = build(root)
 
     print('works=%d (単発 %d / 連載 %d)  episodes=%d  orphan=%d' %
           (report['works'], report['works_single_episode'], report['works_multi_episode'],
@@ -474,8 +676,15 @@ def main(argv=None):
     print('slug: %s 確認待ち=%d' % (report['slug_sources'], report['slug_pending_review']))
     ok = not report['orphans'] and report['episodes_in_works'] == report['episodes']
     print('  [%s] 全 episode がいずれかの work に属す (orphan 0)' % ('OK ' if ok else 'NG '))
+    confirmed_review = [k for k, w in review if (work_overrides_of(root).get(k) or {}).get('confirmed') is True]
+    print('  [%s] work_overrides.yml の指示 (split / detach / merge_into / confirmed) が正しい (誤り %d 件)'
+          % ('OK ' if not override_errors else 'NG ', len(override_errors)))
+    for e in override_errors:
+        print('      ' + e)
+    print('  [%s] confirmed: true の作品は needs_review が立たない' % ('OK ' if not confirmed_review else 'NG '))
+    ok = ok and not override_errors and not confirmed_review
 
-    if not args.check:
+    if not args.check and not override_errors:
         cat = os.path.join(root, 'catalog')
         os.makedirs(os.path.join(cat, 'reports'), exist_ok=True)
         with open(os.path.join(cat, 'works.jsonl'), 'w', encoding='utf-8') as fh:
@@ -490,8 +699,7 @@ def main(argv=None):
             with open(wo_path, encoding='utf-8') as fh:
                 existing = (yaml.safe_load(fh) or {}).get('works') or {}
         stub = dict(existing)
-        for w in review:
-            key = '%s|%s' % (w['author_slug'], w['title'])
+        for key, w in review:
             stub.setdefault(key, {'work_title': w['title'], 'episodes': w['episode_count'],
                                   'evidence': w['evidence'], 'confirmed': False})
         with open(wo_path, 'w', encoding='utf-8') as fh:

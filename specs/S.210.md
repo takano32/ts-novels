@@ -3,7 +3,7 @@
 - 種類: 仕様
 - 状態: 有効
 - 出典: scripts/README.md の「wp/ (WordPress 移築の実装)」(2026-10-26 にここへ移した)
-- 関連: T.7, T.8, T.9, T.16.3.3, T.22.3, S.171〜S.180, S.183, S.190, S.209, S.211
+- 関連: T.7, T.8, T.9, T.16.3.3, T.22.3, T.24.3, S.171〜S.180, S.183, S.190, S.209, S.211, S.111, S.149
 
 ## wp/ (WordPress 移築の実装)
 
@@ -52,6 +52,16 @@ episode_overrides が最後に人手の上書きを当て、terms/authors/works 
   を強い順に積み、どれで繋がったかを works.jsonl の evidence に残す。**Work は必ず 1 作者に
   閉じる** (共有世界のタイトルページは 69 名の話を 1 つに束ねてしまうため)。
   弱い根拠だけのクラスタは needs_review を立て `catalog/work_overrides.yml` に雛形を出す。
+  `work_overrides.yml` の `split` / `detach` / `merge_into` / `confirmed` で人手でクラスタを直せる
+  (specs/S.146.md・S.147.md。誤りがあれば catalog を書かずに止まる)。
+
+- **wp/cluster_review.py** — 作品クラスタのレビュー資料 `catalog/review/clusters-YYYY-MM.md` を書く
+  (T.24.3、specs/S.149.md)。題名の芯が食い違う連載を弱い根拠のものから並べ、裁定欄に一次案と
+  work_overrides.yml に写したときの形を添える。`--since <リビジョン>` で slug が変わった作品の表を足す。
+
+- **wp/secret_scan.py** — 配信される原本に CGI のソースや秘密値が混じっていないかの走査
+  (T.16.3、specs/S.111.md)。`make check` が `--check` で走らせ、1 件でもあれば止まる。
+  引数なしなら `catalog/reports/secret_scan.json` を書く。検証済みの許容は `scripts/wp/secret_scan_allow.yml`。
 
 - **wp/uncatalogued_build.py** — 目録に載っていない収蔵物を拾う (T.7.8、specs/S.178.md・S.41.md)。
   `novel/` 配下の本文 3,818 のうち既収蔵でない分を `corpus=uncatalogued` で追加。メタは

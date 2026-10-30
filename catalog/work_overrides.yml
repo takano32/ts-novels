@@ -1,8 +1,15 @@
 # Work クラスタの人手上書き (scripts/wp/work_builder.py が読む)。
 #
-# 鍵は "<作者slug>|<機械が付けた作品名>"。値に書けるもの:
+# 鍵は "<作者slug>|<機械が付けた作品名>"。値に書けるもの (specs/S.146.md・S.150.md):
 #   work_title: 正しい作品名   … これを直すと slug の候補も作り直される
 #   note:       メモ
+#   confirmed:  true           … 人手で確認した (needs_review を落とす)
+#   split:      [{work_title: 新しい作品名, episodes: [episode_id, …]}, …]
+#                              … 列挙した話を新しい作品に分ける。残りは元の作品に残る
+#   detach:     [episode_id, …] … 1 話ずつ単独の作品にする (題名は話の題名)
+#   merge_into: "<鍵>"         … このクラスタの全話を同じ作者の別のクラスタへ併合する
+#                                (先の鍵も機械が付けた作品名で書く)
+# 当てる順は merge_into → split → detach (specs/S.147.md)。参照の誤りは --check が止める。
 #
 # 下に並んでいるのは needs_review が立ったクラスタ (根拠が弱い / 複数ディレクトリに
 # 散らばる / 15 話以上) の雛形です。**正しければ何もしなくて構いません**。
@@ -14,6 +21,13 @@ works:
     evidence:
     - filename-stem
     work_title: 数奇な
+  7cy|数奇な(...以下略:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 数奇な(...以下略
   7cy|数奇な(...以下略) Episode:
     confirmed: false
     episodes: 3
@@ -75,6 +89,13 @@ works:
     - filename-stem
     - title-prefix
     work_title: ころもがえ前
+  ainishisu|プロフェッサーK:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: プロフェッサーK
   ainishisu|プロフェッサーK 第:
     confirmed: false
     episodes: 3
@@ -164,6 +185,13 @@ works:
     evidence:
     - filename-stem
     work_title: ペット稼業もラクじゃない!?
+  anoyoroshi|ハンターストーリーランド+α:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: ハンターストーリーランド+α
   anoyoroshi|ハンターストーリーランド＋αその６　「島国の白酒」:
     confirmed: false
     episodes: 3
@@ -884,6 +912,13 @@ works:
     - series-html
     - title-prefix
     work_title: 二度目の幼なじみ
+  kamikawa_ayano|本当の自分:
+    confirmed: false
+    episodes: 6
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 本当の自分
   kamikawa_ayano|本当の自分 第:
     confirmed: false
     episodes: 4
@@ -1074,6 +1109,13 @@ works:
     evidence:
     - title-prefix
     work_title: BADMINTON GIRL
+  kion_rei|きずな ~ミドちゃんの憂鬱:
+    confirmed: false
+    episodes: 6
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: きずな ~ミドちゃんの憂鬱
   kion_rei|ちぇんじ!:
     confirmed: false
     episodes: 5
@@ -1171,6 +1213,12 @@ works:
     - filename-stem
     - title-prefix
     work_title: 美少年も楽じゃない
+  kotobuki_hikaru_ndcss|謎の予告CG:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 謎の予告CG
   koukei|姫神奇譚:
     confirmed: false
     episodes: 4
@@ -1242,6 +1290,14 @@ works:
     evidence:
     - filename-stem
     work_title: 第二話
+  marie|イマジン:
+    confirmed: false
+    episodes: 7
+    evidence:
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: イマジン
   marie|キャリア・デイ　９７:
     confirmed: false
     episodes: 10
@@ -1331,6 +1387,12 @@ works:
     evidence:
     - filename-stem
     work_title: shinka
+  mikan_ame|華森蘭丸くん:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 華森蘭丸くん
   million|天使のお仕事:
     confirmed: false
     episodes: 14
@@ -1489,6 +1551,13 @@ works:
     evidence:
     - title-prefix
     work_title: 好敵手(らいばる)は美少女っ
+  muck|MAGICAL TWINS:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: MAGICAL TWINS
   muck|MAGICAL TWINS 第:
     confirmed: false
     episodes: 4
@@ -1528,6 +1597,13 @@ works:
     evidence:
     - filename-stem
     work_title: KAI・KEN・GO 巻の
+  nekono_gundam|くろす・あこーど:
+    confirmed: false
+    episodes: 5
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: くろす・あこーど
   nekono_gundam|くろす・あこーど episode:
     confirmed: false
     episodes: 4
@@ -1613,6 +1689,13 @@ works:
     evidence:
     - title-prefix
     work_title: SMガールズセクサドールJ MEMORY1−
+  panda5|愛のパンダ5TS劇場:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 愛のパンダ5TS劇場
   panda5|愛のパンダ5TS劇場その:
     confirmed: false
     episodes: 4
@@ -1660,6 +1743,13 @@ works:
     - filename-stem
     - title-prefix
     work_title: 華代ちゃんシリーズ「不景気
+  rurita|メダロットM:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: メダロットM
   rurita|メダロットM Episode:
     confirmed: false
     episodes: 3
@@ -1763,6 +1853,13 @@ works:
     evidence:
     - filename-stem
     work_title: AZUKI
+  sato|カオルの日常:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: カオルの日常
   sato|カオルの日常 第:
     confirmed: false
     episodes: 2
@@ -2102,6 +2199,13 @@ works:
     - filename-stem
     - title-prefix
     work_title: 少女進行形物語 Miss-ing
+  unattributed|TSキャノンボール!」過去ログ:
+    confirmed: false
+    episodes: 7
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: TSキャノンボール!」過去ログ
   unattributed|TSキャノンボール!」過去ログ(その:
     confirmed: false
     episodes: 7
@@ -2290,6 +2394,15 @@ works:
     evidence:
     - filename-stem
     work_title: 華代ちゃんシリーズ
+  yamu|ミストレスと奇妙な仲間達:
+    confirmed: false
+    episodes: 40
+    evidence:
+    - episode-nav
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: ミストレスと奇妙な仲間達
   yamu|ミストレスと奇妙な仲間達〜その:
     confirmed: false
     episodes: 39
@@ -2414,6 +2527,13 @@ works:
     - filename-stem
     - title-prefix
     work_title: yuuki
+  zyuka|ハンターストーリーランド+α:
+    confirmed: false
+    episodes: 5
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: ハンターストーリーランド+α
   zyuka|ハンターストーリーランド+αその:
     confirmed: false
     episodes: 5

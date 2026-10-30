@@ -18,7 +18,7 @@ S.210 (WordPress 移築。`scripts/wp/`) にあり、ここではどこから使
 |---|---|
 | `make venv` | 初回だけ。版を固定したライブラリ入りの `.venv` を作る。版が変わると slug (恒久 URL) が変わるため (S.211、S.82) |
 | `make catalog` | `catalog/` を素の状態から作り直し、`catalog/QA.md` まで書く (S.211) |
-| `make check` | ファイルを書かずに各段の自己検査を走らせ、最後に文書の検査をする (S.211、S.219) |
+| `make check` | ファイルを書かずに各段の自己検査と秘密走査を走らせ、最後に文書の検査をする (S.211、S.111、S.219) |
 | `make qa` | `catalog/reports/*.json` から `catalog/QA.md` だけを書き直す (S.180) |
 | `make verify` | 本文 Markdown の無損失を html5lib で検算する (S.210) |
 

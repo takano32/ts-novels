@@ -8,14 +8,14 @@
 #   1. AI 学習・データセット化クローラは全域 Disallow (作者の許諾なく学習素材にしない)
 #   2. Internet Archive (ia_archiver / archive.org_bot) は許可 — この資料館自体が
 #      Wayback に救われて成立している。恩は返す
-#   3. 一般検索エンジンは**ブロックしない**。公開解禁 (T.37.4) までの noindex は
-#      .htaccess の X-Robots-Tag と meta robots で行う。
+#   3. 一般検索エンジンは**ブロックしない**。サイトは最初から公開 (インデックス可) で、
+#      全域 noindex のゲートは撤回した (specs/S.42.md)。
+#   4. 恒久 noindex 区画 (/boards/ /dojo/ /assets/annex-img/。当時の掲示板投稿者のハンドルが
+#      載る層) は .htaccess の X-Robots-Tag と meta robots で noindex を返し、ここでは Disallow しない。
 #      注意: robots.txt で Disallow すると noindex ヘッダを読ませられず、かえって
 #        「URL だけ検索結果に載る」事故になる。ここで検索エンジンを止めてはいけない
-#   4. 恒久 noindex 区画 (/boards/ /dojo/ /assets/annex-img/) も同じ理由で Disallow しない。
-#      ヘッダ側で noindex を返し続ける
 #
-# 解禁 (T.37.4) 時にやること: 末尾の Sitemap 行のコメントを外す。他は変更しない。
+# sitemap.xml を用意したら (T.37.4) 末尾の Sitemap 行のコメントを外す。他は変更しない。
 
 # ---- AI 学習・データセット収集クローラ (全域拒否) ----
 User-agent: GPTBot
@@ -63,7 +63,7 @@ User-agent: archive.org_bot
 Allow: /
 
 # ---- その他すべて ----
-# 検索エンジンのクロールは許可する。index させるかどうかは X-Robots-Tag / meta robots で制御し、
+# 検索エンジンのクロールは許可する。恒久 noindex 区画の noindex は X-Robots-Tag / meta robots で返し、
 # robots.txt では止めない (noindex を読ませるため)。
 # WordPress の管理系と検索結果ページだけはクロールさせない。
 User-agent: *
@@ -75,5 +75,5 @@ Disallow: /search/
 Disallow: /*?replytocom=
 Crawl-delay: 5
 
-# ---- サイトマップ (公開解禁 = T.37.4 でコメントを外す) ----
+# ---- サイトマップ (sitemap.xml を用意したら = T.37.4 でコメントを外す) ----
 # Sitemap: https://novels.xwp.jp/sitemap.xml

@@ -1,3 +1,5 @@
 # catalog/review/
 
 ここにあった人間レビュー用の資料 (T.7.5.1) は 2026-10-26 に [S.216](../../specs/S.216.md) (案内)・[S.217](../../specs/S.217.md) (作者 slug)・[S.218](../../specs/S.218.md) (作品クラスタのリスク) へ移した。
+
+`clusters-YYYY-MM.md` は `scripts/wp/cluster_review.py` の出力 (作品クラスタのレビュー資料。[S.149](../../specs/S.149.md))。

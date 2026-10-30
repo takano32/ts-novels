@@ -243,7 +243,7 @@ function ts_bunko_author_links($term) {
 function ts_bunko_sidebar() {
     $items = [
         ['kana', '作者索引'], ['timeline', '年表'], ['bunrui', '分類索引'],
-        ['vocabulary', 'キーワード索引'], ['osusume', 'オススメの環'],
+        ['vocabulary', 'キーワード索引'],
         ['docs', '運営文書・資料'],
     ];
     echo '<aside class="ts-sidebar" aria-label="さがす">';
@@ -258,7 +258,9 @@ function ts_bunko_sidebar() {
     }
     echo '</ul></nav>';
     echo '<div class="ts-sidebar-block"><h2 class="ts-sidebar-title">この文庫について</h2><ul>';
-    foreach ([['/about/', 'このサイトについて'], ['/archive/', '原本アーカイブ'],
+    // 「オーナー作品集」は仮の項目名 (specs/S.104.md。T.19.1 の判断で直す)
+    foreach ([['/authors/yays/', 'オーナー作品集'],
+              ['/about/', 'このサイトについて'], ['/archive/', '原本アーカイブ'],
               ['/takedown/', '掲載の取り下げ']] as [$path, $label]) {
         echo '<li><a href="' . esc_url(home_url($path)) . '">' . esc_html($label) . '</a></li>';
     }
