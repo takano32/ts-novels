@@ -1,6 +1,6 @@
 {
  "generated_by": "scripts/wp/terms_build.py",
- "episodes": 3844,
+ "episodes": 3847,
  "taxonomies": {
   "ts_genre": {
    "raw_tokens_distinct": 244,
@@ -187,7 +187,7 @@
   "honkan": 2887,
   "legacy": 97,
   "uncatalogued": 859,
-  "extern-repost": 1
+  "extern-repost": 4
  },
  "corpus_terms": [
   {
@@ -208,7 +208,7 @@
   {
    "slug": "extern-repost",
    "name": "文庫未掲載",
-   "count": 1
+   "count": 4
   },
   {
    "slug": "dojo",
@@ -223,7 +223,7 @@
   {
    "name": "全 episode の corpus 値に term がある",
    "ok": true,
-   "detail": "被覆 3844/3844 話 / term の無い値 なし"
+   "detail": "被覆 3847/3847 話 / term の無い値 なし"
   },
   {
    "name": "term はあるが実データが 0 件の corpus が無い (T.36 の予定枠 dojo を除く)",

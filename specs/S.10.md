@@ -3,11 +3,15 @@
 - 種類: 手順
 - 状態: 有効
 - 出典: docs/wp-implementation-tasks.md の「実行セッションの心得」の「普遍ルール」
-- 関連: T.27.6, S.5, S.67, S.210
+- 関連: T.27.6, S.5, S.100, S.109, S.67, S.210
 
 **普遍ルール**:
 1. **単一真実源は `catalog/`**。WP DB は使い捨ての派生ビュー。WP 管理画面での手動編集は禁止、
-   修正は必ず catalog 側 overrides ファイルで
+   修正は必ず catalog 側 overrides ファイルで。
+   例外は所有者による固定ページ 4 枚 (`content/pages/*.html`) と解題 (`content/docs/*.html`) の編集 (S.100)。
+   正は catalog でなく git のこれらのファイルで、所有者の原稿をファイルに入れる経路でも、管理画面の編集を
+   git に書き戻す経路 (固定ページは `wp ts export-pages`、S.109) でも、git に入れてから投入する
+   (経路の選択は八重洲さんの判断、T.27.1)
 2. すべてのインポートは冪等(上記キーで upsert)。**受け入れ条件は「2 回連続実行で 2 回目が
    created=0 / updated=0」**。import コマンドは created/updated/skipped を集計出力すること
 3. 新スクリプトは `scripts/wp/` に置き、ツールの一覧 S.210 (元の `scripts/README.md`) に 1 行追記してコミット

@@ -29,7 +29,7 @@ all: catalog
 catalog:
 	$(PYTHON) $(WP)/catalog_build.py        # T.7.1 正規目録 lib1-73 + T.7.2 旧目録 lib01-09
 	$(PYTHON) $(WP)/uncatalogued_build.py   # T.7.8 目録に載っていない novel/ 配下の本文
-	$(PYTHON) $(WP)/repost_build.py         # T.7.8 作者本人の再掲 (検証済み 2 件)
+	$(PYTHON) $(WP)/repost_build.py         # T.7.8 作者本人の再掲 (pixiv 2 件と bc-cafe.net の 3 点。T.34.2)
 	$(PYTHON) $(WP)/episode_overrides.py    # 話単位の人手上書き (原本 lib*.html の誤植)
 	$(PYTHON) $(WP)/terms_build.py          # T.7.3 分類語彙 (genre/type/keyword/world/corpus)
 	$(PYTHON) $(WP)/authors_build.py        # T.7.4 作者の同定

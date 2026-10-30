@@ -3,7 +3,7 @@
 - 種類: 仕様
 - 状態: 有効
 - 出典: scripts/README.md の「wp/ (WordPress 移築の実装)」(2026-10-26 にここへ移した)
-- 関連: T.7, T.8, T.9, T.16.3.3, T.22.3, T.24.3, S.171〜S.180, S.183, S.190, S.209, S.211, S.111, S.149
+- 関連: T.7, T.8, T.9, T.34.2, T.16.3.3, T.22.3, T.24.3, S.171〜S.180, S.183, S.190, S.209, S.211, S.111, S.149
 
 ## wp/ (WordPress 移築の実装)
 
@@ -68,8 +68,11 @@ episode_overrides が最後に人手の上書きを当て、terms/authors/works 
   lib-index-*.html → 本文の「作：」行 → `<title>` → 同ディレクトリの作者、の順に解決し
   `metadata_source` に記録。落としたものは理由つきで `catalog/uncatalogued_excluded.jsonl` に。
 - **wp/repost_build.py** — 作者本人の再掲から回収した本文を catalog に入れる (T.7.8、specs/S.179.md)。
-  検証済みの pixiv 2 件のみ (雨女 = 既存エントリに本文と来歴を追加 / きらいなもの→ＧＷ =
-  文庫未掲載として `corpus=extern-repost` で新規収録)。本文は `reposts/*.txt`。
+  検証済みの pixiv 2 件 (雨女 = 既存エントリに本文と来歴を追加 / きらいなもの→ＧＷ =
+  文庫未掲載として `corpus=extern-repost` で新規収録。本文は `reposts/*.txt`) と、
+  bc-cafe.net の 3 点 (文庫未掲載として `corpus=extern-repost` で新規収録。本文はコミット済みの
+  `reposts/repost__bcwiki__*.{txt,htm}` を source_path にして body_convert が読む。来歴は
+  `reposts/repost__bcwiki__provenance.json`。T.34.2、S.204)。
 
 - **wp/qa_report.py** — `catalog/reports/*.json` を集めて `catalog/QA.md` を書く
   (T.7.7、specs/S.180.md)。数字は各段のレポートからの転記だけで、ここでは再計算しない。

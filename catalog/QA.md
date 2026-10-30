@@ -6,13 +6,13 @@
 
 | 項目 | 値 |
 |---|---:|
-| episodes 合計 | 3844 |
+| episodes 合計 | 3847 |
 | 　正規目録 (`honkan`、lib1–73) | 2887 |
 | 　旧目録 (`legacy`、lib01–09 の差分) | 97 |
 | 　目録外収蔵 (`uncatalogued`、設計 S.41) | 859 |
-| 　文庫未掲載の作者再掲 (`extern-repost`) | 1 |
-| works (作品クラスタ) | 1440 |
-| 　単発 / 連載 | 920 / 520 |
+| 　文庫未掲載の作者再掲 (`extern-repost`) | 4 |
+| works (作品クラスタ) | 1443 |
+| 　単発 / 連載 | 923 / 520 |
 | authors (作者) | 322 |
 | 　うち感想板を持つ | 300 |
 
@@ -71,11 +71,11 @@
 | `honkan` | 正規目録 (lib1–73) | 2887 |
 | `legacy` | 旧目録 (lib01–09) | 97 |
 | `uncatalogued` | 目録外収蔵 | 859 |
-| `extern-repost` | 文庫未掲載 | 1 |
+| `extern-repost` | 文庫未掲載 | 4 |
 | `dojo` | ストーリー道場 | 0 |
 
 
-- [OK] 全 episode の corpus 値に term がある — 被覆 3844/3844 話 / term の無い値 なし
+- [OK] 全 episode の corpus 値に term がある — 被覆 3847/3847 話 / term の無い値 なし
 
 - [OK] term はあるが実データが 0 件の corpus が無い (T.36 の予定枠 dojo を除く) — 空 term なし
 
@@ -85,7 +85,7 @@
 
 | 項目 | 値 |
 |---|---:|
-| works | 1440 |
+| works | 1443 |
 | orphan (どの work にも属さない話) | 0 |
 | **needs_review** | 333 |
 | 　内訳 | {'multi-directory': 39, 'large-cluster': 22, 'weak-evidence': 272} |
@@ -96,7 +96,7 @@
 
 | 項目 | 値 |
 |---|---:|
-| provenance あり | 3623 / 3844 (94.25%) |
+| provenance あり | 3626 / 3847 (94.26%) |
 | 正規目録分の被覆率 | 92.8% |
 | 経路の内訳 (正規目録分) | {'wayback': 2450, 'live-site': 103, 'other': 29, 'commoncrawl': 77, 'narou': 3, 'megalodon': 15, 'pixiv': 1, 'yays-gapfill': 1} |
 | 出所 | git 履歴 (回収コミットの件名と日付)。collinfo.json ではない |
@@ -111,9 +111,9 @@
 | human-override | 3 |
 | image | 39 |
 | notice | 1 |
-| plain-text-repost | 2 |
+| plain-text-repost | 4 |
 | series-index | 1 |
-| text | 1 |
+| text | 3 |
 | unattributed | 36 |
 
 
@@ -130,24 +130,24 @@
 
 | 項目 | 値 |
 |---|---:|
-| 変換対象 (convertible) | 3621 |
-| 　MD 正準に昇格 (無損失証明に合格) | 3619 |
+| 変換対象 (convertible) | 3624 |
+| 　MD 正準に昇格 (無損失証明に合格) | 3622 |
 | 　raw フォールバック (不合格) | 2 |
 | 本文の原本が未回収 (`no-source`) | 223 |
 | 証明合格率 | 99.94% |
 | 合格分の不変量違反 | 0 |
 | 受け入れ (合格率 ≥85%) | OK |
-| `bodies/*.md` の実ファイル数 (照合) | 3642 ← レポートと不一致 |
+| `bodies/*.md` の実ファイル数 (照合) | 3645 ← レポートと不一致 |
 
 
-変換モードの内訳: {'br-para': 3501, '-': 223, 'table': 85, 'hardwrap': 17, 'image-work': 17, 'plain-text': 1}
+変換モードの内訳: {'br-para': 3502, '-': 223, 'table': 85, 'hardwrap': 17, 'image-work': 17, 'plain-text': 3}
 
 ## 9. 人間の確認待ち (T.7.5.1)
 
 | 項目 | 値 |
 |---|---:|
 | slug 確認待ち (作者) | 0 |
-| slug 確認待ち (作品) | 1286 |
+| slug 確認待ち (作品) | 1289 |
 | slug 確認待ち (分類語彙) | 1407 |
 | work_overrides.yml の雛形 | 333 |
 | 裁定済み (作者 slug の `status: confirmed`) | 42 |
@@ -182,11 +182,11 @@
 | 項目 | 値 |
 |---|---:|
 | 既存エントリに本文と来歴を追加 | novel__200802__15232641__rainGirl.html |
-| 文庫未掲載として新規収録 | repost__pixiv__272830 |
+| 文庫未掲載として新規収録 | repost__pixiv__272830, repost__bcwiki__ama, repost__bcwiki__saidai_no_higaisha, repost__bcwiki__bangai3ts |
 | 入力の欠落 | なし |
 
 
-holding の他の回収物は検証未完のため対象外 (T.4.4、S.204)
+holding の他の回収物は既収蔵との重複のため対象外 (T.4.4、S.204)。bc-cafe.net の 3 点の本文は reposts/ のコミット済みファイルをそのまま使う (T.34.2)
 
 ## 11. 本番ページの原本併読 QA (T.9.3、独立検算)
 

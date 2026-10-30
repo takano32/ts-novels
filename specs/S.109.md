@@ -11,6 +11,6 @@
 
 **仕様**: 所有者の原稿を優先する文書 `content/pages/about.html` に入れる (原稿の受け渡しの 2 つの経路は S.100)。ファイル冒頭に `<!-- owner-authored: YYYY-MM-DD -->` を付け、以後セッションは所有者文責の部分を書き換えない (72 時間の差し替えだけは S.112 の一括改訂で行い、事前に所有者へ知らせる)。S.14〜S.19 の「少年少女文庫」定義と S.90 の「移管先の管理者」を「文庫運営委員会」に訂正 (所有者確認後)。
 
-**`wp ts export-pages` の仕様 (新設)**: WP の固定ページ (`page`、publish) を `content/pages/<post_name>.html` に書き戻す。1 行目は `<!-- title: <post_title> -->`、以降は `post_content` を無加工で (ブロックコメントも含む)。既存ファイルの 2 行目に `<!-- owner-authored: YYYY-MM-DD -->` があればその行を保ち、`sync-pages` はこのコメント行を本文から除いて投入する。`--slug=<name>` で 1 枚だけ、`--dry-run` で差分の行数だけ表示。受け入れ条件は往復 (export → `sync-pages`) が `skipped` になること。
+**`wp ts export-pages` の仕様 (新設)**: WP の固定ページ (`page`、publish) を `content/pages/<post_name>.html` に書き戻す。1 行目は `<!-- title: <post_title> -->`、以降は `post_content` を無加工で (ブロックコメントも含む)。既存ファイルの 2 行目に `<!-- owner-authored: YYYY-MM-DD -->` があればその行を保ち、`sync-pages` はこのコメント行を本文から除いて投入する。`--slug=<name>` で 1 枚だけ、`--dry-run` で差分の行数だけ表示。受け入れ条件は往復 (export → `sync-pages`) が `skipped` になること。実装は `mu-plugins/ts-library/includes/commands.php` の `export_pages` (T.27.2。往復の確認は配備後)。管理画面で編集したページは書き戻した後の `sync-pages` が `manual_skipped` になるので、git に入れた後に `sync-pages --overwrite-manual` で取り込み記録を付け直す (本文は同じ)。
 
 **未決**: 原稿の経路 (原稿をいただいて作業側が入れるか、管理画面で直したものを git に書き戻すか) / 運営者名義の表記 (takano32 のまま・運営委員会名義の併記) / 運営委員会の正式名称。

@@ -23,6 +23,9 @@ class TS_Command {
     private const TYPES = ['ts_work', 'ts_doc', 'ts_dojo', 'ts_board_post'];
     private const TAXES = ['ts_author', 'ts_genre', 'ts_type', 'ts_keyword', 'ts_world', 'ts_corpus'];
 
+    /** 固定ページの 2 行目に置く所有者文責の注記 `<!-- owner-authored: YYYY-MM-DD -->` (S.109) */
+    private const OWNER_LINE_RE = '/^<!--\s*owner-authored:\s*\d{4}-\d{2}-\d{2}\s*-->[ \t]*\R?/u';
+
     /** 割当ロジックを変えたら上げる (既存投稿が hash 不一致になり、reset なしでも収束し直す) */
     private const HASH_VER = 'v5'; // v5: _ts_episode_count / _ts_alias_paths を書くようになった
 
@@ -530,6 +533,7 @@ class TS_Command {
             $html = file_get_contents($f);
             $title = preg_match('/<!--\s*title:\s*(.+?)\s*-->/u', $html, $m) ? $m[1] : $slug;
             $body = trim(preg_replace('/^<!--\s*title:.*?-->\s*/su', '', $html));
+            $body = trim(preg_replace(self::OWNER_LINE_RE, '', $body)); // 所有者文責の注記は本文に入れない (S.109)
             $hash = md5($title . $body);
             $page = get_page_by_path($slug, OBJECT, 'page');
             if ($page && get_post_meta($page->ID, '_ts_import_hash', true) === $hash) { $n['skipped']++; continue; }
@@ -546,6 +550,74 @@ class TS_Command {
         }
         WP_CLI::success(sprintf('sync-pages: created=%d updated=%d skipped=%d manual_skipped=%d',
             $n['created'], $n['updated'], $n['skipped'], $n['manual_skipped']));
+    }
+
+    /**
+     * 公開中の固定ページを content/pages/<post_name>.html に書き戻す (T.27.2、S.109)。
+     * 1 行目は <!-- title: … -->、以降は post_content を無加工で書く。既存ファイルの 2 行目に
+     * <!-- owner-authored: YYYY-MM-DD --> があればその行を保つ (sync-pages はこの行を本文から除く)。
+     * WP には書き込まない。書き戻した直後の sync-pages は、手動編集の無いページなら skipped になる。
+     * 管理画面で編集されたページは manual_skipped になるので、git に入れた後は
+     * sync-pages --overwrite-manual で取り込み記録を付け直す (内容は同じなので本文は変わらない)。
+     *
+     * ## OPTIONS
+     * [--repo=<path>] : リポジトリのルート
+     * [--slug=<name>] : この post_name の 1 枚だけ
+     * [--dry-run] : 書き込まず、ページごとの差分の行数だけ表示する
+     */
+    public function export_pages($args, $assoc) {
+        $root = $this->repo_root($assoc);
+        $dry = isset($assoc['dry-run']);
+        $dir = "$root/content/pages";
+        if (!is_dir($dir)) WP_CLI::error("ディレクトリがありません: $dir");
+        $q = ['post_type' => 'page', 'post_status' => 'publish', 'numberposts' => -1,
+              'orderby' => 'name', 'order' => 'ASC'];
+        if (isset($assoc['slug'])) $q['name'] = $assoc['slug'];
+        $pages = get_posts($q);
+        if (!$pages) WP_CLI::error(isset($assoc['slug']) ? "公開中の固定ページがありません: {$assoc['slug']}" : '公開中の固定ページがありません');
+        $n = ['written' => 0, 'unchanged' => 0];
+        foreach ($pages as $page) {
+            $slug = $page->post_name;
+            if ($slug === '' || !preg_match('/^[a-z0-9_-]+$/', $slug)) {
+                WP_CLI::warning("post_name がファイル名に使えないので skip: ID {$page->ID} ($slug)");
+                continue;
+            }
+            $path = "$dir/$slug.html";
+            $old = is_file($path) ? file_get_contents($path) : '';
+            $owner = '';
+            $old_lines = preg_split('/\R/u', $old);
+            if (isset($old_lines[1]) && preg_match(self::OWNER_LINE_RE, $old_lines[1])) $owner = rtrim($old_lines[1]) . "\n";
+            $new = '<!-- title: ' . $page->post_title . " -->\n" . $owner . rtrim($page->post_content, "\r\n") . "\n";
+            if ($new === $old) { $n['unchanged']++; continue; }
+            if ($dry) {
+                [$total, $add, $del] = $this->line_diff_count($old, $new);
+                WP_CLI::line(sprintf('content/pages/%s.html: 差分 %d 行 (+%d -%d)%s',
+                    $slug, $total, $add, $del, $old === '' ? ' 新規' : ''));
+            } else {
+                if (file_put_contents($path, $new) === false) WP_CLI::error("書き込めません: $path");
+                WP_CLI::line("書き戻し: content/pages/$slug.html");
+            }
+            $n['written']++;
+        }
+        WP_CLI::success(sprintf('export-pages%s: %s=%d unchanged=%d', $dry ? ' (dry-run)' : '',
+            $dry ? 'changed' : 'written', $n['written'], $n['unchanged']));
+    }
+
+    /** 2 つの文字列の行単位の差分の行数 [合計, 追加, 削除] (LCS で数える) */
+    private function line_diff_count($a, $b) {
+        $x = $a === '' ? [] : preg_split('/\R/u', rtrim($a, "\r\n"));
+        $y = $b === '' ? [] : preg_split('/\R/u', rtrim($b, "\r\n"));
+        $m = count($x); $k = count($y);
+        $prev = array_fill(0, $k + 1, 0);
+        for ($i = 1; $i <= $m; $i++) {
+            $cur = [0];
+            for ($j = 1; $j <= $k; $j++) {
+                $cur[$j] = $x[$i - 1] === $y[$j - 1] ? $prev[$j - 1] + 1 : max($prev[$j], $cur[$j - 1]);
+            }
+            $prev = $cur;
+        }
+        $common = $prev[$k];
+        return [$m + $k - 2 * $common, $k - $common, $m - $common];
     }
 
     /**
@@ -968,6 +1040,7 @@ class TS_Command {
 
 WP_CLI::add_command('ts sync-terms', [new TS_Command(), 'sync_terms']);
 WP_CLI::add_command('ts sync-pages', [new TS_Command(), 'sync_pages']);
+WP_CLI::add_command('ts export-pages', [new TS_Command(), 'export_pages']);
 WP_CLI::add_command('ts sync-docs', [new TS_Command(), 'sync_docs']);
 WP_CLI::add_command('ts import', [new TS_Command(), 'import']);
 WP_CLI::add_command('ts verify', [new TS_Command(), 'verify']);

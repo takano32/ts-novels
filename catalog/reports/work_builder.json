@@ -1,10 +1,10 @@
 {
  "generated_by": "scripts/wp/work_builder.py",
- "episodes": 3844,
- "works": 1440,
- "works_single_episode": 920,
+ "episodes": 3847,
+ "works": 1443,
+ "works_single_episode": 923,
  "works_multi_episode": 520,
- "episodes_in_works": 3844,
+ "episodes_in_works": 3847,
  "orphans": [],
  "needs_review": 333,
  "needs_review_reasons": {
@@ -41,7 +41,7 @@
   "episode-nav,filename-stem,series-html": 3,
   "series-title-nav": 2,
   "episode-nav": 1,
-  "single": 920
+  "single": 923
  },
  "series_html_rows": 112,
  "series_html_rows_with_links": 112,
@@ -91,8 +91,8 @@
   ]
  ],
  "slug_sources": {
-  "pykakasi": 1286,
+  "pykakasi": 1289,
   "ascii": 154
  },
- "slug_pending_review": 1286
+ "slug_pending_review": 1289
 }

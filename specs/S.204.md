@@ -27,3 +27,6 @@
         (未収蔵作品「ホーリーメイデンズ外伝『復活の依代』」ほか。S.51 参照)。
         **catalog への反映は未了** — `repost_build.py` の `ITEMS` に 3 点を足し、
         `bc-cafe.net/` の作品ページを uncatalogued として拾うかを決める必要がある
+      - 2026-10-30 追記: 3 点は T.34.2 で `repost_build.py` の `ITEMS` に入れた (episodes 3,844 → 3,847、
+        works 1,440 → 1,443、作者はきりか進ノ介さん (slug `kirika`) に 29 → 32 話)。本番は未配備。
+        作品ページを拾うかと `saidai_no_higaisha` の年齢表示は T.34.1 (八重洲さんの判断) のまま

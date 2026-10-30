@@ -1,17 +1,20 @@
 {
  "generated_by": "scripts/wp/repost_build.py",
  "holding_dir": "/home/takano32/ts-novels-holding/stage_repost",
- "items_declared": 2,
+ "items_declared": 5,
  "patched_existing": [
   "novel__200802__15232641__rainGirl.html"
  ],
  "added_extern_repost": [
-  "repost__pixiv__272830"
+  "repost__pixiv__272830",
+  "repost__bcwiki__ama",
+  "repost__bcwiki__saidai_no_higaisha",
+  "repost__bcwiki__bangai3ts"
  ],
  "missing_inputs": [],
  "bodies_written": [
   "novel__200802__15232641__rainGirl.html",
   "repost__pixiv__272830"
  ],
- "note": "holding の他の回収物は検証未完のため対象外 (T.4.4、S.204)"
+ "note": "holding の他の回収物は既収蔵との重複のため対象外 (T.4.4、S.204)。bc-cafe.net の 3 点の本文は reposts/ のコミット済みファイルをそのまま使う (T.34.2)"
 }

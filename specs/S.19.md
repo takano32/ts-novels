@@ -3,7 +3,7 @@
 - 種類: 用語
 - 状態: 有効
 - 出典: docs/glossary.md の「移築先の環境」
-- 関連: S.59〜S.68
+- 関連: S.59〜S.68, S.109, T.27.2
 
 ## 移築先の環境
 
@@ -17,5 +17,7 @@ WP-CLI コマンドを定義する自作プラグイン。管理画面から無�
 
 **`wp ts` コマンド** — mu-plugin が提供する WP-CLI サブコマンド群
 (`sync-terms` / `import` / `apply-takedown` / `verify` / `export-pathmap`)。
+固定ページは `sync-pages` が `content/pages/*.html` から投入し、`export-pages` が管理画面で直したものを
+`content/pages/*.html` に書き戻す (S.109、T.27.2)。
 インポートは冪等で、**2 回連続実行したときの 2 回目が created=0 / updated=0** になることが
 受け入れ条件。

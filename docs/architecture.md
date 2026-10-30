@@ -116,9 +116,10 @@ WP-CLI から使うコマンドで、`includes/commands.php` にあります (S.
 | `export-pathmap` | 原本のパスから WP の URL への対応表を出す |
 | `reset --yes` | `ts_*` の投稿をすべて消す (やり直し用) |
 | `sync-pages` / `sync-docs` | 固定ページ (`content/pages/`) と運営文書を投入 (S.200) |
+| `export-pages` | 管理画面で直した固定ページを `content/pages/` に書き戻す (S.109。未配備) |
 
 `import` は投入した時の catalog のコミットを `ts_catalog_commit` に記録するので、本番に何が載っているかを後から再現できます (S.73、S.182)。
-予定のコマンドとして、ロールを整える `role-sync` (S.116)、固定ページを git に書き戻す `export-pages` (S.109)、
+予定のコマンドとして、ロールを整える `role-sync` (S.116)、
 フォームの取り下げを記録に書き出す `export-takedowns` (S.132) があります。
 
 ### テーマ `ts-bunko`

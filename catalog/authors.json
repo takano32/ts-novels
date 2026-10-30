@@ -2971,6 +2971,77 @@
    ]
   },
   {
+   "slug": "kirika",
+   "display_name": "きりか進ノ介",
+   "display_variants": [
+    "きりか進ノ介"
+   ],
+   "yomi_group": "か行",
+   "kansou_slug": "kirika",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kirika.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [
+    "2daime"
+   ],
+   "homepage": "kirika.novels.name/cafe/index.html",
+   "homepage_wayback": "https://web.archive.org/web/2010/kirika.novels.name/cafe/index.html",
+   "homepage_all": [
+    "kirika.novels.name/cafe/index.html",
+    "http://novels.aetherworks.info/kirika/_bbs_/",
+    "https://bc-cafe.net/",
+    "kirika.novels.name/cafe"
+   ],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 32,
+   "corpora": {
+    "honkan": 29,
+    "extern-repost": 3
+   },
+   "first_date": "2006-05-05",
+   "last_date": "2010-05-14",
+   "identified_by": {
+    "name->board": 4,
+    "board": 28
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__201004__02215640__ama.htm",
+    "novel__200706__17105152__hikaru4.htm",
+    "novel__200706__17105152__hikaru3.htm",
+    "novel__200706__17105152__hikaru2.htm",
+    "novel__200706__17105152__hikaru1.htm",
+    "novel__200605__05101055__kin004.htm",
+    "novel__200605__05101055__kin003.htm",
+    "novel__200706__17105152__glass_heel.htm",
+    "novel__200706__17105152__fregrant3.htm",
+    "novel__200706__17105152__fregrant2.htm",
+    "novel__200605__05101055__kin002.htm",
+    "novel__200706__17105152__fregrant1.htm",
+    "novel__200605__05101055__kin001.htm",
+    "novel__200605__05101055__shuka004.htm",
+    "novel__200605__05101055__shuka003.htm",
+    "novel__200605__05101055__shuka002.htm",
+    "novel__200605__05101055__shuka001.htm",
+    "novel__200605__05101055__fuji004.htm",
+    "novel__200605__05101055__fuji003.htm",
+    "novel__200605__05101055__fuji002.htm",
+    "novel__200605__05101055__fuji001.htm",
+    "novel__200605__05101055__aozora4.htm",
+    "novel__200605__05101055__aozora3.htm",
+    "novel__200605__05101055__aozora2.htm",
+    "novel__200605__05101055__aozora1.htm",
+    "novel__200605__05101055__wakaba4.htm",
+    "novel__200605__05101055__wakaba3.htm",
+    "novel__200605__05101055__wakaba2.htm",
+    "novel__200605__05101055__wakaba1.htm",
+    "repost__bcwiki__ama",
+    "repost__bcwiki__saidai_no_higaisha",
+    "repost__bcwiki__bangai3ts"
+   ]
+  },
+  {
    "slug": "sakuhin_no115",
    "display_name": "驟雨",
    "display_variants": [
@@ -3357,72 +3428,6 @@
     "novel__200305__24153340__henkaku3.html",
     "novel__200305__24153340__henkaku2.html",
     "novel__200305__24153340__henkaku1.html"
-   ]
-  },
-  {
-   "slug": "kirika",
-   "display_name": "きりか進ノ介",
-   "display_variants": [
-    "きりか進ノ介"
-   ],
-   "yomi_group": "か行",
-   "kansou_slug": "kirika",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kirika.cgi",
-   "kansou_slug_alt": [],
-   "shared_boards": [
-    "2daime"
-   ],
-   "homepage": "kirika.novels.name/cafe/index.html",
-   "homepage_wayback": "https://web.archive.org/web/2010/kirika.novels.name/cafe/index.html",
-   "homepage_all": [
-    "kirika.novels.name/cafe/index.html",
-    "http://novels.aetherworks.info/kirika/_bbs_/",
-    "kirika.novels.name/cafe"
-   ],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 29,
-   "corpora": {
-    "honkan": 29
-   },
-   "first_date": "2006-05-05",
-   "last_date": "2010-05-14",
-   "identified_by": {
-    "name->board": 1,
-    "board": 28
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__201004__02215640__ama.htm",
-    "novel__200706__17105152__hikaru4.htm",
-    "novel__200706__17105152__hikaru3.htm",
-    "novel__200706__17105152__hikaru2.htm",
-    "novel__200706__17105152__hikaru1.htm",
-    "novel__200605__05101055__kin004.htm",
-    "novel__200605__05101055__kin003.htm",
-    "novel__200706__17105152__glass_heel.htm",
-    "novel__200706__17105152__fregrant3.htm",
-    "novel__200706__17105152__fregrant2.htm",
-    "novel__200605__05101055__kin002.htm",
-    "novel__200706__17105152__fregrant1.htm",
-    "novel__200605__05101055__kin001.htm",
-    "novel__200605__05101055__shuka004.htm",
-    "novel__200605__05101055__shuka003.htm",
-    "novel__200605__05101055__shuka002.htm",
-    "novel__200605__05101055__shuka001.htm",
-    "novel__200605__05101055__fuji004.htm",
-    "novel__200605__05101055__fuji003.htm",
-    "novel__200605__05101055__fuji002.htm",
-    "novel__200605__05101055__fuji001.htm",
-    "novel__200605__05101055__aozora4.htm",
-    "novel__200605__05101055__aozora3.htm",
-    "novel__200605__05101055__aozora2.htm",
-    "novel__200605__05101055__aozora1.htm",
-    "novel__200605__05101055__wakaba4.htm",
-    "novel__200605__05101055__wakaba3.htm",
-    "novel__200605__05101055__wakaba2.htm",
-    "novel__200605__05101055__wakaba1.htm"
    ]
   },
   {
