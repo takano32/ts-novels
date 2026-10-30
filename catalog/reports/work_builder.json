@@ -1,38 +1,38 @@
 {
  "generated_by": "scripts/wp/work_builder.py",
  "episodes": 3844,
- "works": 1451,
- "works_single_episode": 932,
- "works_multi_episode": 519,
+ "works": 1440,
+ "works_single_episode": 920,
+ "works_multi_episode": 520,
  "episodes_in_works": 3844,
  "orphans": [],
- "needs_review": 331,
+ "needs_review": 333,
  "needs_review_reasons": {
-  "multi-directory": 38,
+  "multi-directory": 39,
   "large-cluster": 22,
-  "weak-evidence": 271
+  "weak-evidence": 272
  },
  "evidence_histogram": {
-  "filename-stem,series-title-nav,title-prefix": 45,
+  "filename-stem,series-title-nav,title-prefix": 48,
   "filename-stem,series-title-nav,title-page,title-prefix": 17,
-  "filename-stem,title-prefix": 85,
+  "filename-stem,title-prefix": 92,
   "episode-nav,filename-stem,series-title-nav,title-prefix": 8,
   "filename-stem,series-html,series-title-nav,title-page,title-prefix": 2,
   "series-title-nav,title-prefix": 3,
-  "filename-stem,series-title-nav": 9,
+  "filename-stem,series-title-nav": 6,
   "filename-stem,series-title-nav,title-page": 3,
   "episode-nav,filename-stem,series-title-nav,title-page": 1,
   "filename-stem,title-page,title-prefix": 1,
   "episode-nav,filename-stem,series-html,title-prefix": 29,
-  "filename-stem": 97,
+  "filename-stem": 89,
   "episode-nav,filename-stem,series-title-nav,title-page,title-prefix": 1,
   "episode-nav,title-prefix": 4,
   "filename-stem,series-html,series-title-nav,title-page": 1,
-  "episode-nav,filename-stem": 15,
-  "episode-nav,filename-stem,title-prefix": 72,
-  "filename-stem,series-html,title-prefix": 11,
-  "title-prefix": 89,
-  "filename-stem,series-html": 8,
+  "episode-nav,filename-stem": 13,
+  "episode-nav,filename-stem,title-prefix": 74,
+  "filename-stem,series-html,title-prefix": 12,
+  "title-prefix": 91,
+  "filename-stem,series-html": 7,
   "series-html,title-prefix": 4,
   "filename-stem,series-html,series-title-nav,title-prefix": 1,
   "episode-nav,filename-stem,series-title-nav": 1,
@@ -41,12 +41,12 @@
   "episode-nav,filename-stem,series-html": 3,
   "series-title-nav": 2,
   "episode-nav": 1,
-  "single": 932
+  "single": 920
  },
  "series_html_rows": 112,
  "series_html_rows_with_links": 112,
  "title_pages_on_disk": 167,
- "works_with_title_page": 231,
+ "works_with_title_page": 229,
  "alias_paths_total": 50,
  "largest_works": [
   [
@@ -62,8 +62,8 @@
    43
   ],
   [
-   "yamu-misutoresutokimyounanakamatachi-sono",
-   39
+   "yamu-misutoresutokimyounanakamatachi",
+   40
   ],
   [
    "kebo-megamikamenmiimiru",
@@ -91,8 +91,8 @@
   ]
  ],
  "slug_sources": {
-  "pykakasi": 1298,
-  "ascii": 153
+  "pykakasi": 1286,
+  "ascii": 154
  },
- "slug_pending_review": 1298
+ "slug_pending_review": 1286
 }

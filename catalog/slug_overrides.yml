@@ -7109,8 +7109,8 @@ works:
     slug: 7cy-monzetsujigoku-chishibukitaisakusen
     source: pykakasi
     status: candidate
-  7cy|数奇な(...以下略) Episode:
-    slug: 7cy-suukina-ikaryaku-episode
+  7cy|数奇な(...以下略:
+    slug: 7cy-suukina-ikaryaku
     source: pykakasi
     status: candidate
   7cy|闇への追儺:
@@ -7129,8 +7129,8 @@ works:
     slug: aibatou-koromogaemae
     source: pykakasi
     status: candidate
-  ainishisu|プロフェッサーK 第:
-    slug: ainishisu-purofessaak-dai
+  ainishisu|プロフェッサーK:
+    slug: ainishisu-purofessaak
     source: pykakasi
     status: candidate
   ainishisu|小さなお守り - 第二章『人魚の涙』:
@@ -7317,8 +7317,8 @@ works:
     slug: amulai-mezame
     source: pykakasi
     status: candidate
-  anoyoroshi|ハンターストーリーランド＋αその６　「島国の白酒」:
-    slug: anoyoroshi-hantaasutooriirando-alphasono6-shimakuninoshirozake
+  anoyoroshi|ハンターストーリーランド+α:
+    slug: anoyoroshi-hantaasutooriirando-alpha
     source: pykakasi
     status: candidate
   anoyoroshi|華代ちゃんシリーズ:
@@ -8433,10 +8433,6 @@ works:
     slug: johdan-toraburu-supirittsu-2
     source: pykakasi
     status: candidate
-  johdan|とらぶる☆すぴりっつ EPISODE3「変転」:
-    slug: johdan-toraburu-supirittsu-episode3-henten
-    source: pykakasi
-    status: candidate
   johdan|とらぶる☆すぴりっつ〜二軒目〜:
     slug: johdan-toraburu-supirittsu-nikenme
     source: pykakasi
@@ -8889,8 +8885,8 @@ works:
     slug: kakusan-promise
     source: ascii
     status: auto
-  kamikawa_ayano|本当の自分 第:
-    slug: kamikawa_ayano-hontounojibun-dai-2
+  kamikawa_ayano|本当の自分:
+    slug: kamikawa_ayano-hontounojibun
     source: pykakasi
     status: candidate
   kamikawa_ayano|特務機動部隊シュガーエンジェルス:
@@ -9133,28 +9129,16 @@ works:
     slug: king-debiruzu-hantaa
     source: pykakasi
     status: candidate
-  kion_rei|きずな 〜ミドちゃんの憂鬱〜　第参話「薔薇の庭園」:
-    slug: kion_rei-kizuna-midochannoyuuutsu-daisanhanashi-baranoteien
+  kion_rei|きずな ~ミドちゃんの憂鬱:
+    slug: kion_rei-kizuna-midochannoyuuutsu-2
     source: pykakasi
     status: candidate
-  kion_rei|きずな 〜ミドちゃんの憂鬱〜　第弐話「百合の花嫁」:
-    slug: kion_rei-kizuna-midochannoyuuutsu-dainihanashi-yurinohanayome
-    source: pykakasi
-    status: candidate
-  kion_rei|きずな ～ミドちゃんの憂鬱～ 第参話「薔薇の庭園」:
-    slug: kion_rei-kizuna-midochannoyuuutsu-daisanhanashi-baranoteien-2
-    source: pykakasi
-    status: candidate
-  kion_rei|きずな ～ミドちゃんの憂鬱～ 第弐話「百合の花嫁」:
-    slug: kion_rei-kizuna-midochannoyuuutsu-dainihanashi-yurinohanayome-2
+  kion_rei|きずな 〜ミドちゃんの憂鬱:
+    slug: kion_rei-kizuna-midochannoyuuutsu
     source: pykakasi
     status: candidate
   kion_rei|ちぇんじ!:
     slug: kion_rei-chenji
-    source: pykakasi
-    status: candidate
-  kion_rei|絆:
-    slug: kion_rei-kizuna-2
     source: pykakasi
     status: candidate
   kion_rei|萌えっ子騎士ヤマサキ:
@@ -9305,11 +9289,7 @@ works:
     slug: kotobuki_hikaru_ndcss-bishounenmorakujanai
     source: pykakasi
     status: candidate
-  kotobuki_hikaru_ndcss|謎の予告CG　その２:
-    slug: kotobuki_hikaru_ndcss-nazonoyokokucg-sono2
-    source: pykakasi
-    status: candidate
-  kotobuki_hikaru_ndcss|謎の予告ＣＧ:
+  kotobuki_hikaru_ndcss|謎の予告CG:
     slug: kotobuki_hikaru_ndcss-nazonoyokokucg
     source: pykakasi
     status: candidate
@@ -9537,10 +9517,6 @@ works:
     slug: marie-imajin
     source: pykakasi
     status: candidate
-  marie|イマジン 第:
-    slug: marie-imajin-dai
-    source: pykakasi
-    status: candidate
   marie|キャリア・デイ　９７:
     slug: marie-kyaria-dei-97
     source: pykakasi
@@ -9687,10 +9663,6 @@ works:
     status: candidate
   mikan_ame|華森蘭丸くん:
     slug: mikan_ame-hanamoriranmarukun
-    source: pykakasi
-    status: candidate
-  mikan_ame|華森蘭丸くん（その２）:
-    slug: mikan_ame-hanamoriranmarukun-sono2
     source: pykakasi
     status: candidate
   miki_taifuu|パラレルコミュニケーション−１:
@@ -10089,10 +10061,10 @@ works:
     slug: mr_nagasaki-densha
     source: pykakasi
     status: candidate
-  muck|MAGICAL TWINS 第:
-    slug: muck-magical-twins-dai
-    source: pykakasi
-    status: candidate
+  muck|MAGICAL TWINS:
+    slug: muck-magical-twins
+    source: ascii
+    status: auto
   mutou|「Cards！」　VS．金貨の６:
     slug: mutou-cards-vs-kinkano6
     source: pykakasi
@@ -10173,12 +10145,8 @@ works:
     slug: nekono_gundam-iesu-ai-uiru
     source: pykakasi
     status: candidate
-  nekono_gundam|くろす・あこーど episode:
-    slug: nekono_gundam-kurosu-akoodo-episode
-    source: pykakasi
-    status: candidate
-  nekono_gundam|くろす・あこーど　番外編１:
-    slug: nekono_gundam-kurosu-akoodo-bangaihen1
+  nekono_gundam|くろす・あこーど:
+    slug: nekono_gundam-kurosu-akoodo
     source: pykakasi
     status: candidate
   nekono_gundam|こるり 改訂版:
@@ -10545,8 +10513,8 @@ works:
     slug: panda5-ramune2-1
     source: pykakasi
     status: candidate
-  panda5|愛のパンダ5TS劇場その:
-    slug: panda5-ainopanda5tsgekijousono
+  panda5|愛のパンダ5TS劇場:
+    slug: panda5-ainopanda5tsgekijou
     source: pykakasi
     status: candidate
   panda5|獣王銀河シャンマリオン　第一話　前編:
@@ -10685,8 +10653,8 @@ works:
     slug: roppo-tewotsunagitakatta
     source: pykakasi
     status: candidate
-  ruhfasu|Irregular Gir:
-    slug: ruhfasu-irregular-gir
+  ruhfasu|Irregular Girl:
+    slug: ruhfasu-irregular-girl
     source: ascii
     status: auto
   ruhfasu|Irregular girl  -The past days- 　〜前編〜:
@@ -10705,8 +10673,8 @@ works:
     slug: rurita-hooriimeidenzu
     source: pykakasi
     status: candidate
-  rurita|メダロットM Episode:
-    slug: rurita-medarottom-episode
+  rurita|メダロットM:
+    slug: rurita-medarottom
     source: pykakasi
     status: candidate
   rurita|華代ちゃんシリーズ番外編「こちょうのゆめ」:
@@ -10905,8 +10873,8 @@ works:
     slug: satoh_yui-am-i-a-grandfather-the-2nd-story-nihongoyaku-atashigaojiichan
     source: pykakasi
     status: candidate
-  sato|カオルの日常 第弐話:
-    slug: sato-kaorunonichijou-dainihanashi
+  sato|カオルの日常:
+    slug: sato-kaorunonichijou
     source: pykakasi
     status: candidate
   saya|奈緒の憂鬱:
@@ -11853,8 +11821,8 @@ works:
     slug: unattributed-rental-body2-1
     source: ascii
     status: auto
-  unattributed|TSキャノンボール!」過去ログ(その:
-    slug: unattributed-tskyanonbooru-kakorogu-sono
+  unattributed|TSキャノンボール!」過去ログ:
+    slug: unattributed-tskyanonbooru-kakorogu
     source: pykakasi
     status: candidate
   unattributed|TS大喜利のページ:
@@ -12517,12 +12485,8 @@ works:
     slug: yamu-mouhitorino-nijinohitomi-nomonogatari
     source: pykakasi
     status: candidate
-  yamu|ミストレスと奇妙な仲間達〜その:
-    slug: yamu-misutoresutokimyounanakamatachi-sono
-    source: pykakasi
-    status: candidate
-  yamu|ミストレスと奇妙な仲間達〜その11（改訂版）:
-    slug: yamu-misutoresutokimyounanakamatachi-sono11-kaiteiban
+  yamu|ミストレスと奇妙な仲間達:
+    slug: yamu-misutoresutokimyounanakamatachi
     source: pykakasi
     status: candidate
   yamu|レディ・ブリンガー第八話“荒野に笑いしは…”:
@@ -12533,8 +12497,8 @@ works:
     slug: yamu-vanzeerusoudouki
     source: pykakasi
     status: candidate
-  yamu|三姫巡遊記 流闘姫編その:
-    slug: yamu-sanhimejunyuuki-ryuutouhimehensono
+  yamu|三姫巡遊記 流闘姫編:
+    slug: yamu-sanhimejunyuuki-ryuutouhimehen
     source: pykakasi
     status: candidate
   yamu|影の騎士:
@@ -12809,12 +12773,12 @@ works:
     slug: zyuka-korehayumeochi
     source: pykakasi
     status: candidate
-  zyuka|ハンターストーリーランド+αその:
-    slug: zyuka-hantaasutooriirando-alphasono
+  zyuka|ハンターストーリーランド+α:
+    slug: zyuka-hantaasutooriirando-alpha
     source: pykakasi
     status: candidate
-  zyuka|メタモル:
-    slug: zyuka-metamoru
+  zyuka|メタモル・ヴァンパイア:
+    slug: zyuka-metamoru-vanpaia
     source: pykakasi
     status: candidate
   zyuka|幽霊屋敷のお姉ちゃん:
