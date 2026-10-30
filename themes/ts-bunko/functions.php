@@ -23,7 +23,7 @@ add_action('wp_enqueue_scripts', function () {
 /** 保存済みのリーダー設定をちらつきなく適用する (head 内・1KB 未満のインライン) */
 add_action('wp_head', function () {
     ?><script>try{var s=JSON.parse(localStorage.getItem('ts-reader')||'{}'),h=document.documentElement;
-['size','lh','font','dark'].forEach(function(k){if(s[k])h.setAttribute('data-ts-'+k,s[k]);});}catch(e){}</script><?php
+['size','lh','font','dark','orig'].forEach(function(k){if(s[k])h.setAttribute('data-ts-'+k,s[k]);});}catch(e){}</script><?php
 }, 0);
 
 /** 一覧の 1 作品カード */

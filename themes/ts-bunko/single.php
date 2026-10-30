@@ -52,6 +52,9 @@ while (have_posts()) {
           <button type="button" data-ts-set="font:gothic" aria-pressed="false">ゴシック</button>
           <button type="button" data-ts-set="dark:0" aria-pressed="false">ライト</button>
           <button type="button" data-ts-set="dark:1" aria-pressed="false">ダーク</button>
+          <?php if ($status === 'raw-fallback') { ?>
+          <button type="button" data-ts-set="orig:1" aria-pressed="false">原本配色</button>
+          <?php } ?>
           <span class="ts-toolbar-label">←/→ で前後の話</span>
         </div>
         <?php
