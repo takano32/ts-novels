@@ -3,7 +3,7 @@
 - 種類: 手順
 - 状態: 有効
 - 出典: docs/publish-runbook.md の冒頭・「前提」・「所要時間の目安」・「手順」
-- 関連: T.6.3, T.38, S.67, S.70, S.71, T.40.1
+- 関連: T.6.3, T.38, T.23.6, S.67, S.70, S.71, S.76, S.77, S.116, S.121, T.40.1
 
 ## 公開ランブック — catalog 再生成から本番反映まで
 
@@ -15,6 +15,7 @@ WP 管理画面での手動編集は禁止 (修正は catalog 側の overrides �
 **この版を書いた時点の注記**: T.7〜T.8 のスクリプト (`catalog_build.py` 以外) と mu-plugin は未実装のため、
 以下の手順は **2026-08-31 に実機で通したもの**である (以前は「予定のインタフェース」だった)。
 実装が進むたびに、実際に流したコマンドと所要時間でこのファイルを更新すること。
+2026-10-30 (T.23.6) に、運営委員ロール (`wp ts role-sync`) と取り下げの private 化 (S.121) に合わせ、本番の段 (復旧点・ロールとインポートと取り下げ・verify) をホームから流す形に直した。
 
 ### 前提
 
@@ -87,55 +88,63 @@ curl -s "https://novels.xwp.jp/robots.txt?_cb=$RANDOM" | head -20
 
 #### 3. 本番: 復旧点を取る
 
+(高野さんの作業) ここから verify までは本番の DB を変えるので、権限の都合で高野さんがホームから流す。
+
 ```sh
-scripts/wp/novels-ssh
-mkdir -p ~/dumps
-cd ~/novels.xwp.jp/public_html
-wp db export ~/dumps/pre-import-$(date +%Y%m%d-%H%M).sql
-ls -la ~/dumps | tail -3
+cd ~/GitHub/ts-novels
+scripts/wp/novels-ssh 'mkdir -p ~/dumps && cd ~/novels.xwp.jp/public_html && wp db export ~/dumps/pre-import-$(date +%Y%m%d-%H%M).sql && ls -la ~/dumps | tail -3'
 ```
 
 **この段より先はここを戻せば復旧できる。** ダンプは私有ストレージへ退避し、
 公開リポジトリには入れない (T.38.1)。
 
-#### 4. 本番: インポート
+#### 4. 本番: ロール・インポート・取り下げ
 
 ```sh
-wp ts sync-terms --authors=../catalog/authors.json --terms=../catalog/terms.json
-wp ts import --works=../catalog/works.jsonl --episodes=../catalog/episodes.jsonl --dry-run
-wp ts import --bodies=$HOME/novels.xwp.jp/repo/payloads
-# 入力は repo から自動で読む (--repo で上書き可)。**--bodies は payloads/ を指すこと** —
+cd ~/GitHub/ts-novels
+scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp ts role-sync'
+#   運営委員ロール (S.116)。変化が無ければ role-sync: created=0 updated=0 unchanged=3
+scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp ts sync-terms && wp ts import --bodies=$HOME/novels.xwp.jp/repo/payloads --dry-run'
+scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp ts import --bodies=$HOME/novels.xwp.jp/repo/payloads'
+# 入力は repo (~/novels.xwp.jp/repo) から自動で読む (--repo で上書き可)。**--bodies は payloads/ を指すこと** —
 # bodies/ は .md なので、渡すと全話がプレースホルダ本文に置き換わる
-wp ts apply-takedown --list=../takedown/denylist.yml
+scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp ts apply-takedown --dry-run && wp ts apply-takedown'
+#   denylist (repo の takedown/denylist.yml) どおりに取り下げを private にする (S.76、S.121)。
+#   denylist に変化が無ければ private 化 0 / 復帰 0 / 変更なし N
+scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp post list --post_type=ts_work --post_status=private --format=count && wp post list --post_type=ts_work --post_status=draft --format=count'
+#   private は取り下げの件数 (2026-10-30 は 51)、draft は 0
 ```
 
-`import` は created / updated / skipped を集計出力する。
+`import` は created / updated / skipped を集計出力する。取り下げた投稿の `post_status` には触れず (S.117)、取り下げた話の本文は空で入れる (S.76 の論理削除)。
 **冪等性の確認 = もう一度そのまま流して created=0 / updated=0**:
 
 ```sh
-wp ts import --works=../catalog/works.jsonl --episodes=../catalog/episodes.jsonl
+scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp ts import --bodies=$HOME/novels.xwp.jp/repo/payloads --dry-run'
 # → created=0 updated=0 skipped=N であること。そうでなければインポータのバグ
 ```
 
 #### 5. 本番: verify
 
 ```sh
-wp ts verify
+scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp ts verify | tail -1'
 ```
 
-見るもの: 件数照合 (**episodes 3,844 / works 1,451 / 作者 322、WP の作者 term 324** (擬似作者 2 を含む)。S.176) / orphan 0 / taxonomy 被覆率 /
+見るもの: 件数照合 (**episodes 3,847 / works 1,443 / WP の作者 term 324** (擬似作者 2 を含む)。2026-10-30 の全消し再構築の時点。S.176・S.238) / orphan 0 / taxonomy 被覆率 /
 特殊エントリ内訳 (正規目録分 28 件 = 画像作品 21・外部 1・アンカー 5 ほか。全 corpus では 100 件) /
-冪等性。
+冪等性。件数照合は取り下げた private の投稿も数える。
 
-curl 側 (**毎回キャッシュバスターを付ける**):
+curl 側 (**毎回キャッシュバスターを付ける**。取り下げた作品は**ログインなし**で 410 が正しい。運営委員でログインした状態では 200 + 帯。S.118):
 
 ```sh
-for u in / /novel/ /authors/ /index/ /about/ /takedown/; do
+for u in / /novel/ /authors/ /index/ /about/ /takedown/ /removed/; do
   printf '%s ' "$u"; curl -s -o /dev/null -w '%{http_code}\n' "https://novels.xwp.jp$u?_cb=$RANDOM"
 done
 curl -sI "https://novels.xwp.jp/novel/?_cb=$RANDOM" | grep -i 'x-robots-tag'   # 解禁(T.37.4)前は noindex
 curl -s "https://novels.xwp.jp/novel/<slug>/?_cb=$RANDOM" | grep -o '<title>.*</title>'
+curl -sI "https://novels.xwp.jp/novel/<取り下げた作品の slug>/?_cb=$RANDOM" | head -1   # 410
 ```
+
+`denylist.yml` に `kind: annex_path` (画像) を足した・変えたときは、ここで `python3 scripts/wp/htaccess_block.py` → `--install` も流す (S.77)。
 
 #### 6. nginx キャッシュのクリアを依頼 (高野さんの作業)
 

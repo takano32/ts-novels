@@ -3,7 +3,7 @@
 - 種類: 手順
 - 状態: 有効
 - 出典: docs/environment.md の「危険操作チェックリスト」
-- 関連: T.22.4, T.23.6, S.10, S.42
+- 関連: T.22.4, T.23.6, S.10, S.42, S.76, S.77, S.116, S.121
 
 ## 危険操作チェックリスト
 
@@ -21,12 +21,13 @@
 - [ ] `mkdir -p ~/dumps` してから `wp db export ~/dumps/pre-<用途>-$(date +%Y%m%d-%H%M).sql`
 - [ ] ダンプは**私有ストレージへ退避**。公開リポジトリに入れない
 - [ ] `--dry-run` があるコマンドは先に dry-run
-- [ ] 実行後、**もう一度同じコマンドを流して created=0 / updated=0**(冪等性の受け入れ条件)
+- [ ] 実行後、**もう一度同じコマンドを流して created=0 / updated=0**(冪等性の受け入れ条件)。`wp ts role-sync` も同じ (2 回目は created=0 / updated=0。S.116)
+- [ ] `wp ts apply-takedown` の後は、2 回目が「private 化 0 / 復帰 0 / 変更なし …」になり、`wp post list --post_type=ts_work --post_status=private --format=count` が取り下げの件数、`--post_status=draft` が 0 であることを確かめる (S.76、S.121)
 
 ### `.htaccess` を変える前
 
-- [ ] `cp .htaccess .htaccess.bak-$(date +%Y%m%d)` を実行した
-- [ ] 書き込むのは**自分のマーカーブロックの中だけ**
+- [ ] `scripts/wp/htaccess_block.py --install` で入れる (原本 `.htaccess.orig` と直前の `.htaccess.bak-<日時>` を自動で残し、検証 NG なら自動で戻す。S.77)。手で触るなら `cp .htaccess .htaccess.bak-$(date +%Y%m%d)` を先に
+- [ ] 書き込むのは**自分のマーカーブロックの中だけ**。取り下げの 410 で書くのは画像だけ (WP の URL の 410 は WordPress が返す。S.119)
 - [ ] 全文をローカルに保存・コミットしていない(ログイン URL 秘匿値)
 - [ ] 変更直後に「対象 URL が期待どおり」+「**無関係な URL が 200 のまま**」を curl で確認
 - [ ] 壊れていたら即 `.bak` を戻す
@@ -43,3 +44,4 @@
 
 - [ ] 感想板 `/boards/` ・道場 `/dojo/` ・`/assets/annex-img/` は**解禁後も恒久 noindex**
 - [ ] メールアドレスは catalog 生成段階で除去済み(**DB に入れない**)
+- [ ] 取り下げた作品の確認は**ログインなし**の curl で行う (410 が期待)。運営委員や管理者でログインした状態では 200 + 帯が正しい応答 (S.118)
