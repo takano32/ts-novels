@@ -745,7 +745,7 @@ class TS_Command {
     }
 
     /**
-     * denylist を適用して該当投稿を draft 化する (削除の第 1 層。SLA 72h)。
+     * denylist を適用して該当投稿を draft 化する (削除の第 1 層)。
      *
      * takedown/denylist.yml の `entries[].target.{kind,value}` を読む
      * (kind = work | episode | annex_path | author)。**work / author は

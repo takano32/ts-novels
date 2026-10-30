@@ -3,9 +3,9 @@
 - 種類: 手順
 - 状態: 一部失効 (S.119 で上書き。WP の URL の 410 は WordPress が返す)
 - 出典: docs/removal-runbook.md の「本番 .htaccess に 410 を追記」
-- 関連: S.64, S.119
+- 関連: T.21.3, S.64, S.119
 
-## 本番 .htaccess に 410 を追記 (受領から 72 時間まで)
+## 本番 .htaccess に 410 を追記
 
 **ガード (S.10 の復旧点・ログイン URL・rsync の決まり)**:
 - 必ず `cp .htaccess .htaccess.bak-YYYYMMDD` を先に取る。

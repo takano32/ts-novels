@@ -3,9 +3,9 @@
 - 種類: 手順
 - 状態: 一部失効 (S.121 で上書き。draft → private)
 - 出典: docs/removal-runbook.md の「WP を draft 化」
-- 関連: S.117, S.121
+- 関連: T.21.3, S.117, S.121
 
-## WP を draft 化 (受領から 72 時間まで)
+## WP を draft 化
 
 ```sh
 scripts/wp/novels-ssh

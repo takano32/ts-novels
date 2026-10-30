@@ -3,7 +3,7 @@
 - 種類: 実測
 - 状態: 有効
 - 出典: docs/data-inventory.md の「ツリー別目録」
-- 関連: T.16.2.2, T.34, S.211
+- 関連: T.16.2.2, T.34, S.211, T.20.5
 
 ## ツリー別目録
 
@@ -64,7 +64,7 @@ S.41「最大掲載原則」により、**原本アーカイブに残るもの�
 | | `chat/` | 4 | チャット室の枠 HTML |
 | `~ezpe/` | `cgi-bin/noteky/` | 1,522 | 「私のオススメ」= 読者の推薦ノート。旧目録の感想リンク先 |
 | | `cgi-bin/` その他 | 31 | `resbbs4` 20・`resbbs2b` 4・`newentry` 3・`resbbs2` 2・`topics` 1・`resbbs4y` 1 |
-| | `yasai/` | 8 | 1999 年の文庫前史の静的ページ(`girlise.html` `nyotai.html` ほか) |
+| | `yasai/` | 8 | 姉妹サイト「にせ乙女パラダイス」(文庫と並行して運用) の静的ページ(`girlise.html` `nyotai.html` ほか。S.105) |
 | `special/` | `rb/` | 52 | 「Rental Body Re-Mix 完成記念!! 夏だ一番！ ＲＢ祭り」= 用語辞典・パロディ漫画・イラスト・インタビュー |
 | | `03summer/` | **9** | 2003 年夏の企画「絶望未満」。`.txt`/`zetsubou.1-3` は **NScripter のシナリオスクリプト**(HTML ではない) |
 | `aetherworks.org/` | `towns/` | 188 | 「黄金航海補佐システム」= 大航海時代 Online 用ツール。**文庫と無関係** |
