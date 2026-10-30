@@ -12,7 +12,7 @@
 - [ ] T.25.3 (八重洲さんの判断) 要確認の組 (既定 89) の `decision` を記入 → `make catalog` → 件数を記録してコミット
 - [ ] T.25.4 import とテーマ (T.23.3 の後)
   - [ ] T.25.4.1 `commands.php`: `superseded_by` → private + メタ、無ければ publish、`all_superseded` の親、`HASH_VER` v6 (S.141) → `--dry-run` 2 回目が created=0 / updated=0
-  - [ ] T.25.4.2 `visibility.php` / `render.php`: 旧版の 301・帯・新版の「旧版あり」(S.141) → `php -l` OK
+  - [ ] T.25.4.2 `visibility.php` / `render.php`: 旧版の 404 (転送なし)・帯・運営委員のログイン時だけの「旧版あり」(S.141) → `php -l` OK
   - [ ] T.25.4.3 `wp ts verify` に visibility 別の件数 (S.141)
 - [ ] T.25.5 本番: `wp db export` → deploy.sh --apply → `wp ts import --bodies=…/payloads` → `wp ts verify` OK → S.143 の表を満たす → キャッシュクリア (高野さんの作業)
 - [ ] T.25.6 文書: S.145 の 4 箇所 (S.49〜S.58・S.92 の収録規模、S.43、S.72) を更新

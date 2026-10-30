@@ -7,9 +7,9 @@
 - [ ] T.23.2 判断 (T.23.1 の後): WordPress が 410 を返す方式か `.htaccess` の Cookie 条件方式か (S.119) → S.119 と S.43 に結論を 1 行追記
 - [ ] T.23.3 mu-plugin の実装 (T.23.2 の後)
   - [ ] T.23.3.1 `includes/roles.php`: ロール 2 種と `wp ts role-sync` (S.116) → 2 回目が created=0 / updated=0
-  - [ ] T.23.3.2 `includes/visibility.php`: 可視性メタ・410/301・帯・題名接頭辞 (S.117〜S.118)、`themes/ts-bunko/ts-410.php` → `php -l` OK
+  - [ ] T.23.3.2 `includes/visibility.php`: 可視性メタ・410/404・帯・題名接頭辞 (S.117〜S.118)、`themes/ts-bunko/ts-410.php` → `php -l` OK
   - [ ] T.23.3.3 `commands.php` `apply_takedown` を S.121 どおりに (draft → private、復帰、dry-run 出力) → dry-run の件数が S.121 の形式
-  - [ ] T.23.3.4 `scripts/wp/htaccess_block.py` を S.119 の改訂後の内容に (WP URL の gone を書かない、301 行を読む) → dry-run に `/novel/` の gone 行が無い
+  - [ ] T.23.3.4 `scripts/wp/htaccess_block.py` を S.119 の改訂後の内容に (WP URL の gone を書かない、転送の行は書かない) → dry-run に `/novel/` の gone 行が無い
 - [ ] T.23.4 配備と移行: `wp db export` → deploy.sh --apply → `wp ts role-sync` → `wp ts apply-takedown` → private = 51・draft = 0 → `htaccess_block.py --install` → `wp ts verify` OK
 - [ ] T.23.5 検証: S.122 の表をすべて満たす (試験ユーザで帯を確認し削除)
 - [ ] T.23.6 文書: S.123 の 5 文書 (S.75〜S.81 の改訂・S.18・S.67・S.215 (元の takedown/README)・S.69〜S.71) を更新
