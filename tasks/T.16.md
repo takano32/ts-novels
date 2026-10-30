@@ -5,7 +5,7 @@
 
 - [x] T.16.1 実態の確定 (2026-10-26): 配信物 18,013 ファイルの全数走査で ソース 0・秘密 0。「落ちてくる」= Pages の `application/octet-stream` (S.110 の表)
 - [ ] T.16.2 サーバパスを晒すエラー出力 2 ファイルの削除 (S.110 の仕様「小さな対処」)
-  - [ ] T.16.2.1 `git rm` で 2 ファイルを削除 → `git grep -l -E 'public_html|WWWROOT' -- . ':!scripts' ':!specs'` が 0 件 → コミット
+  - [x] T.16.2.1 `git rm` で 2 ファイルを削除 → `git grep -l -E 'public_html|WWWROOT' -- . ':!scripts' ':!specs'` が 0 件 → コミット (2026-10-30 削除。この検索は原本の掲示板リンクの URL 引数 `…public_html/cgi-bin/npc.idx…` にも当たり 22 ファイルが残るが、エラー出力ではない。S.110 の対象 2 本は 0 件)
   - [ ] T.16.2.2 push 後に 2 URL が Pages で 404 (curl)。S.51 の `www2.sts.co.jp/` と `~yaji/` の件数を 1 ずつ減らす
 - [x] T.16.3 秘密走査 `scripts/wp/secret_scan.py` の恒久化 (S.111)
   - [x] T.16.3.1 S.111 の規則どおりに実装 → 現状のリポジトリで 0 件・終了コード 0、`catalog/reports/secret_scan.json` が出る (2026-10-30。18,036 ファイルで該当 0。実装の細部は S.111)
