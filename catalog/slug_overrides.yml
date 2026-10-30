@@ -9149,6 +9149,10 @@ works:
     slug: kion_rei-kourin-bokuto-tenshito-akumanomusume
     source: pykakasi
     status: candidate
+  kirika|あま:
+    slug: kirika-ama
+    source: pykakasi
+    status: candidate
   kirika|ひかるめざめる:
     slug: kirika-hikarumezameru
     source: pykakasi
@@ -9163,6 +9167,14 @@ works:
     status: candidate
   kirika|二代目は海女:
     slug: kirika-nidaimehaama
+    source: pykakasi
+    status: candidate
+  kirika|最大の被害者、あるいは:
+    slug: kirika-saidainohigaisha-aruiha
+    source: pykakasi
+    status: candidate
+  kirika|番外3Ts:
+    slug: kirika-bangai3ts
     source: pykakasi
     status: candidate
   kirika|若葉色の怪盗１:

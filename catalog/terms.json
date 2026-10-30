@@ -1,6 +1,6 @@
 {
  "generated_by": "scripts/wp/terms_build.py",
- "episodes": 3844,
+ "episodes": 3847,
  "taxonomies": {
   "ts_genre": {
    "rewrite": "genre",
@@ -18870,7 +18870,7 @@
     {
      "slug": "extern-repost",
      "name": "文庫未掲載",
-     "count": 1,
+     "count": 4,
      "core": true,
      "description": "作者の再掲載など外部由来。文庫に載ったことがない"
     },

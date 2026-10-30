@@ -1,6 +1,6 @@
 {
  "generated_by": "scripts/wp/authors_build.py",
- "episodes": 3844,
+ "episodes": 3847,
  "authors": 322,
  "authors_with_board": 300,
  "authors_without_board": 22,
@@ -227,7 +227,7 @@
  ],
  "episodes_no_author_by_design_count": 38,
  "episodes_not_an_author": [],
- "episodes_assigned": 3806,
+ "episodes_assigned": 3809,
  "ambiguous_name_to_board": [],
  "ambiguous_name_to_board_count": 0,
  "yomi_resolved": 303,
@@ -498,7 +498,7 @@
   {
    "name": "episode の割り当て漏れ 0 (作者不詳の告知/目録外を除く)",
    "ok": true,
-   "detail": "3806 + 作者不詳 38 + 作者ではない 0 / 3844"
+   "detail": "3809 + 作者不詳 38 + 作者ではない 0 / 3847"
   },
   {
    "name": "slug の重複 0",

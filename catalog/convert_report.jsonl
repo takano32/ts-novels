@@ -3842,3 +3842,6 @@
 {"episode_id": "novel__triangle_equation2.html", "source_path": "novel/triangle_equation2.html", "corpus": "uncatalogued", "mode": "br-para", "notes": {}, "chrome_removed": [], "chars": 17669, "status": "md", "invariant": "ok", "nav_trimmed": []}
 {"episode_id": "novel__triangle_equation3.html", "source_path": "novel/triangle_equation3.html", "corpus": "uncatalogued", "mode": "br-para", "notes": {}, "chrome_removed": [], "chars": 16466, "status": "md", "invariant": "ok", "nav_trimmed": []}
 {"episode_id": "repost__pixiv__272830", "source_path": "repost/pixiv/272830", "corpus": "extern-repost", "status": "no-source", "reason": "原本ファイルが未回収"}
+{"episode_id": "repost__bcwiki__ama", "source_path": "reposts/repost__bcwiki__ama.txt", "corpus": "extern-repost", "status": "md", "mode": "plain-text", "invariant": "ok", "source_encoding": "utf-8", "chars": 7092}
+{"episode_id": "repost__bcwiki__saidai_no_higaisha", "source_path": "reposts/repost__bcwiki__saidai_no_higaisha.htm", "corpus": "extern-repost", "mode": "br-para", "notes": {}, "chrome_removed": [], "chars": 2850, "status": "md", "invariant": "ok", "nav_trimmed": []}
+{"episode_id": "repost__bcwiki__bangai3ts", "source_path": "reposts/repost__bcwiki__bangai3ts.txt", "corpus": "extern-repost", "status": "md", "mode": "plain-text", "invariant": "ok", "source_encoding": "utf-8", "chars": 5413}
