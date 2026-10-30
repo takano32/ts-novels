@@ -1,22 +1,246 @@
 {
-  "written": 3646,
+  "written": 3607,
   "mail_redacted": {
     "mailto": 17,
     "bare": 47
   },
   "mail_leaked": [],
-  "converted": 3644,
+  "converted": 3605,
   "raw_fallback": [
     "novel__200104__20050818__acgallary.htm",
     "novel__200510__19213555__koromogae1.htm"
   ],
+  "takedown_skipped": 43,
+  "takedown_skipped_with_body": {
+    "md": 42,
+    "repost": 0,
+    "raw": 0
+  },
+  "takedown_payloads_removed": 42,
+  "takedown_entries": [
+    {
+      "id": "S.222",
+      "kind": "work",
+      "value": "two_bit-shoujoshinkoukeimonogatari-miss-ing",
+      "episodes": 3
+    },
+    {
+      "id": "S.223",
+      "kind": "work",
+      "value": "two_bit-hibikorenichijounari-renkaban",
+      "episodes": 1
+    },
+    {
+      "id": "S.224",
+      "kind": "work",
+      "value": "suzuki_murasaki-inside",
+      "episodes": 1
+    },
+    {
+      "id": "S.225",
+      "kind": "work",
+      "value": "shiroiruka-harunanoritaanmatchi",
+      "episodes": 2
+    },
+    {
+      "id": "S.226",
+      "kind": "work",
+      "value": "shiroiruka-nanaironosuishou",
+      "episodes": 2
+    },
+    {
+      "id": "S.227",
+      "kind": "work",
+      "value": "shiroiruka-yumitochika",
+      "episodes": 1
+    },
+    {
+      "id": "S.228",
+      "kind": "work",
+      "value": "shiroiruka-yukarihijiridensenshitanjou",
+      "episodes": 1
+    },
+    {
+      "id": "S.229",
+      "kind": "work",
+      "value": "shiroiruka-yukarihijiriden-senshitanjou",
+      "episodes": 1
+    },
+    {
+      "id": "S.230",
+      "kind": "work",
+      "value": "shiroiruka-yukarihijiriden-joshou",
+      "episodes": 1
+    },
+    {
+      "id": "S.235",
+      "kind": "author",
+      "value": "marie",
+      "episodes": 28
+    },
+    {
+      "id": "S.231",
+      "kind": "work",
+      "value": "johdan-nenmatsuofu",
+      "episodes": 1
+    },
+    {
+      "id": "S.232",
+      "kind": "work",
+      "value": "hotaru-nenmatsuofu",
+      "episodes": 1
+    },
+    {
+      "id": "S.233",
+      "kind": "annex_path",
+      "value": "novel/200907/19181513/011230*",
+      "episodes": 0
+    },
+    {
+      "id": "S.234",
+      "kind": "annex_path",
+      "value": "novel/201009/16215412/011230*",
+      "episodes": 0
+    }
+  ],
+  "takedown_episodes": {
+    "novel__200009__17165809__harunar.html": [
+      "S.225"
+    ],
+    "novel__200009__17165809__nanairo.html": [
+      "S.226"
+    ],
+    "novel__200009__17165809__yukari_ex01.html": [
+      "S.228"
+    ],
+    "novel__200009__17165809__yumi_and_chika.html": [
+      "S.227"
+    ],
+    "novel__200010__07015728__nanairo.html": [
+      "S.226"
+    ],
+    "novel__200010__14134031__yukari_1.html": [
+      "S.230"
+    ],
+    "novel__200010__29091226__yukari_ex01.html": [
+      "S.229"
+    ],
+    "novel__200012__12203314__harunar.html": [
+      "S.225"
+    ],
+    "novel__200202__03004409__career2023.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__career97.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__earring.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__fairylake.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__future.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__heart01.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__heart02.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__ichigo.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__imagine01.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__imagine02.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__imagine03.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__imagine04.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__imagine05.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__imagine06.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__pink.html": [
+      "S.235"
+    ],
+    "novel__200202__03004409__seirei.html": [
+      "S.235"
+    ],
+    "novel__200207__19203027__hibikore.html": [
+      "S.223"
+    ],
+    "novel__200207__19203027__missing1.html": [
+      "S.222"
+    ],
+    "novel__200207__19203027__missing2.html": [
+      "S.222"
+    ],
+    "novel__200207__19203027__missing3.html": [
+      "S.222"
+    ],
+    "novel__200503__27150319__inside.html": [
+      "S.224"
+    ],
+    "novel__200907__19181513__nenmatsu.htm": [
+      "S.231"
+    ],
+    "novel__201009__16215412__nenmatsu.htm": [
+      "S.232"
+    ],
+    "novel__career23.html": [
+      "S.235"
+    ],
+    "novel__fairylake.html": [
+      "S.235"
+    ],
+    "novel__heart2.html": [
+      "S.235"
+    ],
+    "novel__marie01.html": [
+      "S.235"
+    ],
+    "novel__marie02.html": [
+      "S.235"
+    ],
+    "novel__reika__imagine__index.html": [
+      "S.235"
+    ],
+    "novel__reika__puko_and_me__index1.html": [
+      "S.235"
+    ],
+    "novel__seirei.html": [
+      "S.235"
+    ],
+    "novel__toukou01.html+19971204": [
+      "S.235"
+    ],
+    "novel__toukou01.html+19971209": [
+      "S.235"
+    ],
+    "novel__toukou01.html+19971221": [
+      "S.235"
+    ],
+    "novel__toukou02.html+19980130": [
+      "S.235"
+    ]
+  },
   "blocks": {
-    "paragraph": 1052138,
-    "separator": 9212,
+    "paragraph": 1041171,
+    "separator": 9161,
     "quote": 665,
     "heading": 809,
-    "image": 1377,
-    "table": 216
+    "image": 1365,
+    "table": 215
   },
   "invariant_ok": true,
   "invariant_violations": [],

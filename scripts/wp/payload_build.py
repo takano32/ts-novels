@@ -5,6 +5,8 @@
   bodies/<episode_id>.md            … body_convert.py の成果 (3,642 本)
   catalog/episodes.jsonl            … source_path (画像の相対参照の基準ディレクトリ)
   catalog/convert_report.jsonl      … raw-fallback 2 件の検出
+  catalog/works.jsonl・authors.json … 取り下げ対象の解決 (下記)
+  takedown/denylist.yml             … 取り下げ対象 (status が reinstated でないもの)
   git ls-files novel                … 画像実体の存在検査
 
 出力:
@@ -19,6 +21,12 @@ raw フォールバックは原本の本体域 (body_convert.extract_body) を w
 無損失検査 (この生成器自身の): 各ファイルで strip(md) == strip(payload) を
 タグ除去 → 実体参照解決 → 記号マーカー除去 → 空白圧縮 → NFC で比較する。
 違反 0 が受け入れ条件 (report の invariant_ok で機械判定)。
+
+取り下げ (2026-10-30 の高野さんの決定。specs/S.76.md): denylist に載っている話は、
+bodies/ に本文が残っていても payload を作らず、payloads/ に前回の payload があれば消す
+(本文データを作るときに飛ばす論理削除)。_meta.json には 'takedown' を書き、
+`wp ts import` はそれを見て本文を空で投入する。対象の範囲は commands.php の
+takedown_targets と同じになるように catalog から解決する。
 """
 import html
 import json
@@ -28,6 +36,8 @@ import subprocess
 import sys
 import unicodedata
 from pathlib import Path
+
+import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import body_convert  # noqa: E402  (extract_body / preclean / read_text を raw fallback に使う)
@@ -303,6 +313,69 @@ def visible(text, is_md):
     return unicodedata.normalize('NFC', t)
 
 
+# --------------------------------------------------------------------------- 取り下げ
+
+TAKEDOWN_KINDS = ('work', 'episode', 'annex_path', 'author')
+# commands.php の PSEUDO_AUTHORS (sync-terms が authors.json の外に作る作者 term)
+PSEUDO_AUTHORS = ('unattributed', 'series-index')
+
+
+def takedown_episodes(episodes, works, authors, denylist_path):
+    """denylist の対象 → 飛ばす話の集合。
+
+    範囲は commands.php の takedown_targets (と descendants) と同じにする:
+      work       : _ts_work_slug が一致する work 投稿とその子 = works.jsonl のその作品の全話
+      episode    : _ts_source_path (と "#anchor" の _ts_source_anchor) が一致する投稿
+      annex_path : _ts_source_path の前方一致 (値の末尾が '*' のとき) か完全一致
+      author     : ts_author term が付く投稿とその子 = author_slug がその作者の作品の全話
+    WP の meta_value の比較は MySQL の照合順序で大文字小文字を区別しないので、ここも小文字で比べる。
+    返り値: ({episode_id: [S 番号, …]}, [{id, kind, value, episodes}, …])"""
+    data = yaml.safe_load(denylist_path.read_text(encoding='utf-8')) or {}
+    work_eps = {}
+    author_works = {}
+    for w in works:
+        eids = [e['episode_id'] if isinstance(e, dict) else e for e in w['episodes']]
+        work_eps[w['work_slug']] = eids
+        author_works.setdefault((w.get('author_slug') or '').lower(), []).append(w['work_slug'])
+    author_terms = {a['slug'].lower() for a in authors} | set(PSEUDO_AUTHORS)
+
+    hit, per_entry = {}, []
+    for e in data.get('entries') or []:
+        if e.get('status') == 'reinstated':
+            continue  # 復帰済みは止めない (apply-takedown と同じ)
+        kind = (e.get('target') or {}).get('kind')
+        value = str((e.get('target') or {}).get('value') or '')
+        if kind not in TAKEDOWN_KINDS or not value:
+            sys.exit(f"!! denylist の不完全なエントリ: {e.get('id')} kind={kind} value={value!r}")
+        if kind == 'work':
+            eids = list(work_eps.get(value, []))
+        elif kind == 'author':
+            v = value.lower()
+            eids = ([x for ws in author_works.get(v, []) for x in work_eps[ws]]
+                    if v in author_terms else [])
+        elif kind == 'episode':
+            sp, sep, anchor = value.partition('#')
+            eids = [ep['episode_id'] for ep in episodes.values()
+                    if ep['source_path'].lower() == sp.lower()
+                    and (not sep or (ep.get('source_anchor') or '').lower() == anchor.lower())]
+        else:  # annex_path
+            stem = value.rstrip('*')
+            # takedown_targets は末尾の '*' だけを前方一致として扱う。それ以外の glob 記号は
+            # WP 側と範囲が食い違うので、ここで止めて denylist の書き方を直してもらう
+            if re.search(r'[*?\[]', stem):
+                sys.exit(f"!! annex_path の末尾以外に glob 記号があります: {e.get('id')} {value}")
+            if value.endswith('*'):
+                eids = [ep['episode_id'] for ep in episodes.values()
+                        if ep['source_path'].lower().startswith(stem.lower())]
+            else:
+                eids = [ep['episode_id'] for ep in episodes.values()
+                        if ep['source_path'].lower() == stem.lower()]
+        for eid in eids:
+            hit.setdefault(eid, []).append(e['id'])
+        per_entry.append({'id': e['id'], 'kind': kind, 'value': value, 'episodes': len(set(eids))})
+    return hit, per_entry
+
+
 # --------------------------------------------------------------------------- main
 
 def main():
@@ -318,6 +391,13 @@ def main():
             r = json.loads(line)
             if r.get('status') == 'raw-fallback':
                 raw_fallbacks.append(r['episode_id'])
+    works = [json.loads(line) for line in
+             open(ROOT / 'catalog' / 'works.jsonl', encoding='utf-8')]
+    authors = json.loads((ROOT / 'catalog' / 'authors.json').read_text(encoding='utf-8'))
+    if isinstance(authors, dict):
+        authors = authors['authors']
+    takedown, takedown_entries = takedown_episodes(
+        episodes, works, authors, ROOT / 'takedown' / 'denylist.yml')
     images = image_inventory()
 
     stats = {k: 0 for k in ('paragraph', 'separator', 'quote', 'heading', 'image', 'table')}
@@ -326,8 +406,22 @@ def main():
     written = 0
 
     mail_n = {'mailto': 0, 'bare': 0}
+    # 取り下げ対象は payload を作らず、前回の payload も消す (論理削除)
+    removed = []
+    for eid in sorted(takedown):
+        meta[eid] = 'takedown'
+        f = OUT / f'{eid}.html'
+        if f.exists():
+            f.unlink()
+            removed.append(eid)
+    skipped = {'md': 0, 'repost': 0, 'raw': 0}
+    body_md = {p.name[:-3] for p in BODIES.glob('*.md')}
+
     for md_path in sorted(BODIES.glob('*.md')):
         eid = md_path.name[:-3]
+        if eid in takedown:
+            skipped['md'] += 1
+            continue
         ep = episodes.get(eid)
         src_dir = os.path.dirname(ep['source_path']) if ep else ''
         md = scrub_addresses(md_path.read_text(encoding='utf-8'), mail_n)
@@ -345,9 +439,13 @@ def main():
     # T.7.8 の作者再掲ぶん (S.179): md が無く reposts/<episode_id>.txt がある話はプレーンテキストを段落化
     # (pixiv 再掲はプレーンテキスト。全て escape するので HTML 断片の混入はない)
     for eid, ep in episodes.items():
+        txt_path = ROOT / 'reposts' / f'{eid}.txt'
+        if eid in takedown:
+            if eid not in body_md and txt_path.is_file():
+                skipped['repost'] += 1
+            continue
         if eid in meta:
             continue
-        txt_path = ROOT / 'reposts' / f'{eid}.txt'
         if not txt_path.is_file():
             continue
         text = scrub_addresses(txt_path.read_text(encoding='utf-8'), mail_n)
@@ -361,9 +459,13 @@ def main():
         meta[eid] = 'converted-text'
         written += 1
 
+    raw_written = 0
     for eid in raw_fallbacks:
         ep = episodes.get(eid)
         if not ep:
+            continue
+        if eid in takedown:
+            skipped['raw'] += 1
             continue
         raw, _enc = body_convert.read_text(str(ROOT / ep['source_path']))
         region = body_convert.extract_body(raw)
@@ -373,6 +475,7 @@ def main():
         (OUT / f'{eid}.html').write_text(b_html(region) + '\n', encoding='utf-8')
         meta[eid] = 'raw-fallback'
         written += 1
+        raw_written += 1
 
     (OUT / '_meta.json').write_text(
         json.dumps(meta, ensure_ascii=False, indent=0), encoding='utf-8')
@@ -390,8 +493,13 @@ def main():
         'written': written,
         'mail_redacted': mail_n,
         'mail_leaked': sorted(set(leaked)),
-        'converted': written - len(raw_fallbacks),
-        'raw_fallback': sorted(raw_fallbacks),
+        'converted': written - raw_written,
+        'raw_fallback': sorted(e for e in raw_fallbacks if e not in takedown),
+        'takedown_skipped': len(takedown),
+        'takedown_skipped_with_body': skipped,
+        'takedown_payloads_removed': len(removed),
+        'takedown_entries': takedown_entries,
+        'takedown_episodes': {k: v for k, v in sorted(takedown.items())},
         'blocks': stats,
         'invariant_ok': not violations,
         'invariant_violations': violations[:20],
@@ -403,7 +511,11 @@ def main():
     }
     rp = ROOT / 'catalog' / 'reports' / 'payload_build.json'
     rp.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
-    print(f"payloads: {written} 本 (raw {len(raw_fallbacks)}) blocks={stats}")
+    print(f"payloads: {written} 本 (raw {raw_written}) blocks={stats}")
+    print(f"取り下げで飛ばした話: {len(takedown)} 話 (本文あり md {skipped['md']} / 再掲 "
+          f"{skipped['repost']} / raw {skipped['raw']}、前回の payload を消した {len(removed)} 本)")
+    for t in takedown_entries:
+        print(f"  {t['id']} {t['kind']}={t['value']}: {t['episodes']} 話")
     print(f"アドレス除去: mailto {mail_n['mailto']} / 生 {mail_n['bare']} 件、残存 {len(set(leaked))} 本")
     print(f"無損失検査: {'OK' if not violations else 'NG %d 件' % len(violations)}"
           f" / 画像未解決 {len(set(warn['missing']))} / 外部 {len(set(warn['external']))}")

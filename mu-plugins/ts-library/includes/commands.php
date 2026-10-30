@@ -36,7 +36,7 @@ class TS_Command {
     private $slug2term = [];    // tax => [slug => term_id] (0 = WP に無い)
     private $ep_worlds = [];    // episode_id => [world slug] (terms.json の episode_worlds)
     private $term_missing = []; // "tax:値" => 件数。解決できず割当を落とした値 (場当たり term は作らない)
-    private $body_status = [];  // episode_id => converted / raw-fallback (payloads/_meta.json)
+    private $body_status = [];  // episode_id => converted / raw-fallback / takedown (payloads/_meta.json)
 
     /** terms.json の語彙を対応表に積む。term は必ず slug→ID で解決する (name 解決は
      *  term_exists() が slug 照合を先にやるため sanitize_title の衝突で誤爆する — S.182 の実測: 語彙外 term の増殖) */
@@ -447,6 +447,10 @@ class TS_Command {
 
     private function episode_body($ep, $bodies) {
         if ($bodies === null) return null;                 // メタのみ投入
+        // 取り下げ対象は payload_build.py が payload を作らず _meta.json に 'takedown' を書く
+        // (本文データを作るときに飛ばす論理削除。specs/S.76.md)。サーバに前回の payload が
+        // 残っていても読まず、案内文も入れずに本文を空で投入する (非公開化は apply-takedown)
+        if (($this->body_status[$ep['episode_id']] ?? '') === 'takedown') return '';
         $f = "$bodies/{$ep['episode_id']}.html";
         if (is_file($f)) return file_get_contents($f);
         return "<!-- wp:paragraph --><p>(本文は原本アーカイブでお読みください)</p><!-- /wp:paragraph -->";
