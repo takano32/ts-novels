@@ -20,13 +20,17 @@ while (have_posts()) {
         continue;
     }
 
-    // publish 限定 — 取り下げ (draft) の話を「全N話」に数えると件数が目次と食い違う
+    // publish 限定 — 非公開 (取り下げ・旧版) の話を「全N話」に数えると件数が目次と食い違う。
+    // 運営委員が非公開の作品を見ているときだけ private の話も数える (目次と同じ集合)
+    $child_statuses = function_exists('ts_visibility_child_statuses')
+        ? ts_visibility_child_statuses($post->ID) : ['publish'];
     $children = get_children(['post_parent' => $post->ID, 'post_type' => 'ts_work',
-                              'post_status' => 'publish', 'fields' => 'ids']);
+                              'post_status' => $child_statuses, 'fields' => 'ids']);
 
     ts_bunko_breadcrumb($post);
     echo '<article>';
     echo '<h1 class="ts-entry-title">' . esc_html(get_the_title()) . '</h1>';
+    if (function_exists('ts_bunko_hidden_banner')) ts_bunko_hidden_banner($post); // 運営委員にだけ (S.118)
     ts_bunko_meta_header($post);
 
     if ($children) {

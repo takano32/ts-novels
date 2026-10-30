@@ -119,8 +119,8 @@ WP-CLI から使うコマンドで、`includes/commands.php` にあります (S.
 | `export-pages` | 管理画面で直した固定ページを `content/pages/` に書き戻す (S.109。未配備) |
 
 `import` は投入した時の catalog のコミットを `ts_catalog_commit` に記録するので、本番に何が載っているかを後から再現できます (S.73、S.182)。
-予定のコマンドとして、ロールを整える `role-sync` (S.116)、
-フォームの取り下げを記録に書き出す `export-takedowns` (S.132) があります。
+ロールを整える `role-sync` (S.116) は `includes/roles.php` にあります (T.23.3 で実装、本番への配備は T.23.4)。
+予定のコマンドとして、フォームの取り下げを記録に書き出す `export-takedowns` (S.132) があります。
 
 ### テーマ `ts-bunko`
 

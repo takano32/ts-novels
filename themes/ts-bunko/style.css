@@ -189,6 +189,9 @@ html[data-ts-orig="1"] .ts-reader.is-raw a:visited { color: var(--ts-orig-vlink,
 .ts-biblio dt { font-weight: 600; color: var(--ts-fg-soft); float: left; clear: left; width: 6.5em; }
 .ts-biblio dd { margin: 0 0 0.35rem 7em; }
 .ts-biblio-note { color: var(--ts-fg-soft); margin: 0.6rem 0 0; font-size: 0.85rem; }
+/* 運営委員にだけ出す帯 (取り下げ済み・旧版。specs/S.118.md) */
+.ts-hidden-banner { border: 1px solid var(--ts-accent); border-left-width: 4px; padding: 0.5rem 0.8rem;
+  margin: 0.4rem 0 1rem; font-size: 0.9rem; background: var(--ts-card); }
 .ts-suisen blockquote { margin: 0; font-family: var(--ts-serif); }
 .ts-label {
   display: inline-block; font-size: 0.8em; color: var(--ts-fg-soft);

@@ -1,16 +1,22 @@
 #!/usr/bin/env python3
 """本番 .htaccess の ts-library マーカーブロック管理 (T.8.6。高品位なモデルとエフォートの所管 — 本番を触るコード)。
 
-やること:
+やること (specs/S.119.md):
   - 恒久 noindex 層 (/boards/ /dojo/ — S.42: 公開ゲートではなく第三者配慮) の X-Robots-Tag
-  - 取り下げ済み URL の 410 (Redirect gone)。URL は `wp ts export-takedown-urls` に聞く
+  - WordPress を通らない資産 (/assets/annex-img/ の画像など) の 410。denylist の kind: annex_path から作る
   - 上記だけを BEGIN/END マーカー間のブロックとして生成し、サーバ上で差し替える
+書かないもの (S.119):
+  - WordPress の URL (/novel/…) の Redirect gone — 取り下げの 410 は WordPress が返す
+    (includes/visibility.php。ログイン中の運営委員には帯つきで見せるため、.htaccess では塞がない)
+  - 旧 URL → 新 URL の転送 (301 は使わない。S.221)
 
 安全則 (specs/S.186.md・specs/S.10.md の 7):
   - 実行前に原本 .htaccess.orig (初回のみ) と直前状態 .bak-<時刻> を必ず作る
   - 既存 .htaccess の中身は**メモリ内でのみ**扱い、ローカル保存・表示・コミットしない
     (CloudSecure のログイン URL 変更値が含まれるため。diff も出さない)
-  - 差し替え後に curl 検証 (無関係 URL の 200 + /dojo/ の X-Robots-Tag)。失敗時は .bak を戻す
+  - 差し替え後に curl 検証 (無関係 URL の 200 + /dojo/ の X-Robots-Tag + 取り下げ URL が 410
+    (WordPress 由来) + 取り下げた画像が 410)。失敗時は .bak を戻す
+  - ブロックの組み立て (dry-run) はサーバに接続しない。接続するのは --install のときだけ
 
 使い方:
   python3 scripts/wp/htaccess_block.py            # ブロックを表示するだけ (dry-run)
@@ -31,35 +37,28 @@ END = '# END ts-library'
 ROOT = Path(__file__).resolve().parents[2]
 
 
-def denylist_410_lines():
-    """410 にする URL は WP に聞く (単一情報源)。
+def takedown_urls():
+    """取り下げ済みの WordPress の URL (--install の検証用。.htaccess には書かない)。
 
     denylist.yml の target は work_slug / source_path などの**内部の鍵**であって URL ではない。
     URL への解決は importer が持っているので、`wp ts apply-takedown` が記録した
-    option を `wp ts export-takedown-urls` 経由で読む。取得できないときは
-    黙って 0 件にせず、その旨を出して呼び出し側に判断させる。"""
+    option を `wp ts export-takedown-urls` 経由で読む。取得できないときは None。"""
     try:
         r = subprocess.run(
             [RSH, f'cd {REMOTE_BASE}/public_html && wp ts export-takedown-urls'],
             capture_output=True, text=True, timeout=120)
     except (subprocess.SubprocessError, OSError) as e:
-        print(f'!! 取り下げ URL を取得できませんでした ({e}) — 410 ブロックは前回のまま据え置き')
+        print(f'!! 取り下げ URL を取得できませんでした ({e})')
         return None
     if r.returncode != 0:
-        print(f'!! wp ts export-takedown-urls が失敗 (rc={r.returncode}) — 410 は据え置き')
+        print(f'!! wp ts export-takedown-urls が失敗 (rc={r.returncode})')
         return None
-    urls = [u.strip() for u in r.stdout.splitlines() if u.strip().startswith('/')]
-    lines = [f'Redirect gone {u}' for u in urls]
-    lines += asset_410_lines()
-    return lines
+    return [u.strip() for u in r.stdout.splitlines() if u.strip().startswith('/')]
 
 
-def asset_410_lines():
-    """denylist の kind: annex_path から、配信中の画像などの 410 を作る。
-
-    投稿を非公開にしてもファイル本体は直接 URL で取れる (実測)。WP を経由しない
-    /assets/annex-img/ 配下は .htaccess でしか塞げないのでここで扱う。"""
-    path = ROOT / 'takedown' / 'denylist.yml'
+def annex_values(path=None):
+    """denylist の kind: annex_path の value を順に返す。"""
+    path = path or (ROOT / 'takedown' / 'denylist.yml')
     if not path.is_file():
         return []
     out, kind = [], None
@@ -72,20 +71,43 @@ def asset_410_lines():
             continue
         m = re.match(r'\s+value:\s*["\']?([^"\'#]+)', line)
         if m and kind == 'annex_path':
-            v = m.group(1).strip()
-            if v.endswith('*'):
-                out.append('RedirectMatch gone "^/assets/annex-img/%s"' % re.escape(v[:-1]))
-            else:
-                out.append('Redirect gone /assets/annex-img/%s' % v)
+            out.append(m.group(1).strip())
             kind = None
     return out
 
 
-def build_block():
-    gone = denylist_410_lines()
-    if gone is None:
-        print('!! 取り下げ URL 不明のまま .htaccess を書き換えると 410 を落としかねないので中止します')
-        sys.exit(2)
+def asset_410_lines(values=None):
+    """denylist の kind: annex_path から、配信中の画像などの 410 を作る。
+
+    投稿を非公開にしてもファイル本体は直接 URL で取れる (実測)。WordPress を経由しない
+    /assets/annex-img/ 配下は .htaccess でしか塞げないのでここで扱う。"""
+    out = []
+    for v in (annex_values() if values is None else values):
+        if v.endswith('*'):
+            out.append('RedirectMatch gone "^/assets/annex-img/%s"' % re.escape(v[:-1]))
+        else:
+            out.append('Redirect gone /assets/annex-img/%s' % v)
+    return out
+
+
+def asset_probe_urls(values=None):
+    """--install の検証で 410 を確かめる画像の URL (annex_path ごとに、配備される実在ファイルを 1 つ)。
+
+    deploy.sh は git 管理の画像を /assets/annex-img/ に置くので、git ls-files から選ぶ。"""
+    urls = []
+    for v in (annex_values() if values is None else values):
+        prefix = v[:-1] if v.endswith('*') else v
+        r = subprocess.run(['git', '-C', str(ROOT), 'ls-files', '--', prefix + ('*' if v.endswith('*') else '')],
+                           capture_output=True, text=True)
+        files = [f for f in r.stdout.splitlines() if f.startswith(prefix)]
+        if files:
+            urls.append('/assets/annex-img/' + sorted(files)[0])
+    return urls
+
+
+def build_block(annex=None):
+    """マーカーブロックを組み立てる (サーバに接続しない)。annex は試験用に annex_path の値を渡せる。"""
+    gone = asset_410_lines(annex)
     parts = [
         BEGIN,
         '# 恒久 noindex 層: /boards/ /dojo/ (第三者ハンドルが載る層。設計 S.42)',
@@ -97,7 +119,8 @@ def build_block():
         'Header always set X-Robots-Tag "noindex, follow" env=TS_NOINDEX',
         'Header always set X-Robots-Tag "noindex, follow" env=REDIRECT_TS_NOINDEX',
         '</IfModule>',
-        f'# takedown 410 ({len(gone)} 件。wp ts apply-takedown が止めた URL から生成)',
+        f'# 取り下げた画像などの 410 ({len(gone)} 件。takedown/denylist.yml の kind: annex_path から)。',
+        '# WordPress の URL の 410 は WordPress が返すのでここには書かない (specs/S.119.md)',
         *gone,
         END,
     ]
@@ -131,6 +154,12 @@ def main():
         print('(dry-run。適用は --install)')
         return
 
+    # 検証に使う取り下げ URL は先に取る (取れないなら書き換えない — 410 を確かめられないため)
+    urls = takedown_urls()
+    if urls is None:
+        print('!! 取り下げ URL を確かめられないので中止します (.htaccess は変更していません)')
+        sys.exit(2)
+
     # 原本 (ts-library ブロックが入る前の姿) は 1 度だけ保存し、以後は上書きしない。
     # 日付つきの .bak を毎日作ると「ブロック入りの .bak」が最新になり原本を見失う
     print(f'[1/4] バックアップ {REMOTE}.orig (無ければ作成)')
@@ -155,10 +184,17 @@ def main():
     tagged = 'noindex' in hdr.lower()
     print(f'  /dojo/   : {st} (noindex {"あり" if tagged else "なし!"})')
     ok &= tagged  # /dojo/ は投稿 0 でも 200/404 いずれでもヘッダは付くはず
-    for line in gone[:3]:                      # 410 は「実際に 410 が返るか」まで見る
-        url = line.split(' ', 2)[-1]
+    # 取り下げ URL は WordPress が 410 を返す (ログインなしの curl で確かめる。S.119)
+    for url in urls[:3]:
         st, _ = curl_head(f'https://novels.xwp.jp{url}?_cb={cb}')
-        print(f'  410 対象 {url}: {st}')
+        print(f'  取り下げ (WordPress) {url}: {st}')
+        ok &= (st == 410)
+    if not urls:
+        print('  取り下げ URL が 0 件 — wp ts apply-takedown を先に流したか確認してください')
+        ok = False
+    for url in asset_probe_urls():              # 画像の 410 は .htaccess が返す
+        st, _ = curl_head(f'https://novels.xwp.jp{url}?_cb={cb}')
+        print(f'  取り下げ (画像) {url}: {st}')
         ok &= (st == 410)
 
     if not ok:

@@ -821,70 +821,108 @@ class TS_Command {
     }
 
     /**
-     * denylist を適用して該当投稿を draft 化する (削除の第 1 層)。
+     * denylist を適用して該当投稿を非公開 (private + `_ts_visibility=withdrawn`) にする
+     * (WP サイトの非公開化。specs/S.121.md・S.117.md)。
      *
      * takedown/denylist.yml の `entries[].target.{kind,value}` を読む
      * (kind = work | episode | annex_path | author)。**work / author は
-     * 子投稿 (話) まで必ず波及させる** — 親だけ draft にしても子の URL は生きるため。
-     * 止めた URL は option `ts_takedown_urls` に残し、第 2 層 (.htaccess の 410) が
-     * `wp ts export-takedown-urls` 経由で同じ集合を使う (単一情報源)。
+     * 子投稿 (話) まで必ず波及させる** — 親だけ止めても子の URL は生きるため。
+     *  - 対象は private にし、`_ts_visibility=withdrawn`・`_ts_takedown_id`=エントリの id・
+     *    `_ts_public_note`=public_note を揃える。既に private / draft でもメタを揃える (自己修復)。
+     *    移行前の取り下げ (draft) は、これを流し直すだけで private に移る
+     *  - `status: reinstated` のエントリの対象は印を消し、旧版 (`_ts_superseded_by`) でなければ publish に戻す
+     *  - 読者への 410 は WordPress が返す (includes/visibility.php)。止めた URL は監査用に
+     *    option `ts_takedown_urls` に残すが、.htaccess の生成には使わない (S.119)
+     * 出力: 「private 化 N / 復帰 M / 変更なし K」(S.121)
      *
      * ## OPTIONS
      * [--repo=<path>] : リポジトリのルート
-     * [--dry-run] : 何が止まるかだけ表示する
+     * [--dry-run] : 何が変わるかだけ表示する
      */
     public function apply_takedown($args, $assoc) {
+        global $wpdb;
         $root = $this->repo_root($assoc);
         $dry = isset($assoc['dry-run']);
+        $pre = $dry ? '(dry-run) ' : '';
         $path = "$root/takedown/denylist.yml";
         if (!is_file($path)) WP_CLI::error("denylist がありません: $path");
         $entries = $this->parse_denylist($path);
-        if (!$entries) {
-            WP_CLI::success('apply-takedown: 対象エントリなし (denylist は空)');
-            if (!$dry) delete_option('ts_takedown_urls');
-            return;
-        }
-        $ids = [];   // post_id => 由来の説明
+
+        $want = [];      // post_id => ['id', 'note', 'why'] (取り下げる)
+        $reinstate = []; // post_id => why (復帰の対象)
         foreach ($entries as $e) {
-            if (($e['status'] ?? '') === 'reinstated') continue; // 復帰済みは止めない
             $kind = $e['kind']; $value = $e['value'];
-            foreach ($this->takedown_targets($kind, $value) as $pid) {
-                $ids[$pid] = "{$e['id']} $kind=$value";
-            }
-            if (!$this->takedown_targets($kind, $value)) {
-                WP_CLI::warning("該当投稿なし: {$e['id']} $kind=$value");
+            $targets = $this->takedown_targets($kind, $value);
+            if (!$targets) WP_CLI::warning("該当投稿なし: {$e['id']} $kind=$value");
+            foreach ($targets as $pid) {
+                if (($e['status'] ?? '') === 'reinstated') {
+                    $reinstate[$pid] = "{$e['id']} $kind=$value";
+                } else {
+                    $want[$pid] = ['id' => $e['id'], 'note' => $e['public_note'] ?? '',
+                                   'why' => "{$e['id']} $kind=$value"];
+                }
             }
         }
+        // 取り下げ中のエントリが優先 (別のエントリで復帰していても、まだ止める対象なら止めたまま)
+        $reinstate = array_diff_key($reinstate, $want);
+
+        $n = ['private' => 0, 'reinstate' => 0, 'none' => 0];
         $urls = [];
-        $n = 0;
-        foreach ($ids as $pid => $why) {
-            $urls[] = wp_make_link_relative($this->public_permalink($pid));
-            if (get_post_status($pid) === 'draft') {
-                // 既に取り下げ済みでも記録は合わせておく (過去の取り下げが手動編集扱いで
-                // 残っているのを自己修復する)
-                if (!$dry && $this->manually_edited($pid)) {
-                    update_post_meta($pid, '_ts_last_import_gmt', get_post_field('post_modified_gmt', $pid));
-                }
-                continue;
+        $plan = [];
+        foreach ($want as $pid => $w) $plan[$pid] = $w;
+        foreach ($reinstate as $pid => $why) $plan[$pid] = null;
+        foreach ($plan as $pid => $w) {
+            $cur = [
+                'status' => (string) get_post_status($pid),
+                'visibility' => (string) get_post_meta($pid, '_ts_visibility', true),
+                'takedown_id' => (string) get_post_meta($pid, '_ts_takedown_id', true),
+                'public_note' => (string) get_post_meta($pid, '_ts_public_note', true),
+                'superseded_by' => (string) get_post_meta($pid, '_ts_superseded_by', true),
+            ];
+            $ch = ts_visibility_takedown_change($cur, $w);
+            if ($w !== null) $urls[] = wp_make_link_relative($this->public_permalink($pid));
+            $n[$ch['kind']]++;
+            if ($ch['kind'] !== 'none') {
+                $why = $w !== null ? $w['why'] : $reinstate[$pid];
+                WP_CLI::line(sprintf('%s%s: %s → post %d %s (%s%s)', $pre,
+                    $ch['kind'] === 'private' ? 'private 化' : '復帰', $why, $pid, get_the_title($pid),
+                    $ch['status'] !== null ? "{$cur['status']} → {$ch['status']}" : "{$cur['status']} のまま",
+                    ($ch['set'] || $ch['delete']) ? '・メタ ' . implode(' ', array_merge(
+                        array_map(function ($k) use ($ch) { return "$k=" . $ch['set'][$k]; }, array_keys($ch['set'])),
+                        array_map(function ($k) { return "-$k"; }, $ch['delete']))) : ''));
             }
-            WP_CLI::line(($dry ? '(dry-run) ' : '') . "draft 化: $why → post $pid "
-                . get_the_title($pid));
-            if (!$dry) {
-                wp_update_post(['ID' => $pid, 'post_status' => 'draft']);
-                // 取り下げは import の一部であって「管理画面での手動編集」ではない。
+            if ($dry) continue;
+            if ($ch['status'] !== null) {
+                wp_update_post(['ID' => $pid, 'post_status' => $ch['status']]);
+                // 取り下げ・復帰は import の一部であって「管理画面での手動編集」ではない。
                 // 記録を更新しないと post_modified が動いた分を手動編集と誤検知して
                 // 以後の import がその投稿を触らなくなる (verify も NG になる)
                 clean_post_cache($pid);
                 update_post_meta($pid, '_ts_last_import_gmt', get_post_field('post_modified_gmt', $pid));
+            } elseif ($this->manually_edited($pid)) {
+                // 過去の取り下げが手動編集扱いで残っているのを自己修復する
+                update_post_meta($pid, '_ts_last_import_gmt', get_post_field('post_modified_gmt', $pid));
             }
-            $n++;
+            foreach ($ch['set'] as $k => $v) update_post_meta($pid, $k, $v);
+            foreach ($ch['delete'] as $k) delete_post_meta($pid, $k);
         }
+
+        // denylist のどのエントリにも当たらない取り下げの印 (エントリを消した等) は変えずに知らせる
+        $stray = array_diff(array_map('intval', $wpdb->get_col(
+            "SELECT pm.post_id FROM {$wpdb->postmeta} pm JOIN {$wpdb->posts} p ON p.ID = pm.post_id
+             WHERE pm.meta_key = '_ts_visibility' AND pm.meta_value = 'withdrawn' AND p.post_type = 'ts_work'")),
+            array_keys($plan));
+        if ($stray) {
+            WP_CLI::warning('denylist に無い取り下げの投稿 (変更しない): ' . count($stray) . ' 件 (post '
+                . implode(' ', array_slice($stray, 0, 10)) . (count($stray) > 10 ? ' …' : '') . ')');
+        }
+
         if (!$dry) update_option('ts_takedown_urls', array_values(array_unique($urls)), false);
-        WP_CLI::success(sprintf('apply-takedown: %d 件を draft 化 (対象 %d 件)%s',
-            $n, count($ids), $dry ? ' (dry-run)' : ''));
+        WP_CLI::success(sprintf('apply-takedown: private 化 %d / 復帰 %d / 変更なし %d (対象 %d 件)%s',
+            $n['private'], $n['reinstate'], $n['none'], count($plan), $dry ? ' (dry-run)' : ''));
     }
 
-    /** 公開時の URL を得る。draft のまま get_permalink すると `?post_type=…&p=ID` の
+    /** 公開時の URL を得る。非公開 (private / draft) のまま get_permalink すると `?post_type=…&p=ID` の
      *  仮 URL になり、410 に入れても実 URL を塞げない (実測) */
     private function public_permalink($post_id) {
         $post = get_post($post_id);
@@ -911,7 +949,8 @@ class TS_Command {
             if (!$in_entries) continue;
             if (preg_match('/^\s*-\s*id:\s*(.+?)\s*$/', $line, $m)) {   // 新エントリ
                 if ($cur) $out[] = $cur;
-                $cur = ['id' => trim($m[1], "\"' "), 'kind' => null, 'value' => null, 'status' => ''];
+                $cur = ['id' => trim($m[1], "\"' "), 'kind' => null, 'value' => null, 'status' => '',
+                        'public_note' => ''];
                 continue;
             }
             if (!$cur) continue;
@@ -924,6 +963,13 @@ class TS_Command {
             if (preg_match('/^\s+kind:\s*([A-Za-z_]+)/', $line, $m)) { $cur['kind'] = $m[1]; continue; }
             if (preg_match('/^\s+value:\s*["\']?([^"\'#]+)/', $line, $m)) { $cur['value'] = trim($m[1]); continue; }
             if (preg_match('/^\s+status:\s*([A-Za-z_]+)/', $line, $m)) { $cur['status'] = $m[1]; continue; }
+            // /removed/ の掲示の 1 行 (S.121 で投稿のメタ _ts_public_note に写す)。囲みの引用符は外す
+            if (preg_match('/^\s+public_note:\s*(.*?)\s*$/u', $line, $m)) {
+                $v = $m[1];
+                if (strlen($v) >= 2 && ($v[0] === '"' || $v[0] === "'") && substr($v, -1) === $v[0]) $v = substr($v, 1, -1);
+                $cur['public_note'] = $v;
+                continue;
+            }
         }
         if ($cur) $out[] = $cur;
         $valid = [];
@@ -972,7 +1018,7 @@ class TS_Command {
                                                    'terms' => $term->term_id]]]);
             }
         }
-        // 子孫まで波及 (親だけ draft にしても子の URL は生き続ける)
+        // 子孫まで波及 (親だけ止めても子の URL は生き続ける)
         $all = [];
         foreach ($ids as $pid) {
             $all[$pid] = true;
@@ -993,7 +1039,8 @@ class TS_Command {
         return $out;
     }
 
-    /** 取り下げ済み URL のパスを 1 行 1 件で出す (.htaccess の 410 生成が読む) */
+    /** 取り下げ済み URL のパスを 1 行 1 件で出す (監査用と、scripts/wp/htaccess_block.py --install の
+     *  検証が読む。.htaccess の生成には使わない — 410 は WordPress が返す。specs/S.119.md) */
     public function export_takedown_urls($args, $assoc) {
         foreach ((array) get_option('ts_takedown_urls', []) as $u) {
             WP_CLI::line($u);

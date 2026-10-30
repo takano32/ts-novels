@@ -106,6 +106,9 @@ final class TS_Library {
             'public' => true, 'hierarchical' => false, 'has_archive' => false,
             'menu_icon' => 'dashicons-media-document',
             'supports' => ['title', 'editor', 'custom-fields'],
+            // 運営委員 (編集可) に解題だけを編集させ、作品 (ts_work) とは区別するため (specs/S.116.md)。
+            // 権限は wp ts role-sync が付ける (administrator にも ts_doc の基本権限を足す)
+            'capability_type' => 'ts_doc', 'map_meta_cap' => true,
             'rewrite' => ['slug' => 'docs', 'with_front' => false],
             'show_in_rest' => true,
         ]);
@@ -174,4 +177,6 @@ TS_Library::boot();
 
 require __DIR__ . '/includes/render.php';
 require __DIR__ . '/includes/indexes.php';
+require __DIR__ . '/includes/roles.php';      // 運営委員ロールと wp ts role-sync (specs/S.116.md)
+require __DIR__ . '/includes/visibility.php'; // 取り下げの 410・旧版の 404・帯 (specs/S.117.md・S.118.md)
 require __DIR__ . '/includes/commands.php';
