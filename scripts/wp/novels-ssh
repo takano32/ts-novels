@@ -4,6 +4,28 @@
 #   scripts/wp/novels-ssh 'wp --info'                    # コマンド実行
 #   rsync -e scripts/wp/novels-ssh SRC novels:DEST       # rsync の遠隔シェルとして
 #     (rsync は先頭に宛先ホスト名 "novels" を渡してくるので、それは読み捨てる)
+#
+# 鍵は ssh-agent から使う。いまの SSH_AUTH_SOCK が使えない (空・古いソケット・鍵なし) ときは
+# ~/.ssh/agent/ ・ /tmp/ssh-*/ ・ gpg-agent のソケットを新しい順に探し、鍵の入ったものに切り替える。
+# 見つからなければ ssh の既定の鍵 (~/.ssh/id_*) に任せる。
 set -euo pipefail
 [[ "${1:-}" == novels ]] && shift
+
+agent_has_keys() { SSH_AUTH_SOCK="$1" timeout 3 ssh-add -l >/dev/null 2>&1; }
+
+if [[ -z "${SSH_AUTH_SOCK:-}" ]] || ! agent_has_keys "$SSH_AUTH_SOCK"; then
+    shopt -s nullglob
+    candidates=("$HOME"/.ssh/agent/* /tmp/ssh-*/agent.* \
+                "${XDG_RUNTIME_DIR:-/run/user/$(id -u)}"/gnupg/S.gpg-agent.ssh)
+    shopt -u nullglob
+    if (( ${#candidates[@]} )); then
+        while IFS= read -r sock; do
+            if [[ -S "$sock" && -O "$sock" ]] && agent_has_keys "$sock"; then
+                export SSH_AUTH_SOCK="$sock"
+                break
+            fi
+        done < <(ls -t -- "${candidates[@]}" 2>/dev/null)
+    fi
+fi
+
 exec ssh -p 10022 -o ForwardAgent=yes novels@sv3.xwp.ne.jp "$@"
