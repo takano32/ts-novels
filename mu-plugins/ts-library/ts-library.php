@@ -179,4 +179,6 @@ require __DIR__ . '/includes/render.php';
 require __DIR__ . '/includes/indexes.php';
 require __DIR__ . '/includes/roles.php';      // 運営委員ロールと wp ts role-sync (specs/S116.md)
 require __DIR__ . '/includes/visibility.php'; // 取り下げの 410・旧版の 404・帯 (specs/S117.md・S118.md)
+require __DIR__ . '/includes/takedown-request.php'; // 取り下げフォームと自動適用 (specs/S124.md〜S136.md)
+require __DIR__ . '/includes/takedown-admin.php';   // 取り下げの申請の管理画面と運営委員の操作 (specs/S128.md)
 require __DIR__ . '/includes/commands.php';
