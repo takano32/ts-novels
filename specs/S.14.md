@@ -16,12 +16,12 @@
 1997 年に八重洲メディアリサーチが設立、`www14.big.or.jp/~yays` で運営 → 後に別の管理者へ移管され
 `ts.novels.jp` へ → 移管先の管理者が保守を止め 2021 年頃に消滅。現在は設立者の依頼でリブート中。
 
-**世代** — 文庫がホストを移すたびに変わったサイトの姿。古い順に:
+**世代** — 文庫がホストを移すたびに変わったサイトの姿。古い順に (年代は S.50 の年表):
 
-- 前史(`www2.tomato.ne.jp/~ezpe`、1999 頃)
-- 八重洲期(`www14.big.or.jp/~yays`、〜2003 頃)
+- 前史(`www2.tomato.ne.jp/~ezpe`、1997.11〜2001 頃)
+- 八重洲期(`www14.big.or.jp/~yays`、1997.10〜2003 頃。文庫の旧ホーム `~yays/library/` は 1999 頃〜2003 頃)
 - 本体期(`ts.novels.jp` / `www.novels.jp`、2002–2021)
-- 閉鎖後の姉妹ドメイン(`ts.novels.name`・`kirika.novels.name`・`ts.raa0121.info`)
+- 閉鎖後の姉妹ドメイン(`ts.novels.name`・`kirika.novels.name`・`ts.raa0121.info`、2015〜2023 頃)
 - 2018 年の再建版(`ts-novels.jp`)
 
 ミラーではホスト名のディレクトリで世代を分けて収蔵している。

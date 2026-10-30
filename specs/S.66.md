@@ -15,7 +15,7 @@
 | 手段 | 見るもの | 例 |
 |---|---|---|
 | **WP-CLI**(サーバ内) | DB の中身が正しいか | `wp post list --post_type=ts_work --format=count` / `wp post meta get <ID> _ts_source_path` / `wp term list ts_author --format=count` |
-| **curl**(外から) | 公開面が正しいか | `curl -s -o /dev/null -w '%{http_code}' "https://novels.xwp.jp/works/?_cb=$RANDOM"` / `curl -sI … \| grep -i x-robots-tag` |
+| **curl**(外から) | 公開面が正しいか | `curl -s -o /dev/null -w '%{http_code}' "https://novels.xwp.jp/novel/johdan-senotomeseera/?_cb=$RANDOM"` / `curl -sI … \| grep -i x-robots-tag` |
 
 curl は**必ずキャッシュバスター付き**(S.62)。ステータスコード・`X-Robots-Tag`・`<title>` の 3 点で
 「投入できているか」「noindex の境界が正しいか」を判定する。

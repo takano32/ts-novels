@@ -11,7 +11,7 @@
 
 ```sh
 # 開発機
-make catalog          # 全再生成 (約20秒)。QA は catalog/QA.md
+make catalog          # 全再生成 (実測 41〜51 秒、2026-10-30。2 コア機で 2 回)。QA は catalog/QA.md
 make verify           # html5lib による本文の独立検算
 git add -A && git commit   # ← 再走の記録。必ずコミットしてから配備する
 

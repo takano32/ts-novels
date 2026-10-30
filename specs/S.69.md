@@ -55,7 +55,7 @@ make catalog          # catalog_build → terms_build → authors_build → work
 | 生成物 | 見るもの |
 |---|---|
 | `catalog/episodes.jsonl` | **3,844 行** (正規目録 2,887 + 旧目録 97 + 目録外収蔵 859 + 文庫未掲載 1)。パース失敗 0 |
-| `catalog/authors.json` | **作者 342 名**。全 episode の author が解決 (作者不詳 37 を除く 3,807 話)。※旧記述の「≈399」は表示名の異なり数であって人数ではない |
+| `catalog/authors.json` | **作者 322 名** (2026-08-30 の slug 確定で 342 から併合。S.176)。全 episode の author が解決 (作者不詳 38 を除く 3,806 話。2026-10-30 の `make check` の表示)。WP の作者 term はこれに擬似作者「作者不詳」(`unattributed`) と「シリーズ目次」(`series-index`) を足した 324。※旧記述の「≈399」は表示名の異なり数であって人数ではない |
 | `catalog/terms.json` | genre 196 (中核 30) / type 165 (中核 30) / keyword 1,032 (中核 74) / **world 14** / **corpus 5**。corpus は全 episode 分の term がそろっていること (terms_build の自己検査) |
 | `catalog/works.jsonl` | orphan 0 (全 episode がどれかの work に属す) |
 | `bodies/*.md` + `catalog/convert_report.jsonl` | 無損失証明の合格率 ≥85% (実測 **99.95% = 3,642 / 3,644**)。`bodies/` は git 管理外なので `git diff` には出ない |
@@ -123,7 +123,7 @@ wp ts import --works=../catalog/works.jsonl --episodes=../catalog/episodes.jsonl
 wp ts verify
 ```
 
-見るもの: 件数照合 (**episodes 3,844 / works 1,463 / 作者 342**) / orphan 0 / taxonomy 被覆率 /
+見るもの: 件数照合 (**episodes 3,844 / works 1,451 / 作者 322、WP の作者 term 324** (擬似作者 2 を含む)。S.176) / orphan 0 / taxonomy 被覆率 /
 特殊エントリ内訳 (正規目録分 28 件 = 画像作品 21・外部 1・アンカー 5 ほか。全 corpus では 100 件) /
 冪等性。
 

@@ -64,6 +64,14 @@ episode_overrides が最後に人手の上書きを当て、terms/authors/works 
 - **wp/qa_report.py** — `catalog/reports/*.json` を集めて `catalog/QA.md` を書く
   (T.7.7、specs/S.180.md)。数字は各段のレポートからの転記だけで、ここでは再計算しない。
 
+- **wp/docs_build.py** — 運営文書 (`comittee/` 21・`columns/` 2・`dialy/` 1)・`~ezpe/yasai/` 8・
+  ギャラリー (`~yays/gallery/` の CG。画像実体 145) と手書きの解題 (`content/docs/*.html`) を
+  `ts_doc` 用のペイロード `payloads-docs/<slug>.html` と `payloads-docs/_manifest.json` にする
+  (T.10.5、specs/S.197.md)。原本 HTML を wp:html 1 ブロックに包み、相対リンク・画像は原本アーカイブの
+  絶対 URL に書き換え、mailto は剥がす。出力 `catalog/reports/docs_build.json`。引数なしで
+  `python3 scripts/wp/docs_build.py` (移設時の作り直しは S.82)。本番へは `wp ts sync-docs`。
+  区分の表示名「文庫前史 (1999)」は S.105 で「にせ乙女パラダイス」に変える予定 (T.20)。
+
 - **wp/verify_bodies_html5.py** — `bodies/*.md` の無損失性を **html5lib で検算**する
   (`make verify`。要 `make venv`)。body_convert.py は正規表現で HTML を解釈し、無損失証明も
   同じ正規表現で書かれているので「両側を同じ思い込みで間違える」余地がある。そこで HTML5 の

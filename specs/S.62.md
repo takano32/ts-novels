@@ -42,7 +42,7 @@ WordPress が本来付けるはずのヘッダが 200 応答から消えてい�
 **したがって検証 curl には毎回キャッシュバスターを付ける**:
 
 ```sh
-curl -sI "https://novels.xwp.jp/works/?_cb=$RANDOM"
+curl -sI "https://novels.xwp.jp/novel/johdan-senotomeseera/?_cb=$RANDOM"
 ```
 
 - キャッシュの全消しは**サーバー管理パネルのブラウザ操作**でしかできない → 人間のタスク (高野さんの作業)。

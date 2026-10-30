@@ -13,13 +13,15 @@
 |---|---|
 | 先頭 2 バイトが `#!` のファイル | **0** |
 | Perl 構文 (`use strict` / `sub x {` / `$ENV{` / `print "Content-type` / `open(IN` 等) を含むファイル | **0** |
-| 名前に `.cgi` を含むファイル | **9,019**。中身: HTML (CGI が出力した画面の保存) **8,966** / 画像 46 (captcha PNG 37・GIF 9) / 不明バイナリ 7 (`~ezpe/cgi-bin/noteky/` の 7 本) / **サーバのエラー出力 2** |
+| 名前に `.cgi` を含むファイル | **9,021** (当初 9,019 と書いた。下の注記)。中身: HTML (CGI が出力した画面の保存) **8,966** / 画像 46 (captcha PNG 37・GIF 9) / 不明バイナリ 7 (`~ezpe/cgi-bin/noteky/` の 7 本) / **サーバのエラー出力 2** |
 | エラー出力 2 本 | `www2.sts.co.jp/~yaji/cgi-bin/minibbs2.cgi` (72B「script produced no output」+ Windows のフルパス) と `~yaji/blog/mt-atom.cgi/weblog/blog_id=1` (1,002B Perl の @INC エラー + `/home/<ユーザ>/public_html/…`)。**サーバ側のパスを晒す**が秘密値は無い |
 | `password` / `pass` / `パスワード` を含む行 | 掲示板の削除キー**入力欄** (空の `<input type=password>`) と本文の語句のみ |
 | hidden 入力で名前が pass/key/admin、値が非空 | `name=KEY` 10 桁 (投稿番号、`special/03summer/` 2 + 写し 2) / `name=key` 14 桁 (タイムスタンプ、`ts.raa0121.info/2ndbbs/` 5) / **`name=admin` 6 文字** (矢治さんの掲示板 `~bbs/cgi-bin/bbs.*`・`yajibbs.*`・`www2.sts.co.jp/~yaji/cgi-bin/hihyou.cgi` の 5 ファイル)。後者は英単語 1 語のモード指定で、同じ語がリポジトリ内 465 ファイルに通常の単語として出現、直前の説明も「削除キー欄にマスターキーを入力」= 鍵は入力式 → **秘密ではない** (値はこの S に書かない) |
 | `.htaccess` / `.htpasswd` / 設定ファイル | **0** |
 | 実行ファイル・アーカイブ | `special/03summer/zetsubou.1〜3` + `~yays/library/special/03summer/zetsubou.1〜3` + `.bat` = NScripter 製ゲーム「絶望未満」の **Windows EXE を 3 分割**したもの (2.1MB × 3、`COPY /B` で結合)。LZH 5 本 (fKiss ビューア Mac 版 + C ソース・KiSS ローダ・KiSS データ・Excel 2 本 (bc-cafe のカードリスト)) |
 | git 履歴 | 削除済みの `.pl` / `.pm` / `.cgi` は 0 (履歴にも配信中と同じものしか無い)。public リポジトリ・`raw-original` タグあり |
+
+**件数の注記 (2026-10-30 に再計数)**: 上の表で当初書いた 9,019 は、同じ行の内訳 (8,966 + 46 + 7 + 2) の合計 9,021 と合わず、点検時のコミット (7442d211) でも HEAD でも再現しない (basename 基準 9,021・フルパス基準 9,022)。9,019 は転記の誤りとして扱い、件数は S.56 の数え方 (basename 基準 9,021 が本則、フルパス基準 9,022) に揃える。
 
 「そのまま落ちてくる」の正体: GitHub Pages は `.cgi` (と拡張子なし) を **`application/octet-stream`** で返す (実測: `~ts/kansou/bbs@log_marie.cgi` → 200 octet-stream) → ブラウザがダウンロードする。本番 WP には `.cgi` を 1 つも置いていない (S.63 の「未検証」の節)。WP サイトからの導線は、固定ページ `/archive/` の区画リンク → 原本内のリンク、書誌カード「無改変の原本を読む」(これ自体は `.html`) → 原本内のリンク、そして **`.cgi` への直リンクを含む投稿 5 件** (`ts_doc` のにせ乙女パラダイス 3 頁 → `~ezpe/cgi-bin/resbbs4y/resbbs4.cgi` 等、`ts_work` の `shining_heaven-main` と `koromogae1` (原本そのまま表示の 2 話) → `kansou.cgi`)。いずれも中身は HTML の保存画面。
 

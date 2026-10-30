@@ -10,7 +10,7 @@
   - [x] T.18.2.3 本番: `wp db export` → `wp ts apply-takedown --dry-run` が 33 件 → 実行 → `wp post list --post_type=ts_work --post_status=draft --format=count` = 51
   - [x] T.18.2.4 本番: `htaccess_block.py --install` OK → 取り下げ URL 2 本が 410・`/authors/marie/` 200 で作品 0 件・`/about/` 200 (S.103)
   - [ ] T.18.2.5 content/pages/removed.html に 1 行 (T.18.1 の文言) → sync-pages → curl 確認。denylist の `applied` 3 層に日付・`status: applied` → コミット
-- [ ] T.18.3 原本アーカイブ側 (T.18.1 の後。S.78 の暫定手順 = リポジトリから削除)
+- [ ] T.18.3 原本アーカイブ側 (T.18.1 の後。S.78 の暫定手順 = リポジトリから削除)。2026-10-30 追記 (事実): 開発機の `bodies/` (git 管理外) に Marie 氏の 23 話分の `.md` が残っている (`body_convert.py` は古い `.md` を消さない。S.58)。`payload_build.py` は `bodies/*.md` を全部読むので、次に本文を流すと 23 話分の payload ができる。選択肢: 23 本を消す / `body_convert.py` に古い `.md` の掃除を足す / `payload_build.py` で denylist の話を飛ばす
   - [x] T.18.3.1 S.103「取り下げ対象の一覧」の本人ファイル 28 (+ T.18.1 で決めた分) を `git rm` → `make catalog && make check` OK (QA.md で source_exists=False の 28 話を確認)
   - [x] T.18.3.2 (2026-10-27 代表 3 本の 404 を確認。同居 2 ファイル等は回答待ち) push → Pages で代表 3 本が 404 (curl)。denylist の `annex_excluded` に日付・`status: verified` → コミット
 - [ ] T.18.4 (八重洲さんの判断) git 履歴の除去は依頼があった場合のみ (S.79)。T.18.1 で「行う」なら別の大項目として起票

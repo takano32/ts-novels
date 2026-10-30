@@ -8,6 +8,8 @@
 閉鎖された TS（性転換）小説投稿・収蔵サイト **「少年少女文庫」**（`http://ts.novels.jp/`, 2002–2021 頃）を、
 複数の Web アーカイブのスナップショットから復元した静的ミラーです。
 
+> 注記 (2026-10-30): 上の「2002–2021 頃」はホスト `ts.novels.jp` の期間 (本体期。S.50 の年表の `ts.novels.jp` の行) で、文庫そのものは 1997 年に `www14.big.or.jp/~yays` で発足し 2021 年頃に消滅した (1997–2021。S.14・S.50)。下の「サイトの全世代（1999 頃〜2023 頃）」の始まりも、S.50 では母体サイト `~yays` の 1997.10 と `~ezpe` の 1997.11 が最も古い。
+
 元サイトは既に消滅しており、本リポジトリは
 [Internet Archive Wayback Machine](https://web.archive.org/) を主軸に、
 [CommonCrawl](https://commoncrawl.org/)・[archive.today](https://archive.today/)・親サイト `www.novels.jp`・

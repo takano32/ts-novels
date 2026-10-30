@@ -10,7 +10,7 @@
 | パス | 内容 | 優先する文書 |
 |---|---|---|
 | `catalog/` | 目録の単一真実源(episodes.jsonl / works.jsonl / authors.json / terms.json / 各種 map・overrides・reports) | S.211〜S.214 (元の `catalog/README.md`) |
-| `bodies/` | 本文 Markdown の正準(T.7.6 の生成物)。**実測 3,642 ファイル**(数え方: `ls bodies/*.md \| wc -l`)。変換対象 3,644 のうち無損失証明に合格した 3,642 話ぶんで、raw フォールバック 2 話と本文の原本が未回収の 200 話には `.md` が無い。**`.gitignore` 済みで git 管理外** — `make catalog` で再生成する | S.37 / [`catalog/QA.md`](../catalog/QA.md) の「本文 Markdown 変換」の節 |
+| `bodies/` | 本文 Markdown の正準(T.7.6 の生成物)。**実測 3,642 ファイル**(数え方: `ls bodies/*.md \| wc -l`)。変換対象 3,644 のうち無損失証明に合格した 3,642 話ぶんで、raw フォールバック 2 話と本文の原本が未回収の 200 話には `.md` が無い (この段の数は 2026-08-30 の再生成時点。3,644 + 200 = 3,844。WP の「本文が無い話 198」(S.94・S.188) は WP 側の placeholder の数で、数え方が別)。**2026-10-30 の再生成**では T.18 で Marie 氏の原本を除いたため `catalog/convert_report.jsonl` が 変換対象 3,621・合格 3,619・raw フォールバック 2・本文の原本が未回収 223 (うち Marie 氏の 23 話)。`body_convert.py` は古い `.md` を消さないので、`bodies/` には Marie 氏の 23 話分が残って実ファイル数は 3,642 のまま (`catalog/QA.md` の照合が「レポートと不一致」になる)。残った 23 本を消すかは T.18 で決める。**`.gitignore` 済みで git 管理外** — `make catalog` で再生成する | S.37 / [`catalog/QA.md`](../catalog/QA.md) の「本文 Markdown 変換」の節 |
 | `reposts/` | 作者本人の pixiv 再掲本文。プレーンテキストなので本文変換の対象外 | T.7.8 |
 | `scripts/` | 回収・監査・変換ツール(`scripts/wp/` が WP 移築の実装) | S.209〜S.210 (元の `scripts/README.md`) |
 | `takedown/` | `denylist.yml`(削除の四層を駆動する単一情報源) | S.75〜S.81 |
