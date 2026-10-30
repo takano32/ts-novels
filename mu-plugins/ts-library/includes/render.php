@@ -40,7 +40,16 @@ function ts_bunko_meta_header($post) {
         $bits[] = '読了 約' . max(1, (int) round($chars / 550)) . '分';   // 約 550 字/分
     }
     $il = ts_meta($post->ID, 'illustrator');
-    if ($il) $bits[] = '挿絵 ' . esc_html(implode('・', (array) $il));
+    if ($il) {
+        // 挿絵を描いた人が作者ページを持つなら、そこへリンクする (specs/S.240.md)
+        $names = [];
+        foreach ((array) $il as $name) {
+            $t = ts_bunko_author_term_for_name((string) $name);
+            $names[] = $t ? '<a href="' . esc_url(get_term_link($t)) . '">' . esc_html($name) . '</a>'
+                          : esc_html($name);
+        }
+        $bits[] = '挿絵 ' . implode('・', $names);
+    }
     echo '<div class="ts-meta-header">';
     if ($bits) echo '<p class="ts-meta-bits">' . implode('　·　', $bits) . '</p>';
     $chips = [];
@@ -225,6 +234,52 @@ function ts_bunko_url_for_source($source_path) {
     if (!$source_path) return null;
     $map = ts_bunko_source_map();
     return isset($map[$source_path]) ? get_permalink($map[$source_path]) : null;
+}
+
+/** 名前 → 作者 term (無ければ null)。作者の表示名と、目録に現れた表記ゆれ (term meta の
+ *  ts_display_variants。wp ts sync-terms が authors.json から書く) の完全一致だけで引く。
+ *  「ＭＯＮＤＯさん　角」のような複数人の併記は引かない (specs/S.240.md) */
+function ts_bunko_author_term_for_name($name) {
+    static $map = null;
+    if ($map === null) {
+        $map = [];
+        $terms = get_terms(['taxonomy' => 'ts_author', 'hide_empty' => false]);
+        foreach ((is_wp_error($terms) ? [] : $terms) as $t) {
+            $variants = get_term_meta($t->term_id, 'ts_display_variants', true);
+            foreach (array_merge([$t->name], is_array($variants) ? $variants : []) as $n) {
+                if (is_string($n) && $n !== '' && !isset($map[$n])) $map[$n] = $t;
+            }
+        }
+    }
+    return $map[$name] ?? null;
+}
+
+/** 作者ページの「挿絵を担当した作品」: この人が挿絵を描いた話の作品 (連載なら親) の ID を
+ *  発表順で返す。自分の作品は上の一覧に出ているので除く (specs/S.240.md) */
+function ts_bunko_illustrated_work_ids($term) {
+    $variants = get_term_meta($term->term_id, 'ts_display_variants', true);
+    $names = array_unique(array_merge([$term->name], is_array($variants) ? $variants : []));
+    $mq = ['relation' => 'OR'];
+    foreach ($names as $n) {
+        if (!is_string($n) || $n === '') continue;
+        // _ts_illustrator は名前の配列 (直列化) なので、引用符込みで要素の完全一致にする
+        $mq[] = ['key' => '_ts_illustrator', 'value' => '"' . $n . '"', 'compare' => 'LIKE'];
+    }
+    if (count($mq) < 2) return [];
+    $ids = get_posts(['post_type' => 'ts_work', 'post_status' => 'publish',
+                      'posts_per_page' => -1, 'fields' => 'ids', 'no_found_rows' => true,
+                      'meta_query' => $mq]);
+    $works = [];
+    foreach ($ids as $id) {
+        $w = (int) (wp_get_post_parent_id($id) ?: $id);
+        if (isset($works[$w]) || has_term($term->term_id, 'ts_author', $w)) continue;
+        $works[$w] = true;
+    }
+    if (!$works) return [];
+    return get_posts(['post_type' => 'ts_work', 'post_status' => 'publish',
+                      'post__in' => array_keys($works), 'posts_per_page' => -1,
+                      'orderby' => 'date', 'order' => 'ASC', 'fields' => 'ids',
+                      'no_found_rows' => true]);
 }
 
 /** 作者ページ冒頭: ホームページリンクは既定で Wayback、現存確認済みのみ生 URL (S.192、T.10.2) */

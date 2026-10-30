@@ -144,6 +144,47 @@ def b_html(raw):
     return f'<!-- wp:html -->\n{raw}\n<!-- /wp:html -->'
 
 
+# 原本のページ配色 (raw フォールバックの「原本配色」トグル用。specs/S.27.md・S.193.md・S.239.md)。
+# extract_body は <body> の属性と <style> を落とすので、ここで原本から拾って印の要素に持たせる。
+# 指定の無い色は当時のブラウザの既定 (白地・黒字・青のリンク)
+ORIG_DEFAULTS = {'bg': '#ffffff', 'fg': '#000000', 'link': '#0000ee', 'vlink': '#551a8b'}
+COLOR_VAL = r'(#[0-9a-fA-F]{3}(?:[0-9a-fA-F]{3})?|[a-zA-Z]+)'
+
+
+def orig_palette(raw, src_dir, images):
+    pal = dict(ORIG_DEFAULTS)
+    bgimg = None
+    for css in re.findall(r'(?is)<style\b[^>]*>(.*?)</style>', raw):
+        for sel, decl in re.findall(r'(?s)([^{}]+)\{([^}]*)\}', css):
+            sels = {s.strip().lower() for s in sel.replace('<!--', '').split(',')}
+            col = re.search(r'(?i)(?<![-\w])color\s*:\s*' + COLOR_VAL, decl)
+            if 'body' in sels:
+                bg = re.search(r'(?i)background(?:-color)?\s*:\s*' + COLOR_VAL, decl)
+                if bg:
+                    pal['bg'] = bg.group(1)
+                if col:
+                    pal['fg'] = col.group(1)
+            if col and ('a:link' in sels or 'a' in sels):
+                pal['link'] = col.group(1)
+            if col and 'a:visited' in sels:
+                pal['vlink'] = col.group(1)
+    mb = re.search(r'(?is)<body\b([^>]*)>', raw)
+    if mb:
+        for attr, key in (('bgcolor', 'bg'), ('text', 'fg'), ('link', 'link'), ('vlink', 'vlink')):
+            ma = re.search(r'(?i)\b%s\s*=\s*["\']?%s' % (attr, COLOR_VAL), mb.group(1))
+            if ma:
+                pal[key] = ma.group(1)
+        ma = re.search(r'(?i)\bbackground\s*=\s*["\']?([^"\'\s>]+)', mb.group(1))
+        if ma:
+            rel = os.path.normpath(os.path.join(src_dir, ma.group(1))).replace('\\', '/')
+            if rel.lower() in images:
+                bgimg = '/assets/annex-img/' + images[rel.lower()]
+    attrs = ''.join(' data-%s="%s"' % (k, html.escape(v)) for k, v in pal.items())
+    if bgimg:
+        attrs += ' data-bgimg="%s"' % html.escape(bgimg)
+    return f'<div class="ts-orig-palette"{attrs}></div>'
+
+
 # --------------------------------------------------------------------------- md → blocks
 
 def unbalanced_table(text):
@@ -328,6 +369,7 @@ def main():
         region = body_convert.extract_body(raw)
         region = scrub_addresses(region, mail_n)   # 原本そのままの経路もアドレスは入れない
         region = rewrite_srcs(region, os.path.dirname(ep['source_path']), images, warn)
+        region = orig_palette(raw, os.path.dirname(ep['source_path']), images) + '\n' + region
         (OUT / f'{eid}.html').write_text(b_html(region) + '\n', encoding='utf-8')
         meta[eid] = 'raw-fallback'
         written += 1

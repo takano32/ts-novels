@@ -15,10 +15,10 @@
   }
 
   var settings = load(KEY);
-  var defaults = { size: '1', lh: '1', font: 'mincho', dark: 'auto' };
+  var defaults = { size: '1', lh: '1', font: 'mincho', dark: 'auto', orig: '0' };
 
   function apply() {
-    ['size', 'lh', 'font', 'dark'].forEach(function (k) {
+    ['size', 'lh', 'font', 'dark', 'orig'].forEach(function (k) {
       var v = settings[k] || defaults[k];
       if (v === defaults[k] && k !== 'dark') { html.removeAttribute('data-ts-' + k); }
       else if (k === 'dark' && v === 'auto') { html.removeAttribute('data-ts-dark'); }
@@ -45,6 +45,22 @@
     });
   }
   apply();
+
+  // ---- 原本配色: raw フォールバックの話だけ、本文先頭の印から当時のページ配色を写す
+  //      (切替そのものは上の orig 設定 → html[data-ts-orig]。specs/S.239.md) ----
+  var pal = document.querySelector('.ts-reader.is-raw .ts-orig-palette');
+  if (pal) {
+    var box = pal.closest('.ts-reader');
+    var COLOR = /^(#[0-9a-f]{3}([0-9a-f]{3})?|[a-z]+)$/i;
+    ['bg', 'fg', 'link', 'vlink'].forEach(function (k) {
+      var v = pal.getAttribute('data-' + k);
+      if (v && COLOR.test(v)) box.style.setProperty('--ts-orig-' + k, v);
+    });
+    var img = pal.getAttribute('data-bgimg');
+    if (img && /^\/assets\/annex-img\/[^"'()\\\s]+$/.test(img)) {
+      box.style.setProperty('--ts-orig-bgimg', 'url("' + img + '")');
+    }
+  }
 
   // ---- キーボード話ナビ (← 前の話 / → 次の話) ----
   document.addEventListener('keydown', function (ev) {

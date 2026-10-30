@@ -53,4 +53,15 @@ if (have_posts()) {
     echo '<p>該当する作品が見つかりませんでした。</p>';
 }
 
+// 作者ページ: この人が挿絵を描いた作品 (1 ページ目だけ。specs/S.240.md)
+if (is_tax('ts_author') && !is_paged() && function_exists('ts_bunko_illustrated_work_ids')) {
+    $illustrated = ts_bunko_illustrated_work_ids(get_queried_object());
+    if ($illustrated) {
+        echo '<h2 class="ts-archive-title">挿絵を担当した作品</h2>';
+        echo '<ul class="ts-worklist">';
+        foreach ($illustrated as $wid) ts_bunko_workcard(get_post($wid));
+        echo '</ul>';
+    }
+}
+
 get_footer();

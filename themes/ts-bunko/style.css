@@ -132,8 +132,18 @@ html[data-ts-font="gothic"] .ts-reader { font-family: var(--ts-sans); }
 .ts-reader figure { margin: 2em auto; text-align: center; }
 .ts-reader table { border-collapse: collapse; max-width: 100%; overflow-x: auto; display: block; }
 .ts-reader td, .ts-reader th { border: 1px solid var(--ts-line); padding: 0.3em 0.6em; }
-/* raw フォールバック (原本 HTML そのまま) は原本の配色属性を活かす余地を残す */
+/* raw フォールバック (原本 HTML そのまま)。既定は原本の色指定をサイトの配色に揃え、
+   「原本配色」(html[data-ts-orig="1"]) で当時の配色に戻す (specs/S.27.md・S.239.md)。
+   当時のページ配色は本文先頭の .ts-orig-palette から reader.js が --ts-orig-* に写す */
 .ts-reader.is-raw { font-family: var(--ts-sans); }
+html:not([data-ts-orig="1"]) .ts-reader.is-raw font[color] { color: inherit; }
+html:not([data-ts-orig="1"]) .ts-reader.is-raw [bgcolor] { background-color: transparent; }
+html[data-ts-orig="1"] .ts-reader.is-raw {
+  background: var(--ts-orig-bgimg, none) var(--ts-orig-bg, #ffffff);
+  color: var(--ts-orig-fg, #000000); padding: 1em 1.2em;
+}
+html[data-ts-orig="1"] .ts-reader.is-raw a:link { color: var(--ts-orig-link, #0000ee); }
+html[data-ts-orig="1"] .ts-reader.is-raw a:visited { color: var(--ts-orig-vlink, #551a8b); }
 
 /* ---------- リーダー操作列 ---------- */
 /* UA の [hidden]{display:none} は作者オリジンの display に負けるので明示で戻す
