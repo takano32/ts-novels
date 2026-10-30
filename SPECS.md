@@ -174,7 +174,7 @@ T33・T35〜T38 の受け入れ条件と、公開時点の完了の定義。
 | [S73](specs/S73.md) | やり直しの再走コマンド | 手順 | 有効 | T40.7 |
 | [S74](specs/S74.md) | レビューの受け付け方 (NG が出たとき) | 手順 | 有効 | T29.3 |
 | [S75](specs/S75.md) | 削除の手順: SLA と受領 | 手順 | 一部失効 (S43・S112 で上書き。72 時間の SLA) | T6.2, T21.3, T23.6 |
-| [S76](specs/S76.md) | 削除: WP の投稿を draft にする | 手順 | 一部失効 (S121 で上書き。draft → private) | T21.3 |
+| [S76](specs/S76.md) | 削除: WP の投稿を draft にする | 手順 | 一部失効 (S121 で上書き。draft → private) | T18.3, T21.3 |
 | [S77](specs/S77.md) | 削除: 本番 .htaccess に 410 を書く | 手順 | 一部失効 (S119 で上書き。WP の URL の 410 は WordPress が返す) | T21.3 |
 | [S78](specs/S78.md) | 削除: 原本アーカイブ (GitHub Pages) 側の除外 | 手順 | 有効 | T18.3, T21.3 |
 | [S79](specs/S79.md) | 削除: git 履歴からの除去 | 手順 | 有効 | T18.4, T21.3 |
@@ -263,7 +263,7 @@ T33・T35〜T38 の受け入れ条件と、公開時点の完了の定義。
 | [S148](specs/S148.md) | 題名の芯 (trim_title) の追加規則 | 仕様 | 有効 | T24.2 |
 | [S149](specs/S149.md) | レビュー資料 cluster_review.py | 仕様 | 有効 | T24.3 |
 | [S150](specs/S150.md) | クラスタの裁定の書き方 → YAML | 仕様 | 有効 | T24.4, T24.5 |
-| [S151](specs/S151.md) | URL の付け替え (catalog/redirects.yml) | 仕様 | 有効 | T24.6 |
+| [S151](specs/S151.md) | URL の付け替え (catalog/redirects.yml) | 仕様 | 失効 (S221 で上書き) | T24.6 |
 | [S152](specs/S152.md) | 再投入の方式 (全消し再構築か import --prune か) | 設計 | 有効 | T24.7 |
 | [S153](specs/S153.md) | 作品クラスタの手動修正の検証 | 手順 | 有効 | T24.8 |
 | [S154](specs/S154.md) | 作品クラスタの実測の基準値 | 実測 | 有効 | T24 |
