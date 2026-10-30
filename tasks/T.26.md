@@ -16,6 +16,6 @@
   - [ ] T.26.3.8 通知 5 通 (S.129) → 本番で自分宛に 1 通送って到達
 - [ ] T.26.4 cron の実行基盤 (S.130): サーバ crontab (控えを先に) と `DISABLE_WP_CRON` (高野さんの作業) → `wp cron event list` で `ts_takedown_tick` の次回時刻が進む
 - [ ] T.26.5 content/pages/takedown.html を本番用の文面に (S.134。T.17 の暫定を置き換え) → sync-pages
-- [ ] T.26.6 配備と検証: `wp db export` → deploy.sh --apply → `wp ts role-sync` → sync-pages → S.136 の検証手順のうち `wp ts reset` の確認を除く全部を満たす
+- [ ] T.26.6 (2026-10-30 配備済み。高野さんが実行: private 51・draft 0 のまま、cron ts_takedown_tick を 1 時間おきに登録、verify OK。読者側の取り下げ 410・/removed/・/takedown/ 200 を確認。申請の実送信と運営委員の操作の確認は、フォームを置く T.26.5 とメールの到達 T.26.3.8 の後) 配備と検証: `wp db export` → deploy.sh --apply → `wp ts role-sync` → sync-pages → S.136 の検証手順のうち `wp ts reset` の確認を除く全部を満たす
 - [ ] T.26.7 (任意、T.35.2 と同時) REST `/wp-json/ts/v1/withdrawn` と deploy-pages.yml の取り込み (S.133) (T.35.2 の後)
 - [ ] T.26.8 削除リハーサル (T.37.2) をこの経路で実流し → S.75〜S.81 を実測で更新
