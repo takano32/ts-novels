@@ -3,7 +3,7 @@
 - 種類: 手順
 - 状態: 有効
 - 出典: docs/publish-runbook.md の冒頭・「前提」・「所要時間の目安」・「手順」
-- 関連: T.6.3, T.38, T.23.6, S.67, S.70, S.71, S.76, S.77, S.116, S.121, T.40.1
+- 関連: T.6.3, T.38, T.23.6, T.26.3.7, S.132, S.67, S.70, S.71, S.76, S.77, S.116, S.121, T.40.1
 
 ## 公開ランブック — catalog 再生成から本番反映まで
 
@@ -121,6 +121,18 @@ scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp post list --post_typ
 ```sh
 scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp ts import --bodies=$HOME/novels.xwp.jp/repo/payloads --dry-run'
 # → created=0 updated=0 skipped=N であること。そうでなければインポータのバグ
+```
+
+取り下げフォームの申請を記録に書き写す (S.132。適用済みの申請があるときだけ。**publish の前に**):
+
+```sh
+cd ~/GitHub/ts-novels
+scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp ts export-takedowns' > /tmp/export-takedowns.yml
+#   標準エラーに「振った id: S.n …」か「書き写す申請はありません」。復帰した申請は既存エントリを直す警告が出る
+cat /tmp/export-takedowns.yml >> takedown/denylist.yml   # entries: の最後に足す (中身を目で確かめてから)
+#   振った id ごとに specs/S.n.md (取り下げの記録の S) を作り、SPECS.md の一覧と「次は S.n」を直す
+make check && git add takedown/denylist.yml specs SPECS.md && git commit -m "取り下げフォームの申請を denylist に書き写す"
+#   push → deploy.sh --apply → wp ts apply-takedown (印が req:<ID> から記録の S に変わる。原本アーカイブの除外は T.35.2 で伝播)
 ```
 
 #### 5. 本番: verify

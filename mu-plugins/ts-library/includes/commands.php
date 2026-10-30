@@ -815,6 +815,21 @@ class TS_Command {
             WP_CLI::warning('手動編集で skip 中の投稿 (' . count($manual) . ' 件):');
             foreach ($manual as $m) WP_CLI::line("  [{$m['kind']}] {$m['key']} (最終編集 {$m['modified']})");
         }
+        // 6) 取り下げフォーム (S.130・S.132)。どちらも警告だけで、verify を NG にはしない
+        $tick = get_option('ts_takedown_last_tick');
+        if (!is_array($tick) || empty($tick['time'])) {
+            WP_CLI::warning('ts_takedown_tick がまだ一度も動いていない (S.130)');
+        } else {
+            WP_CLI::line('ts_takedown_tick の最終実行: ' . wp_date('Y-m-d H:i', (int) $tick['time'])
+                . ($tick['error'] !== '' ? ' (失敗: ' . $tick['error'] . ')' : ''));
+            if (time() - (int) $tick['time'] > 86400) WP_CLI::warning('ts_takedown_tick が 24 時間以上止まっている (S.130)');
+            if ($tick['error'] !== '') WP_CLI::warning('ts_takedown_tick の最後の実行が失敗している');
+        }
+        $missing = $this->requests_not_in_denylist($root);
+        WP_CLI::line('適用済みの申請で denylist に無いもの: ' . count($missing) . ' 件');
+        if ($missing) WP_CLI::warning('denylist に書き写していない申請: ' . implode(' ', array_slice($missing, 0, 10))
+            . ' (wp ts export-takedowns。S.132)');
+
         WP_CLI::line('ts_catalog_commit: ' . get_option('ts_catalog_commit', '(未記録)'));
         WP_CLI::line('(冪等の確認は `wp ts import --dry-run` 2 回目が created=0 updated=0 になること)');
         $ok ? WP_CLI::success('verify OK') : WP_CLI::error('verify NG', false);
@@ -859,12 +874,16 @@ class TS_Command {
                     $reinstate[$pid] = "{$e['id']} $kind=$value";
                 } else {
                     $want[$pid] = ['id' => $e['id'], 'note' => $e['public_note'] ?? '',
-                                   'why' => "{$e['id']} $kind=$value"];
+                                   'date' => $e['requested_at'] ?? '', 'why' => "{$e['id']} $kind=$value"];
                 }
             }
         }
         // 取り下げ中のエントリが優先 (別のエントリで復帰していても、まだ止める対象なら止めたまま)
         $reinstate = array_diff_key($reinstate, $want);
+        // 取り下げフォームの申請で取り下げ中の投稿は、denylist の復帰では戻さない (申請の側で戻す。S.128)
+        foreach (array_keys($reinstate) as $pid) {
+            if (strpos((string) get_post_meta($pid, '_ts_takedown_id', true), 'req:') === 0) unset($reinstate[$pid]);
+        }
 
         $n = ['private' => 0, 'reinstate' => 0, 'none' => 0];
         $urls = [];
@@ -877,6 +896,7 @@ class TS_Command {
                 'visibility' => (string) get_post_meta($pid, '_ts_visibility', true),
                 'takedown_id' => (string) get_post_meta($pid, '_ts_takedown_id', true),
                 'public_note' => (string) get_post_meta($pid, '_ts_public_note', true),
+                'takedown_date' => (string) get_post_meta($pid, '_ts_takedown_date', true),
                 'superseded_by' => (string) get_post_meta($pid, '_ts_superseded_by', true),
             ];
             $ch = ts_visibility_takedown_change($cur, $w);
@@ -912,6 +932,19 @@ class TS_Command {
             "SELECT pm.post_id FROM {$wpdb->postmeta} pm JOIN {$wpdb->posts} p ON p.ID = pm.post_id
              WHERE pm.meta_key = '_ts_visibility' AND pm.meta_value = 'withdrawn' AND p.post_type = 'ts_work'")),
             array_keys($plan));
+        // 取り下げフォームの申請によるもの (まだ denylist に書き写していない。S.132) は分けて数える
+        $by_request = [];
+        foreach ($stray as $i => $pid) {
+            if (strpos((string) get_post_meta($pid, '_ts_takedown_id', true), 'req:') === 0) {
+                $by_request[] = $pid;
+                unset($stray[$i]);
+            }
+        }
+        if ($by_request) {
+            WP_CLI::line('取り下げフォームの申請による取り下げ (denylist に未記載。export-takedowns で書き写す): '
+                . count($by_request) . ' 件');
+            foreach ($by_request as $pid) $urls[] = wp_make_link_relative($this->public_permalink($pid));
+        }
         if ($stray) {
             WP_CLI::warning('denylist に無い取り下げの投稿 (変更しない): ' . count($stray) . ' 件 (post '
                 . implode(' ', array_slice($stray, 0, 10)) . (count($stray) > 10 ? ' …' : '') . ')');
@@ -950,7 +983,7 @@ class TS_Command {
             if (preg_match('/^\s*-\s*id:\s*(.+?)\s*$/', $line, $m)) {   // 新エントリ
                 if ($cur) $out[] = $cur;
                 $cur = ['id' => trim($m[1], "\"' "), 'kind' => null, 'value' => null, 'status' => '',
-                        'public_note' => ''];
+                        'public_note' => '', 'requested_at' => '', 'reason' => '', 'received_via' => ''];
                 continue;
             }
             if (!$cur) continue;
@@ -961,13 +994,20 @@ class TS_Command {
                 continue;
             }
             if (preg_match('/^\s+kind:\s*([A-Za-z_]+)/', $line, $m)) { $cur['kind'] = $m[1]; continue; }
-            if (preg_match('/^\s+value:\s*["\']?([^"\'#]+)/', $line, $m)) { $cur['value'] = trim($m[1]); continue; }
+            if (preg_match('/^\s+value:\s*(.*?)\s*$/u', $line, $m)) {
+                // 引用符なしの値は「 #」からがコメント。path#anchor の # は値の一部 (export-takedowns が書く話の対象)
+                $v = $m[1];
+                if ($v !== '' && $v[0] !== '"' && $v[0] !== "'") $v = rtrim(preg_replace('/\s#.*$/u', '', $v));
+                $cur['value'] = trim($this->yaml_unquote($v));
+                continue;
+            }
             if (preg_match('/^\s+status:\s*([A-Za-z_]+)/', $line, $m)) { $cur['status'] = $m[1]; continue; }
+            if (preg_match('/^\s+requested_at:\s*([0-9]{4}-[0-9]{2}-[0-9]{2})/', $line, $m)) { $cur['requested_at'] = $m[1]; continue; }
+            if (preg_match('/^\s+received_via:\s*([A-Za-z_]+)/', $line, $m)) { $cur['received_via'] = $m[1]; continue; }
+            if (preg_match('/^\s+reason:\s*(.*?)\s*$/u', $line, $m)) { $cur['reason'] = $this->yaml_unquote($m[1]); continue; }
             // /removed/ の掲示の 1 行 (S.121 で投稿のメタ _ts_public_note に写す)。囲みの引用符は外す
             if (preg_match('/^\s+public_note:\s*(.*?)\s*$/u', $line, $m)) {
-                $v = $m[1];
-                if (strlen($v) >= 2 && ($v[0] === '"' || $v[0] === "'") && substr($v, -1) === $v[0]) $v = substr($v, 1, -1);
-                $cur['public_note'] = $v;
+                $cur['public_note'] = $this->yaml_unquote($m[1]);
                 continue;
             }
         }
@@ -985,6 +1025,16 @@ class TS_Command {
             $valid[] = $e;
         }
         return $valid;
+    }
+
+    /** 囲みの引用符を外す (単一引用符の中の '' は ' に。export-takedowns が書く形) */
+    private function yaml_unquote($v) {
+        if (strlen($v) >= 2 && ($v[0] === '"' || $v[0] === "'") && substr($v, -1) === $v[0]) {
+            $q = $v[0];
+            $v = substr($v, 1, -1);
+            if ($q === "'") $v = str_replace("''", "'", $v);
+        }
+        return $v;
     }
 
     /** kind/value → 止める投稿 ID の配列 (子投稿まで波及させる) */
@@ -1039,6 +1089,103 @@ class TS_Command {
         return $out;
     }
 
+    /** denylist に書き写した申請: 申請の投稿 ID => [記録の id, status] (reason の「(申請 <ID>)」で結ぶ) */
+    private function exported_requests($root) {
+        $out = [];
+        $path = "$root/takedown/denylist.yml";
+        if (!is_file($path)) return $out;
+        foreach ($this->parse_denylist($path) as $e) {
+            if (!preg_match('/\(申請 ([0-9]+)\)/u', $e['reason'] ?? '', $m)) continue;
+            $out[(int) $m[1]][] = ['id' => $e['id'], 'status' => $e['status']];
+        }
+        return $out;
+    }
+
+    /** applied / approved の申請で denylist に対応するエントリが無いものの投稿 ID */
+    private function requests_not_in_denylist($root) {
+        if (!post_type_exists(TS_TAKEDOWN_TYPE)) return [];
+        $done = $this->exported_requests($root);
+        $ids = get_posts(['post_type' => TS_TAKEDOWN_TYPE, 'post_status' => 'any', 'posts_per_page' => -1,
+                          'fields' => 'ids', 'no_found_rows' => true,
+                          'meta_key' => '_tr_status', 'meta_value' => ['applied', 'approved'], 'meta_compare' => 'IN']);
+        return array_values(array_filter(array_map('intval', $ids), function ($id) use ($done) { return !isset($done[$id]); }));
+    }
+
+    /**
+     * 適用済み・復帰済みの取り下げの申請を denylist のエントリ (version 1) として標準出力に出す (S.132)。
+     * 連絡先・本文・証拠は出さない。id は次の S 番号から振る (repo の SPECS.md の「次は S.n」か --start)。
+     * 振った番号ごとに specs/S.n.md (取り下げの記録の S) を作り、SPECS.md の一覧に足すこと。
+     * denylist に書き写し済みの申請は出さない。書き写した後に復帰した申請は、既存のエントリの
+     * status を reinstated に直すよう警告で知らせる (新しいエントリは作らない)。
+     *
+     * ## OPTIONS
+     * [--since=<date>] : 適用 (復帰) がこの日 (YYYY-MM-DD) 以後の申請だけ
+     * [--start=<n>] : 最初に振る S の番号 (省くと repo の SPECS.md の「次は S.n」)
+     * [--repo=<path>] : リポジトリのルート
+     */
+    public function export_takedowns($args, $assoc) {
+        $root = $this->repo_root($assoc);
+        if (isset($assoc['start'])) {
+            if (!preg_match('/^[0-9]+$/', (string) $assoc['start'])) WP_CLI::error('--start は数字で');
+            $n = (int) $assoc['start'];
+        } else {
+            $specs = @file_get_contents("$root/SPECS.md");
+            if ($specs === false || !preg_match('/次は S\.([0-9]+)/u', $specs, $m)) WP_CLI::error('SPECS.md に「次は S.n」が無い (--start で指定)');
+            $n = (int) $m[1];
+        }
+        $since = $assoc['since'] ?? '';
+        if ($since !== '' && !preg_match('/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/', $since)) WP_CLI::error('--since は YYYY-MM-DD で');
+        $done = $this->exported_requests($root);
+        $ids = get_posts(['post_type' => TS_TAKEDOWN_TYPE, 'post_status' => 'any', 'posts_per_page' => -1,
+                          'fields' => 'ids', 'no_found_rows' => true, 'orderby' => 'ID', 'order' => 'ASC',
+                          'meta_key' => '_tr_status', 'meta_value' => ['applied', 'approved', 'reinstated'],
+                          'meta_compare' => 'IN']);
+        $yaml = ''; $all = [];
+        foreach ($ids as $id) {
+            $r = ts_takedown_get((int) $id);
+            if ($since !== '' && wp_date('Y-m-d', $r['resolved_at']) < $since) continue;
+            if (isset($done[$r['id']])) {
+                foreach ($done[$r['id']] as $d) {
+                    if ($r['status'] === 'reinstated' && $d['status'] !== 'reinstated') {
+                        WP_CLI::warning("申請 {$r['id']} は復帰した: denylist の {$d['id']} の status を reinstated に直す");
+                    }
+                }
+                continue;
+            }
+            if ($r['status'] === 'reinstated') continue; // 書き写す前に復帰したものは記録に残すだけで足りる
+            $at = $r['confirmed_at'] ?: $r['received_at'];
+            $targets = [];
+            foreach ($r['targets'] as $t) {
+                $pid = (int) ($t['post_id'] ?? 0);
+                if (!$pid || get_post_type($pid) !== 'ts_work') continue;
+                $slug = (string) get_post_meta($pid, '_ts_work_slug', true);
+                if ($slug !== '') {
+                    $target = ['kind' => 'work', 'value' => $slug];
+                } else {
+                    // 話だけを指した申請は episode (source_path、アンカー分割話は path#anchor)
+                    $sp = (string) get_post_meta($pid, '_ts_source_path', true);
+                    if ($sp === '') { WP_CLI::warning("申請 {$r['id']}: post $pid の work_slug も source_path も無い"); continue; }
+                    $anchor = (string) get_post_meta($pid, '_ts_source_anchor', true);
+                    $target = ['kind' => 'episode', 'value' => $sp . ($anchor !== '' ? "#$anchor" : '')];
+                }
+                $target['note'] = ts_takedown_public_note([wp_specialchars_decode(get_the_title($pid), ENT_QUOTES)],
+                    $r['pen_name'], $r['allow_name'] === '1', (int) wp_date('Y', $at), (int) wp_date('n', $at));
+                $targets[] = $target;
+            }
+            if (!$targets) { WP_CLI::warning("申請 {$r['id']}: 本サイトの作品に結びつく対象が無い (出さない)"); continue; }
+            $out = ts_takedown_export_yaml(['id' => $r['id'], 'status' => $r['status'], 'via' => $r['via'],
+                'confirmed_date' => wp_date('Y-m-d', $at),
+                'applied_date' => $r['resolved_at'] ? wp_date('Y-m-d', $r['resolved_at']) : ''], $targets, $n);
+            $n += count($out['ids']);
+            $yaml .= $out['yaml'];
+            $all = array_merge($all, $out['ids']);
+        }
+        if ($yaml !== '') echo $yaml;
+        // 案内は標準エラーに (標準出力は denylist にそのまま足せる YAML だけにする)
+        fwrite(STDERR, ($all ? '振った id: ' . implode(' ', $all) . ' (specs/S.n.md を作り SPECS.md の一覧と「次は」を直す)'
+                             : '書き写す申請はありません') . "\n");
+    }
+
     /** 取り下げ済み URL のパスを 1 行 1 件で出す (監査用と、scripts/wp/htaccess_block.py --install の
      *  検証が読む。.htaccess の生成には使わない — 410 は WordPress が返す。specs/S.119.md) */
     public function export_takedown_urls($args, $assoc) {
@@ -1049,6 +1196,7 @@ class TS_Command {
 
     /**
      * ts_* の投稿・term を全削除する (やり直し用。specs/S.73.md の C)。
+     * 取り下げの申請 (ts_takedown_request) は消さない (運用の原本で、catalog から作り直せない。S.125)。
      * ## OPTIONS
      * --yes : 確認なしで実行 (必須)
      */
@@ -1097,5 +1245,6 @@ WP_CLI::add_command('ts import', [new TS_Command(), 'import']);
 WP_CLI::add_command('ts verify', [new TS_Command(), 'verify']);
 WP_CLI::add_command('ts apply-takedown', [new TS_Command(), 'apply_takedown']);
 WP_CLI::add_command('ts export-takedown-urls', [new TS_Command(), 'export_takedown_urls']);
+WP_CLI::add_command('ts export-takedowns', [new TS_Command(), 'export_takedowns']);
 WP_CLI::add_command('ts reset', [new TS_Command(), 'reset']);
 WP_CLI::add_command('ts export-pathmap', [new TS_Command(), 'export_pathmap']);

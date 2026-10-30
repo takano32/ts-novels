@@ -12,3 +12,8 @@
   `*/10 * * * * cd ~/novels.xwp.jp/public_html && wp cron event run --due-now >/dev/null 2>&1` を足し (`crontab -l` の控えを先に)、
   (高野さんの作業) `wp-config.php` (公開ルート外) に `define('DISABLE_WP_CRON', true);` を入れる。
 - 監視: `wp cron event list` に `ts_takedown_tick` が出て `next_run_relative` が進むこと。失敗は `ts_takedown_last_tick` option に時刻とエラーを残し、`wp ts verify` が 24 時間以上止まっていれば警告する。
+
+## 実装の記録 (2026-10-30、T.26.3。未配備)
+
+- 登録は `init` で `wp_next_scheduled` を見て、無ければ足す (mu-plugin には有効化の契機が無いため)。
+- `ts_takedown_last_tick` は `time`・`error`・処理した件数。`wp ts verify` は「まだ一度も動いていない」「24 時間以上止まっている」「最後の実行が失敗」を警告に出す (verify を NG にはしない)。

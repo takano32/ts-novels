@@ -112,6 +112,7 @@ WP-CLI から使うコマンドで、`includes/commands.php` にあります (S.
 | `sync-terms` | 作者と語彙を投入 |
 | `import` | 作品と話を投入。何度流しても同じ結果になり、2 回目は `created=0 / updated=0` が受け入れ条件 (S.10 の「インポートを冪等にする決まり」) |
 | `apply-takedown` | `takedown/denylist.yml` に従って取り下げる (対象を `private` にする。S.121) |
+| `export-takedowns` | 取り下げフォームの適用済みの申請を denylist のエントリとして出す (S.132) |
 | `verify` | 件数・未所属・分類の付き方を catalog と照合する |
 | `export-pathmap` | 原本のパスから WP の URL への対応表を出す |
 | `reset --yes` | `ts_*` の投稿をすべて消す (やり直し用) |
@@ -120,7 +121,7 @@ WP-CLI から使うコマンドで、`includes/commands.php` にあります (S.
 
 `import` は投入した時の catalog のコミットを `ts_catalog_commit` に記録するので、本番に何が載っているかを後から再現できます (S.73、S.182)。
 ロールを整える `role-sync` (S.116) は `includes/roles.php` にあります (T.23.3 で実装、本番への配備は T.23.4)。
-予定のコマンドとして、フォームの取り下げを記録に書き出す `export-takedowns` (S.132) があります。
+取り下げフォーム (申請の投稿タイプ・フォーム・確認リンク・cron・`/removed/` の一覧) は `includes/takedown-request.php`、運営委員の操作の画面は `includes/takedown-admin.php` にあります (S.124〜S.132。T.26.3 で実装、配備は T.26.6)。
 
 ### テーマ `ts-bunko`
 

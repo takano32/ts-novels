@@ -3,7 +3,7 @@
 - 種類: 仕様
 - 状態: 有効
 - 出典: docs/visibility-roles-spec.md の「wp ts apply-takedown の変更」
-- 関連: T.23.3.3, T.23.4, S.76, S.67
+- 関連: T.23.3.3, T.23.4, T.26.3.4, S.76, S.67, S.131
 
 ## `wp ts apply-takedown` の変更
 
@@ -68,3 +68,8 @@ scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp ts verify | tail -1'
 - 止めたとき: 6 は NG なら自動で直前の `.htaccess` に戻る。2〜5 で戻すなら `scripts/wp/novels-ssh 'cd ~/novels.xwp.jp/public_html && wp db import ~/dumps/pre-t23.4-….sql'` (1 で作ったファイル名) の後、前のコミットで deploy.sh --apply をやり直す。
 - 配備の後は、読者には取り下げ 51 件が 410 (WordPress の案内ページ)、運営委員 (と管理者) にはログイン中だけ 200 + 帯。旧版はまだ無い (T.25)。
 - T.23.5 の帯の確認の前に、試験ユーザ `ts-probe-t231` (editor) を `wp user set-role ts-probe-t231 ts_committee` で運営委員にする (editor のままだと 410 になる。S.118)。
+
+## 取り下げフォームに合わせた変更 (2026-10-30、T.26.3。未配備)
+
+- 取り下げに `_ts_takedown_date` (denylist の `requested_at`) も揃え、復帰で消す (`/removed/` の並び順。S.131 の実装の記録)。配備後の最初の apply-takedown は、いまの取り下げのメタだけを直す。
+- 取り下げフォームの申請で取り下げ中の投稿 (`_ts_takedown_id=req:<ID>`) は、denylist に無くても警告にせず「取り下げフォームの申請による取り下げ (denylist に未記載)」として件数を出し、`ts_takedown_urls` に残す。denylist の復帰では戻さない (S.128 の実装の記録)。

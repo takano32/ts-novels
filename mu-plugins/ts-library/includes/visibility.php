@@ -70,22 +70,24 @@ function ts_visibility_banner_html(string $visibility, string $takedown_id, stri
 
 /**
  * `wp ts apply-takedown` が 1 投稿についてすること (S.121)。WordPress を使わない。
- *  $cur  : ['status', 'visibility', 'takedown_id', 'public_note', 'superseded_by'] (無いメタは '')
- *  $want : 取り下げるなら ['id' => denylist の id, 'note' => public_note ('' 可)]、
+ *  $cur  : ['status', 'visibility', 'takedown_id', 'public_note', 'takedown_date', 'superseded_by'] (無いメタは '')
+ *  $want : 取り下げるなら ['id' => denylist の id, 'note' => public_note ('' 可),
+ *          'date' => お申し出の日 YYYY-MM-DD ('' 可。/removed/ の並び順に使う。specs/S.131.md の実装の記録)]、
  *          status: reinstated のエントリの対象 (復帰) なら null
  * 返り値: ['kind' => private|reinstate|none, 'status' => 新しい post_status か null (変えない),
  *          'set' => [meta => 値], 'delete' => [meta, …]]
  */
 function ts_visibility_takedown_change(array $cur, ?array $want): array {
     $c = array_merge(['status' => '', 'visibility' => '', 'takedown_id' => '', 'public_note' => '',
-                      'superseded_by' => ''], $cur);
+                      'takedown_date' => '', 'superseded_by' => ''], $cur);
     $out = ['kind' => 'none', 'status' => null, 'set' => [], 'delete' => []];
     if ($want !== null) {
         // 取り下げ: private + withdrawn + 由来の id + 掲示の 1 行。既に private / draft でもメタを揃える
         if ($c['status'] !== 'private') $out['status'] = 'private';
         $meta = ['_ts_visibility' => ['visibility', 'withdrawn'],
                  '_ts_takedown_id' => ['takedown_id', (string) $want['id']],
-                 '_ts_public_note' => ['public_note', (string) ($want['note'] ?? '')]];
+                 '_ts_public_note' => ['public_note', (string) ($want['note'] ?? '')],
+                 '_ts_takedown_date' => ['takedown_date', (string) ($want['date'] ?? '')]];
         foreach ($meta as $key => [$field, $value]) {
             if ($value === '') { if ($c[$field] !== '') $out['delete'][] = $key; }
             elseif ($c[$field] !== $value) $out['set'][$key] = $value;
@@ -95,7 +97,8 @@ function ts_visibility_takedown_change(array $cur, ?array $want): array {
     }
     // 復帰: 取り下げの印が無ければ何もしない。draft は移行前の取り下げなので印とみなす
     if ($c['visibility'] !== 'withdrawn' && $c['takedown_id'] === '' && $c['status'] !== 'draft') return $out;
-    foreach (['takedown_id' => '_ts_takedown_id', 'public_note' => '_ts_public_note'] as $field => $key) {
+    foreach (['takedown_id' => '_ts_takedown_id', 'public_note' => '_ts_public_note',
+              'takedown_date' => '_ts_takedown_date'] as $field => $key) {
         if ($c[$field] !== '') $out['delete'][] = $key;
     }
     if ($c['superseded_by'] !== '') {
