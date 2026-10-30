@@ -48,7 +48,7 @@ wp ts sync-terms ... && wp ts import ... && wp ts apply-takedown && wp ts verify
 `wp ts reset` が未実装の場合の代替: パネルから WordPress を初期化 → mu-plugins を rsync
 → import(初期化すると CloudSecure 等の再設定が要るので reset 実装を優先)。
 
-**⚠ reset の後処理: eyecatch (featured image) を再設定する。**
+**⚠ reset の後処理: eyecatch (featured image) を再設定する。** 2026-10-30 から `wp eval-file scripts/wp/eyecatch_restore.php` が下の手順をまとめて行う (中身の md5 が一致する既存の添付を使い回すので、何度流しても添付は増えない)。
 `_thumbnail_id` は catalog からの import では復元されない(投入経路の外にある
 `wp media import` + `wp post meta update` で作った状態なので、`wp ts reset` で
 ts_* の meta ごと消える)。**reset して import し直したら、S.189 後半の手順を必ず再実行する**:

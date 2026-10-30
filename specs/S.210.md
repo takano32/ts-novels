@@ -60,6 +60,7 @@ episode_overrides が最後に人手の上書きを当て、terms/authors/works 
   work_overrides.yml に写したときの形を添える。`--since <リビジョン>` で slug が変わった作品の表を足す。
 
 - **wp/secret_scan.py** — 配信される原本に CGI のソースや秘密値が混じっていないかの走査
+- **wp/eyecatch_restore.php** — 全消し再構築の後に eyecatch を付け直す (本番で `wp eval-file`。S.73)
   (T.16.3、specs/S.111.md)。`make check` が `--check` で走らせ、1 件でもあれば止まる。
   引数なしなら `catalog/reports/secret_scan.json` を書く。検証済みの許容は `scripts/wp/secret_scan_allow.yml`。
 
