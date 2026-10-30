@@ -52,6 +52,17 @@ curl -sI "https://novels.xwp.jp/novel/johdan-senotomeseera/?_cb=$RANDOM"
 - 既存の crontab に「3 日より古い `wp-content/cache/*` を毎日 04:37 に削除」が入っている
   (WordPress 側キャッシュの掃除。nginx 側とは別)。
 
+### ログイン中の応答とキャッシュ (2026-10-30 実測。T.23.1、手順は S.120)
+
+試験ユーザ (編集者) のログイン Cookie を WP-CLI で発行し、DevTools のブラウザに入れて測った (ログイン URL は使っていない)。ログインなしは curl。
+
+| 対象 | ログインなし・バスターなし | ログインなし・`?_cb=` | ログイン・バスターなし | ログイン・`?_cb=` |
+|---|---|---|---|---|
+| 公開中の作品 (`/novel/johdan-senotomeseera/`) | 200、cache-control なし | 200、cache-control なし | 200、管理バーあり、`no-cache, must-revalidate, max-age=0, no-store, private` | 同左 |
+| 下書きの作品 (`/?post_type=ts_work&p=8881&preview=true`、取り下げ済み) | 404 | 404 | 200 (本文が表示される)、管理バーあり、private | 同左 |
+
+判定 (S.120): ログイン Cookie 付きの要求は、バスターが無くても nginx のキャッシュを素通りして WordPress がその場で描画する。よって **WordPress が 410 を返す方式 (S.119) で進められる**。ログインなしの要求には下書きの中身は出ない。
+
 ### PHP の実行制限 (`.user.ini` 実測)
 
 | 項目 | 値 | 効き所 |

@@ -1,4 +1,4 @@
-# robots.txt — novels.xwp.jp (少年少女文庫 資料館 / WP サイト)
+# robots.txt — novels.xwp.jp (少年少女文庫 資料館)
 #
 # 配備先: ~/novels.xwp.jp/public_html/robots.txt (デプロイは scripts/wp/deploy.sh = T.8.3)
 # リポジトリ直下の robots.txt は archive.org 自身のものを Wayback 経由で誤回収した残骸なので、

@@ -17,3 +17,5 @@
 - 生成は `scripts/wp/htaccess_block.py` のまま。`--install` 時の自動検証に「取り下げ URL が 410 (WordPress 由来)」を加える。ssh は `scripts/wp/novels-ssh` 経由に直す (現状は `ssh novels` 直書きで `~/.ssh/config` に依存。T.13.3 の積み残し)。
 - **代替方式** (S.120 の実測で WordPress 方式が成り立たないとき): 取り下げ URL ごとに
   `RewriteCond %{HTTP_COOKIE} !wordpress_logged_in_ [NC]` + `RewriteRule ^novel/<slug>(/|$) - [G]` を生成する。Cookie 名の有無だけで通し、本人性の判定は WordPress に任せる (偽の Cookie を付けても WordPress 側で 404/410 になる)。
+
+2026-10-30: S.120 の実測 (S.62) でログイン Cookie 付きの要求はキャッシュを素通りすると確かめたので、WordPress が 410 を返す方式で進める (T.23.2)。
