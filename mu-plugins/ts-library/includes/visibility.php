@@ -45,10 +45,10 @@ function ts_visibility_decide(?string $status, string $visibility, bool $can_vie
     return 'not_found';
 }
 
-/** `_ts_takedown_id` の表示: "S.235" はそのまま、"req:12" は「申請 12」(S.118) */
+/** `_ts_takedown_id` の表示: フォームの申請 "req:12" は「申請 12」、denylist の記録の S 番号は画面に出さない (S.118) */
 function ts_visibility_takedown_label(string $takedown_id): string {
     if (preg_match('/^req:(\d+)$/', $takedown_id, $m)) return '申請 ' . $m[1];
-    return $takedown_id;
+    return '';
 }
 
 /**

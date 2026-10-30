@@ -94,7 +94,7 @@ foreach ($cases as [$st, $vis, $c, $want]) {
 
 // ---------------------------------------------------------------- 帯 (S.118)
 check('帯 取り下げ (S)', ts_visibility_banner_html('withdrawn', 'S.235', '2001', ''),
-      '<p class="ts-hidden-banner" role="note">取り下げ済み — 運営委員にのみ表示しています (S.235)</p>');
+      '<p class="ts-hidden-banner" role="note">取り下げ済み — 運営委員にのみ表示しています</p>');
 check('帯 取り下げ (申請)', ts_visibility_banner_html('withdrawn', 'req:12', '2001', ''),
       '<p class="ts-hidden-banner" role="note">取り下げ済み — 運営委員にのみ表示しています (申請 12)</p>');
 check('帯 旧版', ts_visibility_banner_html('superseded', '', '2002', 'https://novels.xwp.jp/novel/a/?x=1&y=2'),
