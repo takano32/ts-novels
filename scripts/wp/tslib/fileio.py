@@ -118,6 +118,14 @@ def read_yaml(path):
         return yaml.safe_load(fh) or {}
 
 
+def read_yaml_required(path):
+    """read_yaml と同じだが、無ければ FileNotFoundError で止まる。無いことを {} とみなしてはいけない
+    入力 (takedown/denylist.yml: 無いと取り下げを 1 件も飛ばさずに payload を作ってしまう) に使う。"""
+    require_yaml()
+    with open(path, encoding='utf-8') as fh:
+        return yaml.safe_load(fh) or {}
+
+
 def dump_yaml(fh, data):
     """このリポジトリの YAML の書き方 (unicode そのまま・鍵は整列・ブロック形式)。"""
     require_yaml().safe_dump(data, fh, allow_unicode=True, sort_keys=True, default_flow_style=False)

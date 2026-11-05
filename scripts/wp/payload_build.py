@@ -24,7 +24,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from tslib import paths, payloads, bodies  # noqa: E402
-from tslib.fileio import read_jsonl, read_json, read_yaml, write_json  # noqa: E402
+from tslib.fileio import read_jsonl, read_json, read_yaml_required, write_json  # noqa: E402
 
 ROOT = Path(paths.REPO_ROOT)
 BODIES = ROOT / 'bodies'
@@ -42,7 +42,7 @@ def main():
         authors = authors['authors']
     try:
         takedown, takedown_entries = payloads.takedown_episodes(
-            episodes, works, authors, read_yaml(ROOT / 'takedown' / 'denylist.yml'))
+            episodes, works, authors, read_yaml_required(ROOT / 'takedown' / 'denylist.yml'))
     except payloads.DenylistError as e:
         sys.exit(str(e))
     images = payloads.image_inventory(ROOT)
