@@ -2,7 +2,7 @@
 # common.sh — 突き合わせの道具 (scripts/wp/parity/*.sh) が source する共通の設定 (T45.2.3)
 #
 # 環境変数で変えられるもの (どれも省略できる)
-#   PARITY_BASE  基準のコミット。既定 d586f0eb (T45.2 の分割の前)
+#   PARITY_BASE  基準のコミット。既定 0e8c7712 (T45.2 の分割の前)
 #   PARITY_DIR   作業ディレクトリ。既定はリポジトリの .parity/ (.gitignore 済み)。
 #                基準側の git worktree・各回の出力・スナップショットは全部この下に置く
 #   PYTHON       使う Python の絶対パス。既定はリポジトリの .venv/bin/python、無ければ python3。
@@ -16,7 +16,7 @@
 #   in_parity_dir DIR  DIR が $PARITY_DIR の下なら真 (消す操作の前に必ず確かめる)
 
 REPO=$(cd "$(dirname "${BASH_SOURCE[0]}")" && git rev-parse --show-toplevel) || exit 1
-PARITY_BASE=${PARITY_BASE:-d586f0eb}
+PARITY_BASE=${PARITY_BASE:-0e8c7712}
 PARITY_DIR=${PARITY_DIR:-$REPO/.parity}
 mkdir -p "$PARITY_DIR"
 PARITY_DIR=$(cd "$PARITY_DIR" && pwd -P)

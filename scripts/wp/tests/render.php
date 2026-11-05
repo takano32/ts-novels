@@ -37,11 +37,11 @@ check('作品カードの添え書き: null は出さない (空なら何も無�
       [['2005/01/01', '全2話'], []]);
 check('作品カードの添え書き: 受けた文字列はそのまま (エスケープは呼び出し側)', TS_Render_Text::workcard_bits('A &amp; B', '', 2), ['A &amp; B', '', '全2話']);
 
-// 期待値は d586f0eb の themes/ts-bunko/index.php:38-39 と front-page.php:14-15 の文言
+// 期待値は 0e8c7712 の themes/ts-bunko/index.php:38-39 と front-page.php:14-15 の文言
 check('トップの案内文', TS_Render_Text::home_intro(1234), '開くたびに違う作品をお出しします。1234 篇からの偶然の出会いをどうぞ。');
 check('トップの案内文: 0 篇でもそのまま', TS_Render_Text::home_intro(0), '開くたびに違う作品をお出しします。0 篇からの偶然の出会いをどうぞ。');
 
-// 期待値は d586f0eb の themes/ts-bunko/single.php:14・:36・:39・:59-61・:65 の分岐と文言
+// 期待値は 0e8c7712 の themes/ts-bunko/single.php:14・:36・:39・:59-61・:65 の分岐と文言
 check('表示の型: ts_work でなければ素表示 (子の数に依らない)', [TS_Render_Text::reader_mode('ts_doc', 0), TS_Render_Text::reader_mode('ts_dojo', 3), TS_Render_Text::reader_mode('page', 0)],
       ['plain', 'plain', 'plain']);
 check('表示の型: 子があれば目次、無ければリーダー', [TS_Render_Text::reader_mode('ts_work', 2), TS_Render_Text::reader_mode('ts_work', 1), TS_Render_Text::reader_mode('ts_work', 0)],

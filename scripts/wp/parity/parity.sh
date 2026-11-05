@@ -6,7 +6,7 @@
 #
 #   SCRIPT    リポジトリからの相対パス (例 scripts/wp/terms_build.py)。scripts/wp/ の下なら
 #             ファイル名だけでもよい (例 terms_build.py)
-#   基準側    PARITY_BASE (既定 d586f0eb) を tree.sh で展開した worktree の SCRIPT を、その worktree で流す
+#   基準側    PARITY_BASE (既定 0e8c7712) を tree.sh で展開した worktree の SCRIPT を、その worktree で流す
 #   比較先    --target DIR (既定はこのリポジトリの作業ツリー) の SCRIPT を、DIR で流す
 #
 # 引数の中の置き換え記号 (両側で別の値になる)

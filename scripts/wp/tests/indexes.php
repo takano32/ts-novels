@@ -5,12 +5,12 @@
 
 check('索引の種類', TS_INDEX_KINDS, ['kana', 'timeline', 'bunrui', 'vocabulary', 'osusume', 'docs']);
 check('題名は種類ごとにある', array_keys(TS_Index_Text::TITLES), TS_INDEX_KINDS);
-// 期待値は d586f0eb の themes/ts-bunko/ts-index.php の表 (T45.1.5.4 でテーマから消し、この表を使う)
+// 期待値は 0e8c7712 の themes/ts-bunko/ts-index.php の表 (T45.1.5.4 でテーマから消し、この表を使う)
 check('索引の題名', TS_Index_Text::TITLES, ['kana' => '作者索引', 'timeline' => '年表', 'bunrui' => '分類索引',
       'vocabulary' => 'キーワード索引', 'osusume' => 'オススメの環', 'docs' => '運営文書・資料']);
 check('テーマの ts-index.php に題名の表が無い (TS_Index_Text::TITLES を使う)', [preg_match_all("/'([a-z]+)' => '([^']+)'/u", file_get_contents("$root/themes/ts-bunko/ts-index.php")),
       strpos(file_get_contents("$root/themes/ts-bunko/ts-index.php"), 'TS_Index_Text::TITLES') !== false], [0, true]);
-// 期待値は d586f0eb の themes/ts-bunko/ts-year.php:5 と includes/indexes.php の document_title_parts の文言
+// 期待値は 0e8c7712 の themes/ts-bunko/ts-year.php:5 と includes/indexes.php の document_title_parts の文言
 check('年別一覧の題名', [TS_Index_Text::year_title(2003), TS_Index_Text::year_title(0)], ['2003年の作品', '0年の作品']);
 check('テーマの ts-year.php は年の題名を組み立てない', [strpos(file_get_contents("$root/themes/ts-bunko/ts-year.php"), "'年の作品"),
       strpos(file_get_contents("$root/themes/ts-bunko/ts-year.php"), 'TS_Index_Text::year_title') !== false], [false, true]);
@@ -26,7 +26,7 @@ check('いまの一作: 同じ時間なら同じ添字', TS_Index_Text::pick_ind
 check('いまの一作: 添字は範囲内', array_unique(array_map(function ($h) { $i = TS_Index_Text::pick_index(2026110500 + $h, 7); return $i >= 0 && $i < 7; }, range(0, 23))), [true]);
 check('いまの一作: 1 作なら 0', TS_Index_Text::pick_index(2026110512, 1), 0);
 check('いまの一作: 隣の時間で違う作品になる (攪拌)', TS_Index_Text::pick_index(2026110512, 1443) !== TS_Index_Text::pick_index(2026110513, 1443), true);
-// 期待値は分割前 (d586f0eb) の ts_bunko_todays_pick の式をサーバの PHP 8.0 で計算した値 (2026-11-05)
+// 期待値は分割前 (0e8c7712) の ts_bunko_todays_pick の式をサーバの PHP 8.0 で計算した値 (2026-11-05)
 check('いまの一作: 分割前と同じ添字', [TS_Index_Text::pick_index(2026110512, 1443), TS_Index_Text::pick_index(2026110513, 1443),
       TS_Index_Text::pick_index(2026010100, 7), TS_Index_Text::pick_index(2099123123, 1443)], [757, 51, 1, 1092]);
 

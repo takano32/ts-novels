@@ -3,7 +3,7 @@
 #
 #   scripts/wp/parity/snapshot.sh [--no-verify] [REV [OUT]]
 #
-#   REV   流すコミット。既定は PARITY_BASE (d586f0eb)。tree.sh で $PARITY_DIR/tree-<REV> に展開して
+#   REV   流すコミット。既定は PARITY_BASE (0e8c7712)。tree.sh で $PARITY_DIR/tree-<REV> に展開して
 #         その中だけで流す (リポジトリ本体の生成物には触れない。比較先の作業中の変更を流すなら
 #         先にコミットして、そのコミットを REV に渡す)
 #   OUT   保存先。既定は基準なら $PARITY_DIR/baseline-<REV>、それ以外は $PARITY_DIR/snapshot-<REV>
@@ -15,7 +15,7 @@
 # 所要 `<段> sec=N`)・git-status.txt・sha256.txt・count.txt (hash.sh)・tree.txt と python.txt
 # (流したツリーと Python の絶対パス) を書く。
 # 2 つの OUT は compare.sh で比べる。
-# 所要 (d586f0eb、2 CPU): make catalog 73 秒、make verify 339 秒。
+# 所要 (0e8c7712、2 CPU): make catalog 73 秒、make verify 339 秒。
 #
 # catalog/ は消さない (catalog_build の自己検査が前回の works.jsonl を読む。消すと最初の段で止まる。T45.2.20)。
 set -u

@@ -2,14 +2,14 @@
 /**
  * 表示部品の HTML (specs/S41.md の書誌カードほか)。WordPress の代わり (scripts/wp/tests/wp-stubs.php) の上で includes/render/*.php を
  * 動かし、構造 (タグ・class・順・文言) を固定する。scripts/wp/ts_library_test.php から WP の表を読んだ後に読む。
- * 期待値は分割前 (d586f0eb) の includes/render.php を同じ代わりと同じ置き場 (wp-fixtures.php) で動かした出力から取る
+ * 期待値は分割前 (0e8c7712) の includes/render.php を同じ代わりと同じ置き場 (wp-fixtures.php) で動かした出力から取る
  * (scripts/wp/php_probe.sh。実装の写しにしない)。
  *
  * 部品が多いものは、場面 (wp-fixtures.php の関数) の上で部品 × 投稿の出力を「部品/投稿」の鍵の配列に集め、旧版の出力を
  * var_export したものと鍵ごとに比べる ($same)。probe は同じ集め方のコードを旧版のファイルの上で流したもの。
  */
 
-// ---------------------------------------------------------------- 書誌カード (S41)。期待値: d586f0eb の render.php、2026-11-05、probe-biblio.php
+// ---------------------------------------------------------------- 書誌カード (S41)。期待値: 0e8c7712 の render.php、2026-11-05、probe-biblio.php
 $ids = ts_fixture_biblio();
 $card = function (int $id) { return TS_WP_Stubs::capture(function () use ($id) { ts_bunko_biblio_card(get_post($id)); }); };
 check('書誌カード: 初出 (日付つき)・回収経路・原本リンク 2 つ・整形表示の注記。感想板の URL は出さない (S155 の判断待ち)', $card($ids['full']),
@@ -38,7 +38,7 @@ $same = function (string $label, array $got, array $want) {
 $part = function (string $fn, int $id) { return TS_WP_Stubs::capture(function () use ($fn, $id) { $fn(get_post($id)); }); };
 
 // ---------------------------------------------------------------- 作品・話のページの部品 8 つとサイドバー (T45.1.15.1)
-// 期待値: d586f0eb の render.php と visibility.php (ts_visibility_child_statuses)、2026-11-05、probe-render-parts.php。
+// 期待値: 0e8c7712 の render.php と visibility.php (ts_visibility_child_statuses)、2026-11-05、probe-render-parts.php。
 // 原パスの表と作者名の表 (render-lookup.php の static) はこの場面で初めて作られる (オススメ・関連ページ・挿絵のリンク)。
 // サイドバーの検索窓はテーマの searchform.php なので、probe にも themes/ts-bunko を送った
 $ids = ts_fixture_render_parts();
@@ -113,7 +113,7 @@ $same('表示部品', $got, array (
 TS_WP_Stubs::reset();
 
 // ---------------------------------------------------------------- 運営委員にだけ見える帯と、目次・話ナビに並べる子の状態 (S118。T45.1.15.2)
-// 期待値: d586f0eb の visibility.php と render.php、2026-11-05、probe-hidden.php。読者 (権限なし) と運営委員 (ts_view_hidden) で、
+// 期待値: 0e8c7712 の visibility.php と render.php、2026-11-05、probe-hidden.php。読者 (権限なし) と運営委員 (ts_view_hidden) で、
 // 帯 (取り下げ済み・申請の番号つき・旧版で新版あり・なし・連載の親の旧版・印なし) と ts_visibility_child_statuses と目次・話ナビ・パンくず
 $h = ts_fixture_hidden();
 $got = [];
@@ -247,7 +247,7 @@ $same('帯と子の状態', $got, array (
 TS_WP_Stubs::reset();
 
 // ---------------------------------------------------------------- 索引の描画部品 4 つ (T10.3。T45.1.15.4)
-// 期待値: d586f0eb の indexes.php、2026-11-05、probe-indexes.php。作品数 (ts_bunko_work_counts) は taxonomy ごとに 1 プロセスに 1 度
+// 期待値: 0e8c7712 の indexes.php、2026-11-05、probe-indexes.php。作品数 (ts_bunko_work_counts) は taxonomy ごとに 1 プロセスに 1 度
 // だけ $wpdb から数えるので、この場面で初めて数える。積んだ行の組が意図した taxonomy に当たったことを問い合わせの列で見る
 ts_fixture_indexes();
 $got = [];
@@ -270,7 +270,7 @@ $same('索引', $got, array (
 TS_WP_Stubs::reset();
 
 // ---------------------------------------------------------------- 一覧の作品カード (T45.1.5.1 でテーマから includes/render/render-list.php へ)
-// 期待値: d586f0eb の themes/ts-bunko/functions.php (と render.php・visibility.php)、2026-11-05、probe-workcard.php。
+// 期待値: 0e8c7712 の themes/ts-bunko/functions.php (と render.php・visibility.php)、2026-11-05、probe-workcard.php。
 // 話数メタ 3・メタなしで公開の子 2 (private の子は数えない)・メタ 1・単発・何も無い・非公開 (題名に「非公開: 」を付けない)
 $ids = ts_fixture_theme();
 $got = [];
@@ -288,7 +288,7 @@ $same('作品カード', $got, array (
 TS_WP_Stubs::reset();
 
 // ---------------------------------------------------------------- 検索結果のファセット (T10.4。T45.1.5.3 で index.php から includes/render/render-list.php へ)
-// 期待値: d586f0eb の themes/ts-bunko/index.php:9-26 (移す前まで変わっていない) を同じ代わりと置き場 (ts_fixture_theme) で描いた検索結果の
+// 期待値: 0e8c7712 の themes/ts-bunko/index.php:9-26 (移す前まで変わっていない) を同じ代わりと置き場 (ts_fixture_theme) で描いた検索結果の
 // ページから、検索窓と一覧の間を切り出したもの (2026-11-05、probe-theme.php)。選んでいる語 (✕ で外す) あり・なし
 ts_fixture_theme();
 $_SERVER['REQUEST_URI'] = '/?s=%E5%85%89&ts_genre=gakuen';
@@ -306,7 +306,7 @@ $_SERVER['REQUEST_URI'] = '/';
 TS_WP_Stubs::reset();
 
 // ---------------------------------------------------------------- 索引と年別一覧の題名 (document_title_parts。T45.1.5.4 で TS_Index_Text::TITLES と year_title に)
-// 期待値: d586f0eb の indexes.php と visibility.php の document_title_parts、2026-11-05、probe-title.php
+// 期待値: 0e8c7712 の indexes.php と visibility.php の document_title_parts、2026-11-05、probe-title.php
 $titles = [];
 foreach ([['ts_index' => 'kana'], ['ts_index' => 'osusume'], ['ts_index' => 'nai'], ['ts_year' => '2003'], ['ts_year' => '03'], []] as $qv) {
     TS_WP_Stubs::reset();

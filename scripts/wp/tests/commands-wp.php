@@ -6,7 +6,7 @@
  */
 
 // ---------------------------------------------------------------- wp ts reset (S73 の C。申請は消さない: S125)
-// 消す集合の期待値は分割前 (d586f0eb) の commands.php の TYPES と TAXES (投稿タイプ 4 つと taxonomy 6 つ) で、
+// 消す集合の期待値は分割前 (0e8c7712) の commands.php の TYPES と TAXES (投稿タイプ 4 つと taxonomy 6 つ) で、
 // TS_Content_Model の定数とも一致することを見る
 if (!post_type_exists('ts_work')) TS_WP_Stubs::run_init();
 TS_WP_Stubs::reset();
