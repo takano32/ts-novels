@@ -311,3 +311,361 @@ $same('apply-takedown', $got, array (
 ));
 unlink("$repo/takedown/denylist.yml"); rmdir("$repo/takedown"); rmdir($repo);
 TS_WP_Stubs::reset();
+
+// ---------------------------------------------------------------- denylist に書き写していない申請 (TS_Takedown_Export_State::requests_not_in_denylist。S132。T45.6.5)
+// 期待値: 0e8c7712 の ts-library.php と includes 7 本を同じ代わりで動かした出力 (2026-11-05、scripts/wp/php_probe.sh、probe-rest.php)。旧版は TS_Command の private の同名のメソッドで、警告は WP_CLI::warning に直接出していた (新版は返り値の warnings)。
+// 場面は wp-fixtures.php の ts_fixture_export_scene (applied と approved のうち、denylist に書き写していないもの)
+$repo = sys_get_temp_dir() . '/ts-not-in-denylist-' . getmypid();
+mkdir($repo);
+$same('denylist に無い申請', ts_fixture_run_requests_not_in_denylist(function ($repo) {
+    $r = TS_Takedown_Export_State::requests_not_in_denylist($repo);
+    return [$r['ids'], $r['warnings']];
+}, $repo), array (
+  'found' => 
+  array (
+    0 => 
+    array (
+      0 => 10,
+      1 => 11,
+      2 => 15,
+      3 => 16,
+    ),
+    1 => 
+    array (
+      0 => 'denylist の不完全なエントリ: S242 (kind/value を確認)',
+    ),
+  ),
+  'no_type' => 
+  array (
+    0 => 
+    array (
+    ),
+    1 => 
+    array (
+    ),
+  ),
+  'names' => 
+  array (
+    0 => 'applied',
+    1 => 'approved',
+    2 => 'bare',
+    3 => 'old',
+  ),
+));
+rmdir($repo);
+
+// ---------------------------------------------------------------- wp ts export-takedowns (S132。T45.6.5)
+// 期待値: 0e8c7712 の ts-library.php と includes 7 本を同じ代わりで動かした出力 (2026-11-05、scripts/wp/php_probe.sh、probe-rest.php)。
+// ただし旧版は S の後に点を付けて番号を振っていたので、識別子の決定 (9c3119cc、S221) に合わせて点を除いて読み替えた
+// (SPECS.md の「次は」の書き方も、場面の引数で旧版と新版に合わせている)。
+// 案内は標準エラーに書くので、新版は子のプロセス (scripts/wp/ts_library_test.php --child export-takedowns) で流し、標準出力の JSON
+// (引数ごとの [標準出力の YAML, WP_CLI::$out]) と標準エラーを受ける。止まった 2 つ (--start と --since の誤り) は案内を出さない
+$repo = sys_get_temp_dir() . '/ts-export-takedowns-' . getmypid();
+mkdir($repo);
+$proc = proc_open([PHP_BINARY, "$root/scripts/wp/ts_library_test.php", '--child', 'export-takedowns', $repo], [1 => ['pipe', 'w'], 2 => ['pipe', 'w']], $pipes);
+$stdout = stream_get_contents($pipes[1]);
+$stderr = stream_get_contents($pipes[2]);
+fclose($pipes[1]); fclose($pipes[2]);
+check('export-takedowns: 子のプロセスの終了コード', proc_close($proc), 0);
+rmdir($repo);
+$same('export-takedowns', json_decode($stdout, true) ?? [], array (
+  'start' => 
+  array (
+    0 => '  - id: S300
+    target:
+      kind: work
+      value: amano-tsuki-renzoku
+    reason: 取り下げフォーム経由の申し出 (申請 10)
+    reason_class: author_request
+    requested_at: 2026-11-05
+    received_via: takedown_form
+    status: applied
+    applied:
+      wp_draft: 2026-11-06
+      htaccess_410: 2026-11-06
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    public_note: 「連続する月」(天野 月さん) — 作者の申し出により掲載していません (2026 年 11 月)
+  - id: S301
+    target:
+      kind: episode
+      value: novel/200104/ren.htm#ren01
+    reason: 取り下げフォーム経由の申し出 (申請 10)
+    reason_class: author_request
+    requested_at: 2026-11-05
+    received_via: takedown_form
+    status: applied
+    applied:
+      wp_draft: 2026-11-06
+      htaccess_410: 2026-11-06
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    public_note: 「第一話」(天野 月さん) — 作者の申し出により掲載していません (2026 年 11 月)
+  - id: S302
+    target:
+      kind: episode
+      value: novel/200105/ren02.htm
+    reason: 取り下げフォーム経由の申し出 (申請 11)
+    reason_class: author_request
+    requested_at: 2026-11-05
+    received_via: takedown_form
+    status: applied
+    applied:
+      wp_draft: 2026-11-06
+      htaccess_410: 2026-11-06
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    public_note: 作者の申し出により 1 作品を掲載していません (2026 年 11 月)
+  - id: S303
+    target:
+      kind: work
+      value: amano-tsuki-tanpen
+    reason: 取り下げフォーム経由の申し出 (申請 16)
+    reason_class: author_request
+    requested_at: 2026-11-05
+    received_via: takedown_form
+    status: applied
+    applied:
+      wp_draft: 2020-05-21
+      htaccess_410: 2020-05-21
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    public_note: 「短い月」(天野 月さん) — 作者の申し出により掲載していません (2026 年 11 月)
+',
+    1 => 
+    array (
+      0 => 
+      array (
+        0 => 'warning',
+        1 => 'denylist の不完全なエントリ: S242 (kind/value を確認)',
+      ),
+      1 => 
+      array (
+        0 => 'warning',
+        1 => '申請 13 は復帰した: denylist の S240 の status を reinstated に直す',
+      ),
+      2 => 
+      array (
+        0 => 'warning',
+        1 => '申請 15: post 8 の work_slug も source_path も無い',
+      ),
+      3 => 
+      array (
+        0 => 'warning',
+        1 => '申請 15: 本サイトの作品に結びつく対象が無い (出さない)',
+      ),
+    ),
+  ),
+  'specs' => 
+  array (
+    0 => '  - id: S250
+    target:
+      kind: work
+      value: amano-tsuki-renzoku
+    reason: 取り下げフォーム経由の申し出 (申請 10)
+    reason_class: author_request
+    requested_at: 2026-11-05
+    received_via: takedown_form
+    status: applied
+    applied:
+      wp_draft: 2026-11-06
+      htaccess_410: 2026-11-06
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    public_note: 「連続する月」(天野 月さん) — 作者の申し出により掲載していません (2026 年 11 月)
+  - id: S251
+    target:
+      kind: episode
+      value: novel/200104/ren.htm#ren01
+    reason: 取り下げフォーム経由の申し出 (申請 10)
+    reason_class: author_request
+    requested_at: 2026-11-05
+    received_via: takedown_form
+    status: applied
+    applied:
+      wp_draft: 2026-11-06
+      htaccess_410: 2026-11-06
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    public_note: 「第一話」(天野 月さん) — 作者の申し出により掲載していません (2026 年 11 月)
+  - id: S252
+    target:
+      kind: episode
+      value: novel/200105/ren02.htm
+    reason: 取り下げフォーム経由の申し出 (申請 11)
+    reason_class: author_request
+    requested_at: 2026-11-05
+    received_via: takedown_form
+    status: applied
+    applied:
+      wp_draft: 2026-11-06
+      htaccess_410: 2026-11-06
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    public_note: 作者の申し出により 1 作品を掲載していません (2026 年 11 月)
+  - id: S253
+    target:
+      kind: work
+      value: amano-tsuki-tanpen
+    reason: 取り下げフォーム経由の申し出 (申請 16)
+    reason_class: author_request
+    requested_at: 2026-11-05
+    received_via: takedown_form
+    status: applied
+    applied:
+      wp_draft: 2020-05-21
+      htaccess_410: 2020-05-21
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    public_note: 「短い月」(天野 月さん) — 作者の申し出により掲載していません (2026 年 11 月)
+',
+    1 => 
+    array (
+      0 => 
+      array (
+        0 => 'warning',
+        1 => 'denylist の不完全なエントリ: S242 (kind/value を確認)',
+      ),
+      1 => 
+      array (
+        0 => 'warning',
+        1 => '申請 13 は復帰した: denylist の S240 の status を reinstated に直す',
+      ),
+      2 => 
+      array (
+        0 => 'warning',
+        1 => '申請 15: post 8 の work_slug も source_path も無い',
+      ),
+      3 => 
+      array (
+        0 => 'warning',
+        1 => '申請 15: 本サイトの作品に結びつく対象が無い (出さない)',
+      ),
+    ),
+  ),
+  'since' => 
+  array (
+    0 => '  - id: S300
+    target:
+      kind: work
+      value: amano-tsuki-renzoku
+    reason: 取り下げフォーム経由の申し出 (申請 10)
+    reason_class: author_request
+    requested_at: 2026-11-05
+    received_via: takedown_form
+    status: applied
+    applied:
+      wp_draft: 2026-11-06
+      htaccess_410: 2026-11-06
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    public_note: 「連続する月」(天野 月さん) — 作者の申し出により掲載していません (2026 年 11 月)
+  - id: S301
+    target:
+      kind: episode
+      value: novel/200104/ren.htm#ren01
+    reason: 取り下げフォーム経由の申し出 (申請 10)
+    reason_class: author_request
+    requested_at: 2026-11-05
+    received_via: takedown_form
+    status: applied
+    applied:
+      wp_draft: 2026-11-06
+      htaccess_410: 2026-11-06
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    public_note: 「第一話」(天野 月さん) — 作者の申し出により掲載していません (2026 年 11 月)
+  - id: S302
+    target:
+      kind: episode
+      value: novel/200105/ren02.htm
+    reason: 取り下げフォーム経由の申し出 (申請 11)
+    reason_class: author_request
+    requested_at: 2026-11-05
+    received_via: takedown_form
+    status: applied
+    applied:
+      wp_draft: 2026-11-06
+      htaccess_410: 2026-11-06
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    public_note: 作者の申し出により 1 作品を掲載していません (2026 年 11 月)
+',
+    1 => 
+    array (
+      0 => 
+      array (
+        0 => 'warning',
+        1 => 'denylist の不完全なエントリ: S242 (kind/value を確認)',
+      ),
+      1 => 
+      array (
+        0 => 'warning',
+        1 => '申請 13 は復帰した: denylist の S240 の status を reinstated に直す',
+      ),
+      2 => 
+      array (
+        0 => 'warning',
+        1 => '申請 15: post 8 の work_slug も source_path も無い',
+      ),
+      3 => 
+      array (
+        0 => 'warning',
+        1 => '申請 15: 本サイトの作品に結びつく対象が無い (出さない)',
+      ),
+    ),
+  ),
+  'none' => 
+  array (
+    0 => '',
+    1 => 
+    array (
+      0 => 
+      array (
+        0 => 'warning',
+        1 => 'denylist の不完全なエントリ: S242 (kind/value を確認)',
+      ),
+    ),
+  ),
+  'bad_start' => 
+  array (
+    0 => '',
+    1 => 
+    array (
+      0 => 
+      array (
+        0 => 'error',
+        1 => '--start は数字で',
+      ),
+    ),
+  ),
+  'bad_since' => 
+  array (
+    0 => '',
+    1 => 
+    array (
+      0 => 
+      array (
+        0 => 'error',
+        1 => '--since は YYYY-MM-DD で',
+      ),
+    ),
+  ),
+));
+check('export-takedowns: 標準エラーの案内 (引数ごとに 1 行)', explode("\n", rtrim($stderr, "\n")), array (
+  0 => '振った id: S300 S301 S302 S303 (specs/Sn.md を作り SPECS.md の一覧と「次は」を直す)',
+  1 => '振った id: S250 S251 S252 S253 (specs/Sn.md を作り SPECS.md の一覧と「次は」を直す)',
+  2 => '振った id: S300 S301 S302 (specs/Sn.md を作り SPECS.md の一覧と「次は」を直す)',
+  3 => '書き写す申請はありません',
+));

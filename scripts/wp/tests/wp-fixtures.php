@@ -626,3 +626,257 @@ function ts_fixture_run_takedown_tick(callable $tick): array {
     if (is_array($last)) $last['time'] = ts_fixture_rel($last['time'], $now);
     return ['requests' => $requests, 'posts' => $s['posts'], 'urls' => $s['urls'], 'mails' => ts_fixture_mails($now), 'last_tick' => $last];
 }
+
+// ---------------------------------------------------------------- 残りの経路 (T45.6.5): 一覧の問い合わせ・410/404・年表とオススメの索引・運営委員の操作・
+// denylist に無い申請・wp ts export-takedowns
+
+/**
+ * トップと書庫の問い合わせ (TS_Library::front_page_query / archive_query) を、管理画面か・本クエリか・条件 (home・search・tax) の
+ * 組ごとに新しい WP_Query で流し、set された query_vars を [front_page_query の後, archive_query の後] で返す。
+ * $front・$archive は 2 つのメソッド (新版と旧版で同じ名前)
+ */
+function ts_fixture_run_site_queries(callable $front, callable $archive): array {
+    TS_WP_Stubs::reset();
+    $cases = [
+        'home' => [false, true, ['home' => true]],
+        'home_admin' => [true, true, ['home' => true]],
+        'home_not_main' => [false, false, ['home' => true]],
+        'tax_author' => [false, true, ['tax' => 'ts_author']],
+        'tax_world' => [false, true, ['tax' => 'ts_world']],
+        'tax_corpus' => [false, true, ['tax' => 'ts_corpus']],
+        'tax_not_main' => [false, false, ['tax' => 'ts_genre']],
+        'tax_admin' => [true, true, ['tax' => 'ts_genre']],
+        'search' => [false, true, ['search' => true]],
+        'search_tax' => [false, true, ['search' => true, 'tax' => 'ts_genre']],
+        'search_admin' => [true, true, ['search' => true]],
+        'plain' => [false, true, []],
+    ];
+    $out = [];
+    foreach ($cases as $name => [$admin, $main, $flags]) {
+        TS_WP_Stubs::$is = $admin ? ['admin' => true] : [];
+        $got = [];
+        foreach ([$front, $archive] as $fn) {
+            $q = new WP_Query();
+            $q->is_main = $main;
+            $q->flags = $flags;
+            $fn($q);
+            $got[] = $q->query_vars;
+        }
+        $out[$name] = $got;
+    }
+    TS_WP_Stubs::reset();
+    return $out;
+}
+
+/**
+ * 可視性の template_redirect@0 (specs/S117.md・S118.md) を、投稿の状態 (公開・取り下げ・旧版・移行前の draft・印の無い private) と
+ * 見る人 (読者・運営委員) の組と、該当しない要求 (管理画面・/novel/ の外・無い作品・ts_work でない) で流す。
+ * 本番と同じく、公開の投稿と運営委員の private は本クエリに乗る (is_singular)、ほかは 404 になって $wp->request から引く。
+ * $redirect は template_redirect@0 の callable、$gone は 410 の印を読む callable、$clear は印を下ろす callable
+ * (新版は TS_Visibility_Request::$gone、旧版は $GLOBALS['ts_visibility_gone'])。
+ * 返り値: 名前 => [記録 (set_404・nocache_headers・status_header), 410 の印, document_title_parts の題]
+ */
+function ts_fixture_run_visibility(callable $redirect, callable $gone, callable $clear): array {
+    TS_WP_Stubs::reset();
+    $w = function (string $name, string $status, array $meta) {
+        $id = TS_WP_Stubs::add_post(['post_type' => 'ts_work', 'post_name' => $name, 'post_title' => $name, 'post_status' => $status]);
+        TS_WP_Stubs::set_meta($id, $meta);
+        return $id;
+    };
+    $ids = [
+        'publish' => $w('kokai', 'publish', []),
+        'withdrawn' => $w('torisage', 'private', ['_ts_visibility' => 'withdrawn', '_ts_takedown_id' => 'S9']),
+        'superseded' => $w('kyuban', 'private', ['_ts_visibility' => 'superseded', '_ts_superseded_by' => 'shinban']),
+        'draft' => $w('ikozen', 'draft', []),
+        'draft_withdrawn' => $w('ikozen-torisage', 'draft', ['_ts_visibility' => 'withdrawn']),
+        'private' => $w('hikokai', 'private', []),
+    ];
+    $doc = TS_WP_Stubs::add_post(['post_type' => 'ts_doc', 'post_name' => 'bunsho', 'post_title' => '文書', 'post_status' => 'private']);
+    $saved = [$GLOBALS['wp'] ?? null, $GLOBALS['wp_query'] ?? null];
+    $run = function (array $is, $queried, string $request, array $caps) use ($redirect, $gone, $clear) {
+        TS_WP_Stubs::$is = $is; TS_WP_Stubs::$queried = $queried; TS_WP_Stubs::$caps = $caps; TS_WP_Stubs::$log = [];
+        $GLOBALS['wp'] = (object) ['request' => $request];
+        $GLOBALS['wp_query'] = new WP_Query();
+        $clear();
+        $redirect();
+        $log = array_values(array_map(function ($l) { return $l[0] . ($l[1] ? '(' . implode(',', $l[1]) . ')' : ''); },
+            array_filter(TS_WP_Stubs::$log, function ($l) { return in_array($l[0], ['set_404', 'nocache_headers', 'status_header'], true); })));
+        $res = [$log, (bool) $gone(), apply_filters('document_title_parts', ['title' => '元の題'])['title']];
+        $clear();
+        return $res;
+    };
+    $out = [];
+    foreach ($ids as $name => $id) {
+        $p = get_post($id);
+        foreach (['reader' => [], 'committee' => ['ts_view_hidden']] as $who => $caps) {
+            $on_query = $p->post_status === 'publish' || ($p->post_status === 'private' && $caps);
+            $out["$name/$who"] = $on_query
+                ? $run(['singular' => true], $p, 'novel/' . $p->post_name, $caps)
+                : $run(['404' => true], null, 'novel/' . $p->post_name . '/', $caps);
+        }
+    }
+    $out['admin'] = $run(['admin' => true, '404' => true], null, 'novel/torisage/', []);
+    $out['outside'] = $run(['404' => true], null, 'docs/torisage/', []);
+    $out['missing'] = $run(['404' => true], null, 'novel/nai/', []);
+    $out['doc'] = $run(['singular' => true], get_post($doc), 'docs/bunsho', []);
+    [$GLOBALS['wp'], $GLOBALS['wp_query']] = $saved;
+    TS_WP_Stubs::reset();
+    return $out;
+}
+
+/**
+ * 年表の索引 ts_bunko_index_timeline と、オススメの索引 ts_bunko_index_osusume の HTML。年表は $wpdb が返す年ごとの作品数の行
+ * (TIMELINE_FROM より前の年を含む) を積む。オススメは ts_fixture_render_parts の場面 (原パスの表は 1 プロセスに 1 度なので、
+ * ここで作る。既に作られていればそのまま) で、公開の投稿の _ts_osusume の行 (直列化した値。解決できる参照・できない参照・
+ * 題の無い参照、refs が空、配列でない値) を積む。もう 1 度、行が無いとき (0 件) も描く
+ */
+function ts_fixture_run_index_rows(): array {
+    TS_WP_Stubs::reset();
+    TS_WP_Stubs::$db_rows = [[['y' => '1985', 'c' => '2'], ['y' => '1990', 'c' => '1'], ['y' => '2001', 'c' => '12'], ['y' => '2003', 'c' => '40']]];
+    $out = ['timeline' => TS_WP_Stubs::capture('ts_bunko_index_timeline')];
+    TS_WP_Stubs::$db_rows = [[]];
+    $out['timeline/0'] = TS_WP_Stubs::capture('ts_bunko_index_timeline');
+    $ids = ts_fixture_render_parts();
+    ts_bunko_source_map();
+    TS_WP_Stubs::$db_rows = [[
+        ['post_id' => (string) $ids['ep'][0], 'meta_value' => serialize(get_post_meta($ids['ep'][0], '_ts_osusume', true))],
+        ['post_id' => (string) $ids['single'], 'meta_value' => serialize(get_post_meta($ids['single'], '_ts_osusume', true))],
+        ['post_id' => (string) $ids['serial'], 'meta_value' => 'not-serialized'],
+        ['post_id' => '999', 'meta_value' => serialize(['refs' => [['href' => 'novel/200304/hikari03.htm', 'title' => '無い投稿から']]])],
+    ]];
+    $out['osusume'] = TS_WP_Stubs::capture('ts_bunko_index_osusume');
+    TS_WP_Stubs::$db_rows = [[['post_id' => (string) $ids['single'], 'meta_value' => serialize(['refs' => [['href' => 'x.htm']]])]]];
+    $out['osusume/0'] = TS_WP_Stubs::capture('ts_bunko_index_osusume');
+    TS_WP_Stubs::reset();
+    return $out;
+}
+
+/**
+ * 運営委員の操作 ts_takedown_operate (specs/S128.md) を ts_fixture_takedown_apply_scene の上で順に: 止める 4 通り (権限の無いユーザ・
+ * いまの状態で許されない操作・知らない操作・時刻の無い期限の変更) → 期限の変更 → 承認 → 承認の後の却下 (止まる) → 復帰。
+ * 却下は別の申請 (確認待ちと受付済み) で。$now は時刻の差の基準。返り値: 操作ごとの [成否, 知らせの文] と、終わった後の
+ * 申請のメタ・投稿の状態・option ts_takedown_urls・送ったメール
+ */
+function ts_fixture_run_takedown_operate(int $now): array {
+    $ids = ts_fixture_takedown_apply_scene();
+    $req = $ids['request'];
+    $deadline = 1794614400;   // 2026-11-14 09:00 (Asia/Tokyo)
+    $other = ts_fixture_request([['url' => 'https://novels.xwp.jp/novel/hoka/', 'post_id' => null, 'work_slug' => null]], '星野 空', '0');
+    TS_WP_Stubs::set_meta($other, ['_tr_status' => 'unconfirmed', '_tr_token' => 'tokenhash']);
+    $third = ts_fixture_request([['url' => 'https://novels.xwp.jp/novel/hoka/', 'post_id' => null, 'work_slug' => null]], '海野 波', '1');
+    TS_WP_Stubs::set_meta($third, ['_tr_reminded_at' => 1794000000]);
+    $ops = [];
+    $ops['no_permission'] = ts_takedown_operate($req, 'approve', 5, '');
+    $ops['bad_state'] = ts_takedown_operate($req, 'reinstate', 3, '');
+    $ops['unknown'] = ts_takedown_operate($req, 'delete', 3, '');
+    $ops['no_deadline'] = ts_takedown_operate($req, 'deadline', 3, '', 0);
+    $ops['deadline'] = ts_takedown_operate($third, 'deadline', 4, "延ばします\x07", $deadline);
+    $ops['approve'] = ts_takedown_operate($req, 'approve', 3, '承認のメモ');
+    $ops['reject_after_approve'] = ts_takedown_operate($req, 'reject', 3, '');
+    $ops['reject'] = ts_takedown_operate($other, 'reject', 3, '確認が取れない');
+    $ops['reinstate'] = ts_takedown_operate($req, 'reinstate', 4, '復帰のメモ');
+    $rel = ['_tr_resolved_at'];   // 受付と確認の時刻は ts_fixture_request の固定の値
+    $meta = [];
+    foreach (['request' => $req, 'other' => $other, 'third' => $third] as $k => $id) {
+        $m = ts_fixture_request_meta($id, $now, $rel);
+        unset($m['_tr_targets']);
+        $meta[$k] = $m;
+    }
+    $s = ts_fixture_takedown_snapshot($ids);
+    $out = ['ops' => $ops, 'meta' => $meta, 'posts' => $s['posts'], 'urls' => $s['urls'], 'mails' => ts_fixture_mails($now)];
+    TS_WP_Stubs::reset();
+    return $out;
+}
+
+/**
+ * denylist への書き写し (specs/S132.md) の場面: ts_fixture_takedown_targets の作品に、申請 8 件と $repo/takedown/denylist.yml と
+ * $repo/SPECS.md (「次は {$s}250」。$s は識別子の S の後の書き方で、9c3119cc より前は 'S.'、後は 'S') を置く。
+ *  'applied'    連載 (work) と第一話 (アンカー分割の話 → episode) を対象。名前の掲示可
+ *  'approved'   第二話 (話だけ → episode)。名前の掲示不可
+ *  'reinstated' 書き写す前に復帰 (出さない)       'moved'    書き写した後に復帰 (denylist の status を直す警告)
+ *  'exported'   書き写し済み (出さない)            'bare'     work_slug も source_path も無い投稿だけが対象 (警告 2 つ)
+ *  'old'        2020 年に適用 (--since で落ちる)    'received' 受付済み (対象外)
+ * denylist には 'moved' と 'exported' のエントリと、kind の無いエントリ (読めない警告) がある。投稿の ID と申請の ID は固定。
+ * 返り値: 名前 => 申請の投稿 ID
+ */
+function ts_fixture_export_scene(string $repo, string $s): array {
+    $t = ts_fixture_takedown_targets();
+    TS_WP_Stubs::run_init();
+    TS_WP_Stubs::set_meta($t['ep'][0], ['_ts_source_path' => 'novel/200104/ren.htm', '_ts_source_anchor' => 'ren01']);
+    TS_WP_Stubs::set_meta($t['ep'][1], ['_ts_source_path' => 'novel/200105/ren02.htm']);
+    $url = function (int $pid) { return ['url' => get_permalink($pid), 'post_id' => $pid, 'work_slug' => get_post_meta($pid, '_ts_work_slug', true) ?: null]; };
+    $applied = 1793923200;   // 2026-11-06 09:00 (Asia/Tokyo)
+    $req = function (string $status, array $targets, string $allow, int $resolved) {
+        $id = ts_fixture_request($targets, '天野 月', $allow);
+        TS_WP_Stubs::set_meta($id, ['_tr_status' => $status, '_tr_resolved_at' => $resolved]);
+        return $id;
+    };
+    $r = [];
+    $r['applied'] = $req('applied', [$url($t['serial']), $url($t['ep'][0]), ['url' => 'https://novels.xwp.jp/novel/nai/', 'post_id' => null, 'work_slug' => null]], '1', $applied);
+    $r['approved'] = $req('approved', [$url($t['ep'][1])], '0', $applied + 3600);
+    $r['reinstated'] = $req('reinstated', [$url($t['single'])], '1', $applied);
+    $r['moved'] = $req('reinstated', [$url($t['nested'])], '1', $applied);
+    $r['exported'] = $req('applied', [$url($t['single'])], '1', $applied);
+    $r['bare'] = $req('applied', [$url($t['grand'])], '1', $applied);
+    $r['old'] = $req('applied', [$url($t['single'])], '1', 1590000000);
+    $r['received'] = $req('received', [$url($t['single'])], '1', 0);
+    if (!is_dir("$repo/takedown")) mkdir("$repo/takedown", 0777, true);
+    file_put_contents("$repo/takedown/denylist.yml", "version: 1\nentries:\n"
+        . "  - id: {$s}240\n    target:\n      kind: work\n      value: amano-tsuki-iriko\n    reason: 取り下げフォーム経由の申し出 (申請 {$r['moved']})\n    status: applied\n\n"
+        . "  - id: {$s}241\n    target:\n      kind: work\n      value: amano-tsuki-tanpen\n    reason: 取り下げフォーム経由の申し出 (申請 {$r['exported']})\n    status: applied\n\n"
+        . "  - id: {$s}242\n    reason: kind の無いエントリ\n");
+    file_put_contents("$repo/SPECS.md", "# 仕様の一覧\n\nいまの最後は {$s}249、次は {$s}250。\n");
+    return $r;
+}
+
+/** ts_fixture_export_scene が $repo に置いたファイルを消す */
+function ts_fixture_export_scene_clean(string $repo): void {
+    foreach (["$repo/takedown/denylist.yml", "$repo/SPECS.md"] as $f) if (is_file($f)) unlink($f);
+    if (is_dir("$repo/takedown")) rmdir("$repo/takedown");
+}
+
+/**
+ * wp ts export-takedowns (specs/S132.md) を ts_fixture_export_scene の上で引数ごとに流す。$export は $assoc を受けてコマンドを呼ぶ。
+ * 標準出力 (YAML) は出力のバッファで受け、案内の標準エラーはプロセスの標準エラーにそのまま出る (受けるのは呼び出し側)。
+ * 返り値: 名前 => [標準出力, WP_CLI::$out]。WP_CLI::error で止まったものは WP_CLI::$out の最後が error
+ */
+function ts_fixture_run_export_takedowns(callable $export, string $repo, string $s): array {
+    ts_fixture_export_scene($repo, $s);
+    $out = [];
+    foreach (['start' => ['start' => '300'], 'specs' => [], 'since' => ['start' => '300', 'since' => '2026-01-01'],
+              'none' => ['start' => '300', 'since' => '2099-01-01'], 'bad_start' => ['start' => '3x'],
+              'bad_since' => ['start' => '300', 'since' => '2026/01/01']] as $name => $assoc) {
+        WP_CLI::$out = [];
+        ob_start();
+        try { $export(array_merge(['repo' => $repo], $assoc)); } catch (TS_CLI_Error $e) {}
+        $out[$name] = [ob_get_clean(), WP_CLI::$out];
+    }
+    WP_CLI::$out = [];
+    ts_fixture_export_scene_clean($repo);
+    TS_WP_Stubs::reset();
+    return $out;
+}
+
+/**
+ * denylist に書き写していない申請 (applied と approved)。$find は $repo を受けて [投稿 ID の列, 警告の文の列] を返す
+ * (新版は TS_Takedown_Export_State::requests_not_in_denylist、旧版は TS_Command の private の同名のメソッドと WP_CLI::$out)。
+ * 返り値: ['found' => 場面の上で, 'no_type' => 申請の投稿タイプが登録されていないとき, 'names' => 見つかった ID の場面の名前]
+ */
+function ts_fixture_run_requests_not_in_denylist(callable $find, string $repo): array {
+    $r = ts_fixture_export_scene($repo, 'S');
+    $found = $find($repo);
+    $types = TS_WP_Stubs::$registered['post_type'];
+    unset(TS_WP_Stubs::$registered['post_type']['ts_takedown_request']);
+    $no_type = $find($repo);
+    TS_WP_Stubs::$registered['post_type'] = $types;
+    ts_fixture_export_scene_clean($repo);
+    $names = array_map(function ($id) use ($r) { return array_search($id, $r, true); }, $found[0]);
+    TS_WP_Stubs::reset();
+    return ['found' => $found, 'no_type' => $no_type, 'names' => $names];
+}
+
+/** 子のプロセス (scripts/wp/ts_library_test.php --child export-takedowns <repo>) で新版の wp ts export-takedowns を流す。案内は標準エラーに出る */
+function ts_fixture_child_export_takedowns(string $repo): array {
+    $cmd = new TS_Takedown_Command();
+    return ts_fixture_run_export_takedowns(function ($assoc) use ($cmd) { $cmd->export_takedowns([], $assoc); }, $repo, 'S');
+}

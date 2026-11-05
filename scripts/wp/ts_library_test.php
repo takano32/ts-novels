@@ -14,12 +14,17 @@
  * eyecatch の再設定の判断 (S189)・表示の文言と索引の並び。
  * その後に WordPress の代わり (tests/wp-stubs.php。T45.1.14) を置いて WP の表を読み、WordPress に触る側も試す:
  * 代わりそのものの決まり・読み込み時に登録するフックと優先度の表 (S242)・表示部品の HTML・申請の非公開化と復帰 (S127・S128)・
- * 取り下げフォームの送信と確認リンクと cron (S124・S126・S130)・wp ts のコマンド (reset・apply-takedown)。
+ * トップと書庫の問い合わせ・410 と 404 (S117・S118)・年表とオススメの索引・取り下げフォームの送信と確認リンクと cron と運営委員の操作
+ * (S124・S126・S128・S130)・wp ts のコマンド (reset・apply-takedown・export-takedowns)。
  * 失敗が 1 件でもあれば終了コード 1。
  */
 
 define('TS_LIBRARY_TEST', true);
 $root = dirname(__DIR__, 2);
+// 子のプロセス (T45.6.5): `php scripts/wp/ts_library_test.php --child <名前> [引数…]` は試験を流さずに読み込みだけして、
+// tests/wp-fixtures.php の ts_fixture_child_<名前> (名前の - は _) の戻り値を JSON で標準出力に出す。標準エラーに書くコマンド
+// (wp ts export-takedowns) の試験が、そのプロセスの標準エラーを受けるために使う (tests/commands-wp.php)
+$child = ($argv[1] ?? '') === '--child' ? array_slice($argv, 2) : null;
 $plugin = "$root/mu-plugins/ts-library";
 
 require "$plugin/includes/files.php";
@@ -48,7 +53,7 @@ class WP_CLI {
 }
 foreach (TS_Library_Files::CLI as $f) require "$plugin/includes/$f";
 
-foreach (['files', 'content-model', 'site', 'roles', 'visibility', 'takedown', 'denylist', 'catalog', 'eyecatch', 'render', 'indexes'] as $t) {
+foreach ($child === null ? ['files', 'content-model', 'site', 'roles', 'visibility', 'takedown', 'denylist', 'catalog', 'eyecatch', 'render', 'indexes'] : [] as $t) {
     require "$root/scripts/wp/tests/$t.php";
 }
 
@@ -58,7 +63,11 @@ foreach (['files', 'content-model', 'site', 'roles', 'visibility', 'takedown', '
 require "$root/scripts/wp/tests/wp-stubs.php";
 require "$root/scripts/wp/tests/wp-fixtures.php";
 foreach (TS_Library_Files::WP as $f) require "$plugin/includes/$f";
-foreach (['wp-stubs-check', 'hooks', 'render-html', 'takedown-wp', 'commands-wp'] as $t) {
+if ($child !== null) {
+    echo json_encode(('ts_fixture_child_' . str_replace('-', '_', $child[0]))(...array_slice($child, 1)), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+    exit(0);
+}
+foreach (['wp-stubs-check', 'hooks', 'render-html', 'site-wp', 'takedown-wp', 'commands-wp'] as $t) {
     require "$root/scripts/wp/tests/$t.php";
 }
 

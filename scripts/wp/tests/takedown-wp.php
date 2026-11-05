@@ -125,6 +125,268 @@ check('action の値でフォームの送信を受けるフック', [(bool) preg
       count(TS_WP_Stubs::callbacks('admin_post_nopriv_ts_takedown')), count(TS_WP_Stubs::callbacks('admin_post_ts_takedown'))], [true, 1, 1]);
 TS_WP_Stubs::reset();
 
+// ---------------------------------------------------------------- 運営委員の操作 ts_takedown_operate (S128。T45.6.5)
+// 期待値: 0e8c7712 の ts-library.php と includes 7 本を同じ代わりで動かした出力 (2026-11-05、scripts/wp/php_probe.sh、probe-rest.php)。場面と流し方は wp-fixtures.php の ts_fixture_run_takedown_operate。止める 4 通りのうち「知らない操作」は、
+// 状態の遷移の表 (op_next) に無いので「いまの状態ではこの操作はできません。」になる (最後の「不明な操作です。」には届かない)
+$same('運営委員の操作', ts_fixture_run_takedown_operate(time()), array (
+  'ops' => 
+  array (
+    'no_permission' => 
+    array (
+      0 => false,
+      1 => '権限がありません。',
+    ),
+    'bad_state' => 
+    array (
+      0 => false,
+      1 => 'いまの状態ではこの操作はできません。',
+    ),
+    'unknown' => 
+    array (
+      0 => false,
+      1 => 'いまの状態ではこの操作はできません。',
+    ),
+    'no_deadline' => 
+    array (
+      0 => false,
+      1 => '新しい自動適用の時刻を入れてください。',
+    ),
+    'deadline' => 
+    array (
+      0 => true,
+      1 => '自動適用の時刻を 2026-11-14 09:00 にしました。',
+    ),
+    'approve' => 
+    array (
+      0 => true,
+      1 => '承認して非公開にしました (2 作品)。',
+    ),
+    'reject_after_approve' => 
+    array (
+      0 => false,
+      1 => 'いまの状態ではこの操作はできません。',
+    ),
+    'reject' => 
+    array (
+      0 => true,
+      1 => '却下しました。',
+    ),
+    'reinstate' => 
+    array (
+      0 => true,
+      1 => '復帰しました。 ただし 1 件の投稿は、サイトの取り下げの記録 (denylist) に書き写した後のため、この画面では戻していません。管理者に依頼してください。',
+    ),
+  ),
+  'meta' => 
+  array (
+    'request' => 
+    array (
+      '_tr_allow_name' => '1',
+      '_tr_auto_apply_at' => 1794700800,
+      '_tr_confirmed_at' => 1793836800,
+      '_tr_contact' => 'amano@example.com',
+      '_tr_evidence' => '',
+      '_tr_log' => 
+      array (
+        0 => 'approved/3/承認のメモ/now+0h',
+        1 => 'reinstated/4/復帰のメモ/now+0h',
+      ),
+      '_tr_message' => '',
+      '_tr_pen_name' => '天野 月',
+      '_tr_received_at' => 1793833200,
+      '_tr_relation' => 'author',
+      '_tr_resolution_note' => '復帰のメモ',
+      '_tr_resolved_at' => 'now+0h',
+      '_tr_resolved_by' => 4,
+      '_tr_status' => 'reinstated',
+      '_tr_via' => 'takedown_form',
+    ),
+    'other' => 
+    array (
+      '_tr_allow_name' => '0',
+      '_tr_auto_apply_at' => 1794700800,
+      '_tr_confirmed_at' => 1793836800,
+      '_tr_contact' => 'amano@example.com',
+      '_tr_evidence' => '',
+      '_tr_log' => 'rejected/3/確認が取れない/now+0h',
+      '_tr_message' => '',
+      '_tr_pen_name' => '星野 空',
+      '_tr_received_at' => 1793833200,
+      '_tr_relation' => 'author',
+      '_tr_resolution_note' => '確認が取れない',
+      '_tr_resolved_at' => 'now+0h',
+      '_tr_resolved_by' => 3,
+      '_tr_status' => 'rejected',
+      '_tr_via' => 'takedown_form',
+    ),
+    'third' => 
+    array (
+      '_tr_allow_name' => '1',
+      '_tr_auto_apply_at' => 1794614400,
+      '_tr_confirmed_at' => 1793836800,
+      '_tr_contact' => 'amano@example.com',
+      '_tr_evidence' => '',
+      '_tr_log' => 'received/4/期限を 2026-11-14 09:00 に変更 — 延ばします/now+0h',
+      '_tr_message' => '',
+      '_tr_pen_name' => '海野 波',
+      '_tr_received_at' => 1793833200,
+      '_tr_relation' => 'author',
+      '_tr_resolution_note' => '延ばします',
+      '_tr_resolved_by' => 4,
+      '_tr_status' => 'received',
+      '_tr_via' => 'takedown_form',
+    ),
+  ),
+  'posts' => 
+  array (
+    'amano-tsuki-renzoku' => 'publish vis= id= date= note= sup= imp=2026-11-05 12:00:00',
+    'ren01' => 'publish vis= id= date= note= sup= imp=2026-11-05 12:00:00',
+    'ren02' => 'private vis=withdrawn id=S9 date=2026-01-01 note=S9 の掲示 sup= imp=',
+    'ren03' => 'publish vis= id= date= note= sup= imp=',
+    'amano-tsuki-iriko' => 'publish vis= id= date= note= sup= imp=',
+    'iri01' => 'publish vis= id= date= note= sup= imp=',
+    'iri02' => 'publish vis= id= date= note= sup= imp=',
+    'iri02a' => 'private vis=superseded id= date= note= sup=iri02a-shinpan imp=',
+    'amano-tsuki-tanpen' => 'publish vis= id= date= note= sup= imp=',
+  ),
+  'urls' => 
+  array (
+    0 => '/novel/hoka-no-sakuhin/',
+    1 => '/novel/amano-tsuki-renzoku/ren02/',
+  ),
+  'mails' => 
+  array (
+    0 => 
+    array (
+      0 => 'amano@example.com',
+      1 => '[少年少女文庫] お申し出の作品を非公開にしました',
+      2 => 'お申し出に基づき、次の作品を非公開にしました。
+  - 連続する月
+  - 入れ子の月
+
+掲載していない作品の一覧には、作品名とペンネームを載せています。
+
+-- 
+少年少女文庫
+',
+      3 => 
+      array (
+        0 => 'Content-Type: text/plain; charset=UTF-8',
+        1 => 'From: 少年少女文庫 <admin@example.com>',
+      ),
+    ),
+    1 => 
+    array (
+      0 => 'admin@example.com',
+      1 => '[少年少女文庫] 取り下げの申請 10 を適用しました',
+      2 => '取り下げの申請 10 を適用し、次の作品を非公開にしました。
+  - 連続する月
+  - 入れ子の月
+
+本サイトの作品に結びつかなかった URL があります (適用していません):
+  - https://novels.xwp.jp/novel/nai/
+
+ペンネーム: 天野 月
+立場: 作者本人
+名前の掲示: 可
+対象:
+  - https://novels.xwp.jp/novel/amano-tsuki-renzoku/
+  - https://novels.xwp.jp/novel/amano-tsuki-iriko/
+  - https://novels.xwp.jp/novel/nai/ (本サイトの作品に結びつかない)
+
+管理画面:
+https://novels.xwp.jp/wp-admin/post.php?post=10&action=edit
+
+-- 
+少年少女文庫
+',
+      3 => 
+      array (
+        0 => 'Content-Type: text/plain; charset=UTF-8',
+        1 => 'From: 少年少女文庫 <admin@example.com>',
+      ),
+    ),
+    2 => 
+    array (
+      0 => 'iin@example.com',
+      1 => '[少年少女文庫] 取り下げの申請 10 を適用しました',
+      2 => '取り下げの申請 10 を適用し、次の作品を非公開にしました。
+  - 連続する月
+  - 入れ子の月
+
+本サイトの作品に結びつかなかった URL があります (適用していません):
+  - https://novels.xwp.jp/novel/nai/
+
+ペンネーム: 天野 月
+立場: 作者本人
+名前の掲示: 可
+対象:
+  - https://novels.xwp.jp/novel/amano-tsuki-renzoku/
+  - https://novels.xwp.jp/novel/amano-tsuki-iriko/
+  - https://novels.xwp.jp/novel/nai/ (本サイトの作品に結びつかない)
+
+管理画面:
+https://novels.xwp.jp/wp-admin/post.php?post=10&action=edit
+
+-- 
+少年少女文庫
+',
+      3 => 
+      array (
+        0 => 'Content-Type: text/plain; charset=UTF-8',
+        1 => 'From: 少年少女文庫 <admin@example.com>',
+      ),
+    ),
+    3 => 
+    array (
+      0 => 'editor@example.com',
+      1 => '[少年少女文庫] 取り下げの申請 10 を適用しました',
+      2 => '取り下げの申請 10 を適用し、次の作品を非公開にしました。
+  - 連続する月
+  - 入れ子の月
+
+本サイトの作品に結びつかなかった URL があります (適用していません):
+  - https://novels.xwp.jp/novel/nai/
+
+ペンネーム: 天野 月
+立場: 作者本人
+名前の掲示: 可
+対象:
+  - https://novels.xwp.jp/novel/amano-tsuki-renzoku/
+  - https://novels.xwp.jp/novel/amano-tsuki-iriko/
+  - https://novels.xwp.jp/novel/nai/ (本サイトの作品に結びつかない)
+
+管理画面:
+https://novels.xwp.jp/wp-admin/post.php?post=10&action=edit
+
+-- 
+少年少女文庫
+',
+      3 => 
+      array (
+        0 => 'Content-Type: text/plain; charset=UTF-8',
+        1 => 'From: 少年少女文庫 <admin@example.com>',
+      ),
+    ),
+    4 => 
+    array (
+      0 => 'amano@example.com',
+      1 => '[少年少女文庫] 掲載の取り下げのお申し出について',
+      2 => '掲載の取り下げのお申し出について、確認が取れなかったため、取り下げは行いませんでした。
+あらためてお申し出いただく場合は、取り下げのページからお願いします。
+
+-- 
+少年少女文庫
+',
+      3 => 
+      array (
+        0 => 'Content-Type: text/plain; charset=UTF-8',
+        1 => 'From: 少年少女文庫 <admin@example.com>',
+      ),
+    ),
+  ),
+));
+
 // ---------------------------------------------------------------- cron ts_takedown_tick (S130。T45.6.4)
 // 期待値: 0e8c7712 の includes 7 本を同じ代わりで動かした出力 (2026-11-05、scripts/wp/php_probe.sh、probe-paths.php)。場面と流し方は
 // wp-fixtures.php の ts_fixture_takedown_tick_scene と ts_fixture_run_takedown_tick (probe も同じ関数を呼ぶ)。time() は置き換えられないので、
