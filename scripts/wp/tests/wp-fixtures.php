@@ -82,3 +82,54 @@ function ts_fixture_request(array $targets, string $pen_name = '天野 月', str
     ]);
     return $id;
 }
+
+/**
+ * 申請の非公開化と復帰 (S127・S128) の場面: ts_fixture_takedown_targets の上に、別の記録 (S9) で取り下げ中の話・移行前の取り下げ (draft)・
+ * 旧版 (superseded) の孫・import の記録 (_ts_last_import_gmt) のある投稿を置き、連載 2 作と結びつかない URL 1 つを対象にした申請を作る。
+ * option ts_takedown_urls には別の作品の URL と S9 の URL が先にある。運営委員 2 人 (committee と editor) と関係ないユーザ 1 人。
+ * 返り値: ts_fixture_takedown_targets の ID に 'request' (申請の投稿 ID) を足したもの
+ */
+function ts_fixture_takedown_apply_scene(): array {
+    $t = ts_fixture_takedown_targets();
+    $s9 = $t['ep'][1];
+    TS_WP_Stubs::$posts[$s9]->post_status = 'private';
+    TS_WP_Stubs::set_meta($s9, ['_ts_visibility' => 'withdrawn', '_ts_takedown_id' => 'S9', '_ts_public_note' => 'S9 の掲示', '_ts_takedown_date' => '2026-01-01']);
+    TS_WP_Stubs::$posts[$t['nep'][0]]->post_status = 'draft';
+    TS_WP_Stubs::$posts[$t['grand']]->post_status = 'private';
+    TS_WP_Stubs::set_meta($t['grand'], ['_ts_visibility' => 'superseded', '_ts_superseded_by' => 'iri02a-shinpan']);
+    foreach ([$t['serial'], $t['ep'][0]] as $pid) TS_WP_Stubs::set_meta($pid, ['_ts_last_import_gmt' => '2026-10-30 00:00:00']);
+    TS_WP_Stubs::$options['ts_takedown_urls'] = ['/novel/hoka-no-sakuhin/', '/novel/amano-tsuki-renzoku/ren02/'];
+    TS_WP_Stubs::$options['admin_email'] = 'admin@example.com';
+    TS_WP_Stubs::$users = [
+        3 => ['user_email' => 'iin@example.com', 'display_name' => '委員', 'roles' => ['ts_committee'], 'caps' => ['ts_manage_takedown']],
+        4 => ['user_email' => 'editor@example.com', 'display_name' => '編集', 'roles' => ['ts_committee_editor'], 'caps' => ['ts_manage_takedown']],
+        5 => ['user_email' => 'dokusha@example.com', 'display_name' => '読者', 'roles' => ['subscriber'], 'caps' => []],
+    ];
+    $t['request'] = ts_fixture_request([
+        ['url' => 'https://novels.xwp.jp/novel/amano-tsuki-renzoku/', 'post_id' => $t['serial'], 'work_slug' => 'amano-tsuki-renzoku'],
+        ['url' => 'https://novels.xwp.jp/novel/amano-tsuki-iriko/', 'post_id' => $t['nested'], 'work_slug' => 'amano-tsuki-iriko'],
+        ['url' => 'https://novels.xwp.jp/novel/nai/', 'post_id' => null, 'work_slug' => null],
+    ]);
+    return $t;
+}
+
+/**
+ * 申請の適用と復帰の後の状態を比べやすい形に: ts_work ごとの「状態 vis= id= date= note= sup= imp=」の 1 行 (post_name をキーに)、
+ * option ts_takedown_urls、申請の状態・resolved_by・メモ・resolved_at の有無、操作の記録 (what/by/note。時刻は見ない)、送ったメール。
+ */
+function ts_fixture_takedown_snapshot(array $ids): array {
+    $posts = [];
+    foreach (TS_WP_Stubs::$posts as $p) {
+        if ($p->post_type !== 'ts_work') continue;
+        $m = function ($k) use ($p) { return (string) get_post_meta($p->ID, $k, true); };
+        $posts[$p->post_name] = $p->post_status . ' vis=' . $m('_ts_visibility') . ' id=' . $m('_ts_takedown_id') . ' date=' . $m('_ts_takedown_date')
+            . ' note=' . $m('_ts_public_note') . ' sup=' . $m('_ts_superseded_by') . ' imp=' . $m('_ts_last_import_gmt');
+    }
+    $req = $ids['request'];
+    $log = array_map(function ($j) { $l = json_decode((string) $j, true); return $l['what'] . '/' . $l['by'] . '/' . $l['note']; }, get_post_meta($req, '_tr_log'));
+    return ['posts' => $posts, 'urls' => get_option('ts_takedown_urls'),
+            'request' => [get_post_meta($req, '_tr_status', true), get_post_meta($req, '_tr_resolved_by', true),
+                          get_post_meta($req, '_tr_resolution_note', true), get_post_meta($req, '_tr_resolved_at', true) !== ''],
+            'log' => $log,
+            'mails' => array_map(function ($m) { return [$m['to'], $m['subject'], $m['body']]; }, TS_WP_Stubs::$mails)];
+}

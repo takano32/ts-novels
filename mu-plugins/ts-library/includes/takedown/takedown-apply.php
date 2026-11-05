@@ -2,8 +2,9 @@
 /**
  * 取り下げの申請の非公開化と復帰 (specs/S127.md・S128.md)。WordPress に触る側。
  *
- * 1 投稿の変化は TS_Visibility_Rules::takedown_change (denylist 由来の `wp ts apply-takedown` と同じ規則)、
- * /removed/ の 1 行は TS_Takedown_Text::public_note。cron (takedown-cron.php) と運営委員の操作 (takedown-admin.php) から呼ぶ。
+ * どの投稿に触るかは TS_Takedown_Plan::request_apply / request_reinstate、1 投稿の変化は TS_Visibility_Rules::takedown_change
+ * (denylist 由来の `wp ts apply-takedown` と同じ規則)、/removed/ の 1 行は TS_Takedown_Text::public_note。
+ * cron (takedown-cron.php) と運営委員の操作 (takedown-admin.php) から呼ぶ。
  */
 
 if (!defined('ABSPATH')) { exit; }
@@ -33,6 +34,13 @@ function ts_takedown_post_state(int $pid): array {
             'public_note' => (string) get_post_meta($pid, '_ts_public_note', true),
             'takedown_date' => (string) get_post_meta($pid, '_ts_takedown_date', true),
             'superseded_by' => (string) get_post_meta($pid, '_ts_superseded_by', true)];
+}
+
+/** 申請の対象と子孫の今の値: post_id => ts_takedown_post_state (TS_Takedown_Plan::request_apply / request_reinstate に渡す形。対象と子孫の順) */
+function ts_takedown_target_states(array $r): array {
+    $states = [];
+    foreach (ts_takedown_target_posts($r) as $pid) $states[$pid] = ts_takedown_post_state($pid);
+    return $states;
 }
 
 /** 1 投稿に変化を当てる (apply-takedown と同じく、取り下げを手動編集と誤検知させない) */
@@ -78,10 +86,9 @@ function ts_takedown_apply(int $id, string $new_status, int $by, string $note): 
     $want = ['id' => $tid, 'note' => $public_note, 'date' => wp_date('Y-m-d', $at)];
     $urls = (array) get_option('ts_takedown_urls', []);
     $done = [];
-    foreach (ts_takedown_target_posts($r) as $pid) {
-        $cur = ts_takedown_post_state($pid);
-        if ($cur['visibility'] === 'withdrawn' && $cur['takedown_id'] !== $tid) continue; // 既に別の記録で取り下げ中
-        ts_takedown_apply_change($pid, TS_Visibility_Rules::takedown_change($cur, $want));
+    $states = ts_takedown_target_states($r);
+    foreach (TS_Takedown_Plan::request_apply($states, $tid) as $pid) {   // 既に別の記録で取り下げ中の投稿は触らない
+        ts_takedown_apply_change($pid, TS_Visibility_Rules::takedown_change($states[$pid], $want));
         $urls[] = ts_takedown_public_url($pid);
         if (isset($roots[$pid])) $done[] = wp_specialchars_decode(get_the_title($pid), ENT_QUOTES);
     }
@@ -102,17 +109,13 @@ function ts_takedown_reinstate(int $id, int $by, string $note): int {
     $r = ts_takedown_get($id);
     $tid = 'req:' . $id;
     $urls = (array) get_option('ts_takedown_urls', []);
-    $left = 0;
-    foreach (ts_takedown_target_posts($r) as $pid) {
-        $cur = ts_takedown_post_state($pid);
-        if ($cur['takedown_id'] !== $tid) {
-            if ($cur['visibility'] === 'withdrawn') $left++;
-            continue;
-        }
-        ts_takedown_apply_change($pid, TS_Visibility_Rules::takedown_change($cur, null));
+    $states = ts_takedown_target_states($r);
+    $plan = TS_Takedown_Plan::request_reinstate($states, $tid);   // この申請の印の投稿だけ。別の記録で取り下げ中のものは left に数える
+    foreach ($plan['posts'] as $pid) {
+        ts_takedown_apply_change($pid, TS_Visibility_Rules::takedown_change($states[$pid], null));
         $urls = array_diff($urls, [ts_takedown_public_url($pid)]);
     }
     update_option('ts_takedown_urls', array_values($urls), false);
     ts_takedown_set_status($id, 'reinstated', $by, $note, true);
-    return $left;
+    return $plan['left'];
 }

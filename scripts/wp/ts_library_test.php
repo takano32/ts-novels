@@ -13,7 +13,8 @@
  * 取り下げフォームの判定と文面 (S124〜S132)・catalog の索引と語彙と verify の期待値・固定ページの原本の形 (S109)・
  * eyecatch の再設定の判断 (S189)・表示の文言と索引の並び。
  * その後に WordPress の代わり (tests/wp-stubs.php。T45.1.14) を置いて WP の表を読み、WordPress に触る側も試す:
- * 代わりそのものの決まり・読み込み時に登録するフックと優先度の表 (S242)・表示部品の HTML。失敗が 1 件でもあれば終了コード 1。
+ * 代わりそのものの決まり・読み込み時に登録するフックと優先度の表 (S242)・表示部品の HTML・申請の非公開化と復帰 (S127・S128)。
+ * 失敗が 1 件でもあれば終了コード 1。
  */
 
 define('TS_LIBRARY_TEST', true);
@@ -49,7 +50,7 @@ foreach (['files', 'content-model', 'site', 'roles', 'visibility', 'takedown', '
 require "$root/scripts/wp/tests/wp-stubs.php";
 require "$root/scripts/wp/tests/wp-fixtures.php";
 foreach (TS_Library_Files::WP as $f) require "$plugin/includes/$f";
-foreach (['wp-stubs-check', 'hooks', 'render-html'] as $t) {
+foreach (['wp-stubs-check', 'hooks', 'render-html', 'takedown-wp'] as $t) {
     require "$root/scripts/wp/tests/$t.php";
 }
 

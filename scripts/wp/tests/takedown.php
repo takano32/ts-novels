@@ -191,3 +191,20 @@ check('判定を渡さなければ filter_var', TS_Takedown_Input::validate($ok_
 check('運営委員宛の要約', TS_Takedown_Text::summary(['pen_name' => '山田', 'relation' => 'heir', 'allow_name' => '0',
       'targets' => [['url' => 'https://x/novel/a/', 'post_id' => 3], ['url' => 'https://y/', 'post_id' => null]]]),
       "ペンネーム: 山田\n立場: 権利継承者\n名前の掲示: 不可\n対象:\n  - https://x/novel/a/\n  - https://y/ (本サイトの作品に結びつかない)");
+
+// ---------------------------------------------------------------- 申請の適用と復帰で触る投稿 (S127・S128、T45.1.17.3)
+$rq_states = [
+    1 => ['status' => 'publish', 'visibility' => '', 'takedown_id' => ''],                 // 公開中 → 止める
+    2 => ['status' => 'private', 'visibility' => 'withdrawn', 'takedown_id' => 'S9'],     // 別の記録で取り下げ中 → 触らない
+    3 => ['status' => 'private', 'visibility' => 'withdrawn', 'takedown_id' => 'req:12'],  // この申請で取り下げ済み → 揃え直す
+    4 => ['status' => 'private', 'visibility' => 'superseded', 'takedown_id' => ''],       // 旧版 → 止める (withdrawn が優先。S117)
+    5 => ['status' => 'draft', 'visibility' => '', 'takedown_id' => ''],                   // 移行前の取り下げ → 止める (private に移る)
+    6 => ['status' => 'private', 'visibility' => 'withdrawn', 'takedown_id' => ''],        // 印の無い取り下げ → 別の記録とみなして触らない
+];
+check('適用: 別の記録で取り下げ中 (印が違う withdrawn) の投稿だけ飛ばし、ほかは渡した順に', TS_Takedown_Plan::request_apply($rq_states, 'req:12'), [1, 3, 4, 5]);
+check('適用: 対象が無ければ空', TS_Takedown_Plan::request_apply([], 'req:12'), []);
+check('復帰: この申請の印の投稿だけ戻し、印が違う withdrawn を left に数える (公開中・旧版・draft は数えない)',
+      TS_Takedown_Plan::request_reinstate($rq_states, 'req:12'), ['posts' => [3], 'left' => 2]);
+check('復帰: 印が全部この申請なら left は 0', TS_Takedown_Plan::request_reinstate([7 => $rq_states[3], 8 => $rq_states[3]], 'req:12'), ['posts' => [7, 8], 'left' => 0]);
+check('復帰: 別の申請の印は戻さない (left に数える)', TS_Takedown_Plan::request_reinstate([9 => $rq_states[3]], 'req:13'), ['posts' => [], 'left' => 1]);
+check('復帰: 対象が無ければ空', TS_Takedown_Plan::request_reinstate([], 'req:12'), ['posts' => [], 'left' => 0]);
