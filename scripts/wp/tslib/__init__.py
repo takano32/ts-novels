@@ -9,7 +9,7 @@ scripts/wp/*.py はコマンドラインの入口 (引数の解釈・ファイ�
 使わない)。出力の鍵の順は dict の字面か代入の順で決め、生成物のバイト一致をそれで守る。
 
   paths.py      リポジトリのルートと catalog/ 配下の定位置
-  fileio.py     JSON / JSONL / YAML / テキストの読み書き、md5、文字コードの推定
+  fileio.py     JSON / JSONL / YAML / テキストの読み書き、md5、文字コードの推定、PyYAML の無いときの停止
   checks.py     自己検査の結果の束 (OK / NG の行)
   htmltext.py   タグ除去・アンカー走査など HTML 断片の小道具
   mail.py       メールアドレスの検出と除去 (S10 の「DB に入れない」決まり)
