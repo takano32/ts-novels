@@ -162,7 +162,7 @@ add_action('save_post_' . TS_TAKEDOWN_TYPE, function ($post_id, $post) {
 
     if ((string) get_post_meta($post_id, '_tr_status', true) === '') {
         $in = is_array($_POST['ts_tr'] ?? null) ? wp_unslash($_POST['ts_tr']) : [];
-        $v = TS_Takedown_Input::validate($in, 'ts_takedown_resolve', (string) parse_url(home_url('/'), PHP_URL_HOST));
+        $v = TS_Takedown_Input::validate($in, 'ts_takedown_resolve', (string) parse_url(home_url('/'), PHP_URL_HOST), 'is_email');
         if ($v['errors']) {
             ts_takedown_admin_notice('error', '起票できませんでした: ' . implode(' ', $v['errors']));
             return;

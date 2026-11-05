@@ -80,7 +80,7 @@ function ts_takedown_handle_post(): void {
     if ($code === 429) ts_takedown_respond(429, '送信できませんでした', '<p>短い時間に続けて送信されたため、受け付けを止めています。時間をおいてお試しください。</p>');
 
     $home_host = (string) parse_url(home_url('/'), PHP_URL_HOST);
-    $v = TS_Takedown_Input::validate($in, 'ts_takedown_resolve', $home_host);
+    $v = TS_Takedown_Input::validate($in, 'ts_takedown_resolve', $home_host, 'is_email');
     if ($v['errors']) {
         ts_takedown_respond(400, '入力を確かめてください',
             '<ul>' . implode('', array_map(function ($e) { return '<li>' . esc_html($e) . '</li>'; }, $v['errors']))

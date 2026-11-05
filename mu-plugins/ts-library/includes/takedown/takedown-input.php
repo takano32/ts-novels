@@ -4,7 +4,7 @@
  *
  * $resolve (パス → ts_work) は呼び出し側 (includes/takedown/takedown-form.php と takedown-admin.php) が
  * WordPress の関数を渡す。単体の試験 (scripts/wp/ts_library_test.php) は配列を返す無名関数を渡す。
- * メールアドレスの判定だけは WordPress があれば is_email() を使う (無ければ filter_var)。
+ * メールアドレスの判定 $is_email も呼び出し側が渡す (WordPress 側は is_email。渡さなければ filter_var)。
  *
  * PHP 8.0 互換。
  */
@@ -54,9 +54,11 @@ final class TS_Takedown_Input {
     /**
      * フォームの入力を検証する (S124 の表)。$in は wp_unslash 済みの $_POST 相当。
      * $resolve(string $path): ?array — ts_work に解決できれば ['post_id' => int, 'work_slug' => ?string]。
+     * $is_email(string $s) — メールアドレスとして正しいか。渡さなければ self::is_email (filter_var)。
      * 返り値: ['errors' => [文言…], 'data' => 保存する値]。data['targets'] は [{url, post_id|null, work_slug|null}]。
      */
-    public static function validate(array $in, callable $resolve, string $home_host): array {
+    public static function validate(array $in, callable $resolve, string $home_host, ?callable $is_email = null): array {
+        $is_email = $is_email ?? [self::class, 'is_email'];
         $err = [];
         $s = function ($k) use ($in) { return is_string($in[$k] ?? null) ? $in[$k] : ''; };
         $pen = self::clean($s('pen_name'));
@@ -81,7 +83,7 @@ final class TS_Takedown_Input {
         }
 
         $contact = self::clean($s('contact'));
-        if ($contact === '' || strlen($contact) > 254 || !self::is_email($contact)) {
+        if ($contact === '' || strlen($contact) > 254 || !$is_email($contact)) {
             $err[] = '連絡先のメールアドレスを正しく書いてください。';
         }
         $relation = $s('relation');
@@ -97,9 +99,8 @@ final class TS_Takedown_Input {
         ]];
     }
 
-    /** WordPress があれば is_email()、無ければ (単体の試験) filter_var */
+    /** validate の $is_email の既定 (filter_var)。WordPress 側は is_email を渡す */
     public static function is_email(string $s): bool {
-        if (function_exists('is_email')) return (bool) is_email($s);
         return filter_var($s, FILTER_VALIDATE_EMAIL) !== false;
     }
 

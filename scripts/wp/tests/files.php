@@ -61,10 +61,8 @@ check('定義の名前は外側の関数とクラスだけ', $ts_defined_in('<?p
 check('境目の検査が呼び出しを拾う (メソッド・静的呼び出し・new・定義は除く)',
       $ts_calls('<?php get_post_meta(1); $a->b(); $a?->c(); X::y(); new Z(); function w() {} strlen("x"); /* esc_html( */'),
       ['get_post_meta', 'strlen']);
-// 理由つきの許可: 名前 => 理由
-$ts_allowed = [
-    'is_email' => 'TS_Takedown_Input::is_email が function_exists のガード付きで呼ぶ (WordPress が無ければ filter_var)。T45.1.20 で注入に替えたら消す',
-];
+// 理由つきの許可: 名前 => 理由 (いまは無い。T45.1.20 で is_email を注入に替えて消した)
+$ts_allowed = [];
 $ts_internal = array_fill_keys(get_defined_functions()['internal'], true);
 $ts_pure_defined = [];
 foreach (TS_Library_Files::PURE as $f) foreach ($ts_defined_in(file_get_contents("$plugin/includes/$f")) as $n) $ts_pure_defined[$n] = true;

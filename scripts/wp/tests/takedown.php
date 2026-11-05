@@ -127,8 +127,13 @@ check('依頼者宛の適用 (一覧に載せる・載せない)', [TS_Takedown_
        "お申し出に基づき、次の作品を非公開にしました。\n  - 森の家\n  - 海\n\n掲載していない作品の一覧には、作品名とペンネームを載せていません。\n\n-- \nS\n"]);
 check('文字数はマルチバイトを 1 字と数える', [TS_Takedown_Input::strlen('山田'), TS_Takedown_Input::strlen('ab'), TS_Takedown_Input::strlen(''),
       TS_Takedown_Input::strlen("森\nの家🌲")], [2, 2, 0, 5]);
-check('メールアドレスの判定 (WordPress が無いときは filter_var)', [TS_Takedown_Input::is_email('a@example.com'), TS_Takedown_Input::is_email('a@'),
+check('メールアドレスの判定の既定 (filter_var)', [TS_Takedown_Input::is_email('a@example.com'), TS_Takedown_Input::is_email('a@'),
       TS_Takedown_Input::is_email('山田'), TS_Takedown_Input::is_email('')], [true, false, false, false]);
+$seen_mail = [];
+$v_inj = TS_Takedown_Input::validate($ok_in, $resolve, $H, function ($s) use (&$seen_mail) { $seen_mail[] = $s; return ''; });
+check('メールアドレスの判定は渡した関数を使う (WordPress 側は is_email。偽の値なら誤り)', [$seen_mail, $v_inj['errors']],
+      [[$ok_in['contact']], ['連絡先のメールアドレスを正しく書いてください。']]);
+check('判定を渡さなければ filter_var', TS_Takedown_Input::validate($ok_in, $resolve, $H)['errors'], []);
 check('運営委員宛の要約', TS_Takedown_Text::summary(['pen_name' => '山田', 'relation' => 'heir', 'allow_name' => '0',
       'targets' => [['url' => 'https://x/novel/a/', 'post_id' => 3], ['url' => 'https://y/', 'post_id' => null]]]),
       "ペンネーム: 山田\n立場: 権利継承者\n名前の掲示: 不可\n対象:\n  - https://x/novel/a/\n  - https://y/ (本サイトの作品に結びつかない)");

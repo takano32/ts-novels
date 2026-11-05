@@ -29,11 +29,13 @@ final class TS_Takedown_Rules {
     /**
      * パラメータ (S126 の定数と S135 の裁定待ちの表)。wp-config.php で TS_TAKEDOWN_<名前> を
      * define すると既定値より優先する。
+     * $defined(string $name, $default) は定数の読み取り (定義されていればその値、無ければ $default)。渡さなければ
+     * defined / constant で読む。試験は配列から読む無名関数を渡す。
      */
-    public static function params(): array {
-        $c = function (string $name, $default) {
-            $k = 'TS_TAKEDOWN_' . $name;
-            return defined($k) ? constant($k) : $default;
+    public static function params(?callable $defined = null): array {
+        $defined = $defined ?? function (string $k, $default) { return defined($k) ? constant($k) : $default; };
+        $c = function (string $name, $default) use ($defined) {
+            return $defined('TS_TAKEDOWN_' . $name, $default);
         };
         return [
             'confirm_ttl_days' => (int) $c('CONFIRM_TTL_DAYS', 7),
