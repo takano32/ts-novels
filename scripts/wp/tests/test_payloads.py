@@ -119,9 +119,10 @@ class TakedownTest(unittest.TestCase):
 
 class ReportTest(unittest.TestCase):
     def test_report_keys(self):
-        rep = p.report_of(3, 1, ['r1', 't1'], {'t1': ['S1']}, 1, ['t1'], [], p.new_stats(), [],
-                          {'missing': ['b', 'a', 'a'], 'external': [], 'junk': []}, {'c': 'converted-text'},
-                          {'e': ['y', 'x', 'x']}, {'mailto': 0, 'bare': 0}, ['l'])
+        run = p.PayloadRun(written=3, raw_written=1, removed=['t1'], meta={'c': 'converted-text'},
+                           eyecatch={'e': ['y', 'x', 'x']})
+        run.warn['missing'] += ['b', 'a', 'a']
+        rep = p.report_of(run, ['r1', 't1'], {'t1': ['S1']}, [], ['l'])
         self.assertEqual(list(rep), [
             'written', 'mail_redacted', 'mail_leaked', 'converted', 'raw_fallback', 'takedown_skipped',
             'takedown_skipped_with_body', 'takedown_payloads_removed', 'takedown_entries', 'takedown_episodes',
@@ -129,6 +130,10 @@ class ReportTest(unittest.TestCase):
             'images_junk_dropped', 'converted_text', 'eyecatch_refs'])
         self.assertEqual((rep['converted'], rep['raw_fallback'], rep['images_missing'], rep['eyecatch_refs']),
                          (2, ['r1'], ['a', 'b'], {'e': ['x', 'y']}))
+        self.assertEqual((rep['takedown_payloads_removed'], rep['takedown_skipped_with_body'], rep['mail_redacted']),
+                         (1, {'md': 0, 'repost': 0, 'raw': 0}, {'mailto': 0, 'bare': 0}))
+        # 既定の累計は呼ぶごとに別の dict
+        self.assertIsNot(p.PayloadRun().warn, p.PayloadRun().warn)
 
     def test_has_leak(self):
         # payload_build の出荷前の検査は tslib/mail.py の has_leak (本文の決まり MAIL_KEEP_RE)

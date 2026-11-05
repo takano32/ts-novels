@@ -17,6 +17,7 @@ takedown_targets と同じになるように catalog から解決する (takedow
 
 入出力は scripts/wp/payload_build.py。
 """
+import dataclasses
 import html
 import os
 import re
@@ -374,25 +375,39 @@ def takedown_episodes(episodes, works, authors, denylist):
 
 # --------------------------------------------------------------------------- レポート
 
-def report_of(written, raw_written, raw_fallbacks, takedown, skipped, removed, takedown_entries,
-              stats, violations, warn, meta, eyecatch, mail_n, leaked):
+@dataclasses.dataclass
+class PayloadRun:
+    """payload_build.py の main の繰り返しが増やしていく累計 (report_of が読む)。"""
+    stats: dict = dataclasses.field(default_factory=new_stats)        # ブロックの種類ごとの数
+    warn: dict = dataclasses.field(default_factory=lambda: {'missing': [], 'external': [], 'junk': []})
+    mail_n: dict = dataclasses.field(default_factory=lambda: {'mailto': 0, 'bare': 0})
+    meta: dict = dataclasses.field(default_factory=dict)              # episode_id → body_status
+    violations: list = dataclasses.field(default_factory=list)        # 無損失検査に落ちた episode_id
+    eyecatch: dict = dataclasses.field(default_factory=dict)          # episode_id → 画像の参照
+    written: int = 0
+    raw_written: int = 0
+    removed: list = dataclasses.field(default_factory=list)           # 消した前回の payload
+    skipped: dict = dataclasses.field(default_factory=lambda: {'md': 0, 'repost': 0, 'raw': 0})
+
+
+def report_of(run, raw_fallbacks, takedown, takedown_entries, leaked):
     return {
-        'written': written,
-        'mail_redacted': mail_n,
+        'written': run.written,
+        'mail_redacted': run.mail_n,
         'mail_leaked': sorted(set(leaked)),
-        'converted': written - raw_written,
+        'converted': run.written - run.raw_written,
         'raw_fallback': sorted(e for e in raw_fallbacks if e not in takedown),
         'takedown_skipped': len(takedown),
-        'takedown_skipped_with_body': skipped,
-        'takedown_payloads_removed': len(removed),
+        'takedown_skipped_with_body': run.skipped,
+        'takedown_payloads_removed': len(run.removed),
         'takedown_entries': takedown_entries,
         'takedown_episodes': {k: v for k, v in sorted(takedown.items())},
-        'blocks': stats,
-        'invariant_ok': not violations,
-        'invariant_violations': violations[:20],
-        'images_missing': sorted(set(warn['missing'])),
-        'images_external': sorted(set(warn['external'])),
-        'images_junk_dropped': sorted(set(warn['junk'])),
-        'converted_text': sorted(e for e, s in meta.items() if s == 'converted-text'),
-        'eyecatch_refs': {k: sorted(set(v)) for k, v in sorted(eyecatch.items())},
+        'blocks': run.stats,
+        'invariant_ok': not run.violations,
+        'invariant_violations': run.violations[:20],
+        'images_missing': sorted(set(run.warn['missing'])),
+        'images_external': sorted(set(run.warn['external'])),
+        'images_junk_dropped': sorted(set(run.warn['junk'])),
+        'converted_text': sorted(e for e, s in run.meta.items() if s == 'converted-text'),
+        'eyecatch_refs': {k: sorted(set(v)) for k, v in sorted(run.eyecatch.items())},
     }

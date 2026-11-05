@@ -47,94 +47,85 @@ def main():
         sys.exit(str(e))
     images = payloads.image_inventory(ROOT)
 
-    stats = payloads.new_stats()
-    warn = {'missing': [], 'external': [], 'junk': []}
-    meta, violations, eyecatch = {}, [], {}
-    written = 0
-
-    mail_n = {'mailto': 0, 'bare': 0}
+    run = payloads.PayloadRun()
     # 取り下げ対象は payload を作らず、前回の payload も消す (論理削除)
-    removed = []
     for eid in sorted(takedown):
-        meta[eid] = 'takedown'
+        run.meta[eid] = 'takedown'
         f = OUT / f'{eid}.html'
         if f.exists():
             f.unlink()
-            removed.append(eid)
-    skipped = {'md': 0, 'repost': 0, 'raw': 0}
+            run.removed.append(eid)
     body_md = {p.name[:-3] for p in BODIES.glob('*.md')}
 
     for md_path in sorted(BODIES.glob('*.md')):
         eid = md_path.name[:-3]
         if eid in takedown:
-            skipped['md'] += 1
+            run.skipped['md'] += 1
             continue
         ep = episodes.get(eid)
         src_dir = os.path.dirname(ep['source_path']) if ep else ''
         out, ok, refs = payloads.md_payload(md_path.read_text(encoding='utf-8'), src_dir, images,
-                                            stats, warn, mail_n)
+                                            run.stats, run.warn, run.mail_n)
         if not ok:
-            violations.append(eid)
+            run.violations.append(eid)
         (OUT / f'{eid}.html').write_text(out, encoding='utf-8')
         for em in refs:
-            eyecatch.setdefault(eid, []).append(em)
-        meta[eid] = 'converted'
-        written += 1
+            run.eyecatch.setdefault(eid, []).append(em)
+        run.meta[eid] = 'converted'
+        run.written += 1
 
     # T7.8 の作者再掲ぶん (S179): md が無く reposts/<episode_id>.txt がある話はプレーンテキストを段落化
     for eid, ep in episodes.items():
         txt_path = ROOT / 'reposts' / f'{eid}.txt'
         if eid in takedown:
             if eid not in body_md and txt_path.is_file():
-                skipped['repost'] += 1
+                run.skipped['repost'] += 1
             continue
-        if eid in meta:
+        if eid in run.meta:
             continue
         if not txt_path.is_file():
             continue
-        out, ok = payloads.text_payload(txt_path.read_text(encoding='utf-8'), stats, mail_n)
+        out, ok = payloads.text_payload(txt_path.read_text(encoding='utf-8'), run.stats, run.mail_n)
         if not ok:
-            violations.append(eid)
+            run.violations.append(eid)
         (OUT / f'{eid}.html').write_text(out, encoding='utf-8')
-        meta[eid] = 'converted-text'
-        written += 1
+        run.meta[eid] = 'converted-text'
+        run.written += 1
 
-    raw_written = 0
     for eid in raw_fallbacks:
         ep = episodes.get(eid)
         if not ep:
             continue
         if eid in takedown:
-            skipped['raw'] += 1
+            run.skipped['raw'] += 1
             continue
         raw, _enc = bodies.read_text_any(str(ROOT / ep['source_path']))
         src_dir = os.path.dirname(ep['source_path'])
-        out = payloads.raw_payload(raw, bodies.extract_body(raw), src_dir, images, warn, mail_n)
+        out = payloads.raw_payload(raw, bodies.extract_body(raw), src_dir, images, run.warn, run.mail_n)
         (OUT / f'{eid}.html').write_text(out, encoding='utf-8')
-        meta[eid] = 'raw-fallback'
-        written += 1
-        raw_written += 1
+        run.meta[eid] = 'raw-fallback'
+        run.written += 1
+        run.raw_written += 1
 
-    write_json(OUT / '_meta.json', meta, indent=0, newline=False)
+    write_json(OUT / '_meta.json', run.meta, indent=0, newline=False)
     # 出荷前の自己検査: 生アドレスが 1 つでも残っていたら失敗させる (鉄則の機械化)
     leaked = [f.name for f in sorted(OUT.glob('*.html'))
               if payloads.has_leak(f.read_text(encoding='utf-8'))]
-    report = payloads.report_of(written, raw_written, raw_fallbacks, takedown, skipped, removed,
-                                takedown_entries, stats, violations, warn, meta, eyecatch, mail_n, leaked)
+    report = payloads.report_of(run, raw_fallbacks, takedown, takedown_entries, leaked)
     rp = ROOT / 'catalog' / 'reports' / 'payload_build.json'
     write_json(rp, report, indent=2, newline=False)
-    print(f"payloads: {written} 本 (raw {raw_written}) blocks={stats}")
-    print(f"取り下げで飛ばした話: {len(takedown)} 話 (本文あり md {skipped['md']} / 再掲 "
-          f"{skipped['repost']} / raw {skipped['raw']}、前回の payload を消した {len(removed)} 本)")
+    print(f"payloads: {run.written} 本 (raw {run.raw_written}) blocks={run.stats}")
+    print(f"取り下げで飛ばした話: {len(takedown)} 話 (本文あり md {run.skipped['md']} / 再掲 "
+          f"{run.skipped['repost']} / raw {run.skipped['raw']}、前回の payload を消した {len(run.removed)} 本)")
     for t in takedown_entries:
         print(f"  {t['id']} {t['kind']}={t['value']}: {t['episodes']} 話")
-    print(f"アドレス除去: mailto {mail_n['mailto']} / 生 {mail_n['bare']} 件、残存 {len(set(leaked))} 本")
-    print(f"無損失検査: {'OK' if not violations else 'NG %d 件' % len(violations)}"
-          f" / 画像未解決 {len(set(warn['missing']))} / 外部 {len(set(warn['external']))}")
+    print(f"アドレス除去: mailto {run.mail_n['mailto']} / 生 {run.mail_n['bare']} 件、残存 {len(set(leaked))} 本")
+    print(f"無損失検査: {'OK' if not run.violations else 'NG %d 件' % len(run.violations)}"
+          f" / 画像未解決 {len(set(run.warn['missing']))} / 外部 {len(set(run.warn['external']))}")
     print(f"report: {rp}")
     if leaked:
         print(f"!! アドレスが残っているペイロード {len(set(leaked))} 本: {sorted(set(leaked))[:5]}")
-    if violations or leaked:
+    if run.violations or leaked:
         sys.exit(1)
 
 
