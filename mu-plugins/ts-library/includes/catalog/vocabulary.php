@@ -13,6 +13,9 @@ if (!defined('ABSPATH') && !defined('TS_LIBRARY_TEST')) { exit; }
 
 final class TS_Vocabulary {
 
+    /** authors.json に載らない擬似作者: slug => 名 (works.jsonl の author_slug に現れる)。sync-terms が term を作り、verify が語彙に数える */
+    public const PSEUDO_AUTHORS = ['unattributed' => '作者不詳', 'series-index' => '（シリーズ目録）'];
+
     private $name2slug = [];    // tax => [name / raw variant / lookup variant / slug => slug]
     private $ep_worlds = [];    // episode_id => [world slug] (terms.json の episode_worlds)
 

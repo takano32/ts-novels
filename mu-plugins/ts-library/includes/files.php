@@ -46,6 +46,7 @@ final class TS_Library_Files {
         'indexes/index-render.php',      // 索引の描画部品 (ts_bunko_index_<種類>)
         'visibility/visibility-hooks.php', // 410 / 404 を返す・帯を出す
         'takedown/takedown-store.php',   // 申請の投稿タイプと読み書き
+        'takedown/takedown-export-state.php', // 申請と denylist の突き合わせ (verify と export-takedowns)
         'takedown/takedown-mail.php',    // メールの送信
         'takedown/takedown-apply.php',   // 申請の非公開化と復帰
         'takedown/takedown-form.php',    // フォーム [ts_takedown_form] と確認リンク

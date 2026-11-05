@@ -20,9 +20,6 @@ if (!defined('ABSPATH') && !defined('TS_LIBRARY_TEST')) { exit; }
 
 abstract class TS_Command_Base {
 
-    /** authors.json に載らない擬似作者 (works.jsonl の author_slug に現れる)。sync-terms が term を作る */
-    protected const PSEUDO_AUTHORS = ['unattributed' => '作者不詳', 'series-index' => '（シリーズ目録）'];
-
     /** repo ルート (サーバでは ~/novels.xwp.jp/repo を想定。--repo で上書き可) */
     protected function repo_root($assoc) {
         $root = $assoc['repo'] ?? (getenv('TS_REPO') ?: (getenv('HOME') . '/novels.xwp.jp/repo'));
@@ -63,8 +60,13 @@ abstract class TS_Command_Base {
     /** takedown/denylist.yml のエントリ (読めなかったエントリの警告はここで出す) */
     protected function denylist($path): array {
         $r = TS_Denylist::parse($path);
-        foreach ($r['warnings'] as $w) WP_CLI::warning($w);
+        $this->warn($r['warnings']);
         return $r['entries'];
+    }
+
+    /** 警告の文をこの順に出す */
+    protected function warn(array $warnings): void {
+        foreach ($warnings as $w) WP_CLI::warning($w);
     }
 
     /** meta キーで投稿を 1 件引く (post_status を問わない) */
@@ -96,22 +98,5 @@ abstract class TS_Command_Base {
         // 直前の update で post_modified が動いた「後」の値を記録する
         clean_post_cache($post_id);
         update_post_meta($post_id, '_ts_last_import_gmt', get_post_field('post_modified_gmt', $post_id));
-    }
-
-    /** denylist に書き写した申請: 申請の投稿 ID => [記録の id, status] (reason の「(申請 <ID>)」で結ぶ) */
-    protected function exported_requests($root) {
-        $path = "$root/takedown/denylist.yml";
-        if (!is_file($path)) return [];
-        return TS_Denylist::exported_requests($this->denylist($path));
-    }
-
-    /** applied / approved の申請で denylist に対応するエントリが無いものの投稿 ID */
-    protected function requests_not_in_denylist($root) {
-        if (!post_type_exists(TS_TAKEDOWN_TYPE)) return [];
-        $done = $this->exported_requests($root);
-        $ids = get_posts(['post_type' => TS_TAKEDOWN_TYPE, 'post_status' => 'any', 'posts_per_page' => -1,
-                          'fields' => 'ids', 'no_found_rows' => true,
-                          'meta_key' => '_tr_status', 'meta_value' => ['applied', 'approved'], 'meta_compare' => 'IN']);
-        return array_values(array_filter(array_map('intval', $ids), function ($id) use ($done) { return !isset($done[$id]); }));
     }
 }

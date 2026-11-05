@@ -21,7 +21,7 @@ final class TS_Verify_Command extends TS_Command_Base {
         $vocab = $this->vocabulary($root);
         $authors = $this->authors($root);
         $taxes = TS_Content_Model::TAXONOMIES;
-        $expect = new TS_Verify_Expect($works, $episodes, $authors, self::PSEUDO_AUTHORS, $vocab, $taxes);
+        $expect = new TS_Verify_Expect($works, $episodes, $authors, TS_Vocabulary::PSEUDO_AUTHORS, $vocab, $taxes);
         $ok = true;
 
         // 1) 投稿数
@@ -114,7 +114,9 @@ final class TS_Verify_Command extends TS_Command_Base {
             if (time() - (int) $tick['time'] > 86400) WP_CLI::warning('ts_takedown_tick が 24 時間以上止まっている (S130)');
             if ($tick['error'] !== '') WP_CLI::warning('ts_takedown_tick の最後の実行が失敗している');
         }
-        $missing = $this->requests_not_in_denylist($root);
+        $st = TS_Takedown_Export_State::requests_not_in_denylist($root);
+        $this->warn($st['warnings']);
+        $missing = $st['ids'];
         WP_CLI::line('適用済みの申請で denylist に無いもの: ' . count($missing) . ' 件');
         if ($missing) WP_CLI::warning('denylist に書き写していない申請: ' . implode(' ', array_slice($missing, 0, 10))
             . ' (wp ts export-takedowns。S132)');

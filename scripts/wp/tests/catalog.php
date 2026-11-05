@@ -147,6 +147,7 @@ check('差分の行数 (同じ)', TS_Page_File::diff_count("a\n", "a\n"), [0, 0,
 
 // ---------------------------------------------------------------- verify の期待値
 $authors = [['slug' => 'A_Upper'], ['slug' => 'b']];
+check('擬似作者 (sync-terms が term を作る)', TS_Vocabulary::PSEUDO_AUTHORS, ['unattributed' => '作者不詳', 'series-index' => '（シリーズ目録）']);
 $pseudo = ['unattributed' => '作者不詳'];
 $v_works = [
     ['work_slug' => 'w1', 'author_slug' => 'A_Upper', 'episode_count' => 2, 'episodes' => ['e1', 'e2']],

@@ -47,7 +47,7 @@ final class TS_Sync_Terms_Command extends TS_Command_Base {
                  'ts_contact_status' => $a['contact_status'] ?? 'uncontacted'],
                 $dry, $n);
         }
-        foreach (self::PSEUDO_AUTHORS as $slug => $name) {
+        foreach (TS_Vocabulary::PSEUDO_AUTHORS as $slug => $name) {
             $this->upsert_term('ts_author', $slug, $name, [], ['ts_pseudo' => 1], $dry, $n);
         }
         WP_CLI::success(sprintf('sync-terms: created=%d updated=%d skipped=%d%s',
