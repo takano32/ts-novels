@@ -9,7 +9,7 @@ def check_specs_list(root, specs, problems):
     """SPECS.md の一覧と specs/ (番号の欠け・重複、題名・種類・状態、「いまの最後は」)。"""
     specs_md = root / 'SPECS.md'
     s_text = specs_md.read_text(encoding='utf-8')
-    rows = re.findall(r'^\| \[S\.([0-9]+)\]\(specs/S\.([0-9]+)\.md\) \| (.*?) \| (.*?) \| (.*?) \| .*\|$', s_text, re.M)
+    rows = re.findall(r'^\| \[S([0-9]+)\]\(specs/S([0-9]+)\.md\) \| (.*?) \| (.*?) \| (.*?) \| .*\|$', s_text, re.M)
     listed = [int(a) for a, *_ in rows]
     for a, b, *_ in rows:
         if a != b:
@@ -32,7 +32,7 @@ def check_specs_list(root, specs, problems):
             m = re.match(r'^- (種類|状態): (.*)$', ln)
             if m:
                 head[m.group(1)] = m.group(2)
-        m = re.match(rf'^# S\.{a} (.*)$', L[0])
+        m = re.match(rf'^# S{a} (.*)$', L[0])
         if not m:
             problems.report(p, 1, 'list', f'1 行目が「# S{a} 題名」でない')
         elif m.group(1).strip() != title.replace('\\|', '|').strip():
@@ -41,7 +41,7 @@ def check_specs_list(root, specs, problems):
             problems.report(p, 0, 'list', f'種類が SPECS.md の一覧と違う: 「{head.get("種類")}」/「{kind}」')
         if head.get('状態') != state.strip():
             problems.report(p, 0, 'list', f'状態が SPECS.md の一覧と違う: 「{head.get("状態")}」/「{state}」')
-    m = re.search(r'いまの最後は S\.([0-9]+)、次は S\.([0-9]+)', s_text)
+    m = re.search(r'いまの最後は S([0-9]+)、次は S([0-9]+)', s_text)
     if not m or int(m.group(1)) != max(specs) or int(m.group(2)) != max(specs) + 1:
         problems.report(specs_md, 0, 'list', f'「いまの最後は S{max(specs)}、次は S{max(specs) + 1}」と書かれていない')
 
@@ -50,7 +50,7 @@ def check_tasks_list(root, tasks, problems):
     """TASKS.md の一覧と tasks/ (番号の欠け・重複、題名・状態、「いまの最後は」) と tasks/Tn.md の書式。"""
     tasks_md = root / 'TASKS.md'
     t_text = tasks_md.read_text(encoding='utf-8')
-    rows = re.findall(r'^\| \[T\.([0-9]+)\]\(tasks/T\.([0-9]+)\.md\) \| (.*?) \| (.*?) \| .*\|$', t_text, re.M)
+    rows = re.findall(r'^\| \[T([0-9]+)\]\(tasks/T([0-9]+)\.md\) \| (.*?) \| (.*?) \| .*\|$', t_text, re.M)
     listed = [int(a) for a, *_ in rows]
     for a, b, *_ in rows:
         if a != b:
@@ -61,7 +61,7 @@ def check_tasks_list(root, tasks, problems):
         problems.report(tasks_md, 0, 'list', f'tasks/T{n}.md が TASKS.md の一覧に無い')
     for n in sorted(set(listed) - set(tasks)):
         problems.report(tasks_md, 0, 'list', f'一覧の T{n} のファイルが無い')
-    m = re.search(r'いまの最後は T\.([0-9]+)、次は T\.([0-9]+)', t_text)
+    m = re.search(r'いまの最後は T([0-9]+)、次は T([0-9]+)', t_text)
     if tasks and (not m or int(m.group(1)) != max(tasks) or int(m.group(2)) != max(tasks) + 1):
         problems.report(tasks_md, 0, 'list', f'「いまの最後は T{max(tasks)}、次は T{max(tasks) + 1}」と書かれていない')
     row_of = {int(a): (title, state) for a, _, title, state in rows}
@@ -72,7 +72,7 @@ def check_tasks_list(root, tasks, problems):
 def check_task_file(n, p, row, tasks_md, problems):
     """tasks/Tn.md の書式 (1・3・4 行目、番号の親、状態とチェックボックス) と TASKS.md の行 row (題名, 状態)。"""
     L = p.read_text(encoding='utf-8').split('\n')
-    m = re.match(rf'^# T\.{n} (.*)$', L[0])
+    m = re.match(rf'^# T{n} (.*)$', L[0])
     if not m:
         problems.report(p, 1, 'format', f'1 行目が「# T{n} 題名」でない')
         return

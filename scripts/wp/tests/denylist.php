@@ -16,7 +16,7 @@ check('Marie 氏のエントリ', [$byid['S235']['kind'] ?? null, $byid['S235'][
 check('public_note を読む', $byid['S235']['public_note'] ?? null,
       'Ｍａｒｉｅさんの作品 (7 作) — 作者の申し出により掲載していません');
 check('public_note の無いエントリ', $byid['S231']['public_note'] ?? null, '');
-check('id は全部 S 番号 (S221)', array_values(array_filter(array_keys($byid), function ($id) { return !preg_match('/^S\.[0-9]+$/', $id); })), []);
+check('id は全部 S 番号 (S221)', array_values(array_filter(array_keys($byid), function ($id) { return !preg_match('/^S[0-9]+$/', $id); })), []);
 check('kind は許された値だけ', array_values(array_diff(array_unique(array_column($entries, 'kind')), TS_Denylist::KINDS)), []);
 
 $lines = explode("\n", "version: 1\nentries:\n  - id: S1\n    target:\n      kind: work\n      value: w\n"

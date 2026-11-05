@@ -115,7 +115,7 @@ final class TS_Denylist {
         $out = ''; $ids = []; $n = $first;
         $status = $req['status'] === 'reinstated' ? 'reinstated' : 'applied';
         foreach ($targets as $t) {
-            $id = 'S.' . $n++;
+            $id = 'S' . $n++;
             $ids[] = $id;
             $out .= "  - id: $id\n"
                 . "    target:\n"
@@ -183,7 +183,7 @@ final class TS_Denylist {
             if (!preg_match('/^[0-9]+$/', $start)) return [null, '--start は数字で'];
             return [(int) $start, null];
         }
-        if ($specs === null || !preg_match('/次は S\.([0-9]+)/u', $specs, $m)) return [null, 'SPECS.md に「次は Sn」が無い (--start で指定)'];
+        if ($specs === null || !preg_match('/次は S([0-9]+)/u', $specs, $m)) return [null, 'SPECS.md に「次は Sn」が無い (--start で指定)'];
         return [(int) $m[1], null];
     }
 

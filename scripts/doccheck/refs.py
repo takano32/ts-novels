@@ -13,7 +13,7 @@ def check_denylist(root, specs, problems):
     for i, ln in enumerate(deny.read_text(encoding='utf-8').split('\n'), 1):
         m = re.match(r'^  - id: (\S+)', ln)
         if m:
-            mm = re.fullmatch(r'S\.([0-9]+)', m.group(1))
+            mm = re.fullmatch(r'S([0-9]+)', m.group(1))
             if not mm or int(mm.group(1)) not in specs:
                 problems.report(deny, i, 'deny', f'denylist の id {m.group(1)} が specs/ の S として無い', ln)
 
