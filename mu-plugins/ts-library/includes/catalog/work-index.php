@@ -29,6 +29,28 @@ final class TS_Work_Index {
     }
 
     /**
+     * 連載の親 work に合併して付ける term の値 (`wp ts import`。書庫に連載を出すため)。単発の話と work の無い話は除く。
+     * 返り値: $episodes の添字 => ['work' => work_slug, 'terms' => [taxonomy => 値の配列]] (episodes の順)。
+     * taxonomy は ts_genre・ts_type・ts_keyword・ts_world・ts_corpus の順で、値は話の欄そのまま (語彙での解決と
+     * term ID への照合は呼び出し側の TS_Term_Resolver::term_ids)。work ごとに束ねずに話ごとに返すのは、
+     * term_ids が解決できなかった値をその都度数える (ts_term_warnings の件数と並び) のを分割前と同じにするため。
+     * wp ts verify の期待値 (TS_Verify_Expect::assignment_counts) は importer と独立に数えるため、これを使わない。
+     */
+    public static function parent_term_values(array $episodes, array $ep2work, array $single, TS_Vocabulary $vocab): array {
+        $out = [];
+        foreach ($episodes as $i => $ep) {
+            $w = $ep2work[$ep['episode_id']] ?? null;
+            if ($w === null || isset($single[$w])) continue;
+            $terms = [];
+            foreach ([['genre', 'ts_genre'], ['type', 'ts_type'], ['keywords', 'ts_keyword']] as [$f, $tax]) $terms[$tax] = $ep[$f] ?? [];
+            $terms['ts_world'] = $vocab->episode_worlds($ep['episode_id']);
+            $terms['ts_corpus'] = [$ep['corpus'] ?? null];
+            $out[$i] = ['work' => $w, 'terms' => $terms];
+        }
+        return $out;
+    }
+
+    /**
      * 子投稿 (話) の URL slug を決定的に割り当てる。原ファイル名の語幹 → 作品内で重複したら
      * 親ディレクトリ前置 → 日付後置 → episodes.jsonl 順の連番 (catalog がコミット済みなので決定的)。
      * $sanitize(string): string は WordPress の sanitize_title。

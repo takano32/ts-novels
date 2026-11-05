@@ -59,19 +59,14 @@ final class TS_Import_Command extends TS_Command_Base {
 
         $done = 0;
         $parent_terms = []; // 連載の親 work へ子の term を合併して付ける (書庫に連載を出すため)
-        foreach ($episodes as $ep) {
+        $parent_values = TS_Work_Index::parent_term_values($episodes, $ep2work, $single_work, $this->vocab);
+        foreach ($episodes as $i => $ep) {
             $wslug = $ep2work[$ep['episode_id']] ?? null;
             if ($only_author && !isset($work_ids[$wslug])) continue;
             if ($limit && $done >= $limit) break;
-            if (!$dry && $wslug !== null && !isset($single_work[$wslug])) {
-                foreach ([['genre', 'ts_genre'], ['type', 'ts_type'], ['keywords', 'ts_keyword']] as [$f, $tax]) {
-                    foreach ($this->terms->term_ids($tax, $ep[$f] ?? []) as $tid) $parent_terms[$wslug][$tax][$tid] = 1;
-                }
-                foreach ($this->terms->term_ids('ts_world', $this->vocab->episode_worlds($ep['episode_id'])) as $tid) {
-                    $parent_terms[$wslug]['ts_world'][$tid] = 1;
-                }
-                foreach ($this->terms->term_ids('ts_corpus', [$ep['corpus']]) as $tid) {
-                    $parent_terms[$wslug]['ts_corpus'][$tid] = 1;
+            if (!$dry && isset($parent_values[$i])) {   // 連載の話 (単発と work の無い話は入っていない)
+                foreach ($parent_values[$i]['terms'] as $tax => $values) {
+                    foreach ($this->terms->term_ids($tax, $values) as $tid) $parent_terms[$wslug][$tax][$tid] = 1;
                 }
             }
             // 作者 term は作品の author_slug からのみ付く。kansou_slug は板の slug であって

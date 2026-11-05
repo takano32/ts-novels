@@ -74,6 +74,18 @@ $slugs2 = TS_Work_Index::child_slugs([
 check('同じ場所で日が違えば日付を後置', $slugs2, ['f1' => 'a-p-20010101', 'f2' => 'a-p-20010202']);
 check('掃除して空になれば episode_id から', TS_Work_Index::child_slugs([['episode_id' => 'g1', 'source_path' => 'novel/a/あ.htm', 'source_anchor' => null]], ['g1' => 'w'], [], $sanitize), ['g1' => 'g1']);
 
+$pv = TS_Work_Index::parent_term_values([
+    ['episode_id' => 'e1', 'corpus' => 'honkan', 'genre' => ['SF', 'ホラー'], 'type' => ['TS'], 'keywords' => null],
+    ['episode_id' => 'e4', 'corpus' => 'honkan', 'genre' => ['SF']],                // 単発は除く
+    ['episode_id' => 'x9', 'corpus' => 'honkan', 'genre' => ['SF']],                // work の無い話も除く
+    ['episode_id' => 'e2', 'corpus' => 'kyukan', 'genre' => 'ファンタジー'],
+], $ep2work, $single, $vocab);
+check('親 work に合併する値は連載の話ごと (添字は episodes のまま、taxonomy の順は固定、値は欄そのまま)', $pv, [
+    0 => ['work' => 'a-serial', 'terms' => ['ts_genre' => ['SF', 'ホラー'], 'ts_type' => ['TS'], 'ts_keyword' => [],
+                                             'ts_world' => ['delayed'], 'ts_corpus' => ['honkan']]],
+    3 => ['work' => 'a-serial', 'terms' => ['ts_genre' => 'ファンタジー', 'ts_type' => [], 'ts_keyword' => [],
+                                             'ts_world' => [], 'ts_corpus' => ['kyukan']]]]);
+
 // ---------------------------------------------------------------- 話のメタ
 $ep = ['episode_id' => 'e1', 'source_path' => 'novel/x.htm', 'source_anchor' => null, 'corpus' => 'honkan', 'catalog_ref' => 'lib1.html#1',
        'date_raw' => '2002/1/1', 'size_kb' => 10, 'files_n' => null, 'illustrator' => ['画'], 'illustrator_url' => null,
