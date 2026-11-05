@@ -2,9 +2,15 @@
 """allow.py — 許可リスト (scripts/doc_check_allow.tsv) と、問題の集め方。
 
 許可リストの行は「パス (glob 可)<TAB>種類<TAB>行に含まれる文字列<TAB>理由」。
+使わない語 (word) の種類は「word:<規則の名前>」と書き、その規則の問題だけを通す (T45.7.7。名前は rules.BANNED の
+1 つ目で、問題の文の「」の中と同じ)。同じ行の別の規則の問題は通さない。
 問題は Problems.report に渡し、許可リストの行に当たればその行の使用回数を数えて捨てる。
 """
 import fnmatch
+
+from doccheck.rules import BANNED
+
+RULE_NAMES = frozenset(n for n, _ in BANNED)
 
 
 class AllowListError(Exception):
@@ -21,7 +27,14 @@ def load_allow(path):
         cols = ln.split('\t')
         if len(cols) != 4 or not cols[3].strip():
             raise AllowListError(f'{path}:{i}: 許可リストの行は「パス<TAB>種類<TAB>行に含まれる文字列<TAB>理由」の 4 列')
-        rules.append({'path': cols[0], 'kind': cols[1], 'text': cols[2], 'reason': cols[3], 'line': i, 'used': 0})
+        kind, _, rule = cols[1].partition(':')
+        if kind == 'word' and rule not in RULE_NAMES:
+            raise AllowListError(f'{path}:{i}: 使わない語の許可は種類を「word:<規則の名前>」と書く'
+                                 f' (規則の名前は scripts/doccheck/rules.py の BANNED): {cols[1]}')
+        if kind != 'word' and rule:
+            raise AllowListError(f'{path}:{i}: 規則の名前を書けるのは word の種類だけ: {cols[1]}')
+        rules.append({'path': cols[0], 'kind': kind, 'rule': rule or None, 'kind_col': cols[1], 'text': cols[2],
+                      'reason': cols[3], 'line': i, 'used': 0})
     return rules
 
 
@@ -33,10 +46,11 @@ class Problems:
         self.rules = rules
         self.items = []
 
-    def report(self, f, lineno, kind, msg, line=''):
+    def report(self, f, lineno, kind, msg, line='', rule=None):
+        """rule は使わない語の規則の名前 (word のときだけ)。許可リストの行は種類と規則の両方が合うときだけ当たる"""
         rel = f.relative_to(self.root).as_posix()
         for r in self.rules:
-            if r['kind'] == kind and fnmatch.fnmatch(rel, r['path']) and r['text'] in line:
+            if r['kind'] == kind and r['rule'] == rule and fnmatch.fnmatch(rel, r['path']) and r['text'] in line:
                 r['used'] += 1
                 return
         self.items.append(f'{rel}:{lineno} [{kind}] {msg}')

@@ -29,7 +29,7 @@ def run(root, allow_path):
 def output_lines(result):
     lines = [f'  [NG ] {p}' for p in result.problems]
     for r in result.unused:
-        lines.append(f'  [注意] 許可リスト {r["line"]} 行目は使われていない: {r["path"]} {r["kind"]} {r["text"]!r}')
+        lines.append(f'  [注意] 許可リスト {r["line"]} 行目は使われていない: {r["path"]} {r["kind_col"]} {r["text"]!r}')
     mark = 'OK ' if not result.problems else 'NG '
     lines.append(f'  [{mark}] 文書の検査: 問題 {len(result.problems)} 件 (S {result.n_specs} 本 / T {result.n_tasks} 本 / '
                  f'T 番号 {result.n_task_ids} / 許可リストで通した {result.used} 件)')

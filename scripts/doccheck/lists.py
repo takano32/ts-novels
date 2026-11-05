@@ -42,7 +42,8 @@ def check_specs_list(root, specs, problems):
         if head.get('状態') != state.strip():
             problems.report(p, 0, 'list', f'状態が SPECS.md の一覧と違う: 「{head.get("状態")}」/「{state}」')
     m = re.search(r'いまの最後は S([0-9]+)、次は S([0-9]+)', s_text)
-    if not m or int(m.group(1)) != max(specs) or int(m.group(2)) != max(specs) + 1:
+    # specs/ が空なら「いまの最後は」は見ない (tasks/ と同じ。T45.7.7 より前は max() が ValueError で落ちた)
+    if specs and (not m or int(m.group(1)) != max(specs) or int(m.group(2)) != max(specs) + 1):
         problems.report(specs_md, 0, 'list', f'「いまの最後は S{max(specs)}、次は S{max(specs) + 1}」と書かれていない')
 
 

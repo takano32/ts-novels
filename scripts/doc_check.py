@@ -19,13 +19,16 @@
 
 使い方: python3 scripts/doc_check.py [--root DIR]
 ロジックは scripts/doccheck/ (この入口は引数の解釈・表示・終了コードだけ)。
+python3 -P / -I (safe path。スクリプトの置き場を sys.path に足さない) でも動くよう、入口で scripts/ を足す (T45.7.7)。
 """
 import argparse
+import os
 import sys
 from pathlib import Path
 
-from doccheck.allow import AllowListError
-from doccheck.run import output_lines, run
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from doccheck.allow import AllowListError  # noqa: E402
+from doccheck.run import output_lines, run  # noqa: E402
 
 
 def main():

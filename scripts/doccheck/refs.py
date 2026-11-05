@@ -35,7 +35,7 @@ def check_line(f, i, ln, specs, t_ids, problems):
             problems.report(f, i, 'link', f'リンク先が無い: {target}', ln)
     for name, rx in BANNED:
         if rx.search(ln):
-            problems.report(f, i, 'word', f'使わない語「{name}」', ln)
+            problems.report(f, i, 'word', f'使わない語「{name}」', ln, rule=name)
 
 
 def check_docs(files, specs, t_ids, problems):

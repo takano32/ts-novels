@@ -49,11 +49,19 @@ class BannedTest(unittest.TestCase):
                 self.assertTrue(rx.search(HITS[name]), HITS[name])
 
     def test_each_sample_hits_only_its_rule(self):
-        # 旧略記 TD-0 の規則は 1 行目の規則 (TD-0 を含む) に含まれ、同じ文に 2 つが当たる (T45.2.40 で決める)
-        overlap = {'取り下げ番号の旧略記 TD-0': ['廃止した取り下げ番号 (TD-…・TD.n)', '取り下げ番号の旧略記 TD-0']}
+        # 旧略記 TD-0 も 1 つの規則にだけ当たる (T45.7.7 で 1 行目の規則から外した。それまでは同じ文に 2 つが当たった)
         for name, text in HITS.items():
             with self.subTest(name=name):
-                self.assertEqual([n for n, rx in BANNED if rx.search(text)], overlap.get(name, [name]))
+                self.assertEqual([n for n, rx in BANNED if rx.search(text)], [name])
+
+    def test_retired_takedown_number_forms(self):
+        # 1 行目の規則は年と連番の形・YYYY・TD.n を見る。TD-0 は旧略記の規則だけ
+        for text, want in (('TD-2026-0001 の件', ['廃止した取り下げ番号 (TD-…・TD.n)']),
+                           ('TD-YYYY-NNNN の形', ['廃止した取り下げ番号 (TD-…・TD.n)']),
+                           ('TD.n の形', ['廃止した取り下げ番号 (TD-…・TD.n)']),
+                           ('TD-0001 の件', ['取り下げ番号の旧略記 TD-0'])):
+            with self.subTest(text=text):
+                self.assertEqual([n for n, rx in BANNED if rx.search(text)], want)
 
     def test_ordinary_text_hits_nothing(self):
         for text in MISSES:

@@ -3,7 +3,8 @@
 import re
 
 BANNED = [
-    ('廃止した取り下げ番号 (TD-…・TD.n)', re.compile(r'TD-(?:20[0-9][0-9]|YYYY|0)|(?<![\w.])TD\.(?:[0-9]|n\b)')),
+    # TD-0 は下の「取り下げ番号の旧略記」だけが見る (T45.7.7 より前はここにも含まれ、同じ行に 2 件数えた)
+    ('廃止した取り下げ番号 (TD-…・TD.n)', re.compile(r'TD-(?:20[0-9][0-9]|YYYY)|(?<![\w.])TD\.(?:[0-9]|n\b)')),
     ('廃止した TODO.md', re.compile(r'TODO\.md')),
     ('§', re.compile(r'§')),
     ('台帳', re.compile(r'台帳')),

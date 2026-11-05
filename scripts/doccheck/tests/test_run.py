@@ -38,16 +38,47 @@ class RunTest(DocTreeCase):
     def test_allow_rules_and_unused_notice(self):
         self.append('docs/a.md', '台帳 の引用\n台帳\n')
         self.write('scripts/doc_check_allow.tsv',
-                   '# 許可リスト\n\ndocs/*.md\tword\tの引用\t規則の引用\n'
-                   'docs/*.md\tlink\tの引用\t種類が違う\nnone.md\tword\tzzz\t使われない\n')
+                   '# 許可リスト\n\ndocs/*.md\tword:台帳\tの引用\t規則の引用\n'
+                   'docs/*.md\tlink\tの引用\t種類が違う\nnone.md\tword:台帳\tzzz\t使われない\n')
         r = run(self.root, self.allow_path)
         self.assertEqual(r.used, 1)
         self.assertEqual(output_lines(r), [
             '  [NG ] docs/a.md:3 [word] 使わない語「台帳」',
             "  [注意] 許可リスト 4 行目は使われていない: docs/*.md link 'の引用'",
-            "  [注意] 許可リスト 5 行目は使われていない: none.md word 'zzz'",
+            "  [注意] 許可リスト 5 行目は使われていない: none.md word:台帳 'zzz'",
             '  [NG ] 文書の検査: 問題 1 件 (S 2 本 / T 1 本 / T 番号 4 / 許可リストで通した 1 件)',
         ])
+
+    def test_allow_rule_narrows_same_line(self):
+        # 許可リストの行は書いた規則の問題だけを通す。同じ行の別の規則の問題は残る (T45.7.7 より前は行と種類だけで通した)
+        self.append('docs/a.md', '台帳 と § の引用\n')
+        self.write('scripts/doc_check_allow.tsv', '# 許可リスト\ndocs/*.md\tword:台帳\tの引用\t規則の引用\n')
+        r = run(self.root, self.allow_path)
+        self.assertEqual((r.problems, r.used), (['docs/a.md:2 [word] 使わない語「§」'], 1))
+        self.write('scripts/doc_check_allow.tsv', '# 許可リスト\ndocs/*.md\tword:台帳\tの引用\t規則の引用\n'
+                   'docs/*.md\tword:§\tの引用\t規則の引用\n')
+        r = run(self.root, self.allow_path)
+        self.assertEqual((r.problems, r.used), ([], 2))
+
+    def test_allow_kind_and_rule_forms(self):
+        # word は規則の名前が要る (無い名前も受け付けない)。word 以外の種類には規則の名前を書けない
+        for kind, msg in (('word', '「word:<規則の名前>」と書く'), ('word:', '「word:<規則の名前>」と書く'),
+                          ('word:無い規則', '「word:<規則の名前>」と書く'), ('link:台帳', 'word の種類だけ')):
+            with self.subTest(kind=kind):
+                self.write('scripts/doc_check_allow.tsv', f'# 許可リスト\ndocs/*.md\t{kind}\tx\t理由\n')
+                with self.assertRaises(AllowListError) as cm:
+                    run(self.root, self.allow_path)
+                self.assertTrue(str(cm.exception).startswith(f'{self.allow_path}:2: '), str(cm.exception))
+                self.assertIn(msg, str(cm.exception))
+
+    def test_empty_specs(self):
+        # specs/ が空でも落ちない (T45.7.7 より前は「いまの最後は」の max() が ValueError)
+        for n in (1, 2):
+            (self.root / 'specs' / f'S{n}.md').unlink()
+        r = run(self.root, self.allow_path)
+        self.assertEqual([p for p in r.problems if 'いまの最後は' in p], [])
+        self.assertIn('SPECS.md:0 [list] 一覧の S1 のファイルが無い', r.problems)
+        self.assertEqual(r.n_specs, 0)
 
     def test_broken_allow_line(self):
         self.write('scripts/doc_check_allow.tsv', '# 許可リスト\nfoo\tword\tbar\t \n')
@@ -72,6 +103,13 @@ class RunTest(DocTreeCase):
         p = entry()
         self.assertEqual((p.returncode, p.stdout), (1, ''))
         self.assertIn('許可リストの行は', p.stderr)
+
+    def test_entry_safe_path(self):
+        """入口は python3 -I (safe path。スクリプトの置き場を sys.path に足さない) でも動く (T45.7.7)。"""
+        p = subprocess.run([sys.executable, '-I', str(ENTRY), '--root', str(self.root)],
+                           capture_output=True, text=True, encoding='utf-8', cwd=str(self.root))
+        self.assertEqual((p.returncode, p.stderr), (0, ''))
+        self.assertTrue(p.stdout.startswith('  [OK ] 文書の検査: 問題 0 件'), p.stdout)
 
 
 class ImportTest(unittest.TestCase):
