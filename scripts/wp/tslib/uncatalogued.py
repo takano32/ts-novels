@@ -138,13 +138,23 @@ def index_by_path(index_rows):
     return index_of
 
 
+def size_or_zero(full):
+    """ファイルの大きさ。読めなければ 0 (壊れたシンボリックリンクなどで走査を止めない。
+    旧版は除外に残った話だけ getsize していたので、除外される壊れたファイルでは止まらなかった)。"""
+    try:
+        return os.path.getsize(full)
+    except OSError:
+        return 0
+
+
 def scan_file(root, path):
-    """ファイルを読み、字数・画像の有無・大きさ・~yays の写しの有無・md5 を FileFacts にする。"""
+    """ファイルを読み、字数・画像の有無・大きさ・~yays の写しの有無・md5 を FileFacts にする。
+    読めないファイルは中身 ''・大きさ 0・md5 None になり、exclusion_reason で empty として落ちる。"""
     full = os.path.join(root, path)
     src = read_text_or_empty(full)
     body_text = text_of_html(src) if not path.lower().endswith('.txt') else src
     return FileFacts(path=path, src=src, chars=len(re.sub(r'\s', '', body_text)),
-                     has_img=bool(RE_IMG.search(src)), size_bytes=os.path.getsize(full),
+                     has_img=bool(RE_IMG.search(src)), size_bytes=size_or_zero(full),
                      yays_exists=os.path.exists(os.path.join(root, YAYS_PREFIX + path)),
                      digest=md5_of(full))
 

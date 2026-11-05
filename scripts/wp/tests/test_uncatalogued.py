@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """tslib/uncatalogued.py: 目録に載らない novel/ 配下の本文の拾い方。"""
 import collections
+import os
 import unittest
 
 from tslib import uncatalogued as uc
@@ -91,6 +92,18 @@ class BuildTest(TempDirCase):
         a, b = uc.scan_file(self.tmp, 'novel/d/a.html'), uc.scan_file(self.tmp, 'novel/d/b.txt')
         self.assertEqual((a.chars, a.has_img, a.yays_exists, len(a.digest)), (2, True, True, 32))
         self.assertEqual((b.chars, b.has_img, b.yays_exists, b.size_bytes), (2, False, False, 9))
+
+    def test_unreadable_file(self):
+        # 壊れたシンボリックリンク: 読めないが走査は止めず、empty で除外する (T45.2.30)
+        os.makedirs(os.path.join(self.tmp, 'novel/200101/1'))
+        os.symlink('nowhere.html', os.path.join(self.tmp, 'novel/200101/1/broken.html'))
+        f = uc.scan_file(self.tmp, 'novel/200101/1/broken.html')
+        self.assertEqual((f.src, f.chars, f.size_bytes, f.digest), ('', 0, 0, None))
+        keep, added, excluded, report = uc.build(self.tmp, [], 'https://annex.example.com/', use_provenance=False)
+        self.assertEqual(added, [])
+        self.assertEqual(excluded, [{'source_path': 'novel/200101/1/broken.html', 'reason': 'empty',
+                                     'text_chars': 0}])
+        self.assertEqual(report['uncovered_after'], 0)
 
     def test_build_without_provenance(self):
         self.write('novel/200101/1/a.html', '<title>Aの話</title><p>作：山田</p><p>本文です</p>')
