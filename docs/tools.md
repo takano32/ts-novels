@@ -10,6 +10,7 @@ S210 (WordPress 移築。`scripts/wp/`) にあり、ここではどこから使�
 | `scripts/` 直下 | 原本の回収・監査・変換 (サルベージ) のツール。標準ライブラリだけの Python 3 (S209) |
 | `scripts/workflows/` | Claude Code の Workflow ツール用の JavaScript。WordPress 移築の調査と設計に使った (S209) |
 | `scripts/wp/` | WordPress 移築の実装。目録データ (catalog) の生成・本文の変換・配備 (S210) |
+| `scripts/wp/tslib/` | `scripts/wp/*.py` のロジック。入口は引数と読み書きと表示だけで、変換・判定はここの関数に置く (S243) |
 | `scripts/doc_check.py` | 文書 (docs / specs / tasks) の番号・リンク・使わない語の検査 (S219)。ロジックは `scripts/doccheck/` |
 
 ## よく使う入口 (リポジトリ直下の Makefile)
