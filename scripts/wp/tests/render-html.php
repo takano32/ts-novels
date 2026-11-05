@@ -245,3 +245,26 @@ $same('帯と子の状態', $got, array (
   'banner/committee/page' => '',
 ));
 TS_WP_Stubs::reset();
+
+// ---------------------------------------------------------------- 索引の描画部品 4 つ (T10.3。T45.1.15.4)
+// 期待値: d586f0eb の indexes.php、2026-11-05、probe-indexes.php。作品数 (ts_bunko_work_counts) は taxonomy ごとに 1 プロセスに 1 度
+// だけ $wpdb から数えるので、この場面で初めて数える。積んだ行の組が意図した taxonomy に当たったことを問い合わせの列で見る
+ts_fixture_indexes();
+$got = [];
+foreach (['kana', 'bunrui', 'vocabulary', 'docs'] as $k) $got["index/$k"] = TS_WP_Stubs::capture('ts_bunko_index_' . $k);
+$got['queries'] = array_map(function ($q) { return preg_match("/tt\\.taxonomy = '([a-z_]+)'/", $q, $m) ? $m[1] : '?'; }, TS_WP_Stubs::$db_queries);
+$same('索引', $got, array (
+  'index/kana' => '<nav class="ts-kana-rows"><a href="#kana-%E3%81%82%E8%A1%8C">あ行</a> <a href="#kana-%E3%81%8B%E8%A1%8C">か行</a> <a href="#kana-B">B</a> <a href="#kana-%E2%98%86">☆</a> <a href="#kana-%E4%BB%96">他</a> </nav><h2 id="kana-%E3%81%82%E8%A1%8C" class="ts-archive-title">あ行</h2><ul class="ts-index-list"><li><a href="https://novels.xwp.jp/authors/aoi-sora/">青井 空</a> <span class="ts-count">(3)</span></li><li><a href="https://novels.xwp.jp/authors/ichikawa-hajime/">市川 一</a> <span class="ts-count">(1)</span></li></ul><h2 id="kana-%E3%81%8B%E8%A1%8C" class="ts-archive-title">か行</h2><ul class="ts-index-list"><li><a href="https://novels.xwp.jp/authors/kawabe-nagare/">川辺 &lt;流&gt;</a> <span class="ts-count">(2)</span></li></ul><h2 id="kana-B" class="ts-archive-title">B</h2><ul class="ts-index-list"><li><a href="https://novels.xwp.jp/authors/bob/">Bob</a> <span class="ts-count">(1)</span></li></ul><h2 id="kana-%E2%98%86" class="ts-archive-title">☆</h2><ul class="ts-index-list"><li><a href="https://novels.xwp.jp/authors/kigou/">記号 ☆</a> <span class="ts-count">(1)</span></li></ul><h2 id="kana-%E4%BB%96" class="ts-archive-title">他</h2><ul class="ts-index-list"><li><a href="https://novels.xwp.jp/authors/yomi-nashi/">読みなし</a> <span class="ts-count">(1)</span></li></ul>',
+  'index/bunrui' => '<h2 class="ts-archive-title">ジャンル</h2><ul class="ts-index-list"><li><a href="https://novels.xwp.jp/genre/fantasy/">ファンタジー</a> <span class="ts-count">(6)</span></li><li><a href="https://novels.xwp.jp/genre/gakuen/">学園</a> <span class="ts-count">(2)</span> — 学校が舞台 &amp; 寮</li></ul><h2 class="ts-archive-title">変身のかたち</h2><ul class="ts-index-list"><li><a href="https://novels.xwp.jp/type/irekawari/">入れ替わり</a> <span class="ts-count">(3)</span></li></ul><h2 class="ts-archive-title">共有世界</h2><ul class="ts-index-list"></ul>',
+  'index/vocabulary' => '<p class="ts-archive-desc">当時の目録で使われていたキーワードの全語彙です。数字はそのキーワードが付いた作品の数です。</p><p class="ts-chips"><a class="ts-chip" href="https://novels.xwp.jp/keyword/ame/">あめ 8</a> <a class="ts-chip" href="https://novels.xwp.jp/keyword/neko/">ねこ 5</a> </p>',
+  'index/docs' => '<h2 id="sec-gallery" class="ts-archive-title">ギャラリー</h2><ul class="ts-index-list"><li><a href="https://novels.xwp.jp/docs/gallery-1/">挿絵の部屋</a></li></ul><h2 id="sec-columns" class="ts-archive-title">コラム</h2><ul class="ts-index-list"><li><a href="https://novels.xwp.jp/docs/column-a/">コラム A &amp; 序</a></li><li><a href="https://novels.xwp.jp/docs/column-b/">コラム B</a></li></ul><h2 id="sec-prehistory" class="ts-archive-title">文庫前史 (1999)</h2><ul class="ts-index-list"><li><a href="https://novels.xwp.jp/docs/prehistory/">1999 年の原型</a></li></ul><h2 id="sec-notes" class="ts-archive-title">解題</h2><ul class="ts-index-list"><li><a href="https://novels.xwp.jp/docs/kaidai/">解題 (区分なし)</a></li></ul>',
+  'queries' => 
+  array (
+    0 => 'ts_author',
+    1 => 'ts_genre',
+    2 => 'ts_type',
+    3 => 'ts_world',
+    4 => 'ts_keyword',
+  ),
+));
+TS_WP_Stubs::reset();

@@ -261,3 +261,53 @@ function ts_fixture_removed(bool $empty = false): array {
     }
     return $ids;
 }
+
+/**
+ * 索引 (T10.3) の作者索引・分類索引・キーワード索引・運営文書の索引の場面。term の「空でない」は add_term の count で決め
+ * (投稿は置かない)、作品数 (ts_bunko_work_counts が $wpdb から数える行) は $db_rows に、呼ぶ順 (作者索引 → 分類索引 →
+ * キーワード索引) の問い合わせの順に積む: ts_author → ts_genre → ts_type → ts_world → ts_keyword。作品数は taxonomy ごとに
+ * 1 プロセスに 1 度しか数えない (static) ので、最初に索引を描く試験がこの場面で呼ぶ。
+ * 作者: 読みの行 (あ行・か行・A・想定外の値・空 = 他) と、作品数 0 の作者 (出さない)。分類: 説明つきの語、作品数 0 の語、
+ * 作品数の無い共有世界 (見出しだけ)。キーワード: 件数順と作品数 0。運営文書: 区分ごと、区分なし (解題)、表に無い区分 (出さない)、
+ * 下書き (出さない)。返り値: 作った term と投稿の ID (名前 => ID)
+ */
+function ts_fixture_indexes(): array {
+    TS_WP_Stubs::reset();
+    $ids = [];
+    $term = function (string $key, string $tax, string $name, string $slug, int $count, string $desc = '') use (&$ids) {
+        return $ids[$key] = TS_WP_Stubs::add_term(['taxonomy' => $tax, 'name' => $name, 'slug' => $slug, 'count' => $count, 'description' => $desc]);
+    };
+    foreach ([['a_aoi', '青井 空', 'aoi-sora', 'あ行', 3], ['a_ichi', '市川 一', 'ichikawa-hajime', 'あ行', 1], ['a_kawa', '川辺 <流>', 'kawabe-nagare', 'か行', 2],
+              ['a_zero', '零の人', 'zero-no-hito', 'か行', 4], ['a_bob', 'Bob', 'bob', 'B', 1], ['a_odd', '記号 ☆', 'kigou', '☆', 1],
+              ['a_none', '読みなし', 'yomi-nashi', '', 1]] as [$k, $name, $slug, $group, $count]) {
+        $term($k, 'ts_author', $name, $slug, $count);
+        if ($group !== '') TS_WP_Stubs::set_term_meta($ids[$k], ['ts_yomi_group' => $group]);
+    }
+    $term('g_gakuen', 'ts_genre', '学園', 'gakuen', 5, '学校が舞台 & 寮');
+    $term('g_fantasy', 'ts_genre', 'ファンタジー', 'fantasy', 9);
+    $term('g_zero', 'ts_genre', '空の語', 'kara', 2);
+    $term('t_ire', 'ts_type', '入れ替わり', 'irekawari', 4);
+    $term('w_hoshi', 'ts_world', '星の町', 'hoshi-no-machi', 1);
+    $term('k_neko', 'ts_keyword', 'ねこ', 'neko', 7);
+    $term('k_ame', 'ts_keyword', 'あめ', 'ame', 12);
+    $term('k_zero', 'ts_keyword', 'ゼロ', 'zero', 3);
+    $term('k_empty', 'ts_keyword', '使われない語', 'tsukawarenai', 0);
+    $rows = function (array $kc) use (&$ids) {
+        return array_map(function ($k, $c) use (&$ids) { return ['term_id' => (string) $ids[$k], 'c' => (string) $c]; }, array_keys($kc), $kc);
+    };
+    TS_WP_Stubs::$db_rows = [
+        $rows(['a_aoi' => 3, 'a_ichi' => 1, 'a_kawa' => 2, 'a_bob' => 1, 'a_odd' => 1, 'a_none' => 1]),
+        $rows(['g_gakuen' => 2, 'g_fantasy' => 6]),
+        $rows(['t_ire' => 3]),
+        [],
+        $rows(['k_neko' => 5, 'k_ame' => 8]),
+    ];
+    foreach ([['d_gal', 'gallery-1', '挿絵の部屋', 'gallery'], ['d_col2', 'column-b', 'コラム B', 'columns'], ['d_col1', 'column-a', 'コラム A & 序', 'columns'],
+              ['d_pre', 'prehistory', '1999 年の原型', 'prehistory'], ['d_note', 'kaidai', '解題 (区分なし)', ''], ['d_odd', 'odd', '表に無い区分', 'misc']] as [$k, $slug, $title, $sec]) {
+        $ids[$k] = TS_WP_Stubs::add_post(['post_type' => 'ts_doc', 'post_name' => $slug, 'post_title' => $title]);
+        if ($sec !== '') TS_WP_Stubs::set_meta($ids[$k], ['_ts_section' => $sec]);
+    }
+    $ids['d_draft'] = TS_WP_Stubs::add_post(['post_type' => 'ts_doc', 'post_status' => 'draft', 'post_name' => 'draft', 'post_title' => '下書き']);
+    TS_WP_Stubs::set_meta($ids['d_draft'], ['_ts_section' => 'columns']);
+    return $ids;
+}
