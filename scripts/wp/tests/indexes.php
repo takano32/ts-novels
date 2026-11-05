@@ -5,8 +5,15 @@
 
 check('索引の種類', TS_INDEX_KINDS, ['kana', 'timeline', 'bunrui', 'vocabulary', 'osusume', 'docs']);
 check('題名は種類ごとにある', array_keys(TS_Index_Text::TITLES), TS_INDEX_KINDS);
-check('テーマの ts-index.php の題名の表と同じ', preg_match_all("/'([a-z]+)' => '([^']+)'/u", file_get_contents("$root/themes/ts-bunko/ts-index.php"), $m) === count(TS_INDEX_KINDS)
-      && array_combine($m[1], $m[2]) === TS_Index_Text::TITLES, true);
+// 期待値は d586f0eb の themes/ts-bunko/ts-index.php の表 (T45.1.5.4 でテーマから消し、この表を使う)
+check('索引の題名', TS_Index_Text::TITLES, ['kana' => '作者索引', 'timeline' => '年表', 'bunrui' => '分類索引',
+      'vocabulary' => 'キーワード索引', 'osusume' => 'オススメの環', 'docs' => '運営文書・資料']);
+check('テーマの ts-index.php に題名の表が無い (TS_Index_Text::TITLES を使う)', [preg_match_all("/'([a-z]+)' => '([^']+)'/u", file_get_contents("$root/themes/ts-bunko/ts-index.php")),
+      strpos(file_get_contents("$root/themes/ts-bunko/ts-index.php"), 'TS_Index_Text::TITLES') !== false], [0, true]);
+// 期待値は d586f0eb の themes/ts-bunko/ts-year.php:5 と includes/indexes.php の document_title_parts の文言
+check('年別一覧の題名', [TS_Index_Text::year_title(2003), TS_Index_Text::year_title(0)], ['2003年の作品', '0年の作品']);
+check('テーマの ts-year.php は年の題名を組み立てない', [strpos(file_get_contents("$root/themes/ts-bunko/ts-year.php"), "'年の作品"),
+      strpos(file_get_contents("$root/themes/ts-bunko/ts-year.php"), 'TS_Index_Text::year_title') !== false], [false, true]);
 
 check('五十音行 → 欧文 → 想定外 → 他', TS_Index_Text::kana_group_order(['他', 'Z', 'か行', 'x9', 'A', 'あ行', 'わ行']),
       ['あ行', 'か行', 'わ行', 'A', 'Z', 'x9', '他']);

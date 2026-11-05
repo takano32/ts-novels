@@ -304,3 +304,14 @@ check('ファセット: 何も選んでいない (件数の多い順)', TS_WP_St
       . '<p class="ts-chips"><span class="ts-count">変身のかたち:</span> <a class="ts-chip" href="/?s=%E5%85%89&#038;ts_genre=gakuen&#038;ts_type=irekawari">入れ替わり</a> </p>');
 $_SERVER['REQUEST_URI'] = '/';
 TS_WP_Stubs::reset();
+
+// ---------------------------------------------------------------- 索引と年別一覧の題名 (document_title_parts。T45.1.5.4 で TS_Index_Text::TITLES と year_title に)
+// 期待値: d586f0eb の indexes.php と visibility.php の document_title_parts、2026-11-05、probe-title.php
+$titles = [];
+foreach ([['ts_index' => 'kana'], ['ts_index' => 'osusume'], ['ts_index' => 'nai'], ['ts_year' => '2003'], ['ts_year' => '03'], []] as $qv) {
+    TS_WP_Stubs::reset();
+    TS_WP_Stubs::$query_vars = $qv;
+    $titles[] = apply_filters('document_title_parts', ['title' => '元の題', 'site' => '少年少女文庫'])['title'];
+}
+check('題名: 索引 2 つ・知らない種類・年・4 桁でない年・どちらでもない', $titles, ['作者索引', 'オススメの環', '元の題', '2003年の作品', '元の題', '元の題']);
+TS_WP_Stubs::reset();

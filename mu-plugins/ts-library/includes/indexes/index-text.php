@@ -15,10 +15,15 @@ const TS_INDEX_KINDS = ['kana', 'timeline', 'bunrui', 'vocabulary', 'osusume', '
 
 final class TS_Index_Text {
 
-    /** 索引の題名 (document_title_parts)。テーマの ts-index.php も同じ表を持つ */
+    /** 索引の題名 (document_title_parts とテーマの ts-index.php の見出し) */
     public const TITLES = ['kana' => '作者索引', 'timeline' => '年表', 'bunrui' => '分類索引',
                            'vocabulary' => 'キーワード索引', 'osusume' => 'オススメの環',
                            'docs' => '運営文書・資料'];
+
+    /** 年別一覧 (/year/YYYY/) の題名 (document_title_parts とテーマの ts-year.php の見出し) */
+    public static function year_title(int $y): string {
+        return $y . '年の作品';
+    }
 
     /** 分類の見出し (分類索引の並びの順。検索結果のファセットも同じ見出しを使う) */
     public const TAX_LABELS = ['ts_genre' => 'ジャンル', 'ts_type' => '変身のかたち', 'ts_world' => '共有世界'];

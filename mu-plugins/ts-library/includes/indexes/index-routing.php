@@ -66,6 +66,6 @@ add_action('pre_get_posts', function ($q) {
 
 add_filter('document_title_parts', function ($parts) {
     if ($k = ts_index_kind()) $parts['title'] = TS_Index_Text::TITLES[$k] ?? '索引';
-    if ($y = ts_index_year()) $parts['title'] = $y . '年の作品';
+    if ($y = ts_index_year()) $parts['title'] = TS_Index_Text::year_title($y);
     return $parts;
 });

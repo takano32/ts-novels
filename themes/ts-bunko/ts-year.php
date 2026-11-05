@@ -2,7 +2,7 @@
 /** 年別一覧 (/year/YYYY/) */
 get_header();
 $y = function_exists('ts_index_year') ? ts_index_year() : 0;
-echo '<h1 class="ts-archive-title">' . $y . '年の作品</h1>';
+echo '<h1 class="ts-archive-title">' . TS_Index_Text::year_title($y) . '</h1>';
 echo '<p class="ts-archive-desc"><a href="' . esc_url(home_url('/index/timeline/')) . '">← 年表へ戻る</a></p>';
 if (have_posts()) {
     echo '<ul class="ts-worklist">';
