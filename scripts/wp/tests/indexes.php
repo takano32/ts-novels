@@ -5,7 +5,7 @@
 
 check('索引の種類', TS_Index_Text::KINDS, ['kana', 'timeline', 'bunrui', 'vocabulary', 'osusume', 'docs']);
 // 裸の定数は互換のために残し、クラス定数を指す (T45.7.2。scripts/wp/deploy_run.sh が本番でこの名前を読む)
-check('裸の TS_INDEX_KINDS はクラス定数と同じ', TS_INDEX_KINDS, TS_Index_Text::KINDS);
+check('裸の TS_INDEX_KINDS は無い (T45.1.19.5 の決め直し)', defined('TS_INDEX_KINDS'), false);
 check('題名は種類ごとにある', array_keys(TS_Index_Text::TITLES), TS_Index_Text::KINDS);
 // 期待値は 0e8c7712 の themes/ts-bunko/ts-index.php の表 (T45.1.5.4 でテーマから消し、この表を使う)
 check('索引の題名', TS_Index_Text::TITLES, ['kana' => '作者索引', 'timeline' => '年表', 'bunrui' => '分類索引',

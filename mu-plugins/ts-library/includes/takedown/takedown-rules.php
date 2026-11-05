@@ -140,6 +140,3 @@ final class TS_Takedown_Rules {
     }
 }
 
-/** 互換のための裸の定数 (T45.7.2。決めは T45.1.19.5)。正は TS_Takedown_Rules::POST_TYPE で、mu-plugin の中はそちらを引く。
- *  運用で wp eval から引かれても落ちないように残す */
-const TS_TAKEDOWN_TYPE = TS_Takedown_Rules::POST_TYPE;

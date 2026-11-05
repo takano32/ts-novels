@@ -71,6 +71,3 @@ final class TS_Index_Text {
     }
 }
 
-/** 互換のための裸の定数 (T45.7.2。決めは T45.1.19.5)。正は TS_Index_Text::KINDS で、mu-plugin の中はそちらを引く。
- *  配備の確認 (scripts/wp/deploy_run.sh) が本番の WordPress の中でこの名前を読む (配備前の本番にはクラス定数が無い) */
-const TS_INDEX_KINDS = TS_Index_Text::KINDS;

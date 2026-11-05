@@ -79,7 +79,7 @@ remote_write() {
 }
 # 手元の HEAD から「あるべき名前」を集め、本番の WordPress の中で class_exists / function_exists を見る PHP を作る (T45.6.2)。
 # クラスは includes/ の class 宣言 (TS_Library_Files の 3 表の全ファイル。wp eval-file は WP_CLI なので CLI の表も読まれる)。
-# 関数はテーマが呼ぶ ts_ の関数 (scripts/wp/tests/files.php の一覧と同じ集め方) と、ts-index.php が TS_INDEX_KINDS の名前で
+# 関数はテーマが呼ぶ ts_ の関数 (scripts/wp/tests/files.php の一覧と同じ集め方) と、ts-index.php が TS_Index_Text::KINDS の名前で
 # 動的に呼ぶ ts_bunko_index_<種類> (本番の定数から作る)。名前は英数字と _ だけなので sed の置換で埋める
 definitions_php() {
   local classes functions
@@ -91,11 +91,11 @@ definitions_php() {
 // scripts/wp/deploy_run.sh が作って wp eval-file - に流す (読むだけ)
 $classes = explode(' ', '__CLASSES__');
 $functions = explode(' ', '__FUNCTIONS__');
-$kinds = defined('TS_INDEX_KINDS') ? TS_INDEX_KINDS : [];
+$kinds = class_exists('TS_Index_Text') ? TS_Index_Text::KINDS : [];
 $missing = [];
 foreach ($classes as $c) if (!class_exists($c)) $missing[] = "クラス $c";
 foreach ($functions as $f) if (!function_exists($f)) $missing[] = "関数 $f";
-if (!$kinds) $missing[] = '定数 TS_INDEX_KINDS';
+if (!$kinds) $missing[] = '定数 TS_Index_Text::KINDS';
 foreach ($kinds as $k) if (!function_exists("ts_bunko_index_$k")) $missing[] = "関数 ts_bunko_index_$k";
 printf("定義の確認: クラス %d・テーマが呼ぶ関数 %d・索引の関数 %d (テーマ %s)、欠け %d\n",
        count($classes), count($functions), count($kinds), get_stylesheet(), count($missing));
