@@ -2,8 +2,9 @@
 """tslib — catalog を作る Python (scripts/wp/*.py) の共有部分 (T45.2、specs/S243.md)。
 
 scripts/wp/*.py はコマンドラインの入口 (引数の解釈・ファイルの読み書き・表示) だけを持ち、
-変換・判定のロジックはこのパッケージの関数に置く。ロジックは引数と戻り値だけで試せる
-(scripts/wp/tests/、`make test`)。
+変換・判定のロジックはこのパッケージの関数に置く。ロジックは引数と戻り値だけで試せる。
+試験は scripts/wp/tests/test_<モジュール>.py (標準の unittest。小さな入力は scripts/wp/tests/data/)、
+流し方は `make test` (= python -m unittest discover -s scripts/wp/tests -t scripts/wp)。
 
   paths.py      リポジトリのルートと catalog/ 配下の定位置
   fileio.py     JSON / JSONL / YAML / テキストの読み書き、md5、文字コードの推定
@@ -14,5 +15,8 @@ scripts/wp/*.py はコマンドラインの入口 (引数の解釈・ファイ�
   slugs.py      ローマ字 slug と catalog/slug_overrides.yml の往復
   kana_index.py 作家別五十音目録 (lib-index-*.html) の解釈 (authors と uncatalogued が使う)
   catalog/      目録 (lib*.html) のパース — catalog_build.py の分割
-  その他        段ごとのロジック (terms / authors / works / bodies / payloads / …)
+  その他        段ごとのロジック (terms / authors / works / bodies / payloads / …) と、
+                入口ごとのロジック (secret_rules / htaccess / cluster_review)
+  verify_html5.py・qa_phase3.py
+                独立検算。本体の変換系 (bodies / payloads / htmltext) を import しない (specs/S12.md)
 """

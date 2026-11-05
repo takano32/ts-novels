@@ -21,6 +21,7 @@ S210 (WordPress 移築。`scripts/wp/`) にあり、ここではどこから使�
 | `make check` | ファイルを書かずに各段の自己検査と秘密走査を走らせ、最後に文書の検査をする (S211、S111、S219) |
 | `make qa` | `catalog/reports/*.json` から `catalog/QA.md` だけを書き直す (S180) |
 | `make verify` | 本文 Markdown の無損失を html5lib で検算する (S210) |
+| `make test` | `scripts/wp/tslib/` の単体の試験 (`scripts/wp/tests/`、標準の unittest)。実データを読まず数秒で終わる。`make check` には入れていない (S243) |
 
 段の順番と、2 回続けて流すと出力が同じになることは S211 にあります。
 

@@ -7,6 +7,8 @@
 #   make venv      … pykakasi / PyYAML / beautifulsoup4 / html5lib を入れた .venv を作る
 #                    (開発機のみ。git 管理外)
 #   make verify    … bodies/*.md を html5lib で検算する (要 make venv)
+#   make test      … scripts/wp/tslib の単体の試験 (scripts/wp/tests/、標準の unittest)。
+#                    実データは読まない。check には入れていない (T45.2.21)
 #
 # 段の順番には意味がある。episodes.jsonl は catalog_build が新規に書き、
 # uncatalogued_build と repost_build が**自分の corpus 分だけ差し替えて**追記し、
@@ -21,7 +23,7 @@ VENV    ?= .venv
 PYTHON  ?= $(if $(wildcard $(VENV)/bin/python),$(VENV)/bin/python,python3)
 WP      := scripts/wp
 
-.PHONY: all catalog check qa venv verify clean-catalog
+.PHONY: all catalog check qa venv verify test clean-catalog
 
 all: catalog
 
@@ -66,6 +68,10 @@ venv:
 # --- bodies/*.md の無損失性を html5lib (第二実装) で検算する
 verify:
 	$(PYTHON) $(WP)/verify_bodies_html5.py
+
+# --- scripts/wp/tslib の単体の試験 (T45.2.8)。PyYAML・pykakasi・bs4 が無ければ該当の試験は飛ばす
+test:
+	$(PYTHON) -m unittest discover -s $(WP)/tests -t $(WP)
 
 # 生成物だけ消す (原本には触らない)
 clean-catalog:
