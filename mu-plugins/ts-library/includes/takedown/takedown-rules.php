@@ -65,6 +65,11 @@ final class TS_Takedown_Rules {
         return 0;
     }
 
+    /** レート制限の記録 (transient) の寿命: 窓の始まり + rate_window までの残り。60 秒より短くしない (S124) */
+    public static function rate_ttl(int $start, int $now, array $p): int {
+        return max(60, $start + $p['rate_window'] - $now);
+    }
+
     /** 確認したときに書く時刻 (S126: 自動適用は確認時刻 + AUTO_APPLY_DAYS) */
     public static function confirm_times(int $now, array $p): array {
         return ['confirmed_at' => $now, 'auto_apply_at' => $now + $p['auto_apply_days'] * 86400];

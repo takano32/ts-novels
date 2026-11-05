@@ -75,23 +75,21 @@ function ts_takedown_handle_post(): void {
     $rl = get_transient($rl_key);
     $recent = is_array($rl) ? (int) ($rl['n'] ?? 0) : 0;
     $code = TS_Takedown_Rules::gate($nonce_ok, is_string($in['hp'] ?? null) ? $in['hp'] : 'x', $t, time(), $recent, $p);
-    if ($code === 403) ts_takedown_respond(403, '送信できませんでした', '<p>ページの有効期限が切れました。取り下げのページを開き直して、もう一度送信してください。</p>');
-    if ($code === 400) ts_takedown_respond(400, '送信できませんでした', '<p>送信を受け付けられませんでした。取り下げのページを開き直して、もう一度送信してください。</p>');
-    if ($code === 429) ts_takedown_respond(429, '送信できませんでした', '<p>短い時間に続けて送信されたため、受け付けを止めています。時間をおいてお試しください。</p>');
+    if ($code === 403) ts_takedown_respond(403, ...TS_Takedown_Text::respond('forbidden', []));
+    if ($code === 400) ts_takedown_respond(400, ...TS_Takedown_Text::respond('rejected', []));
+    if ($code === 429) ts_takedown_respond(429, ...TS_Takedown_Text::respond('rate_limited', []));
 
     $home_host = (string) parse_url(home_url('/'), PHP_URL_HOST);
     $v = TS_Takedown_Input::validate($in, 'ts_takedown_resolve', $home_host, 'is_email');
     if ($v['errors']) {
-        ts_takedown_respond(400, '入力を確かめてください',
-            '<ul>' . implode('', array_map(function ($e) { return '<li>' . esc_html($e) . '</li>'; }, $v['errors']))
-            . '</ul><p>ブラウザの「戻る」で入力に戻れます。</p>');
+        ts_takedown_respond(400, ...TS_Takedown_Text::respond('invalid', ['items' => array_map('esc_html', $v['errors'])]));
     }
     $id = ts_takedown_store($v['data'], 'takedown_form');
-    if (!$id) ts_takedown_respond(500, '送信できませんでした', '<p>受け付けの処理に失敗しました。時間をおいてお試しください。</p>');
+    if (!$id) ts_takedown_respond(500, ...TS_Takedown_Text::respond('failed', []));
     update_post_meta($id, '_tr_ip_hash', $ip_hash);
     update_post_meta($id, '_tr_ua', wp_slash(substr(TS_Takedown_Input::clean((string) ($_SERVER['HTTP_USER_AGENT'] ?? '')), 0, 300)));
     $start = is_array($rl) ? (int) ($rl['start'] ?? time()) : time();
-    set_transient($rl_key, ['n' => $recent + 1, 'start' => $start], max(60, $start + $p['rate_window'] - time()));
+    set_transient($rl_key, ['n' => $recent + 1, 'start' => $start], TS_Takedown_Rules::rate_ttl($start, time(), $p));
 
     $r = ts_takedown_get($id);
     if ($r['status'] === 'unconfirmed') {
@@ -99,12 +97,10 @@ function ts_takedown_handle_post(): void {
         update_post_meta($id, '_tr_token', wp_hash($token));
         ts_takedown_mail_requester('receipt', $r, ['confirm_url' => add_query_arg('ts_confirm', $token, home_url('/')),
                                                     'ttl_days' => $p['confirm_ttl_days']]);
-        ts_takedown_respond(200, '確認メールを送りました',
-            '<p>お書きいただいたアドレスに確認メールを送りました。メールのリンクを開くと、お申し出の受け付けが完了します。</p>'
-            . '<p>リンクの有効期限は ' . (int) $p['confirm_ttl_days'] . ' 日です。</p>');
+        ts_takedown_respond(200, ...TS_Takedown_Text::respond('confirm_sent', ['ttl_days' => $p['confirm_ttl_days']]));
     }
     ts_takedown_mail_requester('receipt', $r);
-    ts_takedown_respond(200, 'お申し出を受け付けました', '<p>お申し出を受け付けました。</p>');
+    ts_takedown_respond(200, ...TS_Takedown_Text::respond('received', []));
 }
 add_action('admin_post_nopriv_ts_takedown', 'ts_takedown_handle_post');
 add_action('admin_post_ts_takedown', 'ts_takedown_handle_post');

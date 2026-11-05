@@ -99,6 +99,36 @@ final class TS_Takedown_Text {
         return ['', ''];
     }
 
+    /**
+     * フォームの送信への応答のページの題と本文 (S124)。状態コードは呼び出し側 (includes/takedown/takedown-form.php)。
+     * $kind: forbidden (403) / rejected (400) / rate_limited (429) / invalid (400。$c['items'] は esc_html 済みの誤りの文) /
+     * failed (500) / confirm_sent (200。$c['ttl_days']) / received (200)。未知の種類は ['', '']。
+     */
+    public static function respond(string $kind, array $c): array {
+        $again = '取り下げのページを開き直して、もう一度送信してください。';
+        switch ($kind) {
+            case 'forbidden':
+                return ['送信できませんでした', "<p>ページの有効期限が切れました。{$again}</p>"];
+            case 'rejected':
+                return ['送信できませんでした', "<p>送信を受け付けられませんでした。{$again}</p>"];
+            case 'rate_limited':
+                return ['送信できませんでした', '<p>短い時間に続けて送信されたため、受け付けを止めています。時間をおいてお試しください。</p>'];
+            case 'invalid':
+                return ['入力を確かめてください',
+                    '<ul>' . implode('', array_map(function ($e) { return '<li>' . $e . '</li>'; }, $c['items'] ?? []))
+                    . '</ul><p>ブラウザの「戻る」で入力に戻れます。</p>'];
+            case 'failed':
+                return ['送信できませんでした', '<p>受け付けの処理に失敗しました。時間をおいてお試しください。</p>'];
+            case 'confirm_sent':
+                return ['確認メールを送りました',
+                    '<p>お書きいただいたアドレスに確認メールを送りました。メールのリンクを開くと、お申し出の受け付けが完了します。</p>'
+                    . '<p>リンクの有効期限は ' . (int) ($c['ttl_days'] ?? 0) . ' 日です。</p>'];
+            case 'received':
+                return ['お申し出を受け付けました', '<p>お申し出を受け付けました。</p>'];
+        }
+        return ['', ''];
+    }
+
     /** 運営委員宛のメールに載せる申請の要約 (入力値は書式なしのテキストとして並べるだけ) */
     public static function summary(array $d): string {
         $rel = ['author' => '作者本人', 'heir' => '権利継承者', 'other' => 'その他'];

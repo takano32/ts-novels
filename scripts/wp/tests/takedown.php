@@ -138,6 +138,20 @@ foreach (['receipt', 'applied_requester', 'rejected'] as $k) {
 check('確認完了のメールに時刻', strpos(TS_Takedown_Text::mail_text('confirmed', $evil)[1], 'W に自動で非公開になります') !== false, true);
 check('件名に入力を入れない', strpos(TS_Takedown_Text::mail_text('confirmed', $evil)[0], 'EVIL'), false);
 check('未知の種類は空', TS_Takedown_Text::mail_text('nope', $evil), ['', '']);
+// フォームの応答の題と本文 (S124、T45.1.17.5)。期待値は分割前 (d586f0eb) の takedown-request.php の文言
+check('応答: 403 / 400 / 429', [TS_Takedown_Text::respond('forbidden', []), TS_Takedown_Text::respond('rejected', []), TS_Takedown_Text::respond('rate_limited', [])],
+      [['送信できませんでした', '<p>ページの有効期限が切れました。取り下げのページを開き直して、もう一度送信してください。</p>'],
+       ['送信できませんでした', '<p>送信を受け付けられませんでした。取り下げのページを開き直して、もう一度送信してください。</p>'],
+       ['送信できませんでした', '<p>短い時間に続けて送信されたため、受け付けを止めています。時間をおいてお試しください。</p>']]);
+check('応答: 入力の誤り (文はエスケープ済みで受ける)', TS_Takedown_Text::respond('invalid', ['items' => ['a', 'b&amp;c']]),
+      ['入力を確かめてください', '<ul><li>a</li><li>b&amp;c</li></ul><p>ブラウザの「戻る」で入力に戻れます。</p>']);
+check('応答: 500', TS_Takedown_Text::respond('failed', []), ['送信できませんでした', '<p>受け付けの処理に失敗しました。時間をおいてお試しください。</p>']);
+check('応答: 確認メール', TS_Takedown_Text::respond('confirm_sent', ['ttl_days' => 7]),
+      ['確認メールを送りました', '<p>お書きいただいたアドレスに確認メールを送りました。メールのリンクを開くと、お申し出の受け付けが完了します。</p><p>リンクの有効期限は 7 日です。</p>']);
+check('応答: 受付', TS_Takedown_Text::respond('received', []), ['お申し出を受け付けました', '<p>お申し出を受け付けました。</p>']);
+check('応答: 未知の種類は空', TS_Takedown_Text::respond('nope', []), ['', '']);
+check('レート制限の寿命: 窓の残り', TS_Takedown_Rules::rate_ttl($now - 600, $now, $P), 3000);
+check('レート制限の寿命: 60 秒より短くしない', [TS_Takedown_Rules::rate_ttl($now - 3590, $now, $P), TS_Takedown_Rules::rate_ttl($now - 7200, $now, $P)], [60, 60]);
 $ctx = ['site' => 'S', 'id' => 12, 'when' => '2026-11-15 09:00', 'summary' => 'SUM', 'admin_url' => 'https://x/wp-admin/',
         'titles' => ['森の家', '海'], 'unresolved' => ['https://y/a']];
 check('メールの予告 (remind)', TS_Takedown_Text::mail_text('remind', $ctx),
