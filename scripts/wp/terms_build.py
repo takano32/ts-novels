@@ -68,7 +68,7 @@ def main(argv=None):
         ensure_dir(paths.reports_dir(root))
         write_json(paths.terms_path(root), terms_json)
         write_json(paths.report_path(root, 'terms_build.json'), report)
-        slugmod.save_overrides(overrides_path, overrides, notes=terms.OVERRIDES_NOTES)
+        slugmod.save_overrides(overrides_path, overrides, notes=slugmod.OVERRIDES_NOTES)
         print('wrote catalog/terms.json, catalog/reports/terms_build.json, '
               'catalog/slug_overrides.yml')
     return 0 if report['selftest_ok'] else 1

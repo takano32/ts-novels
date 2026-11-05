@@ -54,11 +54,6 @@ RE_TITLE_CUT = re.compile(
     r'|Ｐａｒｔ\s*[0-9０-９]+|part\s*[0-9]+|#\s*[0-9]+|vol\.?\s*[0-9]+' + _EXTRA + r')', re.I)
 
 STRONG = {'series-title-nav', 'series-html', 'title-page', 'episode-nav'}
-OVERRIDES_NOTES = [
-    'terms_* セクション = 分類語彙の slug (scripts/wp/terms_build.py)',
-    'authors セクション = 作者 slug (scripts/wp/authors_build.py)',
-    'works セクション = 作品 slug (scripts/wp/work_builder.py)',
-]
 
 class Union:
     """union-find。どの規則で繋いだかを why に残す。"""

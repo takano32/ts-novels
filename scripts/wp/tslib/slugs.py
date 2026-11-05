@@ -20,14 +20,10 @@ slug は**恒久 URL** になる (`/genre/gakuen/` `/authors/johdan/` `/works/jo
 再実行しても **status: confirmed の行は決して上書きしない**。
 candidate 行の slug は再生成で変わりうる (アルゴリズム改善時に追随させるため)。
 """
-import os
 import re
 import unicodedata
 
-try:
-    import yaml
-except ImportError:                                     # pragma: no cover
-    yaml = None
+from tslib.fileio import read_yaml, write_yaml, ensure_parent
 
 _KAKASI = None
 _KAKASI_TRIED = False
@@ -127,13 +123,17 @@ HEADER = """\
 """
 
 
+# slug_overrides.yml の頭の注記。3 段 (terms_build・authors_build・work_builder) が同じものを書く
+OVERRIDES_NOTES = [
+    'terms_* セクション = 分類語彙の slug (scripts/wp/terms_build.py)',
+    'authors セクション = 作者 slug (scripts/wp/authors_build.py)',
+    'works セクション = 作品 slug (scripts/wp/work_builder.py)',
+]
+
+
 def load_overrides(path):
-    if not os.path.exists(path):
-        return {}
-    if yaml is None:
-        raise RuntimeError('PyYAML が必要です (pip install pyyaml)')
-    with open(path, encoding='utf-8') as fh:
-        return yaml.safe_load(fh) or {}
+    """無ければ {}。PyYAML が無ければ RuntimeError (fileio.read_yaml)。"""
+    return read_yaml(path)
 
 
 def merge_section(existing, section, entries):
@@ -156,15 +156,10 @@ def merge_section(existing, section, entries):
 
 
 def save_overrides(path, data, notes=None):
-    if yaml is None:
-        raise RuntimeError('PyYAML が必要です (pip install pyyaml)')
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, 'w', encoding='utf-8') as fh:
-        fh.write(HEADER)
-        for line in (notes or []):
-            fh.write('# %s\n' % line)
-        fh.write('\n')
-        yaml.safe_dump(data, fh, allow_unicode=True, sort_keys=True, default_flow_style=False)
+    """HEADER・注記・空行のあとに YAML を書く (fileio.write_yaml)。"""
+    header = HEADER + ''.join('# %s\n' % line for line in (notes or [])) + '\n'
+    ensure_parent(path)
+    write_yaml(path, data, header=header)
 
 
 def pending_count(data, section=None):

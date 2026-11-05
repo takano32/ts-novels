@@ -60,11 +60,6 @@ RE_BOARD_SUFFIX = re.compile(
 BOARD_TITLE_DENY = re.compile(r'感想掲示板一覧|マルチ掲示板|活動報告|^BBS$|Crocus', re.I)
 
 NO_AUTHOR_BY_DESIGN = ('notice', 'unattributed', 'series-index')
-OVERRIDES_NOTES = [
-    'terms_* セクション = 分類語彙の slug (scripts/wp/terms_build.py)',
-    'authors セクション = 作者 slug (scripts/wp/authors_build.py)',
-    'works セクション = 作品 slug (scripts/wp/work_builder.py)',
-]
 
 # --------------------------------------------------------------------------- 感想板一覧
 

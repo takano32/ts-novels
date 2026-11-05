@@ -73,7 +73,7 @@ def main(argv=None):
         ensure_dir(paths.reports_dir(root))
         write_json(paths.authors_path(root), payload)
         write_json(paths.report_path(root, 'authors_build.json'), report)
-        slugmod.save_overrides(overrides_path, overrides, notes=authors.OVERRIDES_NOTES)
+        slugmod.save_overrides(overrides_path, overrides, notes=slugmod.OVERRIDES_NOTES)
         print('wrote catalog/authors.json, catalog/reports/authors_build.json, '
               'catalog/slug_overrides.yml')
     return 0 if c.ok else 1

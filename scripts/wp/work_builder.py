@@ -72,7 +72,7 @@ def main(argv=None):
         write_json(paths.report_path(root, 'work_builder.json'), report)
         write_yaml(paths.work_overrides_path(root), {'works': wk.overrides_stub(work_overrides, review)},
                    wk.WORK_OVERRIDES_HEADER)
-        slugmod.save_overrides(overrides_path, overrides, notes=wk.OVERRIDES_NOTES)
+        slugmod.save_overrides(overrides_path, overrides, notes=slugmod.OVERRIDES_NOTES)
         print('wrote catalog/works.jsonl, catalog/work_overrides.yml, '
               'catalog/reports/work_builder.json, catalog/slug_overrides.yml')
     return 0 if ok else 1

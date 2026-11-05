@@ -11,7 +11,7 @@ import unicodedata
 from typing import NamedTuple
 
 from tslib.fileio import read_text
-from tslib.htmltext import RE_TAG, RE_ANCHOR, href_of, inline_text
+from tslib.htmltext import RE_TAG, RE_ANCHOR, RE_TR, href_of, inline_text
 
 RE_H2 = re.compile(r'<H2>\s*-?\s*(.*?)\s*-?\s*</H2>', re.I)
 RE_ROW = re.compile(r'<TR[^>]*>\s*<TD[^>]*>(.*?)</TD>\s*<TD[^>]*>(.*?)</TD>\s*</TR>', re.S | re.I)
@@ -36,7 +36,7 @@ def parse_index_old_html(page, src):
     複数行にまたがる: `<td rowspan=N><b>作者</b></td><td><a>題名</a></td>` +
     続く N-1 行は題名セルだけ。作者を持ち越しながら読む。"""
     rows, author, remain = [], None, 0
-    for m in re.finditer(r'<tr[^>]*>(.*?)</tr>', src, re.S | re.I):
+    for m in RE_TR.finditer(src):
         cells = re.findall(r'<td([^>]*)>(.*?)</td>', m.group(1), re.S | re.I)
         if not cells:
             continue

@@ -20,10 +20,10 @@ import re
 import unicodedata
 
 from tslib.fileio import read_text_guess, read_text
+from tslib.htmltext import RE_TAG
 
 # ---------------------------------------------------------------- 前処理
 
-TAG_RE = re.compile(r'<[^>]+>')
 SCRIPT_RE = re.compile(r'<script.*?</script>|<style.*?</style>|<!--.*?-->', re.S | re.I)
 BOGUS_RE = re.compile(r'<![^>]*>', re.S)               # <! …> = ブラウザは不可視 (没稿隠しに使われている)
 FORM_RE = re.compile(r'<form.*?</form>', re.S | re.I)  # 感想フォーム = クローム
@@ -67,7 +67,7 @@ def extract_body(raw):
     else:
         mh = HEAD_RE.match(src)          # <body> が無い文書は </head> 以降を本文とみなす
         region = src[mh.end():] if mh else src
-    # 末尾の欠けたタグ (`…</p` で終わる文書が実在) は '>' が無く TAG_RE で消えないので落とす
+    # 末尾の欠けたタグ (`…</p` で終わる文書が実在) は '>' が無く RE_TAG で消えないので落とす
     region = re.sub(r'<[^>]*$', '', region)
     return region
 
@@ -85,7 +85,7 @@ def normalize_chars(s, already_unescaped=False):
         # 実体参照か裸の '<') までタグと誤認して食う。実際に 100 話近くで起きた。
         s = KEPT_TAG_RE.sub('', s)
     else:
-        s = TAG_RE.sub('', s)
+        s = RE_TAG.sub('', s)
         s = html.unescape(s)
     s = ''.join(ch for ch in s if not ch.isspace() and ch not in '<>')
     return unicodedata.normalize('NFC', s)
@@ -194,7 +194,7 @@ CHROME_SAFE_RE = re.compile(
 
 def chrome_is_safe(fragment):
     """落としたクロームが「ナビ・定型だけ」か (=本文を巻き込んでいないか) の検査"""
-    text = html.unescape(TAG_RE.sub('', fragment))
+    text = html.unescape(RE_TAG.sub('', fragment))
     text = re.sub(r'\s+', '', text)
     if len(text) > 200:          # 200 文字を超えるなら本文混入を疑う
         return False
@@ -207,7 +207,7 @@ def table_kind(tbl):
     """本物の表 (仕様表など) か、レイアウト目的の table か"""
     cells = re.findall(r'(?is)<t[dh][^>]*>(.*?)</t[dh]>', tbl)
     if len(cells) >= 6:
-        avg = sum(len(re.sub(r'\s', '', TAG_RE.sub('', c))) for c in cells) / max(1, len(cells))
+        avg = sum(len(re.sub(r'\s', '', RE_TAG.sub('', c))) for c in cells) / max(1, len(cells))
         if avg < 24:
             return 'data'
     return 'layout'
@@ -266,7 +266,7 @@ def to_markdown(region):
             return stash(m)
         notes['table_unwrapped'] += 1
         inner = re.sub(r'(?is)</t[dhr]\s*>', '\n', m.group(0))
-        return '\n' + TAG_RE.sub('', inner) + '\n'
+        return '\n' + RE_TAG.sub('', inner) + '\n'
     txt = re.sub(r'(?is)<table[^>]*>.*?</table>', table_sub, txt)
     # `</ryby>` のような閉じタグの誤記が実在するので許容する (許容しないと
     # 断片が閉じられず、マークアップが本文に露出して不変量違反になる)
@@ -280,10 +280,10 @@ def to_markdown(region):
     txt = re.sub(r'(?is)<blockquote[^>]*>(.*?)</blockquote>',
                  lambda m: '\n\n' + '\n'.join('\x01Q\x01' + l for l in m.group(1).strip().split('\n')) + '\n\n', txt)
     txt = re.sub(r'(?is)<h([1-6])[^>]*>(.*?)</h\1>',
-                 lambda m: f'\n\n\x01H{m.group(1)}\x01' + TAG_RE.sub('', m.group(2)).strip() + '\n\n', txt)
+                 lambda m: f'\n\n\x01H{m.group(1)}\x01' + RE_TAG.sub('', m.group(2)).strip() + '\n\n', txt)
     txt = re.sub(r'(?is)</?(div|center|td|tr|th|table|li|dt|dd|ul|ol|dl)[^>]*>', '\n', txt)
 
-    txt = TAG_RE.sub('', txt)
+    txt = RE_TAG.sub('', txt)
     txt = html.unescape(txt)          # 実体参照を解くのは 1 回だけ (normalize_chars と対称)
     # 温存断片 (ruby/img/本物の表) はプレースホルダのまま先へ送る。ここで戻すと、
     # 下の物理折返し再フローが行を連結する際にタグ内部で結合してしまい
@@ -368,7 +368,7 @@ def convert_html(raw, anchor=None):
 
     ok = normalize_chars(region) == normalize_chars(plain, already_unescaped=True)
     res.update(mode=mode, notes={k: v for k, v in notes.items()},
-               chrome_removed=[{'where': k, 'text': html.unescape(TAG_RE.sub('', f))[:80].strip()}
+               chrome_removed=[{'where': k, 'text': html.unescape(RE_TAG.sub('', f))[:80].strip()}
                                for k, f in removed],
                chars=len(normalize_chars(region)))
     if ok:

@@ -134,11 +134,6 @@ MAP_COMMENT = """\
 # 表記揺れの候補は catalog/reports/terms_build.json の variant_candidates を見て
 # 人が判断して追記してください。
 """
-OVERRIDES_NOTES = [
-    'terms_* セクション = 分類語彙の slug (scripts/wp/terms_build.py)',
-    'authors セクション = 作者 slug (scripts/wp/authors_build.py)',
-    'works セクション = 作品 slug (scripts/wp/work_builder.py)',
-]
 
 
 # --------------------------------------------------------------------------- 正規化
