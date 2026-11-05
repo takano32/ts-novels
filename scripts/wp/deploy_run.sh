@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# 配備の手順 (specs/S242.md の「配備の手順」) を一式で流す (T45.6.1。高品位なモデルとエフォートの所管 — 本番を触るコード)。
+# 配備の手順 (specs/S242.md の「配備の手順」) を一式で流す (T45.6.1・T45.6.2。高品位なモデルとエフォートの所管 — 本番を触るコード)。
 # 2026-11-05 の配備 (T45.3.3) で scratchpad から流したスクリプトをリポジトリに入れたもの。
 #
 # 既定は DRY-RUN。本番に書くのは --apply のときだけ。dry-run でも、読むだけの段 (見え方・md5・取り下げの印) は
@@ -17,9 +17,13 @@
 #       時間のかかる生成物の rsync (4) の後、PHP を置く直前に出す
 #    6* deploy.sh --php-only: 構文検査・mu-plugin・テーマ (この間だけ新旧の mu-plugin とテーマが混ざる。S242)
 #    7* 古い includes の 7 本 (S242 の「配備のときに本番から消すファイル」): 残っていて md5 が合うものだけ消す
-#    8* メンテナンス表示を消す
-#    9  配備後の見え方を取って前と比べる (deploy_snapshot.sh diff)
-#   10  取り下げの印の確認 (wp ts apply-takedown --dry-run と private・draft の数。DB は変えない。S67)
+#    8  新しい mu-plugin とテーマが読めることの確認 (T45.6.2): 手元の HEAD から集めたクラス (includes/ の 3 表) と、テーマが
+#       呼ぶ関数 (scripts/wp/tests/files.php の一覧と同じ 20 本) と ts_bunko_index_<種類> が本番で定義されているかを
+#       wp eval-file で見る。WP-CLI は表示の間も動く (Runner が enable_maintenance_mode を false にする)。
+#       欠けがあれば実配備は表示を残して止まる
+#    9* メンテナンス表示を消す
+#   10  配備後の見え方を取って前と比べる (deploy_snapshot.sh diff)
+#   11  取り下げの印の確認 (wp ts apply-takedown --dry-run と private・draft の数。DB は変えない。S67)
 #
 # 途中で止まったときは、メンテナンス表示は消さずに残す (本番が途中の状態かもしれないため。10 分で自然に切れる)。
 # 消し方は止まったときの表示に出る。
@@ -51,7 +55,7 @@ while (( $# )); do
   case "$1" in
     --apply) APPLY=1 ;;
     --out)   OUT="${2:?--out DIR}"; shift ;;
-    *) sed -n '2,27p' "$0"; exit 2 ;;
+    *) sed -n '2,30p' "$0"; exit 2 ;;
   esac
   shift
 done
@@ -73,6 +77,32 @@ warn() { WARN=$((WARN + 1)); echo "!! $*"; }
 remote_write() {
   if (( APPLY )); then "$RSH" "$1"; else echo "(dry-run) novels-ssh: $1"; fi
 }
+# 手元の HEAD から「あるべき名前」を集め、本番の WordPress の中で class_exists / function_exists を見る PHP を作る (T45.6.2)。
+# クラスは includes/ の class 宣言 (TS_Library_Files の 3 表の全ファイル。wp eval-file は WP_CLI なので CLI の表も読まれる)。
+# 関数はテーマが呼ぶ ts_ の関数 (scripts/wp/tests/files.php の一覧と同じ集め方) と、ts-index.php が TS_INDEX_KINDS の名前で
+# 動的に呼ぶ ts_bunko_index_<種類> (本番の定数から作る)。名前は英数字と _ だけなので sed の置換で埋める
+definitions_php() {
+  local classes functions
+  classes=$(grep -rhoE '^[[:space:]]*(final |abstract )?class [A-Za-z_0-9]+' "$LOCAL_ROOT/mu-plugins/ts-library/includes" \
+            | awk '{print $NF}' | sort -u | tr '\n' ' ')
+  functions=$(grep -hoE '\bts_[a-z_0-9]+\(' "$LOCAL_ROOT"/themes/ts-bunko/*.php | tr -d '(' | sort -u | tr '\n' ' ')
+  sed -e "s/__CLASSES__/${classes% }/" -e "s/__FUNCTIONS__/${functions% }/" <<'EOF'
+<?php
+// scripts/wp/deploy_run.sh が作って wp eval-file - に流す (読むだけ)
+$classes = explode(' ', '__CLASSES__');
+$functions = explode(' ', '__FUNCTIONS__');
+$kinds = defined('TS_INDEX_KINDS') ? TS_INDEX_KINDS : [];
+$missing = [];
+foreach ($classes as $c) if (!class_exists($c)) $missing[] = "クラス $c";
+foreach ($functions as $f) if (!function_exists($f)) $missing[] = "関数 $f";
+if (!$kinds) $missing[] = '定数 TS_INDEX_KINDS';
+foreach ($kinds as $k) if (!function_exists("ts_bunko_index_$k")) $missing[] = "関数 ts_bunko_index_$k";
+printf("定義の確認: クラス %d・テーマが呼ぶ関数 %d・索引の関数 %d (テーマ %s)、欠け %d\n",
+       count($classes), count($functions), count($kinds), get_stylesheet(), count($missing));
+foreach ($missing as $m) echo "!! 無い: $m\n";
+exit($missing ? 1 : 0);
+EOF
+}
 
 MAINT_ON=0
 MAINT_T0=0
@@ -83,7 +113,7 @@ on_exit() {
     echo
     echo "!! 途中で止まった (終了コード $rc)。記録: $OUT/deploy.log"
     if (( MAINT_ON )); then
-      echo "!! メンテナンス表示は残している (本番が途中の状態かもしれないため。出してから 10 分で WordPress が無視する)。"
+      echo "!! メンテナンス表示は消していない (本番が途中の状態かもしれないため。出してから 10 分で WordPress が無視する)。"
       echo "!! 直して流し直すか、本番を確かめてから手で消す: scripts/wp/novels-ssh '$R && rm -f .maintenance'"
     fi
   fi
@@ -117,9 +147,10 @@ step "配備 (前半。PHP 以外): scripts/wp/deploy.sh $APPLY_FLAG--skip-php"
 
 step "メンテナンス表示を出す (public_html/.maintenance。読者には 503。WP-CLI は表示の間も動く)"
 "$RSH" "$R && if [ -e .maintenance ]; then echo 'いまの本番: .maintenance あり'; cat .maintenance; echo; else echo 'いまの本番: .maintenance 無し'; fi"
-# WordPress 本体 (WP_Upgrader::maintenance_mode) と同じく時刻を数で書く。time() と書くと読むたびに今になり、10 分で切れない
-remote_write "$R && printf '<?php \$upgrading = %s; ?>\n' \"\$(date +%s)\" > .maintenance && cat .maintenance"
+# WordPress 本体 (WP_Upgrader::maintenance_mode) と同じく時刻を数で書く。time() と書くと読むたびに今になり、10 分で切れない。
+# 書く前に印を立てる (書けたか分からずに止まったときも、止まったときの表示に消し方が出るように)
 if (( APPLY )); then MAINT_ON=1; MAINT_T0=$(date +%s); fi
+remote_write "$R && printf '<?php \$upgrading = %s; ?>\n' \"\$(date +%s)\" > .maintenance && cat .maintenance"
 
 step "配備 (後半。mu-plugin とテーマ): scripts/wp/deploy.sh $APPLY_FLAG--php-only"
 "$LOCAL_ROOT/scripts/wp/deploy.sh" $APPLY_FLAG --php-only
@@ -144,6 +175,16 @@ if (( ${#TO_RM[@]} )); then
   remote_write "rm -- ${TO_RM[*]} && echo '消した: ${#TO_RM[@]} 本'"
 else
   echo "-- 消すものは無い"
+fi
+
+step "新しい mu-plugin とテーマが読めることの確認 (wp eval-file。読むだけ。WP-CLI は表示の間も動く)"
+if definitions_php | "$RSH" "$R && wp eval-file -"; then
+  echo "-- 欠け 0"
+elif (( APPLY )); then
+  echo "!! 定義が欠けている (上の !! の行)。新しい PHP を置いた後なので、メンテナンス表示を残して止まる"
+  exit 1
+else
+  warn "定義が欠けている。dry-run は配備前の本番を見るので、手元で足した名前が無いのは正しい (実配備では表示を残して止まる)"
 fi
 
 step "メンテナンス表示を消す"
