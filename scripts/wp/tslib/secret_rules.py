@@ -161,3 +161,31 @@ def apply_allow(raw, allow):
         if not ok:
             hits.append(h)
     return hits
+
+
+def report_of(files, raw, hits, generated):
+    """catalog/reports/secret_scan.json の中身。鍵の順は scanned・hits・allowed・generated。
+    files は走査したパスの列、raw は許容リストを当てる前の該当、hits は当てた後。"""
+    return {
+        'scanned': len(files),
+        'hits': hits,
+        'allowed': len(raw) - len(hits),
+        'generated': generated,
+    }
+
+
+def summary_lines(report, allow):
+    """標準出力の要約の行: 件数と検査ごとの数・該当の path:行・どの該当にも当たらなかった許容・OK/NG。"""
+    hits = report['hits']
+    by_rule = {}
+    for h in hits:
+        by_rule[h['rule']] = by_rule.get(h['rule'], 0) + 1
+    out = [f'secret_scan: 走査 {report["scanned"]} ファイル / 該当 {len(hits)} 件 (許容で除外 {report["allowed"]} 件)'
+           + (' ' + ' '.join(f'検査{r}={n}' for r, n in sorted(by_rule.items())) if by_rule else '')]
+    for h in hits:
+        out.append(f'  検査 {h["rule"]}: {h["path"]}:{h["line"]}')
+    for a in allow:
+        if not a['used']:
+            out.append(f'  [注意] 許容リストの {a["path"]}:{a["line"]} はどの該当にも当たらなかった')
+    out.append('OK' if not hits else 'NG — 該当あり (specs/S111.md)')
+    return out

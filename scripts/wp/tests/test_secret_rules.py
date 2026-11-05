@@ -56,5 +56,28 @@ class AllowTest(unittest.TestCase):
             self.assertEqual(str(cm.exception), 'secret_scan: f.yml の 1 件目は at: "path:行" と reason が要る')
 
 
+class ReportTest(unittest.TestCase):
+    def test_report_of(self):
+        raw = sr.scan(CONTENTS)
+        allow = sr.parse_allow({'allow': [{'at': 'a.cgi:1', 'reason': 'r'}]}, 'f')
+        hits = sr.apply_allow(raw, allow)
+        rep = sr.report_of(['a', 'b', 'c'], raw, hits, '2026-11-05T00:00:00+00:00')
+        self.assertEqual(list(rep), ['scanned', 'hits', 'allowed', 'generated'])
+        self.assertEqual((rep['scanned'], rep['allowed'], rep['hits']), (3, 1, hits))
+
+    def test_summary_lines(self):
+        hits = [{'rule': 3, 'path': 'b.html', 'line': 1}, {'rule': 1, 'path': 'a.cgi', 'line': 1},
+                {'rule': 3, 'path': 'c.html', 'line': 9}]
+        allow = [{'path': 'a.cgi', 'line': 1, 'reason': 'r', 'used': 1}, {'path': 'z', 'line': 2, 'reason': 'r', 'used': 0}]
+        rep = sr.report_of(['x'] * 10, hits + [{}], hits, 'T')
+        self.assertEqual(sr.summary_lines(rep, allow), [
+            'secret_scan: 走査 10 ファイル / 該当 3 件 (許容で除外 1 件) 検査1=1 検査3=2',
+            '  検査 3: b.html:1', '  検査 1: a.cgi:1', '  検査 3: c.html:9',
+            '  [注意] 許容リストの z:2 はどの該当にも当たらなかった',
+            'NG — 該当あり (specs/S111.md)'])
+        self.assertEqual(sr.summary_lines(sr.report_of([], [], [], 'T'), []),
+                         ['secret_scan: 走査 0 ファイル / 該当 0 件 (許容で除外 0 件)', 'OK'])
+
+
 if __name__ == '__main__':
     unittest.main()

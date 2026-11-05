@@ -34,17 +34,11 @@
 """
 import argparse
 import datetime
-import json
 import os
 import sys
 
-try:
-    import yaml
-except ImportError:                                       # pragma: no cover
-    yaml = None
-
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from tslib import paths, secret_rules as rules  # noqa: E402
+from tslib import fileio, paths, secret_rules as rules  # noqa: E402
 from tslib.gitinfo import ls_files_z  # noqa: E402
 
 DEFAULT_ROOT = paths.REPO_ROOT
@@ -77,10 +71,9 @@ def load_allow(path):
     """scripts/wp/secret_scan_allow.yml: `allow:` の下に {at: "path:行", reason: "…"} を並べる。"""
     if not path or not os.path.exists(path):
         return []
-    if yaml is None:
+    if fileio.yaml is None:
         raise SystemExit('secret_scan: 許容リストを読むには PyYAML が要る (make venv)')
-    with open(path, encoding='utf-8') as f:
-        doc = yaml.safe_load(f) or {}
+    doc = fileio.read_yaml(path)
     try:
         return rules.parse_allow(doc, path)
     except ValueError as e:
@@ -100,30 +93,15 @@ def main():
     allow = load_allow(args.allow)
     hits = rules.apply_allow(raw, allow)
 
-    report = {
-        'scanned': len(files),
-        'hits': hits,
-        'allowed': len(raw) - len(hits),
-        'generated': datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0).isoformat(),
-    }
+    generated = datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0).isoformat()
+    report = rules.report_of(files, raw, hits, generated)
     if not args.check:
         out = os.path.join(root, 'catalog', 'reports', 'secret_scan.json')
-        os.makedirs(os.path.dirname(out), exist_ok=True)
-        with open(out, 'w', encoding='utf-8') as f:
-            json.dump(report, f, ensure_ascii=False, indent=1)
-            f.write('\n')
+        fileio.ensure_parent(out)
+        fileio.write_json(out, report)
 
-    by_rule = {}
-    for h in hits:
-        by_rule[h['rule']] = by_rule.get(h['rule'], 0) + 1
-    print(f'secret_scan: 走査 {len(files)} ファイル / 該当 {len(hits)} 件 (許容で除外 {len(raw) - len(hits)} 件)'
-          + (' ' + ' '.join(f'検査{r}={n}' for r, n in sorted(by_rule.items())) if by_rule else ''))
-    for h in hits:
-        print(f'  検査 {h["rule"]}: {h["path"]}:{h["line"]}')
-    for a in allow:
-        if not a['used']:
-            print(f'  [注意] 許容リストの {a["path"]}:{a["line"]} はどの該当にも当たらなかった')
-    print('OK' if not hits else 'NG — 該当あり (specs/S111.md)')
+    for line in rules.summary_lines(report, allow):
+        print(line)
     return 0 if not hits else 1
 
 
