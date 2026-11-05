@@ -9,11 +9,11 @@ wp:html に包む (存在をそのまま見せる)。相対リンク・画像は
 """
 import os
 import re
-import subprocess
 from pathlib import Path
 
 from tslib.bodies import extract_body
 from tslib.fileio import read_text_guess
+from tslib.gitinfo import ls_files
 from tslib.mail import MAIL_KEEP_DOCS_RE, redact_bare
 from tslib.paths import DEFAULT_ANNEX_BASE
 
@@ -89,8 +89,7 @@ def render_doc(section, label, f, root, annex=ANNEX):
 
 def gallery_cg_files(root):
     """git 管理下のギャラリー CG (~yays/gallery/cg/ の画像) を gallery/ からの相対で。"""
-    out = subprocess.run(['git', '-C', str(root), 'ls-files', '~yays/gallery/cg'],
-                         capture_output=True, text=True).stdout.splitlines()
+    out = ls_files(root, '~yays/gallery/cg', check=False)
     return set(re.sub(r'^~yays/gallery/', '', p) for p in out if GALLERY_IMAGE_RE.search(p))
 
 

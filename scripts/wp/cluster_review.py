@@ -32,11 +32,11 @@ import argparse
 import datetime
 import json
 import os
-import subprocess
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tslib import paths, cluster_review as cr             # noqa: E402
+from tslib.gitinfo import show_file, short_rev            # noqa: E402
 
 DEFAULT_ROOT = paths.REPO_ROOT
 
@@ -57,9 +57,8 @@ def load_episodes(root):
 
 def slug_changes(root, rev):
     """REV の works.jsonl と今の works.jsonl を話の所属で突き合わせる。"""
-    r = subprocess.run(['git', '-C', root, 'show', '%s:catalog/works.jsonl' % rev],
-                       capture_output=True, text=True, check=True)
-    old = [json.loads(line) for line in r.stdout.splitlines() if line.strip()]
+    text = show_file(root, rev, 'catalog/works.jsonl')
+    old = [json.loads(line) for line in text.splitlines() if line.strip()]
     new = load_works(root)
     return old, new, cr.slug_rows(old, new)
 
@@ -101,8 +100,7 @@ def main(argv=None):
 
     if args.since:
         old, new, rows = slug_changes(root, args.since)
-        rev = subprocess.run(['git', '-C', root, 'rev-parse', '--short', args.since],
-                             capture_output=True, text=True, check=True).stdout.strip()
+        rev = short_rev(root, args.since)
         merged = sum(1 for w, t in rows if len(t) == 1 and
                      sum(1 for x in new if x['work_slug'] == t[0] and x['episode_count'] != w['episode_count']))
         L += ['## slug が変わった作品 (%s との比較)' % rev, '',

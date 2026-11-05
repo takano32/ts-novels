@@ -31,6 +31,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from tslib import htaccess  # noqa: E402
+from tslib.gitinfo import ls_files  # noqa: E402
 
 HOST = 'novels'   # 宛先表記用。実際の接続先は scripts/wp/novels-ssh が持つ
 RSH = str(Path(__file__).resolve().parent / 'novels-ssh')
@@ -73,9 +74,8 @@ def asset_probe_urls(values=None):
     urls = []
     for v in (annex_values() if values is None else values):
         prefix = v[:-1] if v.endswith('*') else v
-        r = subprocess.run(['git', '-C', str(ROOT), 'ls-files', '--', prefix + ('*' if v.endswith('*') else '')],
-                           capture_output=True, text=True)
-        files = [f for f in r.stdout.splitlines() if f.startswith(prefix)]
+        listed = ls_files(ROOT, '--', prefix + ('*' if v.endswith('*') else ''), check=False)
+        files = [f for f in listed if f.startswith(prefix)]
         if files:
             urls.append('/assets/annex-img/' + sorted(files)[0])
     return urls

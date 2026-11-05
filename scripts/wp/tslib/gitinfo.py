@@ -7,7 +7,8 @@ IMAGE_EXT_RE = re.compile(r'\.(jpe?g|gif|png|bmp)$', re.I)
 
 
 def ls_files(root, *pathspecs, check=True):
-    """`git -C root ls-files <pathspecs>` の行。"""
+    """`git -C root ls-files <pathspecs>` の行。check=False なら git が失敗しても止めずに、
+    そのときの標準出力の行 (ふつうは空) を返す。"""
     r = subprocess.run(['git', '-C', str(root), 'ls-files', *pathspecs],
                        capture_output=True, text=True, check=check)
     return r.stdout.splitlines()
