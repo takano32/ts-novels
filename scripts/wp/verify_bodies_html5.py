@@ -31,16 +31,16 @@
   .venv/bin/python scripts/wp/verify_bodies_html5.py               # 全数
   .venv/bin/python scripts/wp/verify_bodies_html5.py --id <episode_id>
 """
-import os, sys, json, argparse, collections, warnings
+import os, sys, json, argparse, warnings
 from concurrent.futures import ProcessPoolExecutor
 
 warnings.filterwarnings('ignore')
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tslib import verify_html5 as vh  # noqa: E402
-from tslib.fileio import read_text_guess  # noqa: E402
+from tslib.fileio import read_text_guess, read_jsonl  # noqa: E402
 
-if vh.BeautifulSoup is None:
+if vh.BeautifulSoup is None:                            # bs4 か html5lib が無い
     sys.exit('beautifulsoup4 / html5lib が要る:  .venv/bin/pip install beautifulsoup4 html5lib\n'
              '(make venv でも入る)')
 
@@ -50,10 +50,8 @@ CONVERT_REPORT = os.path.join(ROOT, 'catalog', 'convert_report.jsonl')
 BODIES = os.path.join(ROOT, 'bodies')
 OUT = os.path.join(ROOT, 'catalog', 'reports', 'verify_html5.json')
 
-# 原本が HTML ではない話は突き合わせの対象外 (比較すべき原本 HTML が無い)
-SKIP_MODES = {'plain-text', 'image-work'}
-
-# 検算の規則 (normalize・html5_text・md_text・looks_like_chrome・verify) は scripts/wp/tslib/verify_html5.py
+# 検算の規則 (検算する話の選び方 select_jobs・normalize・html5_text・md_text・looks_like_chrome・
+# 1 話の検算 verify と compare・集計 summarize) は scripts/wp/tslib/verify_html5.py
 
 
 # ---------------------------------------------------------------- 1 話の食い違い
@@ -82,31 +80,8 @@ def explain(job, variant='strict'):
 # ---------------------------------------------------------------- 実行
 
 def load_jobs(args):
-    reports = {}
-    for l in open(CONVERT_REPORT, encoding='utf-8'):
-        d = json.loads(l)
-        reports[d['episode_id']] = d
-    jobs = []
-    for l in open(EPISODES, encoding='utf-8'):
-        ep = json.loads(l)
-        eid = ep['episode_id']
-        d = reports.get(eid)
-        if not d or d.get('status') != 'md':
-            continue
-        mode = d.get('mode')
-        if mode in SKIP_MODES:
-            continue
-        src = ep.get('source_path') or ''
-        if not src or src.lower().endswith('.txt') or src.startswith(('http://', 'https://')):
-            continue
-        if args.id and eid != args.id:
-            continue
-        jobs.append((ROOT, BODIES, eid, src, mode, ep.get('source_anchor'),
-                     [c.get('text', '') for c in (d.get('chrome_removed') or [])],
-                     [c.get('text', '') for c in (d.get('nav_trimmed') or [])]))
-    if args.limit:
-        jobs = jobs[:args.limit]
-    return jobs
+    reports = {d['episode_id']: d for d in read_jsonl(CONVERT_REPORT)}
+    return vh.select_jobs(read_jsonl(EPISODES), reports, ROOT, BODIES, args.id, args.limit)
 
 
 def main():
@@ -143,25 +118,8 @@ def main():
                 if n % 250 == 0:
                     print(f'  {n}/{len(jobs)}', file=sys.stderr)
 
-    counts = collections.Counter(r['result'] for r in rows)
-    ok = ('match', 'match-empty', 'match-anchor')
-    bad = [r for r in rows if r['result'] not in ok]
-    bad.sort(key=lambda r: (r['result'], r['episode_id']))
-    summary = {
-        'checked': len(rows),
-        'result': dict(counts),
-        'match_rate_pct': round(sum(counts[k] for k in ok) / len(rows) * 100, 3) if rows else 0.0,
-        'variant': dict(collections.Counter(r.get('variant') for r in rows if r.get('variant'))),
-        'dropped_head_max': max([r.get('dropped_head', 0) for r in rows] or [0]),
-        'dropped_tail_max': max([r.get('dropped_tail', 0) for r in rows] or [0]),
-        # 原本で &lt;…&gt; だった地の文が md では生の '<…>' になっている話。
-        # 比較は通るが WordPress で描画するとタグとして消える
-        'taglike_text_episodes': sorted(
-            (r['episode_id'], r['md_markers']['taglike_text']) for r in rows
-            if r.get('md_markers', {}).get('taglike_text')),
-        'findings': bad,
-    }
-    summary['taglike_text_count'] = len(summary['taglike_text_episodes'])
+    summary = vh.summarize(rows)
+    bad = summary['findings']
     os.makedirs(os.path.dirname(args.out), exist_ok=True)
     with open(args.out, 'w', encoding='utf-8') as f:
         json.dump(summary, f, ensure_ascii=False, indent=1)

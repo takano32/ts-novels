@@ -4,12 +4,13 @@
 **独立検算の決まり (specs/S12.md)**: このモジュールは本体の変換系 (tslib/bodies.py・
 tslib/payloads.py・tslib/htmltext.py) を import しない。同じ思い込みで両側を間違えないよう、
 原本の解釈は html5lib (HTML5 のパース仕様どおり) に任せる。共有してよいのは読み書き
-(tslib/fileio.py・tslib/paths.py・tslib/gitinfo.py) だけ。
+(tslib/fileio.py・tslib/paths.py) だけ。
 
 比較のしかたは scripts/wp/verify_bodies_html5.py の先頭に書いてある。入出力・並列実行・表示は
-そのスクリプトで、ここは 1 話の検算 (verify) とその部品だけ。
+そのスクリプトで、ここは検算する話の選び方 (select_jobs)・1 話の検算 (verify は読み込み、
+compare が比較)・集計 (summarize) とその部品だけ。
 
-beautifulsoup4 / html5lib が無ければ BeautifulSoup は None (読み込みでは落とさない。
+beautifulsoup4 か html5lib のどちらかが無ければ BeautifulSoup は None (読み込みでは落とさない。
 スクリプトは無ければ案内を出して止まり、試験は飛ばす)。
 """
 import collections
@@ -21,8 +22,14 @@ from tslib.fileio import read_text_guess
 
 try:
     from bs4 import BeautifulSoup
+    import html5lib  # noqa: F401  BeautifulSoup(…, 'html5lib') が使う。無いと解釈の段で落ちる
 except ImportError:                                       # pragma: no cover
     BeautifulSoup = None
+
+# 原本が HTML ではない話は突き合わせの対象外 (比較すべき原本 HTML が無い)
+SKIP_MODES = {'plain-text', 'image-work'}
+# 一致とみなす result
+OK_RESULTS = ('match', 'match-empty', 'match-anchor')
 
 # 前置き/後置きが「ナビ定型だけ」と言い切れる上限。body_convert の chrome_is_safe と同じ 200 字
 CHROME_BUDGET = 200
@@ -140,12 +147,55 @@ def looks_like_chrome(fragment):
     return not PROSE_RE.search(fragment)
 
 
+# ---------------------------------------------------------------- 検算する話の選び方
+
+def select_jobs(episodes, reports, root, bodies, only_id=None, limit=None):
+    """episodes.jsonl のレコードの列と convert_report の {episode_id: レコード} から、検算する話の job の列。
+    md になった話 (status == 'md') のうち、原本が HTML でない層 (SKIP_MODES)・原本が .txt・外部の URL の話は
+    除く。only_id はその 1 話だけ、limit は先頭 N 話だけ (どちらも除いた後に当てる)。
+    job の形は verify の docstring。"""
+    jobs = []
+    for ep in episodes:
+        eid = ep['episode_id']
+        d = reports.get(eid)
+        if not d or d.get('status') != 'md':
+            continue
+        mode = d.get('mode')
+        if mode in SKIP_MODES:
+            continue
+        src = ep.get('source_path') or ''
+        if not src or src.lower().endswith('.txt') or src.startswith(('http://', 'https://')):
+            continue
+        if only_id and eid != only_id:
+            continue
+        jobs.append((root, bodies, eid, src, mode, ep.get('source_anchor'),
+                     [c.get('text', '') for c in (d.get('chrome_removed') or [])],
+                     [c.get('text', '') for c in (d.get('nav_trimmed') or [])]))
+    if limit:
+        jobs = jobs[:limit]
+    return jobs
+
+
 # ---------------------------------------------------------------- 1 話ぶん
+
+# 解釈差を切り分けるための梯子。順に試し、**はみ出しが最小**のものを採る。
+#   strict    … JS 有効のブラウザが見た姿 (noscript は隠れる)
+#   noscript  … body_convert は noscript の中身を残すので、その差の切り分け
+#   *-no-form … body_convert は <form> (感想フォーム) をクロームとして落とす
+#   rawtext*  … <iframe>/<noframes> の代替内容 (HTML5 では生テキスト) の差
+LADDER = (('strict', dict()),
+          ('noscript', dict(drop_noscript=False)),
+          ('no-form', dict(drop_forms=True)),
+          ('noscript+no-form', dict(drop_noscript=False, drop_forms=True)),
+          ('rawtext', dict(unwrap_rawtext=True)),
+          ('rawtext+all', dict(unwrap_rawtext=True, drop_noscript=False, drop_forms=True)))
+
 
 def verify(job):
     """1 話の検算。job = (root, bodies, episode_id, source_path, mode, source_anchor,
     chrome_removed の文字列の列, nav_trimmed の文字列の列)。ProcessPoolExecutor に渡すので
-    モジュールの最上位に置き、置き場 (root と bodies/) も job に含める。"""
+    モジュールの最上位に置き、置き場 (root と bodies/) も job に含める。
+    ここはファイルの読み込みまでで、比較は compare。"""
     root, bodies, eid, src, mode, anchor, chrome_removed, nav_trimmed = job
     r = {'episode_id': eid, 'source_path': src, 'mode': mode}
     mdpath = os.path.join(bodies, eid + '.md')
@@ -156,24 +206,24 @@ def verify(job):
     if not os.path.isfile(full):
         r.update(result='no-source')
         return r
-
     try:
         raw, _ = read_text_guess(full)
-        md = open(mdpath, encoding='utf-8').read()
+        with open(mdpath, encoding='utf-8') as fh:
+            md = fh.read()
+    except Exception as e:
+        r.update(result='error', reason=f'{type(e).__name__}: {e}')
+        return r
+    r.update(compare(raw, md, anchor, chrome_removed, nav_trimmed))
+    return r
+
+
+def compare(raw, md, anchor, chrome_removed, nav_trimmed):
+    """原本 HTML (raw) と bodies/*.md (md) の突き合わせ。戻り値は 1 話の結果の欄 (conv_chars・md_markers・
+    orig_chars・variant・result など) の dict で、鍵の順は verify の結果にそのまま足される順。"""
+    r = {}
+    try:
         conv_text, md_stripped = md_text(md)
         conv = normalize(conv_text)
-        # 解釈差を切り分けるための梯子。順に試し、**はみ出しが最小**のものを採る。
-        #   strict    … JS 有効のブラウザが見た姿 (noscript は隠れる)
-        #   noscript  … body_convert は noscript の中身を残すので、その差の切り分け
-        #   *-no-form … body_convert は <form> (感想フォーム) をクロームとして落とす
-        #   rawtext*  … <iframe>/<noframes> の代替内容 (HTML5 では生テキスト) の差
-        variants = [('strict', dict()),
-                    ('noscript', dict(drop_noscript=False)),
-                    ('no-form', dict(drop_forms=True)),
-                    ('noscript+no-form', dict(drop_noscript=False, drop_forms=True)),
-                    ('rawtext', dict(unwrap_rawtext=True)),
-                    ('rawtext+all', dict(unwrap_rawtext=True, drop_noscript=False,
-                                         drop_forms=True))]
     except Exception as e:
         r.update(result='error', reason=f'{type(e).__name__}: {e}')
         return r
@@ -193,7 +243,7 @@ def verify(job):
 
     best = None
     try:
-        for name, kw in variants:
+        for name, kw in LADDER:
             orig = normalize(html5_text(raw, **kw))
             i = orig.find(conv)
             if i < 0:
@@ -247,8 +297,32 @@ def verify(job):
     return r
 
 
-VARIANT_KW = {'strict': {}, 'noscript': dict(drop_noscript=False),
-              'no-form': dict(drop_forms=True),
-              'noscript+no-form': dict(drop_noscript=False, drop_forms=True),
-              'rawtext': dict(unwrap_rawtext=True),
-              'rawtext+all': dict(unwrap_rawtext=True, drop_noscript=False, drop_forms=True)}
+# --explain で使う原本側の解釈 (梯子の名前 → html5_text の旗)
+VARIANT_KW = dict(LADDER)
+
+
+# ---------------------------------------------------------------- 集計
+
+def summarize(rows):
+    """catalog/reports/verify_html5.json の中身。鍵の順は checked・result・match_rate_pct・variant・
+    dropped_head_max・dropped_tail_max・taglike_text_episodes・findings・taglike_text_count。
+    findings は一致でない話の全部 (result・episode_id の順)。"""
+    counts = collections.Counter(r['result'] for r in rows)
+    bad = [r for r in rows if r['result'] not in OK_RESULTS]
+    bad.sort(key=lambda r: (r['result'], r['episode_id']))
+    summary = {
+        'checked': len(rows),
+        'result': dict(counts),
+        'match_rate_pct': round(sum(counts[k] for k in OK_RESULTS) / len(rows) * 100, 3) if rows else 0.0,
+        'variant': dict(collections.Counter(r.get('variant') for r in rows if r.get('variant'))),
+        'dropped_head_max': max([r.get('dropped_head', 0) for r in rows] or [0]),
+        'dropped_tail_max': max([r.get('dropped_tail', 0) for r in rows] or [0]),
+        # 原本で &lt;…&gt; だった地の文が md では生の '<…>' になっている話。
+        # 比較は通るが WordPress で描画するとタグとして消える
+        'taglike_text_episodes': sorted(
+            (r['episode_id'], r['md_markers']['taglike_text']) for r in rows
+            if r.get('md_markers', {}).get('taglike_text')),
+        'findings': bad,
+    }
+    summary['taglike_text_count'] = len(summary['taglike_text_episodes'])
+    return summary
