@@ -168,16 +168,12 @@ final class TS_Takedown_Command extends TS_Command_Base {
      */
     public function export_takedowns($args, $assoc) {
         $root = $this->repo_root($assoc);
-        if (isset($assoc['start'])) {
-            if (!preg_match('/^[0-9]+$/', (string) $assoc['start'])) WP_CLI::error('--start は数字で');
-            $n = (int) $assoc['start'];
-        } else {
-            $specs = @file_get_contents("$root/SPECS.md");
-            if ($specs === false || !preg_match('/次は S\.([0-9]+)/u', $specs, $m)) WP_CLI::error('SPECS.md に「次は Sn」が無い (--start で指定)');
-            $n = (int) $m[1];
-        }
+        $start = isset($assoc['start']) ? (string) $assoc['start'] : null;
+        $specs = $start === null ? @file_get_contents("$root/SPECS.md") : false;   // --start を省いたときだけ読む
+        [$n, $err] = TS_Denylist::export_start($start, $specs === false ? null : $specs);
+        if ($err !== null) WP_CLI::error($err);
         $since = $assoc['since'] ?? '';
-        if ($since !== '' && !preg_match('/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/', $since)) WP_CLI::error('--since は YYYY-MM-DD で');
+        if (($err = TS_Denylist::since_error((string) $since)) !== null) WP_CLI::error($err);
         $done = $this->exported_requests($root);
         $ids = get_posts(['post_type' => TS_TAKEDOWN_TYPE, 'post_status' => 'any', 'posts_per_page' => -1,
                           'fields' => 'ids', 'no_found_rows' => true, 'orderby' => 'ID', 'order' => 'ASC',
@@ -201,16 +197,10 @@ final class TS_Takedown_Command extends TS_Command_Base {
             foreach ($r['targets'] as $t) {
                 $pid = (int) ($t['post_id'] ?? 0);
                 if (!$pid || get_post_type($pid) !== 'ts_work') continue;
-                $slug = (string) get_post_meta($pid, '_ts_work_slug', true);
-                if ($slug !== '') {
-                    $target = ['kind' => 'work', 'value' => $slug];
-                } else {
-                    // 話だけを指した申請は episode (source_path、アンカー分割話は path#anchor)
-                    $sp = (string) get_post_meta($pid, '_ts_source_path', true);
-                    if ($sp === '') { WP_CLI::warning("申請 {$r['id']}: post $pid の work_slug も source_path も無い"); continue; }
-                    $anchor = (string) get_post_meta($pid, '_ts_source_anchor', true);
-                    $target = ['kind' => 'episode', 'value' => $sp . ($anchor !== '' ? "#$anchor" : '')];
-                }
+                // work_slug があれば work、話だけを指した申請は episode (source_path、アンカー分割話は path#anchor)
+                $target = TS_Denylist::target_of_post((string) get_post_meta($pid, '_ts_work_slug', true),
+                    (string) get_post_meta($pid, '_ts_source_path', true), (string) get_post_meta($pid, '_ts_source_anchor', true));
+                if ($target === null) { WP_CLI::warning("申請 {$r['id']}: post $pid の work_slug も source_path も無い"); continue; }
                 $target['note'] = TS_Takedown_Text::public_note([wp_specialchars_decode(get_the_title($pid), ENT_QUOTES)],
                     $r['pen_name'], $r['allow_name'] === '1', (int) wp_date('Y', $at), (int) wp_date('n', $at));
                 $targets[] = $target;

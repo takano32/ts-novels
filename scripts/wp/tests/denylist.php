@@ -114,3 +114,16 @@ check('annex_path: 末尾の * は前方一致', TS_Denylist::annex_like('novel/
 check('annex_path: * が無ければ完全一致', TS_Denylist::annex_like('novel/200201/x/a.htm'), ['novel/200201/x/a.htm', false]);
 check('annex_path: 末尾の * が 2 つでも前方は全部外す', TS_Denylist::annex_like('novel/x**'), ['novel/x', true]);
 check('annex_path: 途中の * はそのまま', TS_Denylist::annex_like('novel/*/a.htm'), ['novel/*/a.htm', false]);
+
+// export-takedowns の 1 対象と引数の検査 (S132、T45.1.17.2)
+check('対象: work_slug があれば work', TS_Denylist::target_of_post('mori', 'novel/a.htm', 'x'), ['kind' => 'work', 'value' => 'mori']);
+check('対象: 話だけなら episode (アンカーつき)', TS_Denylist::target_of_post('', 'novel/a.htm', 'BBS'), ['kind' => 'episode', 'value' => 'novel/a.htm#BBS']);
+check('対象: 話だけなら episode (アンカーなし)', TS_Denylist::target_of_post('', 'novel/a.htm', ''), ['kind' => 'episode', 'value' => 'novel/a.htm']);
+check('対象: どちらも無ければ null', TS_Denylist::target_of_post('', '', 'BBS'), null);
+check('--start は数字', [TS_Denylist::export_start('240', null), TS_Denylist::export_start('S240', "次は S9"), TS_Denylist::export_start('', null)],
+      [[240, null], [null, '--start は数字で'], [null, '--start は数字で']]);
+check('--start を省けば SPECS.md の「次は Sn」', TS_Denylist::export_start(null, "いまの最後は S243、次は S244。\n"), [244, null]);
+check('SPECS.md が読めないか「次は」が無ければ誤り', [TS_Denylist::export_start(null, null), TS_Denylist::export_start(null, '一覧')],
+      [[null, 'SPECS.md に「次は Sn」が無い (--start で指定)'], [null, 'SPECS.md に「次は Sn」が無い (--start で指定)']]);
+check('--since は空か YYYY-MM-DD', [TS_Denylist::since_error(''), TS_Denylist::since_error('2026-11-05'), TS_Denylist::since_error('2026/11/05'),
+      TS_Denylist::since_error('1')], [null, null, '--since は YYYY-MM-DD で', '--since は YYYY-MM-DD で']);

@@ -9,6 +9,7 @@
  *    (scripts/wp/ts_library_test.php が往復を確かめる)
  *  - episode_target / annex_like: `wp ts apply-takedown` が投稿を引く前の value の分解 (DB を引くのは
  *    includes/commands/takedown.php)
+ *  - target_of_post / export_start / since_error: `wp ts export-takedowns` の 1 対象の決め方と引数の検査
  *
  * PHP 8.0 互換。
  */
@@ -160,5 +161,34 @@ final class TS_Denylist {
      */
     public static function annex_like(string $value): array {
         return [rtrim($value, '*'), substr($value, -1) === '*'];
+    }
+
+    /**
+     * export-takedowns の 1 対象 (S132): 申請が指した ts_work の投稿のメタ → エントリの target。work_slug があれば
+     * work、無ければ話だけを指した申請として episode (source_path、アンカー分割話は path#anchor)。
+     * どちらも無ければ null (呼び出し側が警告を出して飛ばす)。
+     */
+    public static function target_of_post(string $work_slug, string $source_path, string $anchor): ?array {
+        if ($work_slug !== '') return ['kind' => 'work', 'value' => $work_slug];
+        if ($source_path === '') return null;
+        return ['kind' => 'episode', 'value' => $source_path . ($anchor !== '' ? "#$anchor" : '')];
+    }
+
+    /**
+     * export-takedowns の最初に振る S の番号 (S132): [番号, 誤りの文 (無ければ null)]。$start は --start の値
+     * (省いたら null)、$specs は SPECS.md の中身 (--start を省いたときだけ読む。読めなければ null)。
+     */
+    public static function export_start(?string $start, ?string $specs): array {
+        if ($start !== null) {
+            if (!preg_match('/^[0-9]+$/', $start)) return [null, '--start は数字で'];
+            return [(int) $start, null];
+        }
+        if ($specs === null || !preg_match('/次は S\.([0-9]+)/u', $specs, $m)) return [null, 'SPECS.md に「次は Sn」が無い (--start で指定)'];
+        return [(int) $m[1], null];
+    }
+
+    /** export-takedowns の --since の検査: 空 (省いた) か YYYY-MM-DD なら null、ほかは誤りの文 */
+    public static function since_error(string $since): ?string {
+        return ($since !== '' && !preg_match('/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/', $since)) ? '--since は YYYY-MM-DD で' : null;
     }
 }
