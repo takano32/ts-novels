@@ -372,3 +372,257 @@ function ts_fixture_theme(): array {
     TS_WP_Stubs::$users = [3 => ['user_email' => 'iin@example.com', 'display_name' => '委員', 'roles' => ['ts_committee'], 'caps' => ['ts_view_hidden']]];
     return $ids;
 }
+
+// ---------------------------------------------------------------- 本番で人が触る 3 経路 (T45.6.4): フォームの送信と確認リンク・cron・wp ts apply-takedown
+// time() は置き換えられないので、時刻は「いま」からの差 (時間の単位に丸める) で比べる。1 秒のずれは丸めで消える。
+
+/** 時刻 (Unix 秒) を「いま」からの差で: 'now+0h'・'now-192h'。0 は '0' (まだ無い) */
+function ts_fixture_rel($v, int $now): string {
+    return (int) $v === 0 ? '0' : 'now' . sprintf('%+d', (int) round(((int) $v - $now) / 3600)) . 'h';
+}
+
+/** 文中の「Y-m-d H:i」(Asia/Tokyo。メールの自動適用の時刻) を ts_fixture_rel の形に */
+function ts_fixture_rel_text(string $s, int $now): string {
+    return preg_replace_callback('/\d{4}-\d{2}-\d{2} \d{2}:\d{2}/', function ($m) use ($now) {
+        return ts_fixture_rel((new DateTimeImmutable($m[0], TS_WP_Stubs::tz()))->getTimestamp(), $now);
+    }, $s);
+}
+
+/**
+ * 申請 1 件のメタを鍵の順に (値が 1 つならその値、2 つ以上なら列)。$rel_keys の鍵の値は ts_fixture_rel に、_tr_log は
+ * 「what/by/note/時刻」に、_tr_token は確認リンクの $token の wp_hash と同じなら '(token の wp_hash)' にする
+ */
+function ts_fixture_request_meta(int $id, int $now, array $rel_keys, string $token = ''): array {
+    $meta = TS_WP_Stubs::$meta[$id] ?? [];
+    ksort($meta);
+    $out = [];
+    foreach ($meta as $k => $vals) {
+        $vals = array_map(function ($v) use ($k, $now, $rel_keys, $token) {
+            if (in_array($k, $rel_keys, true)) return ts_fixture_rel($v, $now);
+            if ($k === '_tr_log') {
+                $l = json_decode((string) $v, true);
+                return $l['what'] . '/' . $l['by'] . '/' . $l['note'] . '/' . ts_fixture_rel($l['at'], $now);
+            }
+            if ($k === '_tr_token' && $token !== '' && $v === wp_hash($token)) return '(token の wp_hash)';
+            return $v;
+        }, $vals);
+        $out[$k] = count($vals) === 1 ? $vals[0] : $vals;
+    }
+    return $out;
+}
+
+/** 送ったメール [宛先, 件名, 本文 (確認リンクの token と自動適用の時刻を伏せる), ヘッダ] */
+function ts_fixture_mails(int $now): array {
+    return array_map(function ($m) use ($now) {
+        $body = preg_replace('/ts_confirm=[0-9a-f]{64}/', 'ts_confirm=(token)', ts_fixture_rel_text($m['body'], $now));
+        return [$m['to'], $m['subject'], $body, $m['headers']];
+    }, TS_WP_Stubs::$mails);
+}
+
+/**
+ * 要求を 1 つ流す: $_POST・$_GET と $_SERVER の鍵を置いて $fn を呼び、応答 (ts_takedown_respond → wp_die) を
+ * [状態コード, 題, 本文] で返す。応答せずに戻れば null。終わったら 3 つとも元に戻す
+ */
+function ts_fixture_request_run(callable $fn, array $post = [], array $get = [], array $server = []): ?array {
+    $saved = [$_POST, $_GET, $_SERVER];
+    $_POST = $post; $_GET = $get; $_SERVER = array_merge($_SERVER, $server);
+    try {
+        $fn();
+        return null;
+    } catch (TS_WP_Die $e) {
+        return [$e->args['response'] ?? null, $e->title, $e->getMessage()];
+    } finally {
+        [$_POST, $_GET, $_SERVER] = $saved;
+    }
+}
+
+/** レート制限の transient: 鍵 => [件数, 数え始め (ts_fixture_rel), 寿命 (分)] */
+function ts_fixture_rate_transients(int $now): array {
+    return array_map(function ($x) use ($now) {
+        return [$x[0]['n'], ts_fixture_rel($x[0]['start'], $now), (int) round($x[1] / 60) . 'm'];
+    }, TS_WP_Stubs::$transients);
+}
+
+/**
+ * 取り下げフォームの送信 (specs/S124.md) と確認リンク (S126) を、ts_fixture_takedown_targets の作品の上で順に流して結果を集める。
+ * 試験と probe が同じ順で流すように、流し方もここに置く。$sign は表示時刻の署名 (新版は TS_Takedown_Input::sign_time、
+ * 旧版は ts_takedown_sign_time)、$handle はフォームの送信を受ける関数、$confirm は template_redirect@1 の callable (確認リンク)。
+ * 最後の「受付」は確認を要しない設定 (TS_TAKEDOWN_REQUIRE_CONFIRM = false) で流す。定数は消せないので、この後に同じプロセスで
+ * ts_takedown_store を takedown_form で呼ぶと確認を飛ばす (読むのは ts_takedown_store の 1 か所だけ)。
+ * 返り値: 名前 => 結果 (応答・申請のメタ・メール・transient)
+ */
+function ts_fixture_run_takedown_form(callable $sign, callable $handle, callable $confirm): array {
+    ts_fixture_takedown_targets();
+    TS_WP_Stubs::$options['admin_email'] = 'admin@example.com';
+    TS_WP_Stubs::$users = [3 => ['user_email' => 'iin@example.com', 'display_name' => '委員', 'roles' => ['ts_committee'], 'caps' => ['ts_manage_takedown']]];
+    $now = time();
+    $key = wp_salt('nonce');
+    $in = function (array $over = []) use ($sign, $now, $key) {
+        return wp_slash(array_merge([
+            'action' => 'ts_takedown', '_wpnonce' => wp_create_nonce('ts_takedown'), 't' => $sign($now - 10, $key), 'hp' => '',
+            'pen_name' => '天野 月', 'targets' => "https://novels.xwp.jp/novel/amano-tsuki-renzoku/\nhttps://novels.xwp.jp/novel/nai/",
+            'contact' => 'amano@example.com', 'relation' => 'author', 'evidence' => "当時の感想板の名前は\n「月」です",
+            'message' => "よろしく\nお願いします", 'allow_name' => '1',
+        ], $over));
+    };
+    $post = function (array $over = [], string $ip = '192.0.2.1') use ($handle, $in) {
+        return ts_fixture_request_run($handle, $in($over), [], ['REMOTE_ADDR' => $ip, 'HTTP_USER_AGENT' => 'Mozilla/5.0 (作り物)']);
+    };
+    $last = function () { return max(array_keys(TS_WP_Stubs::$posts)); };
+    $token_in = function (int $i) {
+        return preg_match('/ts_confirm=([0-9a-f]{64})/', TS_WP_Stubs::$mails[$i]['body'] ?? '', $m) ? $m[1] : '';
+    };
+    $rel = ['_tr_received_at', '_tr_confirmed_at', '_tr_auto_apply_at', '_tr_reminded_at', '_tr_resolved_at'];
+    $out = [];
+    $out['nonce'] = $post(['_wpnonce' => 'x']);
+    $out['honeypot'] = $post(['hp' => 'spam']);
+    $out['fast'] = $post(['t' => $sign($now, $key)]);
+    $out['broken_t'] = $post(['t' => 'abc']);
+    $out['invalid'] = $post(['pen_name' => '', 'targets' => '', 'contact' => 'not-mail', 'relation' => 'x'], '192.0.2.9');
+    $out['blocked_writes'] = [count(TS_WP_Stubs::$posts), TS_WP_Stubs::$mails, TS_WP_Stubs::$transients];
+
+    $out['sent'] = $post();
+    $first = $last();
+    $token = $token_in(0);
+    $p = TS_WP_Stubs::$posts[$first];
+    $out['sent_post'] = [$p->post_type, $p->post_status, $p->post_title];
+    $out['sent_meta'] = ts_fixture_request_meta($first, $now, $rel, $token);
+    $out['sent_mails'] = ts_fixture_mails($now);
+    $out['sent_transients'] = ts_fixture_rate_transients($now);
+    $out['sent2'] = $post();
+    $second = $last();
+    $token2 = $token_in(1);
+    $out['sent3'] = $post();
+    $third = $last();
+    $token3 = $token_in(2);
+    $out['limited'] = $post();
+    $out['other_ip'] = $post(['pen_name' => ''], '192.0.2.2');
+    $out['limited_transients'] = ts_fixture_rate_transients($now);
+
+    TS_WP_Stubs::$mails = [];
+    $out['confirm_none'] = ts_fixture_request_run($confirm);
+    $out['confirm_short'] = ts_fixture_request_run($confirm, [], ['ts_confirm' => 'abc']);
+    $out['confirm_array'] = ts_fixture_request_run($confirm, [], ['ts_confirm' => [$token]]);
+    $out['confirm_unknown'] = ts_fixture_request_run($confirm, [], ['ts_confirm' => str_repeat('0', 64)]);
+    $out['confirm_ok'] = ts_fixture_request_run($confirm, [], ['ts_confirm' => $token]);
+    $out['confirm_ok_meta'] = ts_fixture_request_meta($first, $now, $rel, $token);
+    $out['confirm_ok_mails'] = ts_fixture_mails($now);
+    $out['confirm_again'] = ts_fixture_request_run($confirm, [], ['ts_confirm' => $token]);
+    TS_WP_Stubs::set_meta($second, ['_tr_received_at' => $now - 8 * 86400]);
+    $out['confirm_late'] = ts_fixture_request_run($confirm, [], ['ts_confirm' => $token2]);
+    TS_WP_Stubs::set_meta($third, ['_tr_status' => 'expired']);
+    $out['confirm_expired'] = ts_fixture_request_run($confirm, [], ['ts_confirm' => $token3]);
+    $out['confirm_late_after'] = [get_post_meta($second, '_tr_status', true), get_post_meta($third, '_tr_status', true), count(TS_WP_Stubs::$mails)];
+
+    TS_WP_Stubs::$mails = [];
+    if (!defined('TS_TAKEDOWN_REQUIRE_CONFIRM')) define('TS_TAKEDOWN_REQUIRE_CONFIRM', false);
+    $out['received'] = $post([], '192.0.2.3');
+    $out['received_meta'] = ts_fixture_request_meta($last(), $now, $rel);
+    $out['received_mails'] = ts_fixture_mails($now);
+    return $out;
+}
+
+/**
+ * cron ts_takedown_tick (specs/S130.md) の場面: ts_fixture_takedown_apply_scene の申請 (自動適用の時刻を過ぎた) に、次の 7 件を足す。
+ * 時刻は「いま」($now) からの差で置く (確認時刻 _tr_confirmed_at は ts_fixture_request の既定のまま。/removed/ の 1 行の年月に使う)。
+ *  'expire'   確認されないまま 8 日 (失効)              'young'    確認されないまま 1 日 (何もしない)
+ *  'remind'   自動適用の 2 日前 (リマインド)           'reminded' 2 日前でリマインド済み (何もしない)
+ *  'purge'    適用から 366 日 (依頼者情報を消す)        'purged'   却下から 366 日だが連絡先も IP も空 (数えない)
+ *  'recent'   失効から 10 日 (消さない)
+ * 返り値: ts_fixture_takedown_apply_scene の ID に、上の名前 => 申請の投稿 ID を足したもの
+ */
+function ts_fixture_takedown_tick_scene(int $now): array {
+    $ids = ts_fixture_takedown_apply_scene();
+    $day = 86400;
+    TS_WP_Stubs::set_meta($ids['request'], ['_tr_received_at' => $now - 11 * $day, '_tr_auto_apply_at' => $now - 3600]);
+    $add = function (string $status, array $kv) use ($now) {
+        $id = ts_fixture_request([['url' => 'https://novels.xwp.jp/novel/hoka/', 'post_id' => null, 'work_slug' => null]], '星野 空', '0');
+        TS_WP_Stubs::set_meta($id, array_merge(['_tr_status' => $status, '_tr_received_at' => $now - 20 * 86400, '_tr_auto_apply_at' => 0], $kv));
+        return $id;
+    };
+    $ids['expire'] = $add('unconfirmed', ['_tr_received_at' => $now - 8 * $day, '_tr_confirmed_at' => 0, '_tr_token' => 'tokenhash']);
+    $ids['young'] = $add('unconfirmed', ['_tr_received_at' => $now - $day, '_tr_confirmed_at' => 0, '_tr_token' => 'tokenhash2']);
+    $ids['remind'] = $add('received', ['_tr_auto_apply_at' => $now + 2 * $day]);
+    $ids['reminded'] = $add('received', ['_tr_auto_apply_at' => $now + 2 * $day, '_tr_reminded_at' => $now - 3600]);
+    $ids['purge'] = $add('applied', ['_tr_resolved_at' => $now - 366 * $day, '_tr_ip_hash' => 'iphash', '_tr_ua' => 'UA',
+                                     '_tr_evidence' => '手がかり', '_tr_message' => '連絡事項']);
+    $ids['purged'] = $add('rejected', ['_tr_resolved_at' => $now - 366 * $day, '_tr_contact' => '', '_tr_evidence' => '残る手がかり']);
+    $ids['recent'] = $add('expired', ['_tr_resolved_at' => $now - 10 * $day]);
+    return $ids;
+}
+
+/**
+ * wp ts apply-takedown (specs/S121.md) の場面: ts_fixture_takedown_targets の作品に、$repo/takedown/denylist.yml (エントリ 5 つ) を置く。
+ *  S10 連載 (amano-tsuki-renzoku) を取り下げ。第三話 (ren03) は既に同じ印で private (変更なし) で、import の記録が post_modified より
+ *      古い (自己修復)。連載の親は import の記録がある (状態を変えたら記録を直す)
+ *  S11 単発 (amano-tsuki-tanpen) は status reinstated。いまは S11 の印で private (復帰)
+ *  S12 本サイトに無い作品 (該当投稿なし)   S13 target が無い (不完全なエントリ)   S14 未知の kind
+ * denylist に無い印: 入れ子の上 (iri01) は S5 (警告)、下 (iri02) は申請 req:7 (申請による取り下げとして数え、URL を残す)。
+ * 返り値: ts_fixture_takedown_targets の ID
+ */
+function ts_fixture_apply_takedown_scene(string $repo): array {
+    $t = ts_fixture_takedown_targets();
+    $note = '「連続する月」(天野 月さん) — 作者の申し出により掲載していません';
+    TS_WP_Stubs::$posts[$t['ep'][2]]->post_status = 'private';
+    TS_WP_Stubs::set_meta($t['ep'][2], ['_ts_visibility' => 'withdrawn', '_ts_takedown_id' => 'S10', '_ts_public_note' => $note,
+                                        '_ts_takedown_date' => '2026-01-02', '_ts_last_import_gmt' => '2000-01-01 00:00:00']);
+    TS_WP_Stubs::set_meta($t['serial'], ['_ts_last_import_gmt' => '2026-10-30 00:00:00']);
+    TS_WP_Stubs::$posts[$t['single']]->post_status = 'private';
+    TS_WP_Stubs::set_meta($t['single'], ['_ts_visibility' => 'withdrawn', '_ts_takedown_id' => 'S11', '_ts_public_note' => '「短い月」— 掲載していません',
+                                         '_ts_takedown_date' => '2025-05-05']);
+    TS_WP_Stubs::$posts[$t['nep'][0]]->post_status = 'private';
+    TS_WP_Stubs::set_meta($t['nep'][0], ['_ts_visibility' => 'withdrawn', '_ts_takedown_id' => 'S5']);
+    TS_WP_Stubs::$posts[$t['nep'][1]]->post_status = 'private';
+    TS_WP_Stubs::set_meta($t['nep'][1], ['_ts_visibility' => 'withdrawn', '_ts_takedown_id' => 'req:7']);
+    if (!is_dir("$repo/takedown")) mkdir("$repo/takedown", 0777, true);
+    file_put_contents("$repo/takedown/denylist.yml", "---\n# 試験の作り物\nversion: 1\nentries:\n"
+        . "  - id: S10\n    target:\n      kind: work\n      value: amano-tsuki-renzoku\n    status: applied\n    requested_at: 2026-01-02\n"
+        . "    public_note: $note\n\n"
+        . "  - id: S11\n    target: { kind: work, value: amano-tsuki-tanpen }\n    status: reinstated\n    requested_at: 2025-05-05\n\n"
+        . "  - id: S12\n    target:\n      kind: work\n      value: nai-sakuhin\n    status: applied\n\n"
+        . "  - id: S13\n    status: applied\n\n"
+        . "  - id: S14\n    target:\n      kind: picture\n      value: x.png\n");
+    return $t;
+}
+
+/**
+ * wp ts apply-takedown を dry-run → 適用 → もう一度適用の順に流す。$apply は [$args, $assoc] を受けてコマンドを呼ぶ
+ * (新版は TS_Takedown_Command::apply_takedown、旧版は TS_Command::apply_takedown)。$db_rows は denylist に無い印を探す問い合わせ
+ * ($wpdb->get_col) が返す投稿 ID を回ごとに (SQL は解釈しないので、その時点で withdrawn の ts_work を試験が書く)。
+ * 返り値: 回ごとの [WP_CLI::$out, 投稿の状態 (ts_fixture_takedown_snapshot の posts), option ts_takedown_urls, wp_update_post の数]
+ */
+function ts_fixture_run_apply_takedown(callable $apply, string $repo, array $db_rows): array {
+    $out = [];
+    foreach ([['dry', ['repo' => $repo, 'dry-run' => true]], ['apply', ['repo' => $repo]], ['again', ['repo' => $repo]]] as $i => [$name, $assoc]) {
+        WP_CLI::$out = [];
+        TS_WP_Stubs::$log = [];
+        TS_WP_Stubs::$db_rows = [array_map(function ($id) { return ['post_id' => (string) $id]; }, $db_rows[$i])];
+        $apply([], $assoc);
+        $updates = count(array_filter(TS_WP_Stubs::$log, function ($l) { return $l[0] === 'wp_update_post'; }));
+        $out[$name] = [WP_CLI::$out, ts_fixture_takedown_snapshot(['request' => 0])['posts'], get_option('ts_takedown_urls'), $updates];
+    }
+    WP_CLI::$out = [];
+    return $out;
+}
+
+/**
+ * cron ts_takedown_tick を ts_fixture_takedown_tick_scene の上で 1 度流す。$tick は ts_takedown_tick (新版と旧版で同じ名前)。
+ * 返り値: 申請ごとのメタ (ts_fixture_request_meta。_tr_targets は除く。確認時刻のほかの時刻は「いま」からの差)・投稿の状態・
+ * option ts_takedown_urls・送ったメール・option ts_takedown_last_tick (時刻は差)
+ */
+function ts_fixture_run_takedown_tick(callable $tick): array {
+    $now = time();
+    $ids = ts_fixture_takedown_tick_scene($now);
+    $tick();
+    $rel = ['_tr_received_at', '_tr_auto_apply_at', '_tr_reminded_at', '_tr_resolved_at'];
+    $requests = [];
+    foreach (['request', 'expire', 'young', 'remind', 'reminded', 'purge', 'purged', 'recent'] as $k) {
+        $m = ts_fixture_request_meta($ids[$k], $now, $rel);
+        unset($m['_tr_targets']);
+        $requests[$k] = $m;
+    }
+    $s = ts_fixture_takedown_snapshot($ids);
+    $last = get_option('ts_takedown_last_tick');
+    if (is_array($last)) $last['time'] = ts_fixture_rel($last['time'], $now);
+    return ['requests' => $requests, 'posts' => $s['posts'], 'urls' => $s['urls'], 'mails' => ts_fixture_mails($now), 'last_tick' => $last];
+}
