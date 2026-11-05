@@ -6,24 +6,7 @@ get_header();
 if (is_search()) {
     echo '<h1 class="ts-archive-title">検索: ' . esc_html(get_search_query()) . '</h1>';
     get_search_form();
-    // ファセット絞込 (T10.4): 公開タクソノミーの query var をそのまま使う
-    foreach ([['ts_genre', 'ジャンル'], ['ts_type', '変身のかたち']] as [$tax, $label]) {
-        $terms = get_terms(['taxonomy' => $tax, 'hide_empty' => true, 'number' => 14,
-                            'orderby' => 'count', 'order' => 'DESC']);
-        if (is_wp_error($terms) || !$terms) continue;
-        $active = get_query_var($tax);
-        echo '<p class="ts-chips"><span class="ts-count">' . esc_html($label) . ':</span> ';
-        if ($active) {
-            echo '<a class="ts-chip" href="' . esc_url(remove_query_arg($tax)) . '">✕ '
-                . esc_html($active) . '</a> ';
-        }
-        foreach ($terms as $t) {
-            if ($t->slug === $active) continue;
-            echo '<a class="ts-chip" href="' . esc_url(add_query_arg($tax, $t->slug)) . '">'
-                . esc_html($t->name) . '</a> ';
-        }
-        echo '</p>';
-    }
+    ts_bunko_search_facets();   // ファセット絞込 (T10.4。mu-plugin の includes/render/render-list.php)
 } elseif (is_tax()) {
     $term = get_queried_object();
     echo '<h1 class="ts-archive-title">' . esc_html(single_term_title('', false)) . '</h1>';

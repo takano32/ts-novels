@@ -99,8 +99,16 @@ sort($called_names);
 check('テーマが呼ぶ関数の一覧 (変えるときはテーマも直す)', $called_names,
       ['ts_bunko_author_links', 'ts_bunko_biblio_card', 'ts_bunko_breadcrumb', 'ts_bunko_catalog_notes', 'ts_bunko_episode_nav',
        'ts_bunko_hidden_banner', 'ts_bunko_illustrated_work_ids', 'ts_bunko_inline_nav', 'ts_bunko_meta_header', 'ts_bunko_osusume',
-       'ts_bunko_sidebar', 'ts_bunko_suisen', 'ts_bunko_todays_pick', 'ts_bunko_work_toc', 'ts_bunko_workcard', 'ts_index_kind',
-       'ts_index_year', 'ts_meta', 'ts_visibility_child_statuses']);
+       'ts_bunko_search_facets', 'ts_bunko_sidebar', 'ts_bunko_suisen', 'ts_bunko_todays_pick', 'ts_bunko_work_toc', 'ts_bunko_workcard',
+       'ts_index_kind', 'ts_index_year', 'ts_meta', 'ts_visibility_child_statuses']);
+// テーマが引く mu-plugin のクラスのメソッドと定数 (T45.1.5 で文言と表を TS_ のクラスに移した)。全部あること
+$theme_refs = [];
+foreach (glob("$root/themes/ts-bunko/*.php") as $f) {
+    if (preg_match_all('/\b(TS_[A-Za-z_]+)::([A-Za-z_]+)(\()?/', file_get_contents($f), $m, PREG_SET_ORDER)) {
+        foreach ($m as $x) $theme_refs[$x[1] . '::' . $x[2] . (isset($x[3]) ? '()' : '')] = isset($x[3]) ? method_exists($x[1], $x[2]) : defined("$x[1]::$x[2]");
+    }
+}
+check('テーマが引く TS_ のクラスのメソッドと定数は全部ある', array_keys(array_filter($theme_refs, function ($ok) { return !$ok; })), []);
 
 // wp ts のサブコマンド名 (登録を受ける WP_CLI の代わりに溜まったもの)
 $names = array_keys(WP_CLI::$commands); sort($names);

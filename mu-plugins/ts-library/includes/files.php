@@ -43,7 +43,7 @@ final class TS_Library_Files {
         'render/render-work.php',        // 作品・話のページの表示部品 (テーマが呼ぶ関数)
         'render/render-lookup.php',      // 原パス → 投稿、名前 → 作者 term、作者ページの部品
         'render/render-sidebar.php',     // サイドバー
-        'render/render-list.php',        // 一覧の作品カード (ts_bunko_workcard。テーマの一覧が呼ぶ)
+        'render/render-list.php',        // 一覧の作品カードと検索結果のファセット (テーマの一覧が呼ぶ)
         'indexes/index-routing.php',     // /index/…/ と /year/YYYY/ のルーティング
         'indexes/index-render.php',      // 索引の描画部品 (ts_bunko_index_<種類>)
         'visibility/visibility-hooks.php', // 410 / 404 を返す・帯を出す

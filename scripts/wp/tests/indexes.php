@@ -25,3 +25,6 @@ check('いまの一作: 分割前と同じ添字', [TS_Index_Text::pick_index(20
 
 check('運営文書の区分の並び', array_keys(TS_Index_Text::DOC_SECTIONS), ['gallery', 'comittee', 'columns', 'dialy', 'prehistory', 'notes']);
 check('年表の最初の年', TS_Index_Text::TIMELINE_FROM, 1990);
+check('分類の見出し (分類索引の並び。検索のファセットと共有)', TS_Index_Text::TAX_LABELS, ['ts_genre' => 'ジャンル', 'ts_type' => '変身のかたち', 'ts_world' => '共有世界']);
+check('検索のファセットはジャンルと種別 (見出しは TAX_LABELS にある)', [TS_Index_Text::SEARCH_FACETS, array_values(array_diff(TS_Index_Text::SEARCH_FACETS, array_keys(TS_Index_Text::TAX_LABELS)))],
+      [['ts_genre', 'ts_type'], []]);

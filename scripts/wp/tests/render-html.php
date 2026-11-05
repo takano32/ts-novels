@@ -286,3 +286,21 @@ $same('作品カード', $got, array (
   'workcard/hidden' => '<li class="ts-workcard"><h2 class="ts-workcard-title"><a href="https://novels.xwp.jp/novel/kieta/">消えた話</a></h2><p class="ts-workcard-meta">星野 灯　·　2001/05/05</p></li>',
 ));
 TS_WP_Stubs::reset();
+
+// ---------------------------------------------------------------- 検索結果のファセット (T10.4。T45.1.5.3 で index.php から includes/render/render-list.php へ)
+// 期待値: d586f0eb の themes/ts-bunko/index.php:9-26 (移す前まで変わっていない) を同じ代わりと置き場 (ts_fixture_theme) で描いた検索結果の
+// ページから、検索窓と一覧の間を切り出したもの (2026-11-05、probe-theme.php)。選んでいる語 (✕ で外す) あり・なし
+ts_fixture_theme();
+$_SERVER['REQUEST_URI'] = '/?s=%E5%85%89&ts_genre=gakuen';
+TS_WP_Stubs::$query_vars = ['s' => '光 & <影>', 'ts_genre' => 'gakuen'];
+check('ファセット: ジャンルを選んでいる', TS_WP_Stubs::capture('ts_bunko_search_facets'),
+      '<p class="ts-chips"><span class="ts-count">ジャンル:</span> <a class="ts-chip" href="/?s=%E5%85%89">✕ gakuen</a> '
+      . '<a class="ts-chip" href="/?s=%E5%85%89&#038;ts_genre=fantasy">ファンタジー</a> </p>'
+      . '<p class="ts-chips"><span class="ts-count">変身のかたち:</span> <a class="ts-chip" href="/?s=%E5%85%89&#038;ts_genre=gakuen&#038;ts_type=irekawari">入れ替わり</a> </p>');
+TS_WP_Stubs::$query_vars = ['s' => 'なし'];
+check('ファセット: 何も選んでいない (件数の多い順)', TS_WP_Stubs::capture('ts_bunko_search_facets'),
+      '<p class="ts-chips"><span class="ts-count">ジャンル:</span> <a class="ts-chip" href="/?s=%E5%85%89&#038;ts_genre=fantasy">ファンタジー</a> '
+      . '<a class="ts-chip" href="/?s=%E5%85%89&#038;ts_genre=gakuen">学園</a> </p>'
+      . '<p class="ts-chips"><span class="ts-count">変身のかたち:</span> <a class="ts-chip" href="/?s=%E5%85%89&#038;ts_genre=gakuen&#038;ts_type=irekawari">入れ替わり</a> </p>');
+$_SERVER['REQUEST_URI'] = '/';
+TS_WP_Stubs::reset();

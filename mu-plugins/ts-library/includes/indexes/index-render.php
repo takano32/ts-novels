@@ -80,9 +80,9 @@ function ts_bunko_index_timeline() {
         . esc_url(home_url('/index/docs/#sec-prehistory')) . '">文庫前史</a> にあります。</p>';
 }
 
-/** 分類索引: ジャンル・種別・共有世界の全 term */
+/** 分類索引: ジャンル・種別・共有世界の全 term (並びと見出しは TS_Index_Text::TAX_LABELS) */
 function ts_bunko_index_bunrui() {
-    foreach ([['ts_genre', 'ジャンル'], ['ts_type', '変身のかたち'], ['ts_world', '共有世界']] as [$tax, $label]) {
+    foreach (TS_Index_Text::TAX_LABELS as $tax => $label) {
         $terms = get_terms(['taxonomy' => $tax, 'hide_empty' => true,
                             'orderby' => 'count', 'order' => 'DESC']);
         if (is_wp_error($terms) || !$terms) continue;

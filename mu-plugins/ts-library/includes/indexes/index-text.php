@@ -20,6 +20,12 @@ final class TS_Index_Text {
                            'vocabulary' => 'キーワード索引', 'osusume' => 'オススメの環',
                            'docs' => '運営文書・資料'];
 
+    /** 分類の見出し (分類索引の並びの順。検索結果のファセットも同じ見出しを使う) */
+    public const TAX_LABELS = ['ts_genre' => 'ジャンル', 'ts_type' => '変身のかたち', 'ts_world' => '共有世界'];
+
+    /** 検索結果のファセットに出す taxonomy (見出しは TAX_LABELS) */
+    public const SEARCH_FACETS = ['ts_genre', 'ts_type'];
+
     /** 五十音行の並び (catalog の ts_yomi_group の実値) */
     public const KANA_ROWS = ['あ行', 'か行', 'さ行', 'た行', 'な行', 'は行', 'ま行', 'や行', 'ら行', 'わ行'];
 
