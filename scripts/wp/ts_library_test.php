@@ -11,7 +11,9 @@
  * 試すもの: ファイルの構成と境目・コンテンツモデルの名前と URL 基底・サイト全体の一覧の値と規則・ロールの差分と冪等 (S116)・
  * 可視性の判定と帯 (S117・S118)・apply-takedown の 1 投稿の変化と計画 (S121)・denylist の読み書き (S76・S132)・
  * 取り下げフォームの判定と文面 (S124〜S132)・catalog の索引と語彙と verify の期待値・固定ページの原本の形 (S109)・
- * eyecatch の再設定の判断 (S189)・表示の文言と索引の並び。失敗が 1 件でもあれば終了コード 1。
+ * eyecatch の再設定の判断 (S189)・表示の文言と索引の並び。
+ * その後に WordPress の代わり (tests/wp-stubs.php。T45.1.14) を置いて WP の表を読み、WordPress に触る側も試す:
+ * 代わりそのものの決まり・読み込み時に登録するフックと優先度の表 (S242)・表示部品の HTML。失敗が 1 件でもあれば終了コード 1。
  */
 
 define('TS_LIBRARY_TEST', true);
@@ -38,6 +40,16 @@ class WP_CLI {
 foreach (TS_Library_Files::CLI as $f) require "$plugin/includes/$f";
 
 foreach (['files', 'content-model', 'site', 'roles', 'visibility', 'takedown', 'denylist', 'catalog', 'eyecatch', 'render', 'indexes'] as $t) {
+    require "$root/scripts/wp/tests/$t.php";
+}
+
+// WordPress に触る側 (WP の表) は、WordPress の代わり (scripts/wp/tests/wp-stubs.php) を置いてから読む (T45.1.14)。PURE はここより前に
+// WordPress なしで読めている (境目の検査)。代わりは出力の構造を固定できる程度のもので、エスケープの忠実さは見ない。
+// 読み込み時に登録するフックは代わりが記録し、tests/hooks.php が S242 の表と比べる。置き場の作り方は tests/wp-fixtures.php。
+require "$root/scripts/wp/tests/wp-stubs.php";
+require "$root/scripts/wp/tests/wp-fixtures.php";
+foreach (TS_Library_Files::WP as $f) require "$plugin/includes/$f";
+foreach (['wp-stubs-check', 'hooks', 'render-html'] as $t) {
     require "$root/scripts/wp/tests/$t.php";
 }
 
