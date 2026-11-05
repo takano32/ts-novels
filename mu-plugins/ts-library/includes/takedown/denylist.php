@@ -7,6 +7,8 @@
  *    (呼び出し側が WP_CLI::warning で出す)
  *  - export_yaml: 取り下げフォームの 1 申請 → denylist のエントリ (version 1)。parse で読み戻せる形
  *    (scripts/wp/ts_library_test.php が往復を確かめる)
+ *  - episode_target / annex_like: `wp ts apply-takedown` が投稿を引く前の value の分解 (DB を引くのは
+ *    includes/commands/takedown.php)
  *
  * PHP 8.0 互換。
  */
@@ -142,5 +144,21 @@ final class TS_Denylist {
             $out[(int) $m[1]][] = ['id' => $e['id'], 'status' => $e['status']];
         }
         return $out;
+    }
+
+    /**
+     * kind: episode の value → [source_path, アンカー] (S76)。value は episodes.jsonl の source_path で、
+     * アンカー分割話は "path#anchor"。アンカーが無ければ null (source_path が同じ投稿を全部止める)。
+     */
+    public static function episode_target(string $value): array {
+        return array_pad(explode('#', $value, 2), 2, null);
+    }
+
+    /**
+     * kind: annex_path の value → [前方の文字列, 末尾が * か] (S76)。末尾の * は前方一致 (LIKE の %) で、
+     * * を外した前方の文字列を LIKE 用に逃がすのは呼び出し側 ($wpdb->esc_like)。* が無ければ完全一致。
+     */
+    public static function annex_like(string $value): array {
+        return [rtrim($value, '*'), substr($value, -1) === '*'];
     }
 }

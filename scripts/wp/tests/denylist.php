@@ -104,3 +104,13 @@ check('変化の表示 (復帰)', TS_Takedown_Plan::describe('', $cur2, TS_Visib
       '復帰: S2 work=w2 → post 4 T (private → publish・メタ -_ts_takedown_id -_ts_public_note -_ts_visibility)');
 check('変化の表示 (メタだけ)', TS_Takedown_Plan::describe('', $cur2, TS_Visibility_Rules::takedown_change($cur2, ['id' => 'S1', 'note' => '']), 'S1 work=w1', 1, 'T'),
       'private 化: S1 work=w1 → post 1 T (private のまま・メタ -_ts_public_note)');
+
+// apply-takedown の対象の前処理 (S76、T45.1.17.1)
+check('episode: アンカー分割話は path#anchor', TS_Denylist::episode_target('novel/200201/x/a.htm#BBS'), ['novel/200201/x/a.htm', 'BBS']);
+check('episode: アンカーが無ければ null', TS_Denylist::episode_target('novel/200201/x/a.htm'), ['novel/200201/x/a.htm', null]);
+check('episode: # は最初の 1 つで分ける', TS_Denylist::episode_target('a.htm#b#c'), ['a.htm', 'b#c']);
+check('episode: 空のアンカーは空文字 (null ではない)', TS_Denylist::episode_target('a.htm#'), ['a.htm', '']);
+check('annex_path: 末尾の * は前方一致', TS_Denylist::annex_like('novel/200201/x/*'), ['novel/200201/x/', true]);
+check('annex_path: * が無ければ完全一致', TS_Denylist::annex_like('novel/200201/x/a.htm'), ['novel/200201/x/a.htm', false]);
+check('annex_path: 末尾の * が 2 つでも前方は全部外す', TS_Denylist::annex_like('novel/x**'), ['novel/x', true]);
+check('annex_path: 途中の * はそのまま', TS_Denylist::annex_like('novel/*/a.htm'), ['novel/*/a.htm', false]);

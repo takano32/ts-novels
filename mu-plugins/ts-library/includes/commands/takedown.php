@@ -111,7 +111,7 @@ final class TS_Takedown_Command extends TS_Command_Base {
             if ($pid) $ids[] = $pid;
         } elseif ($kind === 'episode') {
             // episodes.jsonl の source_path (アンカー分割話は "path#anchor")
-            [$sp, $anchor] = array_pad(explode('#', $value, 2), 2, null);
+            [$sp, $anchor] = TS_Denylist::episode_target($value);
             $rows = $wpdb->get_col($wpdb->prepare(
                 "SELECT post_id FROM {$wpdb->postmeta} WHERE meta_key='_ts_source_path' AND meta_value=%s", $sp));
             foreach ($rows as $pid) {
@@ -119,10 +119,10 @@ final class TS_Takedown_Command extends TS_Command_Base {
                 $ids[] = (int) $pid;
             }
         } elseif ($kind === 'annex_path') {
-            $like = $wpdb->esc_like(rtrim($value, '*'));
+            [$prefix, $wildcard] = TS_Denylist::annex_like($value);
             $rows = $wpdb->get_col($wpdb->prepare(
                 "SELECT post_id FROM {$wpdb->postmeta} WHERE meta_key='_ts_source_path' AND meta_value LIKE %s",
-                $like . (substr($value, -1) === '*' ? '%' : '')));
+                $wpdb->esc_like($prefix) . ($wildcard ? '%' : '')));
             foreach ($rows as $pid) $ids[] = (int) $pid;
         } elseif ($kind === 'author') {
             $term = get_term_by('slug', $value, 'ts_author');
