@@ -29,18 +29,23 @@ class TextTest(unittest.TestCase):
         self.assertIsNone(uc.clean_title(None))
 
 
+def facts(path, src='', chars=0, has_img=False, digest=None, size_bytes=100, yays_exists=False):
+    return uc.FileFacts(path=path, src=src, chars=chars, has_img=has_img, size_bytes=size_bytes,
+                        yays_exists=yays_exists, digest=digest)
+
+
 class ExclusionTest(unittest.TestCase):
     def test_order(self):
         cat = {'d1': 'novel/a.html'}
         # duplicate → cgi-view → site-template → title-page → empty
-        self.assertEqual(uc.exclusion_reason('novel/x@y.html', 0, False, 'd1', cat),
+        self.assertEqual(uc.exclusion_reason(facts('novel/x@y.html', digest='d1'), cat),
                          ('duplicate-of-catalogued', {'alias_of_path': 'novel/a.html'}))
-        self.assertEqual(uc.exclusion_reason('novel/index@1.html', 0, False, None, cat), ('cgi-view', {}))
-        self.assertEqual(uc.exclusion_reason('novel/library.html', 0, False, None, cat), ('site-template', {}))
-        self.assertEqual(uc.exclusion_reason('novel/d/index.html', 0, False, None, cat), ('title-page', {}))
-        self.assertEqual(uc.exclusion_reason('novel/d/a.html', 0, False, None, cat), ('empty', {}))
-        self.assertIsNone(uc.exclusion_reason('novel/d/a.html', 0, True, None, cat))
-        self.assertIsNone(uc.exclusion_reason('novel/d/a.html', 5, False, 'zz', cat))
+        self.assertEqual(uc.exclusion_reason(facts('novel/index@1.html'), cat), ('cgi-view', {}))
+        self.assertEqual(uc.exclusion_reason(facts('novel/library.html'), cat), ('site-template', {}))
+        self.assertEqual(uc.exclusion_reason(facts('novel/d/index.html'), cat), ('title-page', {}))
+        self.assertEqual(uc.exclusion_reason(facts('novel/d/a.html'), cat), ('empty', {}))
+        self.assertIsNone(uc.exclusion_reason(facts('novel/d/a.html', has_img=True), cat))
+        self.assertIsNone(uc.exclusion_reason(facts('novel/d/a.html', chars=5, digest='zz'), cat))
 
     def test_dir_author_of(self):
         da = collections.defaultdict(collections.Counter)
@@ -54,11 +59,20 @@ class ExclusionTest(unittest.TestCase):
     def test_resolve_metadata_order(self):
         da = {'novel/d': collections.Counter({'D': 1})}
         row = {'title': '目録題', 'author': None}
-        self.assertEqual(uc.resolve_metadata('novel/d/a.html', '<p>作：本文作者</p><title>T</title>', row, da),
+        self.assertEqual(uc.resolve_metadata(facts('novel/d/a.html', '<p>作：本文作者</p><title>T</title>'), row, da),
                          ('目録題', '本文作者', ['lib-index', 'body-credit']))
-        self.assertEqual(uc.resolve_metadata('novel/d/a.html', '<title>題 - 少年少女文庫</title>', None, da),
-                         ('題', 'D', ['body-title', 'dir-author']))
-        self.assertEqual(uc.resolve_metadata('novel/z/b.htm', '', None, da), ('b', None, ['filename']))
+        meta = uc.resolve_metadata(facts('novel/d/a.html', '<title>題 - 少年少女文庫</title>'), None, da)
+        self.assertEqual(meta, ('題', 'D', ['body-title', 'dir-author']))
+        self.assertEqual((meta.title, meta.author, meta.sources), ('題', 'D', ['body-title', 'dir-author']))
+        self.assertEqual(uc.resolve_metadata(facts('novel/z/b.htm'), None, da), ('b', None, ['filename']))
+
+    def test_make_record_keys(self):
+        f = facts('novel/200101/1/a.html', chars=10, has_img=True, size_bytes=3000, yays_exists=True)
+        rec = uc.make_record(f, uc.Metadata('ａ', None, ['filename']), None, 'https://annex.example.com/', {})
+        self.assertEqual(list(rec), RECORD_KEYS)
+        self.assertEqual((rec['entry_type'], rec['title'], rec['size_kb'], rec['entry_role'], rec['text_chars']),
+                         ('image', 'a', 3, 'unattributed', 10))
+        self.assertEqual(rec['annex_yays_url'], 'https://annex.example.com/~yays/library/novel/200101/1/a.html')
 
     def test_date_of_path(self):
         self.assertEqual(uc.date_of_path('novel/200703/x.html'), ('2007-03-01', 'directory-batch'))
@@ -70,6 +84,14 @@ class ExclusionTest(unittest.TestCase):
 
 
 class BuildTest(TempDirCase):
+    def test_scan_file(self):
+        self.write('novel/d/a.html', '<p>本 文</p><img src="x.gif">')
+        self.write('~yays/library/novel/d/a.html', '写し')
+        self.write('novel/d/b.txt', ' あ い ')
+        a, b = uc.scan_file(self.tmp, 'novel/d/a.html'), uc.scan_file(self.tmp, 'novel/d/b.txt')
+        self.assertEqual((a.chars, a.has_img, a.yays_exists, len(a.digest)), (2, True, True, 32))
+        self.assertEqual((b.chars, b.has_img, b.yays_exists, b.size_bytes), (2, False, False, 9))
+
     def test_build_without_provenance(self):
         self.write('novel/200101/1/a.html', '<title>Aの話</title><p>作：山田</p><p>本文です</p>')
         self.write('novel/200101/1/b.html', '<p>本文その2</p>')

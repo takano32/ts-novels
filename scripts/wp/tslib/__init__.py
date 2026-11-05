@@ -5,6 +5,8 @@ scripts/wp/*.py はコマンドラインの入口 (引数の解釈・ファイ�
 変換・判定のロジックはこのパッケージの関数に置く。ロジックは引数と戻り値だけで試せる。
 試験は scripts/wp/tests/test_<モジュール>.py (標準の unittest。小さな入力は scripts/wp/tests/data/)、
 流し方は `make test` (= python -m unittest discover -s scripts/wp/tests -t scripts/wp)。
+引数の束 (NamedTuple・dataclass) から出力を機械的に作らない (`dataclasses.asdict`・`_asdict` を出力に
+使わない)。出力の鍵の順は dict の字面か代入の順で決め、生成物のバイト一致をそれで守る。
 
   paths.py      リポジトリのルートと catalog/ 配下の定位置
   fileio.py     JSON / JSONL / YAML / テキストの読み書き、md5、文字コードの推定

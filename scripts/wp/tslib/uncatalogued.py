@@ -27,6 +27,7 @@ import html
 import os
 import re
 import unicodedata
+from typing import NamedTuple
 
 from tslib.fileio import read_text_or_empty, md5_of
 from tslib.htmltext import RE_TAG, inline_text
@@ -54,6 +55,24 @@ TITLE_BOILER = re.compile(
 SITE_TEMPLATE_NAMES = {'library.html', 'standard_format.html', 'boshuu.html', 'manual.html',
                        'feedback.html', 'entrance.html', 'introduction.html'}
 CREDIT_LINES = 80          # クレジット行を探す本文の先頭行数
+
+
+class FileFacts(NamedTuple):
+    """novel/ の 1 ファイルを読んで分かること (scan_file が作る)。"""
+    path: str              # ルートからの相対パス
+    src: str               # 中身 (読めなければ '')
+    chars: int             # 本文の空白以外の字数 (.txt はそのまま、HTML はタグを落として数える)
+    has_img: bool
+    size_bytes: int
+    yays_exists: bool      # ~yays/ の下に同じパスの写しがある
+    digest: str            # md5
+
+
+class Metadata(NamedTuple):
+    """resolve_metadata の戻り値。タプルとして (title, author, sources) に展開できる。"""
+    title: str
+    author: str
+    sources: list
 
 
 def text_of_html(src):
@@ -119,18 +138,30 @@ def index_by_path(index_rows):
     return index_of
 
 
-def exclusion_reason(path, chars, has_img, digest, cat_md5):
+def scan_file(root, path):
+    """ファイルを読み、字数・画像の有無・大きさ・~yays の写しの有無・md5 を FileFacts にする。"""
+    full = os.path.join(root, path)
+    src = read_text_or_empty(full)
+    body_text = text_of_html(src) if not path.lower().endswith('.txt') else src
+    return FileFacts(path=path, src=src, chars=len(re.sub(r'\s', '', body_text)),
+                     has_img=bool(RE_IMG.search(src)), size_bytes=os.path.getsize(full),
+                     yays_exists=os.path.exists(os.path.join(root, YAYS_PREFIX + path)),
+                     digest=md5_of(full))
+
+
+def exclusion_reason(facts, cat_md5):
     """作品ではないものの判定。落とすなら (理由, 追加の欄) を、載せるなら None を返す。"""
+    path = facts.path
     base = os.path.basename(path)
-    if digest and digest in cat_md5:
-        return 'duplicate-of-catalogued', {'alias_of_path': cat_md5[digest]}
+    if facts.digest and facts.digest in cat_md5:
+        return 'duplicate-of-catalogued', {'alias_of_path': cat_md5[facts.digest]}
     if RE_CGI_VIEW.search(base):
         return 'cgi-view', {}
     if base in SITE_TEMPLATE_NAMES:
         return 'site-template', {}
     if RE_NAV_NAME.search(path):
         return 'title-page', {}
-    if chars == 0 and not has_img:
+    if facts.chars == 0 and not facts.has_img:
         return 'empty', {}
     return None
 
@@ -152,8 +183,9 @@ def dir_author_of(path, dir_author):
     return None, None
 
 
-def resolve_metadata(path, src, row, dir_author):
-    """題名と作者を出所の順に解決する。戻り値 (title, author, sources)。"""
+def resolve_metadata(facts, row, dir_author):
+    """題名と作者を出所の順に解決する。戻り値 Metadata (title, author, sources)。"""
+    path, src = facts.path, facts.src
     title = author = None
     sources = []
     if row:
@@ -176,7 +208,7 @@ def resolve_metadata(path, src, row, dir_author):
     if not title:
         title = re.sub(r'\.(html?|txt)$', '', os.path.basename(path), flags=re.I)
         sources.append('filename')
-    return title, author, sources
+    return Metadata(title, author, sources)
 
 
 def date_of_path(path):
@@ -187,8 +219,10 @@ def date_of_path(path):
     return None, 'unknown'
 
 
-def make_record(path, title, author, sources, row, chars, has_img, size_bytes, yays_exists,
-                annex_base, prov_map):
+def make_record(facts, meta, row, annex_base, prov_map):
+    """目録外の 1 話のレコード。鍵の並びは rec[...] の代入の順 (束から機械的に作らない)。"""
+    path, chars, has_img = facts.path, facts.chars, facts.has_img
+    title, author, sources = meta
     date, precision = date_of_path(path)
     yays_path = YAYS_PREFIX + path
     rec = collections.OrderedDict()
@@ -209,7 +243,7 @@ def make_record(path, title, author, sources, row, chars, has_img, size_bytes, y
     rec['date_raw'] = None
     rec['date_precision'] = precision
     rec['weekday'] = None
-    rec['size_kb'] = max(1, round(size_bytes / 1024))
+    rec['size_kb'] = max(1, round(facts.size_bytes / 1024))
     rec['files_n'] = None
     rec['kansou_slug'] = None
     rec['kansou_annex_url'] = None
@@ -232,7 +266,7 @@ def make_record(path, title, author, sources, row, chars, has_img, size_bytes, y
     rec['catalog_ref'] = row['page'] if row else None
     rec['orig_url'] = ORIG_BASE + url_path(path)
     rec['annex_url'] = annex_base + url_path(path)
-    rec['annex_yays_url'] = annex_base + url_path(yays_path) if yays_exists else None
+    rec['annex_yays_url'] = annex_base + url_path(yays_path) if facts.yays_exists else None
     rec['provenance'] = provenance_for(path, prov_map)
     return rec
 
@@ -280,23 +314,16 @@ def build(root, records, annex_base=DEFAULT_ANNEX_BASE, use_provenance=True):
     for path in novel_files:
         if path in catalogued:
             continue
-        full = os.path.join(root, path)
-        src = read_text_or_empty(full)
-        body_text = text_of_html(src) if not path.lower().endswith('.txt') else src
-        chars = len(re.sub(r'\s', '', body_text))
-        has_img = bool(RE_IMG.search(src))
-        dropped = exclusion_reason(path, chars, has_img, md5_of(full), cat_md5)
+        facts = scan_file(root, path)
+        dropped = exclusion_reason(facts, cat_md5)
         if dropped:
             reason, extra = dropped
-            rec = {'source_path': path, 'reason': reason, 'text_chars': chars}
+            rec = {'source_path': path, 'reason': reason, 'text_chars': facts.chars}
             rec.update(extra)
             excluded.append(rec)
             continue
         row = index_of.get(path)
-        title, author, sources = resolve_metadata(path, src, row, dir_author)
-        added.append(make_record(path, title, author, sources, row, chars, has_img,
-                                 os.path.getsize(full),
-                                 os.path.exists(os.path.join(root, YAYS_PREFIX + path)),
-                                 annex_base, prov_map))
+        meta = resolve_metadata(facts, row, dir_author)
+        added.append(make_record(facts, meta, row, annex_base, prov_map))
 
     return keep, added, excluded, report_of(novel_files, catalogued, added, excluded, index_rows)
