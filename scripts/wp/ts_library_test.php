@@ -13,7 +13,8 @@
  * 取り下げフォームの判定と文面 (S124〜S132)・catalog の索引と語彙と verify の期待値・固定ページの原本の形 (S109)・
  * eyecatch の再設定の判断 (S189)・表示の文言と索引の並び。
  * その後に WordPress の代わり (tests/wp-stubs.php。T45.1.14) を置いて WP の表を読み、WordPress に触る側も試す:
- * 代わりそのものの決まり・読み込み時に登録するフックと優先度の表 (S242)・表示部品の HTML・申請の非公開化と復帰 (S127・S128)。
+ * 代わりそのものの決まり・読み込み時に登録するフックと優先度の表 (S242)・表示部品の HTML・申請の非公開化と復帰 (S127・S128)・
+ * wp ts のコマンド (reset)。
  * 失敗が 1 件でもあれば終了コード 1。
  */
 
@@ -32,11 +33,18 @@ function check($name, $got, $want) {
     echo "NG $name\n  got:  " . var_export($got, true) . "\n  want: " . var_export($want, true) . "\n";
 }
 
-// WP-CLI のコマンドも読む (WordPress の関数は読み込み時には呼ばれない。WP_CLI は登録を受けるだけの代わり)
+// WP-CLI のコマンドも読む (WordPress の関数は読み込み時には呼ばれない)。WP_CLI の代わりは登録を受け、出力 (line・warning・success) を
+// $out に [種類, 文] で記録する。error は本物と同じく止まるように TS_CLI_Error を投げる (コマンドを流す試験は tests/commands-wp.php)
 define('WP_CLI', true);
+final class TS_CLI_Error extends RuntimeException {}
 class WP_CLI {
     public static $commands = [];
+    public static $out = [];
     public static function add_command($name, $callable) { self::$commands[$name] = $callable; }
+    public static function line($msg = '') { self::$out[] = ['line', (string) $msg]; }
+    public static function warning($msg) { self::$out[] = ['warning', (string) $msg]; }
+    public static function success($msg) { self::$out[] = ['success', (string) $msg]; }
+    public static function error($msg, $exit = true) { self::$out[] = ['error', (string) $msg]; throw new TS_CLI_Error((string) $msg); }
 }
 foreach (TS_Library_Files::CLI as $f) require "$plugin/includes/$f";
 
@@ -50,7 +58,7 @@ foreach (['files', 'content-model', 'site', 'roles', 'visibility', 'takedown', '
 require "$root/scripts/wp/tests/wp-stubs.php";
 require "$root/scripts/wp/tests/wp-fixtures.php";
 foreach (TS_Library_Files::WP as $f) require "$plugin/includes/$f";
-foreach (['wp-stubs-check', 'hooks', 'render-html', 'takedown-wp'] as $t) {
+foreach (['wp-stubs-check', 'hooks', 'render-html', 'takedown-wp', 'commands-wp'] as $t) {
     require "$root/scripts/wp/tests/$t.php";
 }
 

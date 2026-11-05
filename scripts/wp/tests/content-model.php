@@ -42,6 +42,4 @@ check('メタは文字列・単一・REST に出さない・書けない', TS_Co
 check('reset の対象 (POST_TYPES) に申請を含まない', in_array(TS_TAKEDOWN_TYPE, TS_Content_Model::POST_TYPES, true), false);
 check('申請の投稿タイプ名', TS_TAKEDOWN_TYPE, 'ts_takedown_request');
 check('reset の説明文に書く', strpos((new ReflectionMethod('TS_Reset_Command', 'reset'))->getDocComment(), '取り下げの申請 (ts_takedown_request) は消さない') !== false, true);
-$reset_src = file_get_contents("$plugin/includes/commands/reset.php");
-check('reset は POST_TYPES と TAXONOMIES を消す', strpos($reset_src, 'TS_Content_Model::POST_TYPES as $type') !== false
-      && strpos($reset_src, 'TS_Content_Model::TAXONOMIES as $tax') !== false, true);
+// reset が消す集合は WordPress の代わりの上で流して見る (scripts/wp/tests/commands-wp.php)
