@@ -311,3 +311,64 @@ function ts_fixture_indexes(): array {
     TS_WP_Stubs::set_meta($ids['d_draft'], ['_ts_section' => 'columns']);
     return $ids;
 }
+
+/**
+ * テーマのテンプレート (themes/ts-bunko の index.php・front-page.php・ts-year.php・single.php) と一覧の作品カード
+ * (ts_bunko_workcard) の場面 (T45.1.5)。作者 2 人 (片方は挿絵も描き、ホームページの保存版を持つ)・ジャンル 2 つ・種別 1 つ。作品:
+ *  - 'serial'  連載 (話数メタ 3、話 3 つのうち 2 つ目は private、3 つ目は原本の HTML のまま (raw-fallback)。1 つ目の話の挿絵は 'painter')
+ *  - 'nometa'  連載 (話数メタなし。公開の話 2 つと private の話 1 つ → get_children で 2)
+ *  - 'one'     話数メタ 1 (全N話を出さない)。作者なし
+ *  - 'single'  単発 (話数メタなし・子なし、raw-fallback、日付なし)
+ *  - 'bare'    作者も日付も無い
+ *  - 'hidden'  非公開の単発 (取り下げ済み)
+ *  - 'doc'     運営文書 (ts_doc。single.php の素の表示)
+ * 返り値: 名前 => ID ('ep' => [連載の話 3 つ]、'nep' => [nometa の話 3 つ]、作者・語の term も)
+ */
+function ts_fixture_theme(): array {
+    TS_WP_Stubs::reset();
+    $ids = [];
+    $ids['author'] = TS_WP_Stubs::add_term(['taxonomy' => 'ts_author', 'name' => '星野 灯', 'slug' => 'hoshino-akari', 'description' => '星の話を書く人']);
+    TS_WP_Stubs::set_term_meta($ids['author'], ['ts_homepage_wayback' => 'https://web.archive.org/web/2003/http://example.com/hoshino/', 'ts_yomi_group' => 'は行']);
+    $ids['painter'] = TS_WP_Stubs::add_term(['taxonomy' => 'ts_author', 'name' => '絵筆 太郎', 'slug' => 'efude-taro']);
+    TS_WP_Stubs::set_term_meta($ids['painter'], ['ts_display_variants' => ['えふで'], 'ts_homepage_live' => 'https://example.com/efude/']);
+    $ids['gakuen'] = TS_WP_Stubs::add_term(['taxonomy' => 'ts_genre', 'name' => '学園', 'slug' => 'gakuen']);
+    $ids['fantasy'] = TS_WP_Stubs::add_term(['taxonomy' => 'ts_genre', 'name' => 'ファンタジー', 'slug' => 'fantasy']);
+    $ids['ire'] = TS_WP_Stubs::add_term(['taxonomy' => 'ts_type', 'name' => '入れ替わり', 'slug' => 'irekawari']);
+    $work = function (string $key, string $name, string $title, string $date, array $meta, string $status = 'publish') use (&$ids) {
+        $ids[$key] = TS_WP_Stubs::add_post(['post_type' => 'ts_work', 'post_name' => $name, 'post_title' => $title, 'post_status' => $status,
+                                            'post_date' => "$date 00:00:00", 'post_content' => "<p>{$title}の本文。</p>"]);
+        TS_WP_Stubs::set_meta($ids[$key], $meta);
+        return $ids[$key];
+    };
+    $work('serial', 'hikari-no-michi', '光の道', '2003-04-01', ['_ts_pub_date_raw' => '2003/04/01', '_ts_episode_count' => '3', '_ts_work_slug' => 'hikari-no-michi',
+                                                              '_ts_arasuji' => '光の道のあらすじ', '_ts_suisen' => '推薦の言葉', '_ts_source_path' => 'novel/200304/hikari.htm']);
+    $ids['ep'] = [];
+    foreach ([['hikari01', '第一話', '2003-04-01', 'publish', 'converted'], ['hikari02', '第二話', '2003-05-01', 'private', 'converted'],
+              ['hikari03', '第三話', '2003-06-01', 'publish', 'raw-fallback']] as $i => [$name, $title, $date, $status, $body]) {
+        $ids['ep'][] = $e = TS_WP_Stubs::add_post(['post_type' => 'ts_work', 'post_parent' => $ids['serial'], 'post_name' => $name, 'post_title' => $title,
+                                                   'post_status' => $status, 'menu_order' => $i + 1, 'post_date' => "$date 00:00:00",
+                                                   'post_content' => '<p>' . str_repeat('ほしのひかり ', 50) . '</p>']);
+        TS_WP_Stubs::set_meta($e, ['_ts_pub_date_raw' => str_replace('-', '/', $date), '_ts_body_status' => $body, '_ts_source_path' => "novel/200304/$name.htm",
+                                   '_ts_annex_url' => "https://example.com/annex/novel/200304/$name.htm"]);
+        TS_WP_Stubs::set_terms($e, 'ts_author', [$ids['author']]);
+    }
+    TS_WP_Stubs::set_meta($ids['ep'][0], ['_ts_illustrator' => ['えふで']]);
+    TS_WP_Stubs::set_terms($ids['ep'][0], 'ts_genre', [$ids['gakuen']]);
+    $work('nometa', 'yoru-no-kawa', '夜の川', '2004-07-07', ['_ts_pub_date_raw' => '2004/07/07']);
+    $ids['nep'] = [];
+    foreach (['publish', 'publish', 'private'] as $i => $status) {
+        $ids['nep'][] = TS_WP_Stubs::add_post(['post_type' => 'ts_work', 'post_parent' => $ids['nometa'], 'post_name' => 'kawa0' . ($i + 1),
+                                               'post_title' => '川 ' . ($i + 1), 'post_status' => $status, 'menu_order' => $i + 1,
+                                               'post_date' => '2004-07-0' . ($i + 7) . ' 00:00:00']);
+    }
+    $work('one', 'hitotsu', '一つきり', '2005-01-01', ['_ts_pub_date_raw' => '2005/01/01', '_ts_episode_count' => '1']);
+    $work('single', 'hitori-no-yoru', '一人の夜 & 朝', '2002-02-02', ['_ts_body_status' => 'raw-fallback', '_ts_annex_url' => 'https://example.com/annex/novel/hitori.htm']);
+    $work('bare', 'nanimonai', '何もない', '2001-01-01', []);
+    $work('hidden', 'kieta', '消えた話', '2001-05-05', ['_ts_visibility' => 'withdrawn', '_ts_takedown_id' => 'req:4', '_ts_pub_date_raw' => '2001/05/05'], 'private');
+    foreach ([['serial', 'author'], ['nometa', 'painter'], ['single', 'author'], ['hidden', 'author']] as [$w, $a]) TS_WP_Stubs::set_terms($ids[$w], 'ts_author', [$ids[$a]]);
+    foreach ([['serial', 'gakuen'], ['nometa', 'fantasy'], ['one', 'fantasy'], ['single', 'fantasy']] as [$w, $g]) TS_WP_Stubs::set_terms($ids[$w], 'ts_genre', [$ids[$g]]);
+    TS_WP_Stubs::set_terms($ids['serial'], 'ts_type', [$ids['ire']]);
+    $ids['doc'] = TS_WP_Stubs::add_post(['post_type' => 'ts_doc', 'post_name' => 'about-doc', 'post_title' => '運営の文書', 'post_content' => '<p>文書の本文</p>']);
+    TS_WP_Stubs::$users = [3 => ['user_email' => 'iin@example.com', 'display_name' => '委員', 'roles' => ['ts_committee'], 'caps' => ['ts_view_hidden']]];
+    return $ids;
+}

@@ -25,7 +25,7 @@ final class TS_Library_Files {
         'takedown/takedown-text.php',    // メールの文面・/removed/ の 1 行と並び (S129・S131)
         'takedown/denylist.php',         // takedown/denylist.yml の読み取りと書き出し (S76・S132)
         'takedown/takedown-plan.php',    // apply-takedown の計画と表示文 (S121)
-        'render/render-text.php',        // 読了目安・回収経路の表示・サイドバーの表
+        'render/render-text.php',        // 読了目安・回収経路の表示・サイドバーの表・作品カードの添え書き
         'indexes/index-text.php',        // 索引の種類・題名・五十音行の並び・いまの一作の選び方
         'catalog/catalog-files.php',     // catalog の JSON / JSONL の読み取り
         'catalog/vocabulary.php',        // terms.json の語彙 (値 → slug)
@@ -43,6 +43,7 @@ final class TS_Library_Files {
         'render/render-work.php',        // 作品・話のページの表示部品 (テーマが呼ぶ関数)
         'render/render-lookup.php',      // 原パス → 投稿、名前 → 作者 term、作者ページの部品
         'render/render-sidebar.php',     // サイドバー
+        'render/render-list.php',        // 一覧の作品カード (ts_bunko_workcard。テーマの一覧が呼ぶ)
         'indexes/index-routing.php',     // /index/…/ と /year/YYYY/ のルーティング
         'indexes/index-render.php',      // 索引の描画部品 (ts_bunko_index_<種類>)
         'visibility/visibility-hooks.php', // 410 / 404 を返す・帯を出す

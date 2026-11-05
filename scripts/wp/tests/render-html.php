@@ -268,3 +268,21 @@ $same('索引', $got, array (
   ),
 ));
 TS_WP_Stubs::reset();
+
+// ---------------------------------------------------------------- 一覧の作品カード (T45.1.5.1 でテーマから includes/render/render-list.php へ)
+// 期待値: d586f0eb の themes/ts-bunko/functions.php (と render.php・visibility.php)、2026-11-05、probe-workcard.php。
+// 話数メタ 3・メタなしで公開の子 2 (private の子は数えない)・メタ 1・単発・何も無い・非公開 (題名に「非公開: 」を付けない)
+$ids = ts_fixture_theme();
+$got = [];
+foreach (['serial', 'nometa', 'one', 'single', 'bare', 'hidden'] as $k) {
+    $got["workcard/$k"] = TS_WP_Stubs::capture(function () use ($ids, $k) { ts_bunko_workcard(get_post($ids[$k])); });
+}
+$same('作品カード', $got, array (
+  'workcard/serial' => '<li class="ts-workcard"><h2 class="ts-workcard-title"><a href="https://novels.xwp.jp/novel/hikari-no-michi/">光の道</a></h2><p class="ts-workcard-meta">星野 灯　·　2003/04/01　·　全3話</p></li>',
+  'workcard/nometa' => '<li class="ts-workcard"><h2 class="ts-workcard-title"><a href="https://novels.xwp.jp/novel/yoru-no-kawa/">夜の川</a></h2><p class="ts-workcard-meta">絵筆 太郎　·　2004/07/07　·　全2話</p></li>',
+  'workcard/one' => '<li class="ts-workcard"><h2 class="ts-workcard-title"><a href="https://novels.xwp.jp/novel/hitotsu/">一つきり</a></h2><p class="ts-workcard-meta">2005/01/01</p></li>',
+  'workcard/single' => '<li class="ts-workcard"><h2 class="ts-workcard-title"><a href="https://novels.xwp.jp/novel/hitori-no-yoru/">一人の夜 &amp; 朝</a></h2><p class="ts-workcard-meta">星野 灯</p></li>',
+  'workcard/bare' => '<li class="ts-workcard"><h2 class="ts-workcard-title"><a href="https://novels.xwp.jp/novel/nanimonai/">何もない</a></h2></li>',
+  'workcard/hidden' => '<li class="ts-workcard"><h2 class="ts-workcard-title"><a href="https://novels.xwp.jp/novel/kieta/">消えた話</a></h2><p class="ts-workcard-meta">星野 灯　·　2001/05/05</p></li>',
+));
+TS_WP_Stubs::reset();

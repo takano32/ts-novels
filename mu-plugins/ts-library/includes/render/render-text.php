@@ -2,8 +2,8 @@
 /**
  * 表示部品の文言と計算のうち WordPress を使わない部分 (specs/S41.md の書誌カード、S195.md のサイドバー)。
  *
- * 読了目安の分数・回収経路の人間可読表示・サイドバーの項目の表をここに置き、scripts/wp/ts_library_test.php で試す。
- * HTML を出す側は includes/render/render-work.php と render-sidebar.php。
+ * 読了目安の分数・回収経路の人間可読表示・サイドバーの項目の表・一覧の作品カードの添え書きをここに置き、
+ * scripts/wp/ts_library_test.php で試す。HTML を出す側は includes/render/render-work.php・render-sidebar.php・render-list.php。
  *
  * PHP 8.0 互換。
  */
@@ -56,5 +56,17 @@ final class TS_Render_Text {
         }
         if ($status === 'raw-fallback') return 'この本文は原本の HTML をそのまま表示しています。';
         return null;
+    }
+
+    /**
+     * 一覧の作品カードの添え書き (「作者　·　初出　·　全N話」の並び)。$author と $date はエスケープ済みの文字列か null (出さない)。
+     * $episodes は話数 (話数のメタか、無ければ公開の子の数)。2 以上のときだけ「全N話」を出す (単発と 1 話きりは出さない)。
+     */
+    public static function workcard_bits(?string $author, ?string $date, int $episodes): array {
+        $bits = [];
+        if ($author !== null) $bits[] = $author;
+        if ($date !== null) $bits[] = $date;
+        if ($episodes > 1) $bits[] = '全' . $episodes . '話';
+        return $bits;
     }
 }

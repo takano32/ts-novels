@@ -29,3 +29,10 @@ check('サイドバーの索引入口の順', array_column(TS_Render_Text::SIDEB
 check('この文庫について', array_column(TS_Render_Text::SIDEBAR_ABOUT, 0), ['/authors/yays/', '/about/', '/archive/', '/takedown/']);
 check('表示名に内部語を出さない (S200)', preg_match('/本館|別館|旧館|WP サイト|旧サイト/u',
       implode(' ', array_merge(array_column(TS_Render_Text::SIDEBAR_INDEXES, 1), array_column(TS_Render_Text::SIDEBAR_ABOUT, 1)))), 0);
+
+check('作品カードの添え書き: 作者・初出・全N話の順', TS_Render_Text::workcard_bits('星野 灯', '2003/04/01', 3), ['星野 灯', '2003/04/01', '全3話']);
+check('作品カードの添え書き: 1 話きりと単発 (0) は全N話を出さない', [TS_Render_Text::workcard_bits('a', 'd', 1), TS_Render_Text::workcard_bits('a', 'd', 0)],
+      [['a', 'd'], ['a', 'd']]);
+check('作品カードの添え書き: null は出さない (空なら何も無い)', [TS_Render_Text::workcard_bits(null, '2005/01/01', 2), TS_Render_Text::workcard_bits(null, null, 0)],
+      [['2005/01/01', '全2話'], []]);
+check('作品カードの添え書き: 受けた文字列はそのまま (エスケープは呼び出し側)', TS_Render_Text::workcard_bits('A &amp; B', '', 2), ['A &amp; B', '', '全2話']);
