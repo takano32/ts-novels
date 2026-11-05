@@ -7,3 +7,4 @@ bodies/
 payloads/
 payloads-docs/
 .claude/worktrees/
+.parity/
