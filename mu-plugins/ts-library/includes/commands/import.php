@@ -119,11 +119,18 @@ final class TS_Import_Command extends TS_Command_Base {
             substr($commit, 0, 12), $dry ? ' (dry-run)' : ''));
     }
 
+    /** upsert の分岐 (TS_Import_Decision::decide)。hash と手動編集の読み取りは、分割前と同じく要るときだけ */
+    private function decide($post_id, $hash_key, $hash, $ow, $dry): string {
+        return TS_Import_Decision::decide((bool) $post_id, $post_id && get_post_meta($post_id, $hash_key, true) === $hash,
+            function () use ($post_id) { return $this->manually_edited($post_id); }, $ow, $dry);
+    }
+
     private function upsert_work($w, $dry, $ow, &$n, &$manual) {
         $hash = md5(self::HASH_VER . wp_json_encode($w));
         $post_id = $this->find_by_meta('ts_work', '_ts_work_slug', $w['work_slug']);
-        if ($post_id && get_post_meta($post_id, '_ts_import_hash', true) === $hash) { $n['skipped']++; return $post_id; }
-        if ($post_id && !$ow && $this->manually_edited($post_id)) {
+        $decision = $this->decide($post_id, '_ts_import_hash', $hash, $ow, $dry);
+        if ($decision === 'skipped') { $n['skipped']++; return $post_id; }
+        if ($decision === 'manual_skipped') {
             $n['manual_skipped']++; $manual[] = ['kind' => 'work', 'key' => $w['work_slug'],
                 'modified' => get_post_field('post_modified_gmt', $post_id)];
             return $post_id;
@@ -133,7 +140,7 @@ final class TS_Import_Command extends TS_Command_Base {
             'post_name' => $w['work_slug'], 'comment_status' => 'closed', 'ping_status' => 'closed',
         ];
         if ($w['first_date'] ?? null) $postarr['post_date'] = $w['first_date'] . ' 00:00:00';
-        if ($dry) { $n[$post_id ? 'updated' : 'created']++; return $post_id; }
+        if ($decision === 'dry') { $n[$post_id ? 'updated' : 'created']++; return $post_id; }
         if ($post_id) { $postarr['ID'] = $post_id; wp_update_post($postarr); }
         else { $postarr['post_status'] = 'publish'; $post_id = wp_insert_post($postarr); }
         if (!$post_id || is_wp_error($post_id)) { WP_CLI::warning('work 投入失敗: ' . $w['work_slug']); return null; }
@@ -183,13 +190,14 @@ final class TS_Import_Command extends TS_Command_Base {
         $hash = md5(self::HASH_VER . wp_json_encode($ep) . $post_name . $order
             . ($body === null ? '' : md5($body)));
         $post_id = $this->find_by_meta('ts_work', '_ts_episode_id', $ep['episode_id']);
-        if ($post_id && get_post_meta($post_id, '_ts_import_hash', true) === $hash) { $n['skipped']++; return; }
-        if ($post_id && !$ow && $this->manually_edited($post_id)) {
+        $decision = $this->decide($post_id, '_ts_import_hash', $hash, $ow, $dry);
+        if ($decision === 'skipped') { $n['skipped']++; return; }
+        if ($decision === 'manual_skipped') {
             $n['manual_skipped']++; $manual[] = ['kind' => 'episode', 'key' => $ep['episode_id'],
                 'modified' => get_post_field('post_modified_gmt', $post_id)];
             return;
         }
-        if ($dry) { $n[$post_id ? 'updated' : 'created']++; return; }
+        if ($decision === 'dry') { $n[$post_id ? 'updated' : 'created']++; return; }
         $postarr = [
             'post_type' => 'ts_work', 'post_title' => $ep['title'] ?: $ep['episode_id'],
             'comment_status' => 'closed', 'ping_status' => 'closed',
@@ -219,13 +227,14 @@ final class TS_Import_Command extends TS_Command_Base {
         if (!$post_id) return;
         $body = $this->episode_body($ep, $bodies);
         $hash = md5(self::HASH_VER . 'single:' . wp_json_encode($ep) . ($body === null ? '' : md5($body)));
-        if (get_post_meta($post_id, '_ts_fill_hash', true) === $hash) { $n['skipped']++; return; }
-        if (!$ow && $this->manually_edited($post_id)) {
+        $decision = $this->decide($post_id, '_ts_fill_hash', $hash, $ow, $dry);   // 親 work はあるので dry でも updated
+        if ($decision === 'skipped') { $n['skipped']++; return; }
+        if ($decision === 'manual_skipped') {
             $n['manual_skipped']++; $manual[] = ['kind' => 'single-work', 'key' => $ep['episode_id'],
                 'modified' => get_post_field('post_modified_gmt', $post_id)];
             return;
         }
-        if ($dry) { $n['updated']++; return; }
+        if ($decision === 'dry') { $n['updated']++; return; }
         $up = ['ID' => $post_id];
         if ($ep['date'] ?? null) $up['post_date'] = $ep['date'] . ' 00:00:00';
         if ($body !== null) $up['post_content'] = $body;

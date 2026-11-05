@@ -1,6 +1,6 @@
 <?php
 /**
- * catalog を読む側 (T8.2): ファイルの読み取り・語彙 (terms.json)・works の索引と話の slug・話のメタ・
+ * catalog を読む側 (T8.2): ファイルの読み取り・語彙 (terms.json)・works の索引と話の slug・話のメタ・import の upsert の分岐・
  * 固定ページの原本の形 (S109)・wp ts verify の期待値。小さな作り物の catalog で試す
  * (本物の catalog との照合は `wp ts verify` が本番で行う)。scripts/wp/ts_library_test.php から読む。
  */
@@ -128,6 +128,35 @@ check('本文: --bodies が無ければ触らない (null)', TS_Episode_Fields::
 check('本文: 取り下げ対象は payload が残っていても空', TS_Episode_Fields::body('takedown', '<p>x</p>'), '');
 check('本文: payload があればそれ', [TS_Episode_Fields::body('converted', '<p>x</p>'), TS_Episode_Fields::body(null, '<p>y</p>'),
       TS_Episode_Fields::body('raw-fallback', '')], ['<p>x</p>', '<p>y</p>', '']);
+// ---------------------------------------------------------------- import の upsert の分岐 (T45.1.16.1)
+$d_yes = function () { return true; };
+$d_no = function () { return false; };
+check('upsert: 投稿があって hash が同じなら skipped (手動編集や dry-run より先)', TS_Import_Decision::decide(true, true, $d_yes, false, true), 'skipped');
+check('upsert: hash が違って手動編集があれば manual_skipped (dry-run でも)', TS_Import_Decision::decide(true, false, $d_yes, false, true), 'manual_skipped');
+check('upsert: --overwrite-manual なら手動編集を見ずに update', TS_Import_Decision::decide(true, false, $d_yes, true, false), 'update');
+check('upsert: dry-run は書かない (既存も新規も dry。updated / created への数え方は呼び出し側)',
+      [TS_Import_Decision::decide(true, false, $d_no, false, true), TS_Import_Decision::decide(false, false, $d_no, false, true)], ['dry', 'dry']);
+check('upsert: 新規は create、既存は update', [TS_Import_Decision::decide(false, false, $d_no, false, false), TS_Import_Decision::decide(true, false, $d_no, false, false)], ['create', 'update']);
+check('upsert: 投稿が無ければ hash が同じでも skipped にならない', TS_Import_Decision::decide(false, true, $d_no, false, false), 'create');
+// 手動編集の検出は DB を読むので、分割前と同じく「投稿があり hash が違い --overwrite-manual が無い」ときだけ呼ぶ
+$d_calls = 0;
+$d_count = function () use (&$d_calls) { $d_calls++; return false; };
+TS_Import_Decision::decide(true, true, $d_count, false, false);
+TS_Import_Decision::decide(false, false, $d_count, false, false);
+TS_Import_Decision::decide(true, false, $d_count, true, false);
+check('upsert: 手動編集の検出は hash が同じ・投稿が無い・--overwrite-manual のときは呼ばない', $d_calls, 0);
+TS_Import_Decision::decide(true, false, $d_count, false, true);
+check('upsert: 投稿があり hash が違い上書きしないときだけ呼ぶ (dry-run でも)', $d_calls, 1);
+// 分岐の表: exists・hash_same・edited・overwrite・dry の 5 つを 2 進で数えた順 (00000 → 11111)
+$d_table = [];
+foreach ([false, true] as $e) foreach ([false, true] as $s) foreach ([false, true] as $m) foreach ([false, true] as $o) foreach ([false, true] as $d) {
+    $d_table[] = TS_Import_Decision::decide($e, $s, function () use ($m) { return $m; }, $o, $d);
+}
+check('upsert の分岐の表', $d_table, array_merge(
+    array_merge(...array_fill(0, 8, ['create', 'dry'])),                                         // 投稿が無い: dry か create
+    ['update', 'dry', 'update', 'dry', 'manual_skipped', 'manual_skipped', 'update', 'dry'],      // 投稿があり hash が違う
+    array_fill(0, 8, 'skipped')));                                                               // 投稿があり hash が同じ
+
 check('本文: payload が無ければ案内文', [TS_Episode_Fields::body(null, null), TS_Episode_Fields::body('converted', null)],
       [TS_Episode_Fields::PLACEHOLDER_BODY, TS_Episode_Fields::PLACEHOLDER_BODY]);
 

@@ -31,6 +31,7 @@ final class TS_Library_Files {
         'catalog/vocabulary.php',        // terms.json の語彙 (値 → slug)
         'catalog/work-index.php',        // works.jsonl の索引と話の URL slug
         'catalog/episode-fields.php',    // 話 → post meta の写像
+        'catalog/import-decision.php',   // wp ts import の upsert の分岐 (skipped / manual_skipped / dry / create / update)
         'catalog/page-file.php',         // content/pages/*.html の形 (sync-pages / export-pages)
         'catalog/verify-expect.php',     // wp ts verify の期待値
         'catalog/eyecatch-refs.php',     // eyecatch の再設定の判断と文面 (scripts/wp/eyecatch_restore.php)
