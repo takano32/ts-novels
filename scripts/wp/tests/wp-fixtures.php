@@ -232,3 +232,32 @@ function ts_fixture_hidden(): array {
     TS_WP_Stubs::$users = [3 => ['user_email' => 'iin@example.com', 'display_name' => '委員', 'roles' => ['ts_committee'], 'caps' => ['ts_view_hidden']]];
     return $ids;
 }
+
+/**
+ * 掲載していない作品の一覧 [ts_removed_list] (specs/S131.md) の場面。取り下げ済み (private + withdrawn) の投稿 5 つ:
+ * 同じ記録 (req:3) の 2 投稿 (掲示は片方だけ、日付も片方だけ)、別の日付の記録 2 つ (S9 と req:12。掲示に < と & を含む)、
+ * 掲示の無い記録 (出さない)、記録の無い投稿 (出さない)。公開のまま withdrawn の印だけある投稿と、private の旧版 (superseded) も
+ * 置く (どちらも一覧の対象外)。$empty なら何も置かない (0 件)。返り値: 置いた投稿 ID の列
+ */
+function ts_fixture_removed(bool $empty = false): array {
+    TS_WP_Stubs::reset();
+    if ($empty) return [];
+    $ids = [];
+    foreach ([['a01', 'private', 'withdrawn', 'req:3', '「月の本」(天野 月) — 2026年10月に作者のお申し出により取り下げ', ''],
+              ['a02', 'private', 'withdrawn', 'req:3', '', '2026-10-20'],
+              ['b01', 'private', 'withdrawn', 'S9', '作品 <題> & 続編 — 2026年1月に取り下げ', '2026-01-01'],
+              ['c01', 'private', 'withdrawn', 'req:12', '「星の歌」— 2026年11月に取り下げ', '2026-11-02'],
+              ['d01', 'private', 'withdrawn', 'req:20', '', '2026-11-03'],
+              ['e01', 'private', 'withdrawn', '', '記録の無い掲示', '2026-11-04'],
+              ['f01', 'publish', 'withdrawn', 'req:30', '公開のまま', '2026-11-05'],
+              ['g01', 'private', 'superseded', 'req:40', '旧版', '2026-11-05']] as [$name, $status, $vis, $tid, $note, $date]) {
+        $id = TS_WP_Stubs::add_post(['post_type' => 'ts_work', 'post_status' => $status, 'post_name' => $name, 'post_title' => $name]);
+        $m = ['_ts_visibility' => $vis];
+        if ($tid !== '') $m['_ts_takedown_id'] = $tid;
+        if ($note !== '') $m['_ts_public_note'] = $note;
+        if ($date !== '') $m['_ts_takedown_date'] = $date;
+        TS_WP_Stubs::set_meta($id, $m);
+        $ids[] = $id;
+    }
+    return $ids;
+}

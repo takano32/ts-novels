@@ -4,6 +4,7 @@
  * (T45.1.17.3)。期待値は分割前 (d586f0eb) の includes/takedown-request.php と includes/visibility.php を同じ代わりと同じ置き場
  * (wp-fixtures.php の ts_fixture_takedown_apply_scene) で動かした出力から取った (2026-11-05、scripts/wp/php_probe.sh、probe-takedown-apply.php)。
  * 実装の写しではない。対象と子孫の集め方 2 本の順 (T45.1.19.3) もここで見る。scripts/wp/ts_library_test.php から WP の表を読んだ後に読む。
+ * 後半はショートコード 2 つ (フォーム [ts_takedown_form] と一覧 [ts_removed_list]) の HTML と、フォームの入力名と読む側の鍵 (T45.1.15.3)。
  */
 
 // ---------------------------------------------------------------- 非公開化 (S127)
@@ -80,4 +81,45 @@ check('apply-takedown の対象 (takedown_targets): 対象 → 子孫 (descendan
 $a = ts_takedown_target_posts(['targets' => [['post_id' => $t['nested']]]]); $b = $targets->invoke($cmd, 'work', 'amano-tsuki-iriko');
 sort($a); sort($b);
 check('2 本の集め方は集合は同じで順が違う (子が 2 つ以上あると逆になる)', [$a === $b, ts_takedown_target_posts(['targets' => [['post_id' => $t['nested']]]]) === $targets->invoke($cmd, 'work', 'amano-tsuki-iriko')], [true, false]);
+TS_WP_Stubs::reset();
+
+// ---------------------------------------------------------------- ショートコード 2 つの HTML (S124・S131。T45.1.15.3)
+// 期待値: d586f0eb の takedown-request.php、2026-11-05、probe-shortcodes.php。表示時刻の署名 (name="t") は time() に依るので伏せて比べ、
+// 署名が今の時刻として読めることを別に見る。$same (鍵ごとに比べる) は先に読む render-html.php のもの
+ts_fixture_removed(true);
+$got = ['removed/0' => TS_WP_Stubs::shortcode('ts_removed_list')];
+ts_fixture_removed();
+$got['removed/n'] = TS_WP_Stubs::shortcode('ts_removed_list');
+TS_WP_Stubs::reset();
+$form = TS_WP_Stubs::shortcode('ts_takedown_form');
+$got['form'] = preg_replace('/name="t" value="[^"]*"/', 'name="t" value="(表示時刻の署名)"', $form);
+$same('ショートコード', $got, array (
+  'removed/0' => '<p class="ts-removed-none">いま掲載していない作品はありません。</p>',
+  'removed/n' => '<ul class="ts-removed-list"><li>「星の歌」— 2026年11月に取り下げ</li><li>「月の本」(天野 月) — 2026年10月に作者のお申し出により取り下げ</li><li>作品 &lt;題&gt; &amp; 続編 — 2026年1月に取り下げ</li></ul>',
+  'form' => '<form class="ts-takedown-form" method="post" action="https://novels.xwp.jp/wp-admin/admin-post.php"><input type="hidden" name="action" value="ts_takedown"><input type="hidden" id="_wpnonce" name="_wpnonce" value="209e640e92" /><input type="hidden" name="t" value="(表示時刻の署名)"><p class="ts-tr-hp" aria-hidden="true"><label>この欄は空のままにしてください <input type="text" name="hp" value="" tabindex="-1" autocomplete="off"></label></p><p><label for="ts-tr-pen">当時のペンネーム (必須)</label><br><input type="text" id="ts-tr-pen" name="pen_name" required maxlength="100"></p><p><label for="ts-tr-targets">対象作品の URL (必須。1 行に 1 つ、20 行まで)</label><br><textarea id="ts-tr-targets" name="targets" rows="4" required placeholder="https://novels.xwp.jp/novel/…"></textarea></p><p><label for="ts-tr-contact">連絡先のメールアドレス (必須)</label><br><input type="email" id="ts-tr-contact" name="contact" required maxlength="254"></p><fieldset><legend>お立場 (必須)</legend><label><input type="radio" name="relation" value="author" required> 作者本人</label> <label><input type="radio" name="relation" value="heir"> 権利を継承した方</label> <label><input type="radio" name="relation" value="other"> その他</label></fieldset><p><label for="ts-tr-evidence">本人確認の手がかり (任意。1,000 字まで)</label><br><textarea id="ts-tr-evidence" name="evidence" rows="3" maxlength="1000"></textarea></p><p><label for="ts-tr-message">ご連絡事項 (任意。2,000 字まで)</label><br><textarea id="ts-tr-message" name="message" rows="4" maxlength="2000"></textarea></p><p><label><input type="checkbox" name="allow_name" value="1"> 掲載していない作品の一覧に、作品名とペンネームを載せてかまいません</label></p><p><button type="submit">送信する</button></p></form><style>.ts-tr-hp{position:absolute;left:-10000px;width:1px;height:1px;overflow:hidden}</style>',
+));
+preg_match('/name="t" value="([^"]*)"/', $form, $m);
+$t = TS_Takedown_Input::verify_time($m[1] ?? '', wp_salt('nonce'));
+check('フォーム: 表示時刻の署名は今の時刻として読める', is_int($t) && abs($t - time()) <= 5, true);
+
+// フォームの入力名 = 読む側の鍵。読む側は TS_Takedown_Input::validate ($s('…') と $in['…']) と ts_takedown_handle_post ($in['…'])。
+// action は WordPress (admin-post.php) が読み、admin_post_nopriv_<値> と admin_post_<値> のフックを呼ぶ
+preg_match_all('/ name="([a-z_]+)"/', $form, $m);
+$names = array_values(array_unique($m[1]));
+$keys_in = function ($ref) {
+    $src = implode('', array_slice(file($ref->getFileName()), $ref->getStartLine() - 1, $ref->getEndLine() - $ref->getStartLine() + 1));
+    preg_match_all('/\$(?:s\(|in\[)\'([a-z_]+)\'/', $src, $m);
+    return array_values(array_unique($m[1]));
+};
+$validate_keys = $keys_in(new ReflectionMethod('TS_Takedown_Input', 'validate'));
+$post_keys = $keys_in(new ReflectionFunction('ts_takedown_handle_post'));
+check('フォームの入力名 (S242 の表と同じ 11 個)', $names,
+      ['action', '_wpnonce', 't', 'hp', 'pen_name', 'targets', 'contact', 'relation', 'evidence', 'message', 'allow_name']);
+check('validate が読む鍵', $validate_keys, ['pen_name', 'targets', 'contact', 'relation', 'evidence', 'message', 'allow_name']);
+check('ts_takedown_handle_post が読む鍵', $post_keys, ['_wpnonce', 't', 'hp']);
+$read = array_merge($validate_keys, $post_keys, ['action']);
+sort($read); $form_names = $names; sort($form_names);
+check('入力名と読む側の鍵が一致する (余りも欠けも無い)', $form_names, $read);
+check('action の値でフォームの送信を受けるフック', [(bool) preg_match('/name="action" value="ts_takedown"/', $form),
+      count(TS_WP_Stubs::callbacks('admin_post_nopriv_ts_takedown')), count(TS_WP_Stubs::callbacks('admin_post_ts_takedown'))], [true, 1, 1]);
 TS_WP_Stubs::reset();
