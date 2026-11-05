@@ -17,23 +17,25 @@
   - 差し替え後に curl 検証 (無関係 URL の 200 + /dojo/ の X-Robots-Tag + 取り下げ URL が 410
     (WordPress 由来) + 取り下げた画像が 410)。失敗時は .bak を戻す
   - ブロックの組み立て (dry-run) はサーバに接続しない。接続するのは --install のときだけ
+  - 組み立てと差し替えの規則は scripts/wp/tslib/htaccess.py (サーバに触らない部分)。このファイルは
+    読み込みと ssh・curl・バックアップ・復元の流れ
 
 使い方:
   python3 scripts/wp/htaccess_block.py            # ブロックを表示するだけ (dry-run)
   python3 scripts/wp/htaccess_block.py --install  # サーバに適用 + 検証
 """
-import re
 import subprocess
 import sys
 import time
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from tslib import htaccess  # noqa: E402
+
 HOST = 'novels'   # 宛先表記用。実際の接続先は scripts/wp/novels-ssh が持つ
 RSH = str(Path(__file__).resolve().parent / 'novels-ssh')
 REMOTE_BASE = '~/novels.xwp.jp'
 REMOTE = f'{REMOTE_BASE}/public_html/.htaccess'
-BEGIN = '# BEGIN ts-library (scripts/wp/htaccess_block.py が管理。中を手で編集しない)'
-END = '# END ts-library'
 ROOT = Path(__file__).resolve().parents[2]
 
 
@@ -61,33 +63,7 @@ def annex_values(path=None):
     path = path or (ROOT / 'takedown' / 'denylist.yml')
     if not path.is_file():
         return []
-    out, kind = [], None
-    for line in path.read_text(encoding='utf-8').splitlines():
-        if re.match(r'\s*#', line):
-            continue
-        m = re.match(r'\s+kind:\s*([a-z_]+)', line)
-        if m:
-            kind = m.group(1)
-            continue
-        m = re.match(r'\s+value:\s*["\']?([^"\'#]+)', line)
-        if m and kind == 'annex_path':
-            out.append(m.group(1).strip())
-            kind = None
-    return out
-
-
-def asset_410_lines(values=None):
-    """denylist の kind: annex_path から、配信中の画像などの 410 を作る。
-
-    投稿を非公開にしてもファイル本体は直接 URL で取れる (実測)。WordPress を経由しない
-    /assets/annex-img/ 配下は .htaccess でしか塞げないのでここで扱う。"""
-    out = []
-    for v in (annex_values() if values is None else values):
-        if v.endswith('*'):
-            out.append('RedirectMatch gone "^/assets/annex-img/%s"' % re.escape(v[:-1]))
-        else:
-            out.append('Redirect gone /assets/annex-img/%s' % v)
-    return out
+    return htaccess.annex_values(path.read_text(encoding='utf-8'))
 
 
 def asset_probe_urls(values=None):
@@ -107,24 +83,7 @@ def asset_probe_urls(values=None):
 
 def build_block(annex=None):
     """マーカーブロックを組み立てる (サーバに接続しない)。annex は試験用に annex_path の値を渡せる。"""
-    gone = asset_410_lines(annex)
-    parts = [
-        BEGIN,
-        '# 恒久 noindex 層: /boards/ /dojo/ (第三者ハンドルが載る層。設計 S42)',
-        '<IfModule mod_setenvif.c>',
-        'SetEnvIf Request_URI "^/(boards|dojo)(/|$)" TS_NOINDEX',
-        '</IfModule>',
-        '<IfModule mod_headers.c>',
-        '# mod_rewrite の内部リダイレクト後は REDIRECT_ 接頭辞が付くので両方みる',
-        'Header always set X-Robots-Tag "noindex, follow" env=TS_NOINDEX',
-        'Header always set X-Robots-Tag "noindex, follow" env=REDIRECT_TS_NOINDEX',
-        '</IfModule>',
-        f'# 取り下げた画像などの 410 ({len(gone)} 件。takedown/denylist.yml の kind: annex_path から)。',
-        '# WordPress の URL の 410 は WordPress が返すのでここには書かない (specs/S119.md)',
-        *gone,
-        END,
-    ]
-    return '\n'.join(parts) + '\n', gone
+    return htaccess.build_block(annex_values() if annex is None else annex)
 
 
 def ssh(cmd, **kw):
@@ -132,19 +91,10 @@ def ssh(cmd, **kw):
                           text=True, **kw)
 
 
-def splice(current, block):
-    """マーカー間を差し替える。無ければ先頭に足す (既存ブロック群の前で害がない)。"""
-    pat = re.compile(re.escape(BEGIN) + r'.*?' + re.escape(END) + r'\n?', re.S)
-    if pat.search(current):
-        return pat.sub(block, current, count=1)
-    return block + '\n' + current
-
-
 def curl_head(url):
     r = subprocess.run(['curl', '-s', '-o', '/dev/null', '-D', '-', url],
                        capture_output=True, text=True, timeout=30)
-    status = re.search(r'HTTP/\S+\s+(\d+)', r.stdout)
-    return (int(status.group(1)) if status else 0), r.stdout
+    return htaccess.parse_curl_head(r.stdout)
 
 
 def main():
@@ -169,7 +119,7 @@ def main():
 
     print('[2/4] マーカーブロックを差し替え (中身は表示しない)')
     current = ssh(f'cat {REMOTE}').stdout
-    updated = splice(current, block)
+    updated = htaccess.splice(current, block)
     ssh(f'cat > {REMOTE}.ts-new && mv {REMOTE}.ts-new {REMOTE}', input=updated)
     print(f'  {len(current)} -> {len(updated)} bytes (ブロック {len(block)} bytes)')
 
