@@ -99,4 +99,32 @@ final class TS_Takedown_Rules {
         return in_array($status, ['applied', 'rejected', 'reinstated', 'expired'], true)
             && $resolved_at > 0 && $now >= $resolved_at + $p['retention_days'] * 86400;
     }
+
+    /**
+     * cron の仕分け (S126): 申請 (ts_takedown_get の形) の配列 → ['expire' => [申請…], 'remind' => […], 'apply' => […]]。
+     * 呼び出し側はこの順 (失効 → リマインド → 自動適用) に処理する。各組の中は渡した順のまま。
+     */
+    public static function tick_plan(array $requests, int $now, array $p): array {
+        $todo = ['expire' => [], 'remind' => [], 'apply' => []];
+        foreach ($requests as $r) {
+            $due = self::due($r['status'], $r, $now, $p);
+            if ($due !== null) $todo[$due][] = $r;
+        }
+        return $todo;
+    }
+
+    /**
+     * 保持期限の消去 (S125) をする申請の ID (渡した順)。tick_plan の処理の後に読み直した申請で呼ぶ (失効・適用で
+     * resolved_at が変わるため)。$requests の各要素: id / status / resolved_at と、メタの生の値 contact (_tr_contact) と
+     * ip_hash (_tr_ip_hash)。どちらも空文字なら消すものが無いので飛ばす (数えない)。
+     */
+    public static function purge_plan(array $requests, int $now, array $p): array {
+        $ids = [];
+        foreach ($requests as $r) {
+            if (!self::purge_due($r['status'], $r['resolved_at'], $now, $p)) continue;
+            if ($r['contact'] === '' && $r['ip_hash'] === '') continue;
+            $ids[] = $r['id'];
+        }
+        return $ids;
+    }
 }

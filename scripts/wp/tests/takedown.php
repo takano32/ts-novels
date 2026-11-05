@@ -100,6 +100,24 @@ check('cron: 受付の時刻が無い未確認は失効させない', TS_Takedow
 check('保持期間: 365 日で消す', TS_Takedown_Rules::purge_due('applied', $now - 365 * $d, $now, $P), true);
 check('保持期間: 待機中は消さない', TS_Takedown_Rules::purge_due('received', $now - 400 * $d, $now, $P), false);
 check('保持期間: 364 日は残す', TS_Takedown_Rules::purge_due('expired', $now - 364 * $d, $now, $P), false);
+check('cron の仕分け (失効 → リマインド → 自動適用の組に、組の中は渡した順)', TS_Takedown_Rules::tick_plan([
+    ['id' => 1, 'status' => 'received', 'auto_apply_at' => $now - 1, 'reminded_at' => 0],
+    ['id' => 2, 'status' => 'unconfirmed', 'received_at' => $now - 8 * $d],
+    ['id' => 3, 'status' => 'received', 'auto_apply_at' => $now + $d, 'reminded_at' => 0],
+    ['id' => 4, 'status' => 'rejected', 'auto_apply_at' => $now - $d],
+    ['id' => 5, 'status' => 'received', 'auto_apply_at' => $now, 'reminded_at' => $now - $d],
+], $now, $P), ['expire' => [['id' => 2, 'status' => 'unconfirmed', 'received_at' => $now - 8 * $d]],
+               'remind' => [['id' => 3, 'status' => 'received', 'auto_apply_at' => $now + $d, 'reminded_at' => 0]],
+               'apply' => [['id' => 1, 'status' => 'received', 'auto_apply_at' => $now - 1, 'reminded_at' => 0],
+                           ['id' => 5, 'status' => 'received', 'auto_apply_at' => $now, 'reminded_at' => $now - $d]]]);
+check('cron の仕分け (空)', TS_Takedown_Rules::tick_plan([], $now, $P), ['expire' => [], 'remind' => [], 'apply' => []]);
+check('保持期限の消去 (連絡先も ip_hash も空なら飛ばす、待機中と期限前は消さない)', TS_Takedown_Rules::purge_plan([
+    ['id' => 1, 'status' => 'applied', 'resolved_at' => $now - 400 * $d, 'contact' => 'a@example.org', 'ip_hash' => 'h'],
+    ['id' => 2, 'status' => 'rejected', 'resolved_at' => $now - 400 * $d, 'contact' => '', 'ip_hash' => ''],
+    ['id' => 3, 'status' => 'expired', 'resolved_at' => $now - 400 * $d, 'contact' => '', 'ip_hash' => 'h'],
+    ['id' => 4, 'status' => 'received', 'resolved_at' => $now - 400 * $d, 'contact' => 'a@example.org', 'ip_hash' => 'h'],
+    ['id' => 5, 'status' => 'applied', 'resolved_at' => $now - 10 * $d, 'contact' => 'a@example.org', 'ip_hash' => 'h'],
+], $now, $P), [1, 3]);
 
 // ---------------------------------------------------------------- 文面 (S129・S131)
 check('掲示の 1 行 (名前を出す)', TS_Takedown_Text::public_note(['森の家'], '山田', true, 2026, 11),
