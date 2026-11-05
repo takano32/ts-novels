@@ -101,11 +101,12 @@ WP サイトの各話の書誌カードから「原本を見る」で原本ア�
 
 - 投稿タイプ: `ts_work` (作品と話。親が作品、子が話)、`ts_doc` (運営文書)、`ts_dojo` と `ts_board_post` (登録のみ。T36 で使う) (S21、S181)
 - 分類: 作者・ジャンル・種別・キーワード・共有世界・収蔵区分の 6 種 (S181)
-- 表示の部品 (`includes/render.php`: 書誌カード・話の前後ナビ・パンくず・サイドバー) と索引 (`includes/indexes.php`) (S165、S101)
+- 表示の部品 (`includes/render/`: 書誌カード・話の前後ナビ・パンくず・サイドバー) と索引 (`includes/indexes/`) (S165、S101)
+- `includes/` は、WordPress を使わない部分 (判断・計算・文面。単体の試験は `make test-php`) と WordPress に触る部分と WP-CLI のコマンドに分けてあり、読むファイルは `includes/files.php` の明示リストだけです (S242)
 
 ### `wp ts` コマンド
 
-WP-CLI から使うコマンドで、`includes/commands.php` にあります (S19、S182)。
+WP-CLI から使うコマンドで、`includes/commands/` にサブコマンドごとのファイルで置いてあります (S19、S182、S242)。
 
 | コマンド | 役割 |
 |---|---|
@@ -120,8 +121,8 @@ WP-CLI から使うコマンドで、`includes/commands.php` にあります (S1
 | `export-pages` | 管理画面で直した固定ページを `content/pages/` に書き戻す (S109。未配備) |
 
 `import` は投入した時の catalog のコミットを `ts_catalog_commit` に記録するので、本番に何が載っているかを後から再現できます (S73、S182)。
-ロールを整える `role-sync` (S116) は `includes/roles.php` にあります (T23.3 で実装、本番への配備は T23.4)。
-取り下げフォーム (申請の投稿タイプ・フォーム・確認リンク・cron・`/removed/` の一覧) は `includes/takedown-request.php`、運営委員の操作の画面は `includes/takedown-admin.php` にあります (S124〜S132。T26.3 で実装、配備は T26.6)。
+ロールを整える `role-sync` (S116) は `includes/commands/role-sync.php` (ロールの望む姿と差分は `includes/roles/role-plan.php`) にあります (T23.3 で実装、本番への配備は T23.4)。
+取り下げフォーム (申請の投稿タイプ・フォーム・確認リンク・cron・`/removed/` の一覧) と運営委員の操作の画面は `includes/takedown/` にあります (S124〜S132。T26.3 で実装、配備は T26.6)。
 
 ### テーマ `ts-bunko`
 

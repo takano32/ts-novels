@@ -7,7 +7,7 @@
 #
 # 配備物と行き先:
 #   1) リポジトリ本体  → ~/novels.xwp.jp/repo        (git clone/fetch。catalog と .git が要る —
-#                                                     commands.php が ts_catalog_commit の記録に使う)
+#                                                     wp ts import が ts_catalog_commit の記録に使う)
 #   2) bodies/         → ~/novels.xwp.jp/repo/bodies (git 管理外の生成物なので rsync)
 #   3) mu-plugins      → public_html/wp-content/mu-plugins/ts-library/
 #   4) robots.txt 草案 → public_html/robots.txt
