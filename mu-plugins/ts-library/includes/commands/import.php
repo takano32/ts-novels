@@ -180,6 +180,8 @@ final class TS_Import_Command extends TS_Command_Base {
     private function episode_body($ep, $bodies) {
         if ($bodies === null) return TS_Episode_Fields::body(null, null, false);   // メタのみ投入
         $status = $this->body_status[$ep['episode_id']] ?? null;
+        // _meta.json の値が文字列でない (配列・数値) ときは、分割前と同じく取り下げでない扱いで進む (body は ?string を受ける)
+        $status = is_string($status) ? $status : null;
         $f = "$bodies/{$ep['episode_id']}.html";
         $payload = ($status !== 'takedown' && is_file($f)) ? file_get_contents($f) : null;
         return TS_Episode_Fields::body($status, $payload);

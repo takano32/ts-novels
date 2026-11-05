@@ -45,3 +45,26 @@ check('reset: 消す option は 2 つ (語の警告と取り下げの URL は残
 check('reset: 出力', WP_CLI::$out, [['success', 'reset: 投稿 5 件・term 7 件を削除 (WP 本体設定は無変更)']]);
 WP_CLI::$out = [];
 TS_WP_Stubs::reset();
+
+// ---------------------------------------------------------------- wp ts import の本文の選び方 (T45.6.7)
+// payloads/_meta.json の値が文字列でない (配列・数値) ときも止まらず、取り下げでない扱いで進む。期待値は分割前 (0e8c7712) の
+// commands.php の TS_Command::episode_body を同じ代わりで動かした出力 (2026-11-05、scripts/wp/php_probe.sh。probe は body_status を
+// ReflectionProperty で置き、episode_body を ReflectionMethod で呼んだ)
+$body_dir = sys_get_temp_dir() . '/ts-import-body-' . getmypid();
+mkdir($body_dir);
+file_put_contents("$body_dir/e-file.html", '<p>本文</p>');
+$cmd = new TS_Import_Command();
+$prop = new ReflectionProperty(TS_Import_Command::class, 'body_status'); $prop->setAccessible(true);
+$m = new ReflectionMethod(TS_Import_Command::class, 'episode_body'); $m->setAccessible(true);
+$prop->setValue($cmd, ['e-none' => ['takedown'], 'e-file' => ['takedown'], 'e-int' => 1, 'e-td' => 'takedown']);
+$got = [];
+foreach (['e-none', 'e-file', 'e-int', 'e-td'] as $id) $got[$id] = $m->invoke($cmd, ['episode_id' => $id], $body_dir);
+$got['meta-only'] = $m->invoke($cmd, ['episode_id' => 'e-none'], null);
+check('import: _meta.json の値が配列・数値でも止まらず、ペイロードか案内文になる', $got, [
+    'e-none' => '<!-- wp:paragraph --><p>(本文は原本アーカイブでお読みください)</p><!-- /wp:paragraph -->',
+    'e-file' => '<p>本文</p>',
+    'e-int' => '<!-- wp:paragraph --><p>(本文は原本アーカイブでお読みください)</p><!-- /wp:paragraph -->',
+    'e-td' => '',
+    'meta-only' => null,
+]);
+unlink("$body_dir/e-file.html"); rmdir($body_dir);
