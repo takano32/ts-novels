@@ -10,6 +10,7 @@ $entries = $r['entries'];
 $byid = [];
 foreach ($entries as $e) $byid[$e['id']] = $e;
 check('denylist の警告なし', $r['warnings'], []);
+check('読めないファイルは空 (分割前と同じく TypeError にしない。T45.1.12)', @TS_Denylist::parse("$root/takedown/no-such.yml"), ['entries' => [], 'warnings' => []]);
 check('Marie 氏のエントリ', [$byid['S235']['kind'] ?? null, $byid['S235']['value'] ?? null, $byid['S235']['status'] ?? null],
       ['author', 'marie', 'applied']);
 check('public_note を読む', $byid['S235']['public_note'] ?? null,

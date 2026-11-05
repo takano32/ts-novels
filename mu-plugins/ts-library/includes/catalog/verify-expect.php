@@ -72,6 +72,7 @@ final class TS_Verify_Expect {
             foreach (self::FIELD_TAX as [$f, $tax]) {
                 $uniq = [];
                 foreach ((array) ($ep[$f] ?? []) as $v) {
+                    if (!is_string($v)) continue;   // 文字列でない語は数えない (import の TS_Vocabulary::resolve と同じ。分割前も TypeError にならず進んだ)
                     $s = $this->vocab->slug($tax, $v);
                     if ($s !== null && isset($vocab[$tax][$s])) $uniq[$s] = 1;
                 }
@@ -88,6 +89,7 @@ final class TS_Verify_Expect {
             if ($w === null || isset($this->single[$w])) continue;
             foreach (self::FIELD_TAX as [$f, $tax]) {
                 foreach ((array) ($ep[$f] ?? []) as $v) {
+                    if (!is_string($v)) continue;   // 文字列でない語は数えない (import の TS_Vocabulary::resolve と同じ。分割前も TypeError にならず進んだ)
                     $s = $this->vocab->slug($tax, $v);
                     if ($s !== null && isset($vocab[$tax][$s])) $parent_expect[$w][$tax][$s] = 1;
                 }

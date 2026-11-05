@@ -23,7 +23,7 @@ final class TS_Denylist {
      * エントリ: id / kind / value / status / public_note / requested_at / reason / received_via
      */
     public static function parse(string $path): array {
-        return self::parse_lines(file($path));
+        return self::parse_lines(file($path) ?: []);   // 読めなければ空 (分割前と同じく黙って進む)
     }
 
     /** parse の本体 (行の配列から)。試験が文字列から読むときにも使う */

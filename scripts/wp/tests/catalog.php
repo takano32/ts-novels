@@ -111,8 +111,8 @@ $v_works = [
     ['work_slug' => 'w3', 'author_slug' => 'zz', 'episode_count' => 1, 'episodes' => ['e4']],   // 語彙に無い作者
 ];
 $v_eps = [
-    ['episode_id' => 'e1', 'corpus' => 'honkan', 'genre' => ['SF', 'ＳＦ', 'ホラー'], 'type' => [], 'keywords' => [], 'date_raw' => '2002', 'orig_url' => 'u', 'annex_url' => '', 'provenance' => ['r' => 1]],
-    ['episode_id' => 'e2', 'corpus' => 'honkan', 'genre' => ['ファンタジー'], 'keywords' => [], 'date_raw' => null, 'orig_url' => null, 'annex_url' => null, 'provenance' => []],
+    ['episode_id' => 'e1', 'corpus' => 'honkan', 'genre' => ['SF', 'ＳＦ', null, 'ホラー', 7], 'type' => [], 'keywords' => [], 'date_raw' => '2002', 'orig_url' => 'u', 'annex_url' => '', 'provenance' => ['r' => 1]],
+    ['episode_id' => 'e2', 'corpus' => 'honkan', 'genre' => ['ファンタジー', null], 'keywords' => [3], 'date_raw' => null, 'orig_url' => null, 'annex_url' => null, 'provenance' => []],
     ['episode_id' => 'e3', 'corpus' => 'kyukan', 'genre' => ['ＳＦ'], 'date_raw' => '2003', 'orig_url' => 'u', 'annex_url' => 'a', 'provenance' => null],
     ['episode_id' => 'e4', 'corpus' => 'unknown', 'genre' => [], 'date_raw' => '', 'orig_url' => '', 'annex_url' => 'a'],
 ];
@@ -123,6 +123,7 @@ check('語彙の集合 (作者は小文字 + 擬似作者、ほかは terms.json
        'ts_corpus' => ['honkan' => 1, 'kyukan' => 1], 'ts_world' => ['delayed' => 1]]);
 // 割当: 作者 = works 2 (w3 の zz は語彙に無い) + 連載の子 2 (e1 e2)、corpus = 話 3 (e4 の unknown は無い) + 親 w1 の 1、
 // genre = e1 {sf} + e2 {fantasy} + e3 {sf} = 3 + 親 w1 {sf, fantasy} = 5、world = e1 の delayed 1 + 親 w1 の 1
+// genre と keywords の null と数値は数えずに進む (T45.1.12。分割前と同じ寛容さ)
 check('割当数の期待 (親 work への合併付与を含む)', $exp->assignment_counts(),
       ['ts_author' => 4, 'ts_genre' => 5, 'ts_type' => 0, 'ts_keyword' => 0, 'ts_world' => 2, 'ts_corpus' => 4]);
 check('書誌カード用メタの被覆 (null・空文字・空配列は数えない)', $exp->meta_coverage(),

@@ -26,7 +26,7 @@ final class TS_Pages_Command extends TS_Command_Base {
         $n = ['created' => 0, 'updated' => 0, 'skipped' => 0, 'manual_skipped' => 0];
         foreach ($files as $f) {
             $slug = basename($f, '.html');
-            $file = TS_Page_File::parse(file_get_contents($f), $slug);
+            $file = TS_Page_File::parse((string) file_get_contents($f), $slug);
             $title = $file['title']; $body = $file['body']; $hash = $file['hash'];
             $page = get_page_by_path($slug, OBJECT, 'page');
             if ($page && get_post_meta($page->ID, '_ts_import_hash', true) === $hash) { $n['skipped']++; continue; }
