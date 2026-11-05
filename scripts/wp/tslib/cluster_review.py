@@ -140,9 +140,9 @@ def split_targets(works):
     return weak, strong
 
 
-def render_report(works, episodes, month):
-    """文書の本体 (見出し・説明・弱い根拠と強い根拠の 2 つの部分) の行の列。番号は 2 つの部分を通しで振る。"""
-    weak, strong = split_targets(works)
+def render_report(weak, strong, episodes, month):
+    """文書の本体 (見出し・説明・弱い根拠と強い根拠の 2 つの部分) の行の列。番号は 2 つの部分を通しで振る。
+    weak と strong は split_targets(works) の 2 つ (入口が件数の表示にも使うので、ここでは分け直さない)。"""
     L = ['# 作品クラスタのレビュー (%s)' % month, '',
          '`scripts/wp/cluster_review.py` の出力 (仕様は specs/S149.md、裁定の書き方は specs/S150.md)。'
          '手で直さず、作り直すときはスクリプトを走らせる。裁定はこのファイルの写しか返信でもらい、'

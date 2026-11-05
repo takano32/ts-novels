@@ -68,6 +68,14 @@ class OverridesTest(TempDirCase):
         self.assertEqual(slugs.load_overrides(path), data)
         self.assertEqual(slugs.load_overrides(path + '.none'), {})
 
+    def test_overrides_notes(self):
+        # 3 段 (terms_build・authors_build・work_builder) が同じ注記を書く約束。字面は catalog/slug_overrides.yml の頭の注記と同じ
+        self.assertEqual(slugs.OVERRIDES_NOTES, [
+            'terms_* セクション = 分類語彙の slug (scripts/wp/terms_build.py)',
+            'authors セクション = 作者 slug (scripts/wp/authors_build.py)',
+            'works セクション = 作品 slug (scripts/wp/work_builder.py)',
+        ])
+
 
 if __name__ == '__main__':
     unittest.main()

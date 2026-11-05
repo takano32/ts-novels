@@ -71,7 +71,7 @@ def main(argv=None):
     works = load_works(root)
     episodes = load_episodes(root)
     weak, strong = cr.split_targets(works)
-    L = cr.render_report(works, episodes, month)
+    L = cr.render_report(weak, strong, episodes, month)
     if args.since:
         old, new, rows = slug_changes(root, args.since)
         L += cr.render_slug_section(old, new, rows, short_rev(root, args.since))
