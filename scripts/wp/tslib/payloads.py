@@ -1,0 +1,398 @@
+# -*- coding: utf-8 -*-
+"""payloads.py — bodies/*.md → Gutenberg ブロック HTML のロジック (T9.1 + T9.2 の src 書換)。
+
+ブロック対応 (T9.1、specs/S188.md): paragraph / separator / quote / heading / image。
+ruby はパラグラフ内インライン HTML、本文内 table は wp:html ブロック。
+raw フォールバックは原本の本体域 (bodies.extract_body) を wp:html 1 ブロックに。
+
+無損失検査 (この生成器自身の): 各ファイルで strip(md) == strip(payload) を
+タグ除去 → 実体参照解決 → 記号マーカー除去 → 空白圧縮 → NFC で比較する。
+違反 0 が受け入れ条件 (report の invariant_ok で機械判定)。
+
+取り下げ (2026-10-30 の高野さんの決定。specs/S76.md): denylist に載っている話は、
+bodies/ に本文が残っていても payload を作らず、payloads/ に前回の payload があれば消す
+(本文データを作るときに飛ばす論理削除)。_meta.json には 'takedown' を書き、
+`wp ts import` はそれを見て本文を空で投入する。対象の範囲は commands.php の
+takedown_targets と同じになるように catalog から解決する (takedown_episodes)。
+
+入出力は scripts/wp/payload_build.py。
+"""
+import html
+import os
+import re
+import unicodedata
+
+from tslib.gitinfo import image_files
+from tslib.mail import MAIL_KEEP_RE, scrub_addresses, has_leak  # noqa: F401  (scrub_addresses は従来この名で参照される)
+
+HEAD_RE = re.compile(r'^(#{1,6}) (.*)$')
+MD_IMG_RE = re.compile(r'!\[([^\]\n]*)\]\(([^)\n]+)\)')  # 画像 1 枚もの 17 話が使う記法
+IMG_ONLY_RE = re.compile(r'^\s*(<img\b[^>]*>)\s*$', re.I)
+IMG_TAG_RE = re.compile(r'<img\b[^>]*>', re.I)
+SRC_RE = re.compile(r'(src\s*=\s*")([^"]*)(")', re.I)
+# 実体参照でない裸の & のみ escape する
+AMP_RE = re.compile(r'&(?![a-zA-Z][a-zA-Z0-9]*;|#\d+;|#[xX][0-9a-fA-F]+;)')
+EYECATCH_RE = re.compile(r'(?i)src="(/assets/annex-img/[^"]*eyecatch\.[a-z]+)"')
+ANNEX_IMG = '/assets/annex-img/'
+
+
+def image_inventory(root):
+    """小文字パス → git 上の実パス (Windows 由来の大文字小文字ゆらぎを吸収する)。"""
+    return {p.lower(): p for p in image_files(root, 'novel')}
+
+
+# カウンタ CGI・ブログスキン・アクセス解析・広告 — 内容ではないので img ごと落とす
+JUNK_SRC_RE = re.compile(
+    r'(?i)(\.cgi(\?|$)|@gif\.cgi|@today\.cgi|@yes\.cgi|^_skin/|/_skin/'
+    r'|analyzer\d*\.fc2\.com|counter_img\.php|blogvote\.fc2\.com|shinobi\.jp/'
+    r'|valuecommerce\.com/|infoseek\.co\.jp/bin/logo|/ana/icon\.php)')
+
+
+def rewrite_srcs(text, src_dir, images, warn):
+    """img の相対 src を /assets/annex-img/ の絶対参照に。実体の無い参照は記録する。
+    warn は {'missing': [], 'external': [], 'junk': []}。"""
+    def sub_img(m):
+        tag = m.group(0)
+        src_m = SRC_RE.search(tag)
+        src = html.unescape(src_m.group(2).strip()) if src_m else ''
+        if JUNK_SRC_RE.search(src):
+            warn['junk'].append(src)
+            return ''
+        def sub_src(sm):
+            s = html.unescape(sm.group(2).strip()).replace('\\', '/')
+            if re.match(r'(?i)^(https?:)?//', s) or s.startswith('/'):
+                warn['external'].append(s)
+                return sm.group(0)
+            rel = os.path.normpath(os.path.join(src_dir, s)).replace('\\', '/')
+            actual = images.get(rel.lower())
+            if actual is None:
+                warn['missing'].append(rel)
+                actual = rel
+            return '{}{}{}{}'.format(
+                sm.group(1), ANNEX_IMG, html.escape(actual, quote=False), sm.group(3))
+        return SRC_RE.sub(sub_src, tag)
+    return IMG_TAG_RE.sub(sub_img, text)
+
+
+# --------------------------------------------------------------------------- blocks
+
+def b_para(content):
+    return f'<!-- wp:paragraph -->\n<p>{content}</p>\n<!-- /wp:paragraph -->'
+
+
+def b_sep():
+    return ('<!-- wp:separator -->\n'
+            '<hr class="wp-block-separator has-alpha-channel-opacity"/>\n'
+            '<!-- /wp:separator -->')
+
+
+def b_heading(level, content):
+    lv = min(max(level + 1, 2), 6)  # 本文の h1 は投稿タイトルと衝突するので h2 起点に落とす
+    attr = '' if lv == 2 else ' {"level":%d}' % lv
+    return (f'<!-- wp:heading{attr} -->\n'
+            f'<h{lv} class="wp-block-heading">{content}</h{lv}>\n<!-- /wp:heading -->')
+
+
+def b_quote(paras):
+    inner = '\n'.join(b_sep() if re.fullmatch(r'-{2,}', p.strip()) else b_para(p)
+                      for p in paras)
+    return (f'<!-- wp:quote -->\n<blockquote class="wp-block-quote">\n{inner}\n'
+            f'</blockquote>\n<!-- /wp:quote -->')
+
+
+def b_image(tag):
+    # title は属性のまま保持 (figcaption にすると無損失検査の可視テキストが原文と食い違う)
+    return f'<!-- wp:image -->\n<figure class="wp-block-image">{tag}</figure>\n<!-- /wp:image -->'
+
+
+def b_html(raw):
+    return f'<!-- wp:html -->\n{raw}\n<!-- /wp:html -->'
+
+
+# 原本のページ配色 (raw フォールバックの「原本配色」トグル用。specs/S27.md・S193.md・S239.md)。
+# extract_body は <body> の属性と <style> を落とすので、ここで原本から拾って印の要素に持たせる。
+# 指定の無い色は当時のブラウザの既定 (白地・黒字・青のリンク)
+ORIG_DEFAULTS = {'bg': '#ffffff', 'fg': '#000000', 'link': '#0000ee', 'vlink': '#551a8b'}
+COLOR_VAL = r'(#[0-9a-fA-F]{3}(?:[0-9a-fA-F]{3})?|[a-zA-Z]+)'
+
+
+def orig_palette(raw, src_dir, images):
+    pal = dict(ORIG_DEFAULTS)
+    bgimg = None
+    for css in re.findall(r'(?is)<style\b[^>]*>(.*?)</style>', raw):
+        for sel, decl in re.findall(r'(?s)([^{}]+)\{([^}]*)\}', css):
+            sels = {s.strip().lower() for s in sel.replace('<!--', '').split(',')}
+            col = re.search(r'(?i)(?<![-\w])color\s*:\s*' + COLOR_VAL, decl)
+            if 'body' in sels:
+                bg = re.search(r'(?i)background(?:-color)?\s*:\s*' + COLOR_VAL, decl)
+                if bg:
+                    pal['bg'] = bg.group(1)
+                if col:
+                    pal['fg'] = col.group(1)
+            if col and ('a:link' in sels or 'a' in sels):
+                pal['link'] = col.group(1)
+            if col and 'a:visited' in sels:
+                pal['vlink'] = col.group(1)
+    mb = re.search(r'(?is)<body\b([^>]*)>', raw)
+    if mb:
+        for attr, key in (('bgcolor', 'bg'), ('text', 'fg'), ('link', 'link'), ('vlink', 'vlink')):
+            ma = re.search(r'(?i)\b%s\s*=\s*["\']?%s' % (attr, COLOR_VAL), mb.group(1))
+            if ma:
+                pal[key] = ma.group(1)
+        ma = re.search(r'(?i)\bbackground\s*=\s*["\']?([^"\'\s>]+)', mb.group(1))
+        if ma:
+            rel = os.path.normpath(os.path.join(src_dir, ma.group(1))).replace('\\', '/')
+            if rel.lower() in images:
+                bgimg = ANNEX_IMG + images[rel.lower()]
+    attrs = ''.join(' data-%s="%s"' % (k, html.escape(v)) for k, v in pal.items())
+    if bgimg:
+        attrs += ' data-bgimg="%s"' % html.escape(bgimg)
+    return f'<div class="ts-orig-palette"{attrs}></div>'
+
+
+# --------------------------------------------------------------------------- md → blocks
+
+def unbalanced_table(text):
+    """開いたままの table 系タグを含むか (段落に入れると後続を呑む)"""
+    for tag in ('table', 'tr', 'td', 'th'):
+        opens = len(re.findall(r'(?i)<%s\b' % tag, text))
+        closes = len(re.findall(r'(?i)</%s\s*>' % tag, text))
+        if opens != closes:
+            return True
+    return False
+
+
+def table_run_end(lines, i):
+    """i 行目から始まる table が閉じる行の次を返す。閉じないなら None (段落扱いに落とす)。"""
+    depth = 0
+    for j in range(i, len(lines)):
+        depth += len(re.findall(r'(?i)<table\b', lines[j]))
+        depth -= len(re.findall(r'(?i)</table\s*>', lines[j]))
+        if depth <= 0:
+            return j + 1
+    return None
+
+
+def esc(text):
+    return AMP_RE.sub('&amp;', text)
+
+
+def new_stats():
+    return {k: 0 for k in ('paragraph', 'separator', 'quote', 'heading', 'image', 'table')}
+
+
+def md_to_blocks(md, stats):
+    # Markdown 画像記法 → img タグ (T9.3 の QA で発見: 画像 1 枚ものエントリが記法のまま漏れていた)
+    md = MD_IMG_RE.sub(
+        lambda m: '<img src="%s" alt="%s">' % (m.group(2).replace('"', '&quot;'),
+                                               m.group(1).replace('"', '&quot;')), md)
+    # タグ開始に見えない裸の '<' (例: 文末の「戻る<」) を先に実体化する — 後段の
+    # タグ畳み込みが後方の '>' まで本文を巻き込む事故の根絶
+    md = re.sub(r'<(?![a-zA-Z/!])', '&lt;', md)
+    # 原本由来の複数行タグ (<img\nsrc=…> 等。stash 復元で改行が保たれている) を 1 行に畳む。
+    # 畳まないと段落連結の <br> がタグ内部に入って壊れる (初回実測 NG 225 件の原因)
+    md = re.sub(r'<[^>]*>', lambda m: ' '.join(m.group(0).split()), md)
+    lines = md.split('\n')
+    blocks, i, n = [], 0, len(lines)
+    while i < n:
+        line = lines[i]
+        if line.strip() == '':
+            i += 1
+            continue
+        if line == '----':
+            blocks.append(b_sep()); stats['separator'] += 1; i += 1
+            continue
+        m = HEAD_RE.match(line)
+        if m:
+            # 見出しの中に引用マーカーが残る形 (`## > Ａｎｇｅｌ`) は原本の h 内 blockquote の名残
+            content = re.sub(r'^(?:> ?)+', '', m.group(2))
+            blocks.append(b_heading(len(m.group(1)), esc(content)))
+            stats['heading'] += 1; i += 1
+            continue
+        if line.startswith('>'):
+            qlines = []
+            while i < n and lines[i].startswith('>'):
+                qlines.append(lines[i][2:] if lines[i].startswith('> ') else lines[i][1:])
+                i += 1
+            # 引用内は空行 (空の '>' 行) 区切りで段落化。'----' は引用内の区切り線。
+            # 引用行に紛れた table 系タグは除去する — blockquote 内の未閉 <table> は
+            # ブラウザの in-table 挿入モードで後続ブロック全部を呑む (レビュー実測)。
+            # タグ除去は可視テキストに影響しないので無損失検査と干渉しない
+            body = '\n'.join(re.sub(r'(?i)</?(?:table|tbody|thead|t[rdh])\b[^>]*>', '', esc(x))
+                             for x in qlines)
+            paras = [q.strip('\n').replace('\n', '<br>')
+                     for q in re.split(r'\n\s*\n', body) if q.strip()]
+            blocks.append(b_quote(paras)); stats['quote'] += 1
+            continue
+        if re.match(r'(?i)^\s*<table\b', line):
+            j = table_run_end(lines, i)
+            if j is not None:
+                blocks.append(b_html(esc('\n'.join(lines[i:j])))); stats['table'] += 1
+                i = j
+                continue
+            # 閉じタグの無い table (当時の手書き HTML に実在) — 呑み込まず段落として流す
+        # 段落 (連続する非空行。単独 img 段落は image ブロックに)
+        plines = []
+        while i < n and lines[i].strip() != '' and lines[i] != '----' \
+                and not HEAD_RE.match(lines[i]) and not lines[i].startswith('>') \
+                and not (re.match(r'(?i)^\s*<table\b', lines[i])
+                         and table_run_end(lines, i) is not None):
+            plines.append(lines[i]); i += 1
+        joined = '\n'.join(plines)
+        m = IMG_ONLY_RE.match(joined)
+        if m:
+            blocks.append(b_image(esc(m.group(1)))); stats['image'] += 1
+        elif unbalanced_table(joined):
+            # <p> の中に開いたままの <table> があるとブラウザが後続ブロックを呑む。
+            # 段落にせず wp:html として出す (可視テキストは変わらない)
+            blocks.append(b_html(esc(joined))); stats['table'] += 1
+        else:
+            blocks.append(b_para(esc(joined).replace('\n', '<br>'))); stats['paragraph'] += 1
+    return blocks
+
+
+# --------------------------------------------------------------------------- 無損失検査
+
+TAG_RE = re.compile(r'<[^>]*>')
+CMT_RE = re.compile(r'<!--.*?-->', re.S)
+
+
+def visible(text, is_md):
+    t = CMT_RE.sub('', text)
+    if is_md:
+        t = MD_IMG_RE.sub('', t)  # 画像記法はタグに変換されるので md 側でも落とす
+        t = re.sub(r'^(#{1,6}) ', '', t, flags=re.M)
+        t = re.sub(r'^> ?', '', t, flags=re.M)
+    t = re.sub(r'(?i)<br\s*/?>', '\n', t)  # <br> 連結を行構造に戻す (ダッシュ行判定の対称性)
+    t = TAG_RE.sub('', t)
+    t = html.unescape(t)
+    # ダッシュだけの行は両側で落とす (md の区切り行 / 閉じない table 内に残る '----' を対称に扱う)
+    t = re.sub(r'^\s*-{2,}\s*$', '', t, flags=re.M)
+    t = re.sub(r'\s+', '', t)
+    return unicodedata.normalize('NFC', t)
+
+
+# --------------------------------------------------------------------------- 話 1 件の変換
+
+def md_payload(md, src_dir, images, stats, warn, mail_n):
+    """bodies/*.md の 1 本 → (payload, 無損失 OK か, eyecatch の参照)。md はアドレス除去前。"""
+    md = scrub_addresses(md, mail_n)
+    blocks = md_to_blocks(md, stats)
+    out = '\n\n'.join(blocks) + '\n'
+    out = rewrite_srcs(out, src_dir, images, warn)
+    ok = visible(md, True) == visible(out, False)
+    return out, ok, EYECATCH_RE.findall(out)
+
+
+def text_payload(text, stats, mail_n):
+    """reposts/<episode_id>.txt (プレーンテキスト) → (payload, 無損失 OK か)。全て escape するので HTML 断片の混入はない。"""
+    text = scrub_addresses(text, mail_n)
+    paras = [html.escape(p.strip('\n'), quote=False).replace('\n', '<br>')
+             for p in re.split(r'\n\s*\n', text) if p.strip()]
+    out = '\n\n'.join(b_para(p) for p in paras) + '\n'
+    stats['paragraph'] += len(paras)
+    ok = re.sub(r'\s+', '', unicodedata.normalize('NFC', text)) == visible(out, False)
+    return out, ok
+
+
+def raw_payload(raw, region, src_dir, images, warn, mail_n):
+    """raw フォールバック: 原本の本体域 (bodies.extract_body の結果 region) を wp:html 1 ブロックに。
+    先頭に原本の配色を持つ印の要素を置く。"""
+    region = scrub_addresses(region, mail_n)   # 原本そのままの経路もアドレスは入れない
+    region = rewrite_srcs(region, src_dir, images, warn)
+    region = orig_palette(raw, src_dir, images) + '\n' + region
+    return b_html(region) + '\n'
+
+
+# --------------------------------------------------------------------------- 取り下げ
+
+TAKEDOWN_KINDS = ('work', 'episode', 'annex_path', 'author')
+# commands.php の PSEUDO_AUTHORS (sync-terms が authors.json の外に作る作者 term)
+PSEUDO_AUTHORS = ('unattributed', 'series-index')
+
+
+class DenylistError(Exception):
+    """denylist.yml の書き方が WP 側 (takedown_targets) と食い違う。止めて直してもらう。"""
+
+
+def takedown_episodes(episodes, works, authors, denylist):
+    """denylist の対象 → 飛ばす話の集合。
+
+    範囲は commands.php の takedown_targets (と descendants) と同じにする:
+      work       : _ts_work_slug が一致する work 投稿とその子 = works.jsonl のその作品の全話
+      episode    : _ts_source_path (と "#anchor" の _ts_source_anchor) が一致する投稿
+      annex_path : _ts_source_path の前方一致 (値の末尾が '*' のとき) か完全一致
+      author     : ts_author term が付く投稿とその子 = author_slug がその作者の作品の全話
+    WP の meta_value の比較は MySQL の照合順序で大文字小文字を区別しないので、ここも小文字で比べる。
+    denylist は takedown/denylist.yml を読んだ dict。
+    返り値: ({episode_id: [S 番号, …]}, [{id, kind, value, episodes}, …])"""
+    data = denylist or {}
+    work_eps = {}
+    author_works = {}
+    for w in works:
+        eids = [e['episode_id'] if isinstance(e, dict) else e for e in w['episodes']]
+        work_eps[w['work_slug']] = eids
+        author_works.setdefault((w.get('author_slug') or '').lower(), []).append(w['work_slug'])
+    author_terms = {a['slug'].lower() for a in authors} | set(PSEUDO_AUTHORS)
+
+    hit, per_entry = {}, []
+    for e in data.get('entries') or []:
+        if e.get('status') == 'reinstated':
+            continue  # 復帰済みは止めない (apply-takedown と同じ)
+        kind = (e.get('target') or {}).get('kind')
+        value = str((e.get('target') or {}).get('value') or '')
+        if kind not in TAKEDOWN_KINDS or not value:
+            raise DenylistError(f"!! denylist の不完全なエントリ: {e.get('id')} kind={kind} value={value!r}")
+        if kind == 'work':
+            eids = list(work_eps.get(value, []))
+        elif kind == 'author':
+            v = value.lower()
+            eids = ([x for ws in author_works.get(v, []) for x in work_eps[ws]]
+                    if v in author_terms else [])
+        elif kind == 'episode':
+            sp, sep, anchor = value.partition('#')
+            eids = [ep['episode_id'] for ep in episodes.values()
+                    if ep['source_path'].lower() == sp.lower()
+                    and (not sep or (ep.get('source_anchor') or '').lower() == anchor.lower())]
+        else:  # annex_path
+            stem = value.rstrip('*')
+            # takedown_targets は末尾の '*' だけを前方一致として扱う。それ以外の glob 記号は
+            # WP 側と範囲が食い違うので、ここで止めて denylist の書き方を直してもらう
+            if re.search(r'[*?\[]', stem):
+                raise DenylistError(f"!! annex_path の末尾以外に glob 記号があります: {e.get('id')} {value}")
+            if value.endswith('*'):
+                eids = [ep['episode_id'] for ep in episodes.values()
+                        if ep['source_path'].lower().startswith(stem.lower())]
+            else:
+                eids = [ep['episode_id'] for ep in episodes.values()
+                        if ep['source_path'].lower() == stem.lower()]
+        for eid in eids:
+            hit.setdefault(eid, []).append(e['id'])
+        per_entry.append({'id': e['id'], 'kind': kind, 'value': value, 'episodes': len(set(eids))})
+    return hit, per_entry
+
+
+# --------------------------------------------------------------------------- レポート
+
+def report_of(written, raw_written, raw_fallbacks, takedown, skipped, removed, takedown_entries,
+              stats, violations, warn, meta, eyecatch, mail_n, leaked):
+    return {
+        'written': written,
+        'mail_redacted': mail_n,
+        'mail_leaked': sorted(set(leaked)),
+        'converted': written - raw_written,
+        'raw_fallback': sorted(e for e in raw_fallbacks if e not in takedown),
+        'takedown_skipped': len(takedown),
+        'takedown_skipped_with_body': skipped,
+        'takedown_payloads_removed': len(removed),
+        'takedown_entries': takedown_entries,
+        'takedown_episodes': {k: v for k, v in sorted(takedown.items())},
+        'blocks': stats,
+        'invariant_ok': not violations,
+        'invariant_violations': violations[:20],
+        'images_missing': sorted(set(warn['missing'])),
+        'images_external': sorted(set(warn['external'])),
+        'images_junk_dropped': sorted(set(warn['junk'])),
+        'converted_text': sorted(e for e, s in meta.items() if s == 'converted-text'),
+        'eyecatch_refs': {k: sorted(set(v)) for k, v in sorted(eyecatch.items())},
+    }
