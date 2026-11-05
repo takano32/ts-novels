@@ -40,10 +40,6 @@ class Checks:
         for line in self.lines(indent):
             print(line)
 
-    def as_tuple(self):
-        """従来の (ok, [(name, ok, detail), …]) の形。"""
-        return self.ok, list(self.results)
-
 
 def report_lines(selftest, indent='  '):
     """レポート JSON の selftest (dict の列) を表示の行にする。"""

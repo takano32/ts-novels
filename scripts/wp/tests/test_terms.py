@@ -103,14 +103,15 @@ class SlugAndAssembleTest(unittest.TestCase):
         self.assertEqual(amb, set())
 
     def test_selftest(self):
-        ok, results = terms.selftest(RECORDS, terms.CORPUS_TERMS)
-        self.assertTrue(ok)
-        self.assertEqual(len(results), 3)
-        ok, results = terms.selftest(RECORDS + [rec('e9', corpus='mystery')], terms.CORPUS_TERMS)
-        self.assertFalse(ok)
-        self.assertIn("['mystery']", results[0][2])
+        c = terms.selftest(RECORDS, terms.CORPUS_TERMS)
+        self.assertTrue(c.ok)
+        self.assertEqual(len(c.results), 3)
+        c = terms.selftest(RECORDS + [rec('e9', corpus='mystery')], terms.CORPUS_TERMS)
+        self.assertFalse(c.ok)
+        self.assertIn("['mystery']", c.results[0][2])
         # dojo は予定枠なので 0 件でも空 term に数えない
-        self.assertEqual(results[1][2], '空 term なし')
+        self.assertEqual(c.results[1][2], '空 term なし')
+        self.assertEqual(list(c.as_report()[0]), ['name', 'ok', 'detail'])
 
     def test_assemble(self):
         synonyms = {'ts_genre': {'学園物': '学園'}, 'ts_type': {'薬': '薬品'}, 'ts_keyword': {}}

@@ -20,7 +20,7 @@ class ChecksTest(unittest.TestCase):
         self.assertEqual(c.as_report(), [{'name': 'a', 'ok': True, 'detail': 'x'},
                                          {'name': 'b', 'ok': False, 'detail': 'y'}])
         self.assertEqual(list(c.as_report()[0]), ['name', 'ok', 'detail'])
-        self.assertEqual(c.as_tuple(), (False, [('a', True, 'x'), ('b', False, 'y')]))
+        self.assertEqual(c.results, [('a', True, 'x'), ('b', False, 'y')])
         self.assertEqual(c.lines(), ['  [OK ] a x', '  [NG ] b y'])
 
     def test_empty_is_ok(self):

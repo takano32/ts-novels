@@ -24,7 +24,6 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tslib import paths, slugs as slugmod, authors, kana_index  # noqa: E402
-from tslib.checks import format_line  # noqa: E402
 from tslib.fileio import read_jsonl, read_json, write_json, ensure_dir  # noqa: E402
 
 DEFAULT_ROOT = paths.REPO_ROOT
@@ -61,14 +60,13 @@ def main(argv=None):
     args = ap.parse_args(argv)
     root = os.path.abspath(args.root)
     payload, report, overrides, overrides_path, _ = build(root, args.annex_base)
-    ok, results = authors.selftest(payload, report)
-    report['selftest'] = [{'name': n, 'ok': o, 'detail': d} for n, o, d in results]
-    report['selftest_ok'] = ok
+    c = authors.selftest(payload, report)
+    report['selftest'] = c.as_report()
+    report['selftest_ok'] = c.ok
 
     for line in authors.summary_lines(report):
         print(line)
-    for n, o, d in results:
-        print(format_line(n, o, d))
+    c.print()
 
     if not args.check:
         ensure_dir(paths.reports_dir(root))
@@ -77,7 +75,7 @@ def main(argv=None):
         slugmod.save_overrides(overrides_path, overrides, notes=authors.OVERRIDES_NOTES)
         print('wrote catalog/authors.json, catalog/reports/authors_build.json, '
               'catalog/slug_overrides.yml')
-    return 0 if ok else 1
+    return 0 if c.ok else 1
 
 
 if __name__ == '__main__':

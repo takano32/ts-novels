@@ -131,7 +131,7 @@ def check_takedown_notices(c, records, denylist_text, works):
 
 
 def selftest(records, failures, legacy_stats=None, denylist_text='', works=None):
-    """受け入れ条件をロジックで検査する。戻り値 (ok, [(name, ok, detail)])。
+    """受け入れ条件をロジックで検査する。戻り値は Checks。
 
     denylist_text は takedown/denylist.yml の全文 (無ければ '')、works は catalog/works.jsonl の
     レコード (無ければ None)。停止告知の照合に使う。
@@ -155,4 +155,4 @@ def selftest(records, failures, legacy_stats=None, denylist_text='', works=None)
     if legacy_stats is not None:
         check_legacy(c, legacy, legacy_stats)
     check_takedown_notices(c, records, denylist_text, works)
-    return c.as_tuple()
+    return c

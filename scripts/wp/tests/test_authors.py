@@ -139,9 +139,9 @@ class AssembleTest(unittest.TestCase):
 
     def test_selftest_and_summary(self):
         payload, report, _ = self.build()
-        ok, results = au.selftest(payload, report)
-        self.assertTrue(ok, [r for r in results if not r[1]])
-        self.assertEqual(len(results), 10)
+        c = au.selftest(payload, report)
+        self.assertTrue(c.ok, [r for r in c.results if not r[1]])
+        self.assertEqual(len(c.results), 10)
         lines = au.summary_lines(report)
         self.assertEqual(lines[0], 'authors=4 (板あり 2 / 板なし 2) 表示名の異なり=7 表記揺れ統合 2 組')
         self.assertIn('  marie ← Ｍａｒｉｅ / 麗香', lines)

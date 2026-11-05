@@ -17,6 +17,7 @@ import re
 import unicodedata
 
 from tslib import slugs as slugmod
+from tslib.checks import Checks
 from tslib.fileio import read_text, read_yaml, write_yaml, ensure_parent
 from tslib.htmltext import RE_TAG
 
@@ -326,17 +327,16 @@ def selftest(records, corpus_terms):
     unused = [s for s in defined if not used.get(s) and s not in CORPUS_TERMS_PLANNED]
     dup = [s for s in defined if defined.count(s) > 1]
     covered = sum(c for v, c in used.items() if v in defined)
-    results = [
-        ('全 episode の corpus 値に term がある',
-         not missing,
-         '被覆 %d/%d 話 / term の無い値 %s' % (covered, len(records), missing or 'なし')),
-        ('term はあるが実データが 0 件の corpus が無い (T36 の予定枠 %s を除く)'
-         % '/'.join(sorted(CORPUS_TERMS_PLANNED)),
-         not unused,
-         '空 term %s' % (unused or 'なし')),
-        ('corpus term の slug 重複 0', not dup, '重複 %s' % (dup or 'なし')),
-    ]
-    return all(ok for _, ok, _ in results), results
+    c = Checks()
+    c.check('全 episode の corpus 値に term がある',
+            not missing,
+            '被覆 %d/%d 話 / term の無い値 %s' % (covered, len(records), missing or 'なし'))
+    c.check('term はあるが実データが 0 件の corpus が無い (T36 の予定枠 %s を除く)'
+            % '/'.join(sorted(CORPUS_TERMS_PLANNED)),
+            not unused,
+            '空 term %s' % (unused or 'なし'))
+    c.check('corpus term の slug 重複 0', not dup, '重複 %s' % (dup or 'なし'))
+    return c
 
 
 # --------------------------------------------------------------------------- slug
@@ -507,9 +507,9 @@ def assemble(records, synonyms, vocabs, world_map, overrides, core_min=None, not
         ('slug_pending_review_all_sections', slugmod.pending_count(overrides)),
         ('pykakasi_available', slugmod.kakasi() is not None),
     ])
-    ok, results = selftest(records, CORPUS_TERMS)
-    report['selftest'] = [{'name': n, 'ok': o, 'detail': d} for n, o, d in results]
-    report['selftest_ok'] = ok
+    c = selftest(records, CORPUS_TERMS)
+    report['selftest'] = c.as_report()
+    report['selftest_ok'] = c.ok
     return terms_json, report, overrides
 
 

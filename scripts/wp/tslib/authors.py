@@ -565,7 +565,7 @@ def selftest(payload, report):
     c.check('板 id は分かるが板ログの原本が未回収の作者 (記録のみ)', True,
             '%d 名 %s' % (report['authors_with_missing_board_file'],
                           report['authors_with_missing_board_file_slugs'][:5]))
-    return c.as_tuple()
+    return c
 
 
 def summary_lines(report):

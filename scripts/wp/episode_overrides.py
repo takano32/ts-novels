@@ -17,7 +17,6 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tslib import paths  # noqa: E402
-from tslib.checks import format_line  # noqa: E402
 from tslib.fileio import read_jsonl, write_jsonl, write_json, ensure_dir, yaml  # noqa: E402
 from tslib.overrides import load_overrides, apply_overrides, selftest, report_of  # noqa: E402
 
@@ -41,9 +40,9 @@ def main(argv=None):
     before_ids = [r['episode_id'] for r in records]
     overrides = load_overrides(os.path.join(cat, 'episode_overrides.yml'))
     applied, problems = apply_overrides(records, overrides, args.annex_base)
-    ok, results = selftest(applied, problems, overrides)
+    checks = selftest(applied, problems, overrides)
     ids_unchanged = before_ids == [r['episode_id'] for r in records]
-    ok = ok and ids_unchanged
+    ok = checks.ok and ids_unchanged
 
     print('episode_overrides: %d 行 / 変更 %d 話 / 適用済み %d 話' %
           (len(overrides), sum(1 for a in applied if a['changes']),
@@ -51,10 +50,9 @@ def main(argv=None):
     for a in applied:
         for c in a['changes']:
             print('  %s  %s: %r -> %r' % (a['episode_id'], c['field'], c['from'], c['to']))
-    for n, o, d in results:
-        print(format_line(n, o, d))
+    checks.print()
 
-    report = report_of(overrides, applied, problems, ids_unchanged, results, ok)
+    report = report_of(overrides, applied, problems, ids_unchanged, checks, ok)
     if not args.check:
         ensure_dir(paths.reports_dir(root))
         write_jsonl(path, records)

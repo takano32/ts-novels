@@ -88,10 +88,11 @@ def selftest(applied, problems, overrides):
     c.check('上書きの件数を記録', True,
             '%d 行 / 実際に変わった話 %d 件'
             % (len(overrides), sum(1 for a in applied if a['changes'])))
-    return c.as_tuple()
+    return c
 
 
-def report_of(overrides, applied, problems, ids_unchanged, results, ok):
+def report_of(overrides, applied, problems, ids_unchanged, checks, ok):
+    """レポート。selftest_ok は旧版どおり ok (検査が全部通り、かつ episode_id の列が変わらない) の値。"""
     return collections.OrderedDict([
         ('generated_by', 'scripts/wp/episode_overrides.py'),
         ('rules', len(overrides)),
@@ -100,6 +101,6 @@ def report_of(overrides, applied, problems, ids_unchanged, results, ok):
         ('applied', applied),
         ('problems', problems),
         ('episode_id_unchanged', ids_unchanged),
-        ('selftest', [{'name': n, 'ok': o, 'detail': d} for n, o, d in results]),
+        ('selftest', checks.as_report()),
         ('selftest_ok', ok),
     ])

@@ -117,12 +117,12 @@ class EpisodeOverridesTest(TempDirCase):
     def test_selftest_and_report(self):
         recs = self.records()
         applied, problems = ov.apply_overrides(recs, {'novel/none.html': {'set': {'author': 'N'}}})
-        ok, results = ov.selftest(applied, problems, {'novel/none.html': {}})
-        self.assertFalse(ok)
-        self.assertEqual([n for n, _, _ in results], [
+        c = ov.selftest(applied, problems, {'novel/none.html': {}})
+        self.assertFalse(c.ok)
+        self.assertEqual([n for n, _, _ in c.results], [
             'episode_overrides.yml の全行が 1 話に当たる', 'expect (上書き前の値) が原本と一致',
             '上書きできない欄を触っていない', '上書きの件数を記録'])
-        rep = ov.report_of({'k': {}}, applied, problems, True, results, ok)
+        rep = ov.report_of({'k': {}}, applied, problems, True, c, c.ok)
         self.assertEqual(list(rep), ['generated_by', 'rules', 'episodes_changed', 'episodes_already_applied',
                                      'applied', 'problems', 'episode_id_unchanged', 'selftest', 'selftest_ok'])
 

@@ -70,8 +70,8 @@ def main(argv=None):
         records = records + legacy
         failures = failures + legacy_failures
     denylist_text, works = load_takedown_context()
-    ok, results = selftest(records, failures, legacy_stats, denylist_text, works)
-    rep = report_of(records, failures, results, legacy_stats)
+    checks = selftest(records, failures, legacy_stats, denylist_text, works)
+    rep = report_of(records, failures, checks, legacy_stats)
     print_summary(rep)
 
     if not args.check:
@@ -83,7 +83,7 @@ def main(argv=None):
         write_json(rpt, rep)
         print('wrote %s (%d lines) and %s' % (os.path.relpath(out, root), len(records),
                                               os.path.relpath(rpt, root)))
-    return 0 if ok else 1
+    return 0 if checks.ok else 1
 
 
 if __name__ == '__main__':

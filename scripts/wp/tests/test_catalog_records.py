@@ -127,10 +127,10 @@ class SelftestReportTest(TempDirCase):
     def test_selftest_names_in_order(self):
         recs = self.records()
         stats = rc.legacy_stats([], [], [], [])
-        ok, results = st.selftest(recs, [], stats, '', None)
-        self.assertFalse(ok)                                  # 実データの件数には届かない
-        self.assertEqual([n for n, _, _ in results], SELFTEST_NAMES)
-        by = {n: o for n, o, _ in results}
+        c = st.selftest(recs, [], stats, '', None)
+        self.assertFalse(c.ok)                                # 実データの件数には届かない
+        self.assertEqual([n for n, _, _ in c.results], SELFTEST_NAMES)
+        by = {n: o for n, o, _ in c.results}
         self.assertTrue(by['episode_id の重複 0'])
         self.assertTrue(by["出力に 'mailto:' が現れない"])
 
@@ -153,8 +153,8 @@ class SelftestReportTest(TempDirCase):
 
     def test_report_keys_and_summary(self):
         recs = self.records()
-        ok, results = st.selftest(recs, [], None, '', None)
-        rep = rp.report_of(recs, [], results, None)
+        c = st.selftest(recs, [], None, '', None)
+        rep = rp.report_of(recs, [], c, None)
         self.assertEqual(list(rep)[:3], ['generated_by', 'corpus', 'entries_total'])
         self.assertEqual(list(rep)[-3:], ['legacy', 'selftest', 'selftest_ok'])
         self.assertEqual(len(rep), 47)

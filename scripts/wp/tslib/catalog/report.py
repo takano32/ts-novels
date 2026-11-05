@@ -5,7 +5,7 @@ import collections
 from tslib.checks import report_lines
 
 
-def report_of(all_records, failures, results, legacy_stats=None):
+def report_of(all_records, failures, checks, legacy_stats=None):
     records = [r for r in all_records if r['corpus'] == 'honkan']
     legacy = [r for r in all_records if r['corpus'] == 'legacy']
     prov = [r['provenance'] for r in records]
@@ -77,8 +77,8 @@ def report_of(all_records, failures, results, legacy_stats=None):
             ('homepage_present', sum(1 for r in legacy if r['homepage'])),
             ('authors_distinct_display', len({r['author'] for r in legacy if r['author']})),
         ])),
-        ('selftest', [{'name': n, 'ok': ok, 'detail': d} for n, ok, d in results]),
-        ('selftest_ok', all(ok for _, ok, _ in results)),
+        ('selftest', checks.as_report()),
+        ('selftest_ok', checks.ok),
     ])
 
 
