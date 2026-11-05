@@ -13,7 +13,7 @@ from tslib.catalog.fragments import (
     RE_TR, RE_TD, RE_BOLD, MARKERS, STOP_PLAIN, RE_COMMENT_HTML, ParseError,
     text_of, anchors, strip_tags, split_tokens, marker_values, body_text,
     nav_links_of, plain_links_of)
-from tslib.catalog.honkan import RE_TABLE, RE_SIZE
+from tslib.catalog.regular import RE_TABLE, RE_SIZE
 from tslib.catalog.mailto import scrub_mailto
 
 LEGACY_FLAT_PAGES = ['lib%02d.html' % i for i in range(1, 7)]    # 非テーブル形式 (1997.11-1999.9)

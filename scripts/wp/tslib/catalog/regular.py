@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""honkan.py — 正規目録 lib1〜73 (corpus=honkan) のエントリ 1 件のパース (T7.1、specs/S171.md)。
+"""regular.py — 正規目録 lib1〜73 (corpus=honkan) のエントリ 1 件のパース (T7.1、specs/S171.md)。
 
   - honkan のエントリ = `<TABLE BORDER=1 …>` 1 つ。必ず 4 行、1 行目は 6 セル。
     HTML は 1 行に長大に詰まっているので行単位パースは禁止 (常に findall)。
@@ -14,7 +14,7 @@ from tslib.catalog.fragments import (
     nav_links_of, plain_links_of)
 from tslib.catalog.mailto import scrub_mailto
 
-HONKAN_PAGES = ['lib%d.html' % i for i in range(1, 74)]
+REGULAR_PAGES = ['lib%d.html' % i for i in range(1, 74)]
 EXPECTED_ENTRIES = 2887                 # 受け入れ条件 (survey 実測)
 
 RE_TABLE = re.compile(r'<TABLE\s+BORDER=1.*?</TABLE>', re.S | re.I)

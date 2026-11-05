@@ -31,7 +31,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tslib import paths  # noqa: E402
 from tslib.fileio import read_jsonl, write_jsonl, write_json, ensure_parent, read_text  # noqa: E402
 from tslib.catalog.provenance import build_provenance_map  # noqa: E402
-from tslib.catalog.records import build, build_legacy, strip_private  # noqa: E402
+from tslib.catalog.records import build_regular, build_legacy, strip_private  # noqa: E402
 from tslib.catalog.selftest import selftest  # noqa: E402
 from tslib.catalog.report import report_of, print_summary  # noqa: E402
 
@@ -63,7 +63,7 @@ def main(argv=None):
     root = os.path.abspath(args.root)
     annex_base = paths.with_trailing_slash(args.annex_base)
     prov_map = build_provenance_map(root) if not args.no_provenance else {}
-    records, failures = build(root, annex_base, prov_map=prov_map)
+    records, failures = build_regular(root, annex_base, prov_map=prov_map)
     legacy_stats = None
     if not args.no_legacy:
         legacy, legacy_failures, legacy_stats = build_legacy(root, annex_base, records, prov_map)

@@ -5,7 +5,7 @@
   mailto.py      mailto の除去 (S10 のメールアドレスを DB に入れない決まり)
   keys.py        href → source_path / episode_id / URL (冪等キーの規則)
   provenance.py  git 履歴からの回収経路
-  honkan.py      正規目録 (corpus=honkan) のエントリ 1 件のパース
+  regular.py     正規目録 (corpus=honkan) のエントリ 1 件のパース
   legacy.py      旧目録 (corpus=legacy) の 2 形式のパース
   records.py     パース結果 → レコードの組み立て (両目録)
   selftest.py    受け入れ条件の検査

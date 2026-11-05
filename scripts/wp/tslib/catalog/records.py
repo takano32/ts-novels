@@ -11,7 +11,7 @@ import os
 
 from tslib.fileio import read_text
 from tslib.paths import YAYS_PREFIX, kansou_annex_url
-from tslib.catalog.honkan import HONKAN_PAGES, parse_page
+from tslib.catalog.regular import REGULAR_PAGES, parse_page
 from tslib.catalog.legacy import LEGACY_FLAT_PAGES, LEGACY_TABLE_PAGES, parse_legacy_pages
 from tslib.catalog.keys import split_href, episode_id_of, entry_type_of, orig_url_of, annex_url_of
 from tslib.catalog.provenance import provenance_for
@@ -51,7 +51,7 @@ def source_exists(root, source_path, kind):
 
 # --------------------------------------------------------------------------- 正規目録
 
-def honkan_record(e, eid, groups, root, annex_base, prov_map):
+def regular_record(e, eid, groups, root, annex_base, prov_map):
     source_path, anchor, kind = e['_key']
     exists = source_exists(root, source_path, kind)
     rec = collections.OrderedDict()
@@ -97,24 +97,24 @@ def honkan_record(e, eid, groups, root, annex_base, prov_map):
     return rec
 
 
-def honkan_records(parsed, root, annex_base, prov_map):
+def regular_records(parsed, root, annex_base, prov_map):
     """パース済みエントリ (`_key` 付き) → corpus=honkan のレコード。"""
     groups = shared_groups(parsed)
-    return [honkan_record(e, episode_id_for(e, groups), groups, root, annex_base, prov_map)
+    return [regular_record(e, episode_id_for(e, groups), groups, root, annex_base, prov_map)
             for e in parsed]
 
 
-def build(root, annex_base, prov_map=None):
+def build_regular(root, annex_base, prov_map=None):
     """正規目録 lib1〜73 を読んでレコードにする。戻り値 (records, failures)。"""
     prov_map = {} if prov_map is None else prov_map
     parsed, failures = [], []
-    for page in HONKAN_PAGES:
+    for page in REGULAR_PAGES:
         entries, fails = parse_page(page, read_text(os.path.join(root, page)))
         failures.extend(fails)
         for e in entries:
             e['_key'] = split_href(e.pop('href'))
             parsed.append(e)
-    return honkan_records(parsed, root, annex_base, prov_map), failures
+    return regular_records(parsed, root, annex_base, prov_map), failures
 
 
 # --------------------------------------------------------------------------- 旧目録
@@ -175,23 +175,23 @@ def legacy_record(e, eid, groups, root, annex_base, prov_map):
     return rec
 
 
-def dedup_against_honkan(entries, honkan_records):
+def dedup_against_regular(entries, regular_records):
     """honkan 側が同じ source_path を既に持つ旧目録エントリを落とす。戻り値 (kept, dropped)。
     各エントリに `_key` を付ける。"""
-    honkan_paths = {r['source_path'] for r in honkan_records}
+    regular_paths = {r['source_path'] for r in regular_records}
     kept, dropped = [], []
     for e in entries:
         source_path, anchor, kind = split_href(e['href'])
         e['_key'] = (source_path, anchor, kind)
-        (dropped if source_path in honkan_paths else kept).append(e)
+        (dropped if source_path in regular_paths else kept).append(e)
     return kept, dropped
 
 
-def legacy_records(kept, honkan_records, root, annex_base, prov_map):
+def legacy_records(kept, regular_records, root, annex_base, prov_map):
     """重複除外済みの旧目録エントリ → corpus=legacy のレコード。
     episode_id が honkan と (同一パス・同一日付の再掲で) 衝突すれば `~2` `~3` … で一意化する。"""
     groups = shared_groups(kept)
-    used = {r['episode_id'] for r in honkan_records}
+    used = {r['episode_id'] for r in regular_records}
     records = []
     for e in kept:
         eid = episode_id_for(e, groups)
@@ -234,7 +234,7 @@ def read_legacy_pages(root):
     return flat, table
 
 
-def build_legacy(root, annex_base, honkan_records, prov_map):
+def build_legacy(root, annex_base, regular_records, prov_map):
     """旧目録 lib01〜09 を正規目録 (corpus=honkan) との差分だけ corpus=legacy のレコードにする (T7.2)。
 
     dedup は**パス単位** — honkan 側が同じ `source_path` を(アンカー付きの集約リンクや
@@ -244,6 +244,6 @@ def build_legacy(root, annex_base, honkan_records, prov_map):
     """
     flat, table = read_legacy_pages(root)
     entries, failures = parse_legacy_pages(flat, table)
-    kept, dropped_dup = dedup_against_honkan(entries, honkan_records)
-    records = legacy_records(kept, honkan_records, root, annex_base, prov_map)
+    kept, dropped_dup = dedup_against_regular(entries, regular_records)
+    records = legacy_records(kept, regular_records, root, annex_base, prov_map)
     return records, failures, legacy_stats(entries, failures, dropped_dup, records)

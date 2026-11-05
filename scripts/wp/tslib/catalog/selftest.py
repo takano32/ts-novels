@@ -9,12 +9,12 @@ import collections
 from tslib.checks import Checks
 from tslib.fileio import dumps_jsonl
 from tslib.mail import RE_BARE_MAIL
-from tslib.catalog.honkan import EXPECTED_ENTRIES
+from tslib.catalog.regular import EXPECTED_ENTRIES
 from tslib.catalog.legacy import EXPECTED_LEGACY_BLOCKS
 from tslib.catalog.records import strip_private
 
 # survey の fields 節の実測値 (honkan のみ)
-EXPECTED_HONKAN = (
+EXPECTED_REGULAR = (
     ('homepage 件数 == 918 (=771+147)', lambda r: r['homepage'], 918),
     ('画師あり == 477', lambda r: r['illustrator'], 477),
     ('オススメあり == 765', lambda r: r['osusume'], 765),
@@ -32,7 +32,7 @@ EXPECTED_HONKAN = (
 EXPECTED_RAW_DISTINCT = (('genre_raw', 244), ('type_raw', 187), ('keywords_raw', 1083))
 EXPECTED_KANSOU_SLUGS = 305
 EXPECTED_TAKEDOWN_NOTICES = 9
-REQUIRED_HONKAN = ('episode_id', 'source_path', 'title', 'author', 'date', 'date_raw',
+REQUIRED_REGULAR = ('episode_id', 'source_path', 'title', 'author', 'date', 'date_raw',
                    'size_kb', 'kansou_slug', 'orig_url', 'catalog_ref')
 REQUIRED_LEGACY = ('episode_id', 'source_path', 'title', 'date', 'catalog_ref')
 
@@ -74,18 +74,18 @@ def check_mailto_residue(c, records):
     # 板 id は .cgi のファイル名由来であって mailto 由来ではないので検査対象にしない。
 
 
-def check_survey_values(c, honkan):
+def check_survey_values(c, regular):
     """仕様の実測値との突き合わせ (survey の fields 節。honkan のみ)。"""
     def rate(pred):
-        return sum(1 for r in honkan if pred(r))
-    for name, pred, expected in EXPECTED_HONKAN:
+        return sum(1 for r in regular if pred(r))
+    for name, pred, expected in EXPECTED_REGULAR:
         n = rate(pred)
         c.check(name, n == expected, '実測 %d' % n)
-    slugs = len({r['kansou_slug'] for r in honkan})
+    slugs = len({r['kansou_slug'] for r in regular})
     c.check('感想板 slug の異なり == %d' % EXPECTED_KANSOU_SLUGS, slugs == EXPECTED_KANSOU_SLUGS,
             '実測 %d' % slugs)
     for field, expected in EXPECTED_RAW_DISTINCT:
-        n = len({t for r in honkan for t in r[field]})
+        n = len({t for r in regular for t in r[field]})
         c.check('%s の異なり == %d (NFKC 前)' % (field, expected), n == expected, '実測 %d' % n)
 
 
@@ -137,11 +137,11 @@ def selftest(records, failures, legacy_stats=None, denylist_text='', works=None)
     レコード (無ければ None)。停止告知の照合に使う。
     """
     c = Checks()
-    honkan = [r for r in records if r['corpus'] == 'honkan']
+    regular = [r for r in records if r['corpus'] == 'honkan']
     legacy = [r for r in records if r['corpus'] == 'legacy']
 
-    c.check('正規目録エントリ数 == %d' % EXPECTED_ENTRIES, len(honkan) == EXPECTED_ENTRIES,
-            '実測 %d 件' % len(honkan))
+    c.check('正規目録エントリ数 == %d' % EXPECTED_ENTRIES, len(regular) == EXPECTED_ENTRIES,
+            '実測 %d 件' % len(regular))
     c.check('パース失敗 0', not failures,
             '失敗 %d 件%s' % (len(failures), (': ' + failures[0]) if failures else ''))
 
@@ -150,8 +150,8 @@ def selftest(records, failures, legacy_stats=None, denylist_text='', works=None)
     c.check('episode_id の重複 0', not dup, '重複 %d 件 %s' % (len(dup), dup[:5]))
 
     check_mailto_residue(c, records)
-    check_survey_values(c, honkan)
-    check_required(c, honkan, REQUIRED_HONKAN, 'honkan')
+    check_survey_values(c, regular)
+    check_required(c, regular, REQUIRED_REGULAR, 'honkan')
     if legacy_stats is not None:
         check_legacy(c, legacy, legacy_stats)
     check_takedown_notices(c, records, denylist_text, works)
