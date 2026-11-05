@@ -1,6 +1,6 @@
 <?php
 /**
- * 取り下げた作品への応答 (410。mu-plugin の includes/visibility.php が状態を 410 にしてこのテンプレートを選ぶ)。
+ * 取り下げた作品への応答 (410。mu-plugin の includes/visibility/visibility-hooks.php が状態を 410 にしてこのテンプレートを選ぶ)。
  * 題名は出さない (specs/S118.md)。
  */
 get_header();

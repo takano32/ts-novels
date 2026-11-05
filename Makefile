@@ -7,6 +7,7 @@
 #   make venv      … pykakasi / PyYAML / beautifulsoup4 / html5lib を入れた .venv を作る
 #                    (開発機のみ。git 管理外)
 #   make verify    … bodies/*.md を html5lib で検算する (要 make venv)
+#   make test-php  … PHP (mu-plugin・テーマ) の構文検査と単体の試験をサーバの PHP 8.0 で流す (specs/S242.md)
 #
 # 段の順番には意味がある。episodes.jsonl は catalog_build が新規に書き、
 # uncatalogued_build と repost_build が**自分の corpus 分だけ差し替えて**追記し、
@@ -21,7 +22,7 @@ VENV    ?= .venv
 PYTHON  ?= $(if $(wildcard $(VENV)/bin/python),$(VENV)/bin/python,python3)
 WP      := scripts/wp
 
-.PHONY: all catalog check qa venv verify clean-catalog
+.PHONY: all catalog check qa venv verify test-php clean-catalog
 
 all: catalog
 
@@ -66,6 +67,10 @@ venv:
 # --- bodies/*.md の無損失性を html5lib (第二実装) で検算する
 verify:
 	$(PYTHON) $(WP)/verify_bodies_html5.py
+
+# --- PHP の構文検査と単体の試験 (手元に PHP が無いので scripts/wp/php_test.sh がサーバで流す。DB と公開ルートには触れない)
+test-php:
+	$(WP)/php_test.sh
 
 # 生成物だけ消す (原本には触らない)
 clean-catalog:

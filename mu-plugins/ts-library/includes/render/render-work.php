@@ -1,6 +1,10 @@
 <?php
 /**
- * テーマ ts-bunko が呼ぶ表示部品 (設計 specs/S27.md「機能は全て mu-plugin 側」。高品位なモデルとエフォートの所管)。
+ * テーマ ts-bunko が作品・話のページで呼ぶ表示部品 (設計 specs/S27.md「機能は全て mu-plugin 側」。高品位なモデルとエフォートの所管)。
+ *
+ * パンくず・メタヘッダ・話ナビ・目次・書誌カード・推薦文・あらすじ・オススメ・関連ページ。関数名はテンプレート
+ * (themes/ts-bunko/single.php ほか) が呼ぶので変えない。文言と計算のうち WordPress を使わない部分は
+ * includes/render/render-text.php (TS_Render_Text)、原パスや名前の解決は render-lookup.php。
  *
  * 表示文言の規則 (specs/S200.md): 内部語 (「WP サイト」「旧サイト」など S15 の呼び分け) は出さない。リンクは
  * 「無改変の原本を読む」「初出時の姿」「当時の感想を読む」のように中身を書く。
@@ -8,6 +12,7 @@
 
 if (!defined('ABSPATH')) { exit; }
 
+/** post meta `_ts_<key>` を読む。空文字・空配列は null */
 function ts_meta($post_id, $key) {
     $v = get_post_meta($post_id, '_ts_' . $key, true);
     return ($v === '' || $v === []) ? null : $v;
@@ -33,11 +38,11 @@ function ts_bunko_breadcrumb($post) {
 function ts_bunko_meta_header($post) {
     $bits = [];
     if ($d = ts_meta($post->ID, 'pub_date_raw')) $bits[] = '初出 ' . esc_html($d);
-    // 読了目安は**本文の実文字数**から (原本ファイルのバイト数だと、画像だけの話が
-    // 「読了 約754分」になる。実測 289 ページが破綻値だった)
+    // 読了目安は**本文の実文字数**から (閾値と速さは TS_Render_Text)
     $chars = mb_strlen(preg_replace('/\s+/u', '', wp_strip_all_tags($post->post_content)));
-    if ($chars >= 200) {
-        $bits[] = '読了 約' . max(1, (int) round($chars / 550)) . '分';   // 約 550 字/分
+    $minutes = TS_Render_Text::reading_minutes($chars);
+    if ($minutes !== null) {
+        $bits[] = '読了 約' . $minutes . '分';
     }
     $il = ts_meta($post->ID, 'illustrator');
     if ($il) {
@@ -108,16 +113,6 @@ function ts_bunko_work_toc($post) {
     echo '</ol>';
 }
 
-/** 回収経路の人間可読表示 */
-function ts_bunko_provenance_label($prov) {
-    if (!is_array($prov)) return null;
-    if (!empty($prov['route_label'])) return $prov['route_label'];
-    $map = ['wayback' => 'Internet Archive Wayback Machine', 'mirror' => 'サイト原本のミラー',
-            'author-repost' => '作者本人による再掲', 'megalodon' => 'ウェブ魚拓',
-            'commoncrawl' => 'Common Crawl'];
-    return $map[$prov['route'] ?? ($prov['method'] ?? '')] ?? ($prov['route'] ?? null);
-}
-
 /** 書誌カード: 初出・回収経路・原本リンク群。本文が整形表示である旨を明示する (設計 S41) */
 function ts_bunko_biblio_card($post) {
     $id = $post->ID;
@@ -131,7 +126,7 @@ function ts_bunko_biblio_card($post) {
             . ($d ? ' (' . esc_html($d) . ')' : '') . '</dd>';
     }
     $prov = ts_meta($id, 'provenance');
-    if ($label = ts_bunko_provenance_label($prov)) {
+    if ($label = TS_Render_Text::provenance_label($prov)) {
         echo '<dt>回収経路</dt><dd>' . esc_html($label) . '</dd>';
     }
     $links = [];
@@ -151,11 +146,9 @@ function ts_bunko_biblio_card($post) {
     }
     if ($links) echo '<dt>原本アーカイブ</dt><dd>' . implode('<br>', $links) . '</dd>';
     echo '</dl>';
-    if ($status === 'converted' || $status === 'converted-text') {
-        echo '<p class="ts-biblio-note">この本文は読みやすさのため組版を整えた表示です。'
-            . '文章そのものは原本と機械照合で一致しています。</p>';
-    } elseif ($status === 'raw-fallback') {
-        echo '<p class="ts-biblio-note">この本文は原本の HTML をそのまま表示しています。</p>';
+    $note = TS_Render_Text::body_note($status);
+    if ($note !== null) {
+        echo '<p class="ts-biblio-note">' . $note . '</p>';
     }
     echo '</aside>';
 }
@@ -198,133 +191,6 @@ function ts_bunko_osusume($post) {
     }
     echo '</ul></aside>';
 }
-
-/** 原パス → 投稿 ID の全対応表 (1 リクエスト 2 クエリで作り置き)。
- *
- *  参照 1 件ごとに meta 検索を投げると、オススメの環ページで数百本のクエリになる
- *  (meta_value は無索引)。また話の `_ts_source_path` だけでは足りない — 連載を指す
- *  参照は作品トビラ (`_ts_title_pages`) の側にしか無く、全体の約 1/4 を占める。 */
-function ts_bunko_source_map() {
-    static $map = null;
-    if ($map !== null) return $map;
-    global $wpdb;
-    $map = [];
-    $rows = $wpdb->get_results(
-        "SELECT pm.post_id, pm.meta_value v FROM {$wpdb->postmeta} pm
-         JOIN {$wpdb->posts} p ON p.ID = pm.post_id
-         WHERE pm.meta_key = '_ts_source_path'
-           AND p.post_type = 'ts_work' AND p.post_status = 'publish'");
-    foreach ($rows as $r) {
-        if ($r->v !== '' && !isset($map[$r->v])) $map[$r->v] = (int) $r->post_id;
-    }
-    $rows = $wpdb->get_results(
-        "SELECT pm.post_id, pm.meta_value v FROM {$wpdb->postmeta} pm
-         JOIN {$wpdb->posts} p ON p.ID = pm.post_id
-         WHERE pm.meta_key = '_ts_title_pages'
-           AND p.post_type = 'ts_work' AND p.post_status = 'publish'");
-    foreach ($rows as $r) {
-        $paths = maybe_unserialize($r->v);
-        foreach ((array) $paths as $p) {
-            if (is_string($p) && $p !== '' && !isset($map[$p])) $map[$p] = (int) $r->post_id;
-        }
-    }
-    return $map;
-}
-
-/** 原パス → この文庫内の URL (無ければ null)。オススメ等の内部リンク解決に使う */
-function ts_bunko_url_for_source($source_path) {
-    if (!$source_path) return null;
-    $map = ts_bunko_source_map();
-    return isset($map[$source_path]) ? get_permalink($map[$source_path]) : null;
-}
-
-/** 名前 → 作者 term (無ければ null)。作者の表示名と、目録に現れた表記ゆれ (term meta の
- *  ts_display_variants。wp ts sync-terms が authors.json から書く) の完全一致だけで引く。
- *  「ＭＯＮＤＯさん　角」のような複数人の併記は引かない (specs/S240.md) */
-function ts_bunko_author_term_for_name($name) {
-    static $map = null;
-    if ($map === null) {
-        $map = [];
-        $terms = get_terms(['taxonomy' => 'ts_author', 'hide_empty' => false]);
-        foreach ((is_wp_error($terms) ? [] : $terms) as $t) {
-            $variants = get_term_meta($t->term_id, 'ts_display_variants', true);
-            foreach (array_merge([$t->name], is_array($variants) ? $variants : []) as $n) {
-                if (is_string($n) && $n !== '' && !isset($map[$n])) $map[$n] = $t;
-            }
-        }
-    }
-    return $map[$name] ?? null;
-}
-
-/** 作者ページの「挿絵を担当した作品」: この人が挿絵を描いた話の作品 (連載なら親) の ID を
- *  発表順で返す。自分の作品は上の一覧に出ているので除く (specs/S240.md) */
-function ts_bunko_illustrated_work_ids($term) {
-    $variants = get_term_meta($term->term_id, 'ts_display_variants', true);
-    $names = array_unique(array_merge([$term->name], is_array($variants) ? $variants : []));
-    $mq = ['relation' => 'OR'];
-    foreach ($names as $n) {
-        if (!is_string($n) || $n === '') continue;
-        // _ts_illustrator は名前の配列 (直列化) なので、引用符込みで要素の完全一致にする
-        $mq[] = ['key' => '_ts_illustrator', 'value' => '"' . $n . '"', 'compare' => 'LIKE'];
-    }
-    if (count($mq) < 2) return [];
-    $ids = get_posts(['post_type' => 'ts_work', 'post_status' => 'publish',
-                      'posts_per_page' => -1, 'fields' => 'ids', 'no_found_rows' => true,
-                      'meta_query' => $mq]);
-    $works = [];
-    foreach ($ids as $id) {
-        $w = (int) (wp_get_post_parent_id($id) ?: $id);
-        if (isset($works[$w]) || has_term($term->term_id, 'ts_author', $w)) continue;
-        $works[$w] = true;
-    }
-    if (!$works) return [];
-    return get_posts(['post_type' => 'ts_work', 'post_status' => 'publish',
-                      'post__in' => array_keys($works), 'posts_per_page' => -1,
-                      'orderby' => 'date', 'order' => 'ASC', 'fields' => 'ids',
-                      'no_found_rows' => true]);
-}
-
-/** 作者ページ冒頭: ホームページリンクは既定で Wayback、現存確認済みのみ生 URL (S192、T10.2) */
-function ts_bunko_author_links($term) {
-    $live = get_term_meta($term->term_id, 'ts_homepage_live', true);
-    $wb = get_term_meta($term->term_id, 'ts_homepage_wayback', true);
-    $links = [];
-    if ($live) $links[] = '<a href="' . esc_url($live) . '" rel="external">ホームページ</a>';
-    elseif ($wb) $links[] = '<a href="' . esc_url($wb) . '" rel="external">ホームページ (当時の保存版)</a>';
-    // 感想板ログへのリンクは保留 (上と同じ理由。specs/S155.md)
-    if ($links) echo '<p class="ts-author-links">' . implode('　·　', $links) . '</p>';
-}
-
-
-/** サイドバー: 索引入口 + 検索窓 (ユーザ裁定 2026-08-31 — 右側に置く) */
-function ts_bunko_sidebar() {
-    $items = [
-        ['kana', '作者索引'], ['timeline', '年表'], ['bunrui', '分類索引'],
-        ['vocabulary', 'キーワード索引'],
-        ['docs', '運営文書・資料'],
-    ];
-    echo '<aside class="ts-sidebar" aria-label="さがす">';
-    echo '<div class="ts-sidebar-block"><h2 class="ts-sidebar-title">さがす</h2>';
-    get_search_form();
-    echo '</div>';
-    echo '<nav class="ts-sidebar-block"><h2 class="ts-sidebar-title">索引</h2><ul>';
-    foreach ($items as [$slug, $label]) {
-        $here = get_query_var('ts_index') === $slug;
-        echo '<li><a href="' . esc_url(home_url("/index/$slug/")) . '"'
-            . ($here ? ' aria-current="page"' : '') . '>' . esc_html($label) . '</a></li>';
-    }
-    echo '</ul></nav>';
-    echo '<div class="ts-sidebar-block"><h2 class="ts-sidebar-title">この文庫について</h2><ul>';
-    // 「オーナー作品集」は仮の項目名 (specs/S104.md。T19.1 の判断で直す)
-    foreach ([['/authors/yays/', 'オーナー作品集'],
-              ['/about/', 'このサイトについて'], ['/archive/', '原本アーカイブ'],
-              ['/takedown/', '掲載の取り下げ']] as [$path, $label]) {
-        echo '<li><a href="' . esc_url(home_url($path)) . '">' . esc_html($label) . '</a></li>';
-    }
-    echo '</ul></div>';
-    echo '</aside>';
-}
-
 
 /** 本文から失われた内部リンクを目録の nav_links から復元して出す。
  *

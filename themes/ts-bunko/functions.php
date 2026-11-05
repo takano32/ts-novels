@@ -26,23 +26,4 @@ add_action('wp_head', function () {
 ['size','lh','font','dark','orig'].forEach(function(k){if(s[k])h.setAttribute('data-ts-'+k,s[k]);});}catch(e){}</script><?php
 }, 0);
 
-/** 一覧の 1 作品カード */
-function ts_bunko_workcard($post) {
-    $authors = get_the_terms($post->ID, 'ts_author');
-    $bits = [];
-    if ($authors && !is_wp_error($authors)) {
-        $bits[] = esc_html($authors[0]->name);
-    }
-    if ($d = ts_meta($post->ID, 'pub_date_raw')) $bits[] = esc_html($d);
-    // 話数は import が書いたメタから (カード 1 枚ごとに get_children を投げない)
-    $n = (int) get_post_meta($post->ID, '_ts_episode_count', true);
-    if (!$n) {
-        $n = count(get_children(['post_parent' => $post->ID, 'post_type' => 'ts_work',
-                                 'post_status' => 'publish', 'fields' => 'ids']));
-    }
-    if ($n > 1) $bits[] = '全' . $n . '話';
-    echo '<li class="ts-workcard"><h2 class="ts-workcard-title"><a href="'
-        . esc_url(get_permalink($post)) . '">' . esc_html(get_the_title($post)) . '</a></h2>';
-    if ($bits) echo '<p class="ts-workcard-meta">' . implode('　·　', $bits) . '</p>';
-    echo '</li>';
-}
+// 一覧の 1 作品カード ts_bunko_workcard は mu-plugin (includes/render/render-list.php) にある (T45.1.5.1。ここで定義すると二重定義で落ちる)

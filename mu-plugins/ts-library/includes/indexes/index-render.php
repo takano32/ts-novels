@@ -1,77 +1,10 @@
 <?php
 /**
- * 索引ページ群 (T10.3。高品位なモデルとエフォートの所管): /index/{kana,timeline,bunrui,vocabulary,osusume}/
- * と /year/YYYY/。ルーティングはここ、見た目はテーマ (ts-index.php / ts-year.php)。
+ * 索引ページ群 (T10.3) の描画部品。WordPress に触る側。テーマの ts-index.php が `ts_bunko_index_<種類>` の名前で
+ * 呼ぶので関数名は変えない。並びの規則と表は includes/indexes/index-text.php (TS_Index_Text)。
  */
 
 if (!defined('ABSPATH')) { exit; }
-
-const TS_INDEX_KINDS = ['kana', 'timeline', 'bunrui', 'vocabulary', 'osusume', 'docs'];
-
-add_action('init', function () {
-    add_rewrite_rule('^index/(kana|timeline|bunrui|vocabulary|osusume|docs)/?$',
-        'index.php?ts_index=$matches[1]', 'top');
-    add_rewrite_rule('^year/([0-9]{4})/?$', 'index.php?ts_year=$matches[1]', 'top');
-}, 6);
-
-/** query var は公開なので配列や任意文字列が来る。索引の種類は許可リストで正規化する
- *  (配列を添字に使うと PHP 8 では TypeError = 500 になる) */
-function ts_index_kind() {
-    $v = get_query_var('ts_index');
-    if (!is_string($v)) return '';
-    return in_array($v, TS_INDEX_KINDS, true) ? $v : '';
-}
-
-function ts_index_year() {
-    $v = get_query_var('ts_year');
-    return is_string($v) && preg_match('/^[0-9]{4}$/', $v) ? (int) $v : 0;
-}
-
-add_filter('query_vars', function ($vars) {
-    $vars[] = 'ts_index';
-    $vars[] = 'ts_year';
-    return $vars;
-});
-
-add_filter('template_include', function ($template) {
-    if (ts_index_kind()) {
-        $t = locate_template('ts-index.php');
-        if ($t) return $t;
-    }
-    if (ts_index_year()) {
-        $t = locate_template('ts-year.php');
-        if ($t) return $t;
-    }
-    return $template;
-});
-
-/** 索引ページを 404 にしない (メインクエリは投稿を引かないので) */
-add_action('pre_get_posts', function ($q) {
-    if (is_admin() || !$q->is_main_query()) return;
-    if (ts_index_kind()) {
-        $q->set('posts_per_page', 1);
-        add_filter('pre_handle_404', '__return_true');
-    }
-    if ($y = ts_index_year()) {
-        $q->set('post_type', 'ts_work');
-        $q->set('post_parent', 0);
-        $q->set('posts_per_page', -1);
-        $q->set('orderby', 'date');
-        $q->set('order', 'ASC');
-        $q->set('year', $y);
-    }
-});
-
-add_filter('document_title_parts', function ($parts) {
-    $titles = ['kana' => '作者索引', 'timeline' => '年表', 'bunrui' => '分類索引',
-               'vocabulary' => 'キーワード索引', 'osusume' => 'オススメの環',
-               'docs' => '運営文書・資料'];
-    if ($k = ts_index_kind()) $parts['title'] = $titles[$k] ?? '索引';
-    if ($y = ts_index_year()) $parts['title'] = $y . '年の作品';
-    return $parts;
-});
-
-// ------------------------------------------------------------------ 描画部品
 
 /** term ごとの**作品**数 (書庫が並べる単位に合わせる)。
  *
@@ -94,10 +27,9 @@ function ts_bunko_work_counts($tax) {
     return $cache[$tax] = $out;
 }
 
-
 /** 五十音行ごとの作者一覧。
  *  見出しは catalog の ts_yomi_group の**実値**で作る (authors_build の値は「あ行」…「わ行」と
- *  欧文名の「A」…「Z」。ここを 1 文字の 'あ' 等で決め打ちすると 303 名が無言で消える)。 */
+ *  欧文名の「A」…「Z」。並びの規則は TS_Index_Text::kana_group_order)。 */
 function ts_bunko_index_kana() {
     $terms = get_terms(['taxonomy' => 'ts_author', 'hide_empty' => true]);
     $counts = ts_bunko_work_counts('ts_author');
@@ -107,17 +39,7 @@ function ts_bunko_index_kana() {
         $g = get_term_meta($t->term_id, 'ts_yomi_group', true);
         $by[$g !== '' && $g !== false ? $g : '他'][] = $t;
     }
-    // 並び: 五十音行 → 欧文 A-Z → 他
-    $kana = ['あ行', 'か行', 'さ行', 'た行', 'な行', 'は行', 'ま行', 'や行', 'ら行', 'わ行'];
-    $groups = [];
-    foreach ($kana as $g) if (!empty($by[$g])) $groups[] = $g;
-    $latin = array_filter(array_keys($by), fn($g) => (bool) preg_match('/^[A-Za-z]$/', $g));
-    sort($latin);
-    $groups = array_merge($groups, $latin);
-    foreach (array_keys($by) as $g) {   // 想定外の値も落とさない (最大掲載)
-        if (!in_array($g, $groups, true) && $g !== '他') $groups[] = $g;
-    }
-    if (!empty($by['他'])) $groups[] = '他';
+    $groups = TS_Index_Text::kana_group_order(array_keys($by));
 
     echo '<nav class="ts-kana-rows">';
     foreach ($groups as $g) {
@@ -148,7 +70,7 @@ function ts_bunko_index_timeline() {
          GROUP BY y ORDER BY y ASC");
     echo '<ul class="ts-index-list ts-timeline">';
     foreach ($rows as $r) {
-        if ((int) $r->y < 1990) continue;
+        if ((int) $r->y < TS_Index_Text::TIMELINE_FROM) continue;
         echo '<li><a href="' . esc_url(home_url('/year/' . (int) $r->y . '/')) . '">'
             . (int) $r->y . '年</a> <span class="ts-count">' . (int) $r->c . ' 作品</span></li>';
     }
@@ -158,9 +80,9 @@ function ts_bunko_index_timeline() {
         . esc_url(home_url('/index/docs/#sec-prehistory')) . '">文庫前史</a> にあります。</p>';
 }
 
-/** 分類索引: ジャンル・種別・共有世界の全 term */
+/** 分類索引: ジャンル・種別・共有世界の全 term (並びと見出しは TS_Index_Text::TAX_LABELS) */
 function ts_bunko_index_bunrui() {
-    foreach ([['ts_genre', 'ジャンル'], ['ts_type', '変身のかたち'], ['ts_world', '共有世界']] as [$tax, $label]) {
+    foreach (TS_Index_Text::TAX_LABELS as $tax => $label) {
         $terms = get_terms(['taxonomy' => $tax, 'hide_empty' => true,
                             'orderby' => 'count', 'order' => 'DESC']);
         if (is_wp_error($terms) || !$terms) continue;
@@ -239,18 +161,16 @@ function ts_bunko_index_osusume() {
     if (!$n) echo '<p>オススメの記録は見つかりませんでした。</p>';
 }
 
-/** 運営文書・資料の索引 (ts_doc を区分ごとに) */
+/** 運営文書・資料の索引 (ts_doc を区分ごとに。区分の並びと見出しは TS_Index_Text::DOC_SECTIONS) */
 function ts_bunko_index_docs() {
     $docs = get_posts(['post_type' => 'ts_doc', 'post_status' => 'publish',
                        'posts_per_page' => -1, 'orderby' => 'name', 'order' => 'ASC']);
-    $order = ['gallery' => 'ギャラリー', 'comittee' => '運営委員会', 'columns' => 'コラム',
-              'dialy' => '運営日誌', 'prehistory' => '文庫前史 (1999)', 'notes' => '解題'];
     $by = [];
     foreach ($docs as $d) {
         $s = get_post_meta($d->ID, '_ts_section', true) ?: 'notes';
         $by[$s][] = $d;
     }
-    foreach ($order as $sec => $label) {
+    foreach (TS_Index_Text::DOC_SECTIONS as $sec => $label) {
         if (empty($by[$sec])) continue;
         echo '<h2 id="sec-' . esc_attr($sec) . '" class="ts-archive-title">' . esc_html($label) . '</h2>';
         echo '<ul class="ts-index-list">';
@@ -262,14 +182,11 @@ function ts_bunko_index_docs() {
     }
 }
 
-/** いまの一作 (時間シードの決定的選出 — 毎時交替。ユーザ裁定 2026-08-30: 日替わりは遅すぎる。
- *  同じ 1 時間のあいだは誰が見ても同じ作品 = 「いま読んでる人と同じ一作」の共有性は保つ) */
+/** いまの一作 (時間シードの決定的選出 — 毎時交替。選び方は TS_Index_Text::pick_index) */
 function ts_bunko_todays_pick() {
     $ids = get_posts(['post_type' => 'ts_work', 'post_parent' => 0, 'post_status' => 'publish',
                       'posts_per_page' => -1, 'fields' => 'ids', 'orderby' => 'ID', 'order' => 'ASC',
                       'no_found_rows' => true]);
     if (!$ids) return null;
-    // 連続する時間で近い ID が続かないよう軽く攪拌する
-    $seed = (int) current_time('YmdH') * 2654435761 % 2147483647;
-    return get_post($ids[$seed % count($ids)]);
+    return get_post($ids[TS_Index_Text::pick_index((int) current_time('YmdH'), count($ids))]);
 }
