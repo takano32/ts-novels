@@ -129,9 +129,37 @@ final class TS_Takedown_Text {
         return ['', ''];
     }
 
+    /**
+     * 運営委員の操作 (ts_takedown_operate、S128) の結果の知らせの文。$kind は操作 (approve / reject / reinstate /
+     * deadline) か、止めた理由 (no_permission / bad_state / no_deadline / unknown)。
+     * $c: works (approve で非公開にした作品の数) / left (reinstate で戻さなかった投稿の数) / when (deadline の新しい時刻の表示)。
+     */
+    public static function operate_result(string $kind, array $c): string {
+        switch ($kind) {
+            case 'approve':
+                return '承認して非公開にしました (' . (int) ($c['works'] ?? 0) . ' 作品)。';
+            case 'reject':
+                return '却下しました。';
+            case 'reinstate':
+                $left = (int) ($c['left'] ?? 0);
+                return '復帰しました。' . ($left
+                    ? " ただし {$left} 件の投稿は、サイトの取り下げの記録 (denylist) に書き写した後のため、この画面では戻していません。管理者に依頼してください。"
+                    : '');
+            case 'deadline':
+                return '自動適用の時刻を ' . ($c['when'] ?? '') . ' にしました。';
+            case 'no_permission':
+                return '権限がありません。';
+            case 'bad_state':
+                return 'いまの状態ではこの操作はできません。';
+            case 'no_deadline':
+                return '新しい自動適用の時刻を入れてください。';
+        }
+        return '不明な操作です。';
+    }
+
     /** 運営委員宛のメールに載せる申請の要約 (入力値は書式なしのテキストとして並べるだけ) */
     public static function summary(array $d): string {
-        $rel = ['author' => '作者本人', 'heir' => '権利継承者', 'other' => 'その他'];
+        $rel = TS_Takedown_Rules::RELATION_LABELS;
         $lines = ['ペンネーム: ' . ($d['pen_name'] ?? ''),
                   '立場: ' . ($rel[$d['relation'] ?? ''] ?? ''),
                   '名前の掲示: ' . (($d['allow_name'] ?? '0') === '1' ? '可' : '不可'),

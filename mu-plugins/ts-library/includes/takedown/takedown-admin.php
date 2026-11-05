@@ -41,7 +41,7 @@ function ts_takedown_admin_box(WP_Post $post): void {
     if ($r['status'] === '') { ts_takedown_admin_new_fields(); return; }
 
     $labels = TS_Takedown_Rules::status_labels();
-    $rel = ['author' => '作者本人', 'heir' => '権利継承者', 'other' => 'その他'];
+    $rel = TS_Takedown_Rules::RELATION_LABELS;
     $t = function ($ts) { return $ts ? wp_date('Y-m-d H:i', $ts) : '—'; };
     echo '<table class="form-table" role="presentation">';
     $row = function ($k, $v) { echo '<tr><th scope="row">' . esc_html($k) . '</th><td>' . $v . '</td></tr>'; };
@@ -81,7 +81,7 @@ function ts_takedown_admin_box(WP_Post $post): void {
     echo '</table>';
 
     $ops = [];
-    foreach (['approve' => '承認して即時適用', 'reject' => '却下', 'reinstate' => '復帰', 'deadline' => '期限を変える'] as $op => $label) {
+    foreach (TS_Takedown_Rules::OP_LABELS as $op => $label) {
         if (TS_Takedown_Rules::op_next($r['status'], $op) !== null) $ops[$op] = $label;
     }
     if (!$ops) return;
@@ -120,36 +120,34 @@ function ts_takedown_admin_new_fields(): void {
  * $deadline は操作が deadline のときの新しい時刻 (Unix 秒)。返り値: [成否, 知らせの文]
  */
 function ts_takedown_operate(int $id, string $op, int $by, string $note, int $deadline = 0): array {
-    if (!user_can($by, 'ts_manage_takedown')) return [false, '権限がありません。'];
+    if (!user_can($by, 'ts_manage_takedown')) return [false, TS_Takedown_Text::operate_result('no_permission', [])];
     $r = ts_takedown_get($id);
     $next = TS_Takedown_Rules::op_next($r['status'], $op);
-    if ($next === null) return [false, 'いまの状態ではこの操作はできません。'];
+    if ($next === null) return [false, TS_Takedown_Text::operate_result('bad_state', [])];
     $note = TS_Takedown_Input::clean($note, true);
     switch ($op) {
         case 'approve':
             $done = ts_takedown_apply($id, 'approved', $by, $note);
-            return [true, '承認して非公開にしました (' . count($done) . ' 作品)。'];
+            return [true, TS_Takedown_Text::operate_result('approve', ['works' => count($done)])];
         case 'reject':
             delete_post_meta($id, '_tr_token');
             ts_takedown_set_status($id, 'rejected', $by, $note, true);
             if (TS_Takedown_Rules::params()['send_reject_mail']) ts_takedown_mail_requester('rejected', $r);
-            return [true, '却下しました。'];
+            return [true, TS_Takedown_Text::operate_result('reject', [])];
         case 'reinstate':
             $left = ts_takedown_reinstate($id, $by, $note);
-            return [true, '復帰しました。' . ($left
-                ? " ただし {$left} 件の投稿は、サイトの取り下げの記録 (denylist) に書き写した後のため、この画面では戻していません。管理者に依頼してください。"
-                : '')];
+            return [true, TS_Takedown_Text::operate_result('reinstate', ['left' => $left])];
         case 'deadline':
-            if ($deadline <= 0) return [false, '新しい自動適用の時刻を入れてください。'];
+            if ($deadline <= 0) return [false, TS_Takedown_Text::operate_result('no_deadline', [])];
             update_post_meta($id, '_tr_auto_apply_at', $deadline);
             delete_post_meta($id, '_tr_reminded_at'); // 延ばしたときにリマインドをもう一度送る
             ts_takedown_set_status($id, 'received', $by, '期限を ' . wp_date('Y-m-d H:i', $deadline) . ' に変更'
                 . ($note !== '' ? ' — ' . $note : ''), false);
             update_post_meta($id, '_tr_resolved_by', $by);
             update_post_meta($id, '_tr_resolution_note', wp_slash($note));
-            return [true, '自動適用の時刻を ' . wp_date('Y-m-d H:i', $deadline) . ' にしました。'];
+            return [true, TS_Takedown_Text::operate_result('deadline', ['when' => wp_date('Y-m-d H:i', $deadline)])];
     }
-    return [false, '不明な操作です。'];
+    return [false, TS_Takedown_Text::operate_result('unknown', [])];
 }
 
 /** 保存 (起票と操作)。自分で wp_update_post するときは ts_takedown_saving で入り直さない */

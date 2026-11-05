@@ -19,6 +19,12 @@ const TS_TAKEDOWN_TYPE = 'ts_takedown_request';
 
 final class TS_Takedown_Rules {
 
+    /** 申し出た人の立場 (S124) と、運営委員の画面とメールの要約に出す呼び名 */
+    public const RELATION_LABELS = ['author' => '作者本人', 'heir' => '権利継承者', 'other' => 'その他'];
+
+    /** 運営委員の操作 (S128) と、管理画面のボタンの文言 (この順に並べる。出すかは op_next) */
+    public const OP_LABELS = ['approve' => '承認して即時適用', 'reject' => '却下', 'reinstate' => '復帰', 'deadline' => '期限を変える'];
+
     /** 状態 (S126) と、運営委員の画面に出す呼び名 */
     public static function status_labels(): array {
         return ['unconfirmed' => '未確認 (確認メール待ち)', 'received' => '受付済み (自動適用待ち)',
