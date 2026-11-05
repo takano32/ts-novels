@@ -8,6 +8,8 @@
  *  - メールで届いた申し出の起票 (S124): 運営委員が「申請を起票」で入力し、確認済み (received) として
  *    同じ状態機械に乗せる
  *  - 一覧の列: 状態・受付・自動適用の時刻・本サイトの作品に結びつかない URL の有無
+ * 遷移の表は TS_Takedown_Rules::op_next、入力の検証は TS_Takedown_Input::validate、申請の読み書きは
+ * includes/takedown/takedown-store.php、非公開化と復帰は takedown-apply.php。
  *
  * PHP 8.0 互換。
  */
@@ -38,7 +40,7 @@ function ts_takedown_admin_box(WP_Post $post): void {
     $e = 'esc_html';
     if ($r['status'] === '') { ts_takedown_admin_new_fields(); return; }
 
-    $labels = ts_takedown_status_labels();
+    $labels = TS_Takedown_Rules::status_labels();
     $rel = ['author' => '作者本人', 'heir' => '権利継承者', 'other' => 'その他'];
     $t = function ($ts) { return $ts ? wp_date('Y-m-d H:i', $ts) : '—'; };
     echo '<table class="form-table" role="presentation">';
@@ -80,7 +82,7 @@ function ts_takedown_admin_box(WP_Post $post): void {
 
     $ops = [];
     foreach (['approve' => '承認して即時適用', 'reject' => '却下', 'reinstate' => '復帰', 'deadline' => '期限を変える'] as $op => $label) {
-        if (ts_takedown_op_next($r['status'], $op) !== null) $ops[$op] = $label;
+        if (TS_Takedown_Rules::op_next($r['status'], $op) !== null) $ops[$op] = $label;
     }
     if (!$ops) return;
     echo '<h3>操作</h3><p><label>内部メモ (却下の理由など。依頼者には送らない)<br>'
@@ -120,9 +122,9 @@ function ts_takedown_admin_new_fields(): void {
 function ts_takedown_operate(int $id, string $op, int $by, string $note, int $deadline = 0): array {
     if (!user_can($by, 'ts_manage_takedown')) return [false, '権限がありません。'];
     $r = ts_takedown_get($id);
-    $next = ts_takedown_op_next($r['status'], $op);
+    $next = TS_Takedown_Rules::op_next($r['status'], $op);
     if ($next === null) return [false, 'いまの状態ではこの操作はできません。'];
-    $note = ts_takedown_clean($note, true);
+    $note = TS_Takedown_Input::clean($note, true);
     switch ($op) {
         case 'approve':
             $done = ts_takedown_apply($id, 'approved', $by, $note);
@@ -130,7 +132,7 @@ function ts_takedown_operate(int $id, string $op, int $by, string $note, int $de
         case 'reject':
             delete_post_meta($id, '_tr_token');
             ts_takedown_set_status($id, 'rejected', $by, $note, true);
-            if (ts_takedown_params()['send_reject_mail']) ts_takedown_mail_requester('rejected', $r);
+            if (TS_Takedown_Rules::params()['send_reject_mail']) ts_takedown_mail_requester('rejected', $r);
             return [true, '却下しました。'];
         case 'reinstate':
             $left = ts_takedown_reinstate($id, $by, $note);
@@ -160,7 +162,7 @@ add_action('save_post_' . TS_TAKEDOWN_TYPE, function ($post_id, $post) {
 
     if ((string) get_post_meta($post_id, '_tr_status', true) === '') {
         $in = is_array($_POST['ts_tr'] ?? null) ? wp_unslash($_POST['ts_tr']) : [];
-        $v = ts_takedown_validate($in, 'ts_takedown_resolve', (string) parse_url(home_url('/'), PHP_URL_HOST));
+        $v = TS_Takedown_Input::validate($in, 'ts_takedown_resolve', (string) parse_url(home_url('/'), PHP_URL_HOST));
         if ($v['errors']) {
             ts_takedown_admin_notice('error', '起票できませんでした: ' . implode(' ', $v['errors']));
             return;
@@ -195,7 +197,7 @@ add_filter('manage_' . TS_TAKEDOWN_TYPE . '_posts_columns', function ($cols) {
 add_action('manage_' . TS_TAKEDOWN_TYPE . '_posts_custom_column', function ($col, $post_id) {
     $r = ts_takedown_get((int) $post_id);
     $t = function ($ts) { return $ts ? wp_date('Y-m-d H:i', $ts) : '—'; };
-    if ($col === 'ts_tr_status') echo esc_html(ts_takedown_status_labels()[$r['status']] ?? $r['status']);
+    if ($col === 'ts_tr_status') echo esc_html(TS_Takedown_Rules::status_labels()[$r['status']] ?? $r['status']);
     if ($col === 'ts_tr_received') echo esc_html($t($r['received_at']));
     if ($col === 'ts_tr_apply') echo esc_html($r['status'] === 'received' ? $t($r['auto_apply_at']) : '—');
     if ($col === 'ts_tr_warn') {

@@ -1,0 +1,31 @@
+<?php
+/**
+ * 表示部品の文言と計算 (specs/S41.md の書誌カード、S195.md のサイドバー)。scripts/wp/ts_library_test.php から読む。
+ */
+
+check('読了目安: 200 字未満は出さない', TS_Render_Text::reading_minutes(199), null);
+check('読了目安: 200 字は約 1 分 (切り上げではなく最低 1)', TS_Render_Text::reading_minutes(200), 1);
+check('読了目安: 550 字/分で四捨五入', [TS_Render_Text::reading_minutes(825), TS_Render_Text::reading_minutes(824)], [2, 1]);
+check('読了目安: 長い本文', TS_Render_Text::reading_minutes(55000), 100);
+
+check('回収経路: 配列でなければ null', TS_Render_Text::provenance_label('wayback'), null);
+check('回収経路: route_label があればそのまま', TS_Render_Text::provenance_label(['route' => 'wayback', 'route_label' => '手動の保存']), '手動の保存');
+check('回収経路: route の表示', array_map(function ($r) { return TS_Render_Text::provenance_label(['route' => $r]); },
+      ['wayback', 'mirror', 'author-repost', 'megalodon', 'commoncrawl']),
+      ['Internet Archive Wayback Machine', 'サイト原本のミラー', '作者本人による再掲', 'ウェブ魚拓', 'Common Crawl']);
+check('回収経路: method でも引ける', TS_Render_Text::provenance_label(['method' => 'mirror']), 'サイト原本のミラー');
+check('回収経路: 知らない route はそのまま', TS_Render_Text::provenance_label(['route' => 'ftp']), 'ftp');
+check('回収経路: 何も無ければ null', TS_Render_Text::provenance_label([]), null);
+
+check('本文の注記: 整形表示', TS_Render_Text::body_note('converted'),
+      'この本文は読みやすさのため組版を整えた表示です。文章そのものは原本と機械照合で一致しています。');
+check('本文の注記: converted-text も同じ', TS_Render_Text::body_note('converted-text'), TS_Render_Text::body_note('converted'));
+check('本文の注記: 原本の HTML', TS_Render_Text::body_note('raw-fallback'), 'この本文は原本の HTML をそのまま表示しています。');
+check('本文の注記: ほかは出さない', [TS_Render_Text::body_note(null), TS_Render_Text::body_note('placeholder'), TS_Render_Text::body_note('takedown')], [null, null, null]);
+
+check('サイドバーの索引入口は TS_INDEX_KINDS の中 (オススメの環は出さない。S101)',
+      array_values(array_diff(array_column(TS_Render_Text::SIDEBAR_INDEXES, 0), TS_INDEX_KINDS)), []);
+check('サイドバーの索引入口の順', array_column(TS_Render_Text::SIDEBAR_INDEXES, 0), ['kana', 'timeline', 'bunrui', 'vocabulary', 'docs']);
+check('この文庫について', array_column(TS_Render_Text::SIDEBAR_ABOUT, 0), ['/authors/yays/', '/about/', '/archive/', '/takedown/']);
+check('表示名に内部語を出さない (S200)', preg_match('/本館|別館|旧館|WP サイト|旧サイト/u',
+      implode(' ', array_merge(array_column(TS_Render_Text::SIDEBAR_INDEXES, 1), array_column(TS_Render_Text::SIDEBAR_ABOUT, 1)))), 0);

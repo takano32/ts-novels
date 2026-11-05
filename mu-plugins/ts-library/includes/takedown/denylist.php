@@ -1,0 +1,146 @@
+<?php
+/**
+ * takedown/denylist.yml の読み取りと書き出し (specs/S76.md のスキーマ、S121.md、S132.md)。WordPress を使わない。
+ *
+ *  - parse: このスキーマ専用の最小パーサ (ブロック形式・フロー形式の両対応)。`wp ts apply-takedown` と
+ *    `wp ts verify` / `wp ts export-takedowns` が読む。不完全なエントリ・未知の kind は捨てて warnings に残す
+ *    (呼び出し側が WP_CLI::warning で出す)
+ *  - export_yaml: 取り下げフォームの 1 申請 → denylist のエントリ (version 1)。parse で読み戻せる形
+ *    (scripts/wp/ts_library_test.php が往復を確かめる)
+ *
+ * PHP 8.0 互換。
+ */
+
+if (!defined('ABSPATH') && !defined('TS_LIBRARY_TEST')) { exit; }
+
+final class TS_Denylist {
+
+    /** エントリの target.kind に書ける値 (S76) */
+    public const KINDS = ['work', 'episode', 'annex_path', 'author'];
+
+    /**
+     * denylist.yml の entries を読む。返り値: ['entries' => [...], 'warnings' => [文言…]]。
+     * エントリ: id / kind / value / status / public_note / requested_at / reason / received_via
+     */
+    public static function parse(string $path): array {
+        return self::parse_lines(file($path));
+    }
+
+    /** parse の本体 (行の配列から)。試験が文字列から読むときにも使う */
+    public static function parse_lines(array $lines): array {
+        $out = []; $cur = null; $in_entries = false;
+        foreach ($lines as $raw) {
+            $line = rtrim($raw, "\r\n");
+            if (preg_match('/^\s*#/', $line) || trim($line) === '') continue;
+            if (preg_match('/^entries:\s*(\[\s*\])?\s*$/', $line, $m)) {
+                $in_entries = true;
+                if (!empty($m[1])) return ['entries' => [], 'warnings' => []];   // `entries: []`
+                continue;
+            }
+            if (!$in_entries) continue;
+            if (preg_match('/^\s*-\s*id:\s*(.+?)\s*$/', $line, $m)) {   // 新エントリ
+                if ($cur) $out[] = $cur;
+                $cur = ['id' => trim($m[1], "\"' "), 'kind' => null, 'value' => null, 'status' => '',
+                        'public_note' => '', 'requested_at' => '', 'reason' => '', 'received_via' => ''];
+                continue;
+            }
+            if (!$cur) continue;
+            // target: { kind: work, value: foo } (フロー形式)
+            if (preg_match('/^\s*target:\s*\{(.+)\}\s*$/', $line, $m)) {
+                if (preg_match('/kind:\s*([A-Za-z_]+)/', $m[1], $k)) $cur['kind'] = $k[1];
+                if (preg_match('/value:\s*["\']?([^"\',}]+)/', $m[1], $v)) $cur['value'] = trim($v[1]);
+                continue;
+            }
+            if (preg_match('/^\s+kind:\s*([A-Za-z_]+)/', $line, $m)) { $cur['kind'] = $m[1]; continue; }
+            if (preg_match('/^\s+value:\s*(.*?)\s*$/u', $line, $m)) {
+                // 引用符なしの値は「 #」からがコメント。path#anchor の # は値の一部 (export-takedowns が書く話の対象)
+                $v = $m[1];
+                if ($v !== '' && $v[0] !== '"' && $v[0] !== "'") $v = rtrim(preg_replace('/\s#.*$/u', '', $v));
+                $cur['value'] = trim(self::unquote($v));
+                continue;
+            }
+            if (preg_match('/^\s+status:\s*([A-Za-z_]+)/', $line, $m)) { $cur['status'] = $m[1]; continue; }
+            if (preg_match('/^\s+requested_at:\s*([0-9]{4}-[0-9]{2}-[0-9]{2})/', $line, $m)) { $cur['requested_at'] = $m[1]; continue; }
+            if (preg_match('/^\s+received_via:\s*([A-Za-z_]+)/', $line, $m)) { $cur['received_via'] = $m[1]; continue; }
+            if (preg_match('/^\s+reason:\s*(.*?)\s*$/u', $line, $m)) { $cur['reason'] = self::unquote($m[1]); continue; }
+            // /removed/ の掲示の 1 行 (S121 で投稿のメタ _ts_public_note に写す)。囲みの引用符は外す
+            if (preg_match('/^\s+public_note:\s*(.*?)\s*$/u', $line, $m)) {
+                $cur['public_note'] = self::unquote($m[1]);
+                continue;
+            }
+        }
+        if ($cur) $out[] = $cur;
+        $valid = []; $warnings = [];
+        foreach ($out as $e) {
+            if (!$e['kind'] || !$e['value']) {
+                $warnings[] = "denylist の不完全なエントリ: {$e['id']} (kind/value を確認)";
+                continue;
+            }
+            if (!in_array($e['kind'], self::KINDS, true)) {
+                $warnings[] = "未知の kind: {$e['kind']} ({$e['id']})";
+                continue;
+            }
+            $valid[] = $e;
+        }
+        return ['entries' => $valid, 'warnings' => $warnings];
+    }
+
+    /** 囲みの引用符を外す (単一引用符の中の '' は ' に。export-takedowns が書く形) */
+    public static function unquote(string $v): string {
+        if (strlen($v) >= 2 && ($v[0] === '"' || $v[0] === "'") && substr($v, -1) === $v[0]) {
+            $q = $v[0];
+            $v = substr($v, 1, -1);
+            if ($q === "'") $v = str_replace("''", "'", $v);
+        }
+        return $v;
+    }
+
+    /** YAML の 1 値 (denylist.yml に書く形)。そのままで読めない値は単一引用符で囲む */
+    public static function scalar(?string $v): string {
+        if ($v === null) return 'null';
+        if ($v !== '' && !preg_match('/^[\s\-?:,\[\]{}#&*!|>\'"%@`]|: | #|\s$|^(null|true|false|yes|no|~)$/i', $v)) return $v;
+        return "'" . str_replace("'", "''", $v) . "'";
+    }
+
+    /**
+     * 1 申請 → denylist のエントリ (version 1) の YAML (S132)。連絡先・本文・証拠は出さない。
+     * $req: id (投稿 ID) / status / confirmed_date / applied_date / via (takedown_form | email)
+     * $targets: [['kind' => work|episode, 'value' => …, 'note' => public_note]]
+     * $first: 最初に振る S の番号。返り値: ['yaml' => 文字列, 'ids' => [振った S …]]
+     */
+    public static function export_yaml(array $req, array $targets, int $first): array {
+        $out = ''; $ids = []; $n = $first;
+        $status = $req['status'] === 'reinstated' ? 'reinstated' : 'applied';
+        foreach ($targets as $t) {
+            $id = 'S.' . $n++;
+            $ids[] = $id;
+            $out .= "  - id: $id\n"
+                . "    target:\n"
+                . "      kind: {$t['kind']}\n"
+                . '      value: ' . self::scalar($t['value']) . "\n"
+                . "    reason: 取り下げフォーム経由の申し出 (申請 {$req['id']})\n"
+                . "    reason_class: author_request\n"
+                . "    requested_at: {$req['confirmed_date']}\n"
+                . "    received_via: {$req['via']}\n"
+                . "    status: $status\n"
+                . "    applied:\n"
+                . '      wp_draft: ' . self::scalar($req['applied_date'] ?: null) . "\n"
+                . '      htaccess_410: ' . self::scalar($req['applied_date'] ?: null) . "\n"
+                . "      annex_excluded: null\n"
+                . "      git_history_purged: null\n"
+                . "      removed_page_listed: null\n"
+                . '    public_note: ' . self::scalar($t['note']) . "\n";
+        }
+        return ['yaml' => $out, 'ids' => $ids];
+    }
+
+    /** denylist に書き写した申請: 申請の投稿 ID => [['id' => 記録の id, 'status' => …]] (reason の「(申請 <ID>)」で結ぶ) */
+    public static function exported_requests(array $entries): array {
+        $out = [];
+        foreach ($entries as $e) {
+            if (!preg_match('/\(申請 ([0-9]+)\)/u', $e['reason'] ?? '', $m)) continue;
+            $out[(int) $m[1]][] = ['id' => $e['id'], 'status' => $e['status']];
+        }
+        return $out;
+    }
+}
