@@ -93,6 +93,7 @@ $ep = ['episode_id' => 'e1', 'source_path' => 'novel/x.htm', 'source_anchor' => 
        'nav_links' => [], 'orig_url' => 'http://ts.novels.jp/novel/x.htm', 'annex_url' => 'https://x/novel/x.htm', 'annex_yays_url' => null,
        'provenance' => ['route' => 'wayback'], 'genre_raw' => 'ＳＦ', 'type_raw' => null, 'keywords_raw' => null, 'zokusei' => null];
 $meta = TS_Episode_Fields::meta($ep);
+check('語彙で引く話の欄と taxonomy', TS_Episode_Fields::TERM_FIELDS, [['genre', 'ts_genre'], ['type', 'ts_type'], ['keywords', 'ts_keyword']]);
 check('話のメタのキー', array_keys($meta), ['_ts_episode_id', '_ts_source_path', '_ts_source_anchor', '_ts_corpus', '_ts_catalog_ref',
       '_ts_pub_date_raw', '_ts_size_kb', '_ts_files_n', '_ts_illustrator', '_ts_illustrator_url', '_ts_kansou_slug', '_ts_kansou_annex_url',
       '_ts_arasuji', '_ts_author_comment', '_ts_suisen', '_ts_osusume', '_ts_nav_links', '_ts_orig_url', '_ts_annex_url', '_ts_annex_yays_url',

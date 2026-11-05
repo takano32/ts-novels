@@ -19,9 +19,6 @@ final class TS_Verify_Expect {
     public const META_FIELDS = ['_ts_pub_date_raw' => 'date_raw', '_ts_orig_url' => 'orig_url',
                                 '_ts_annex_url' => 'annex_url', '_ts_provenance' => 'provenance'];
 
-    /** 話の欄 => taxonomy (import と同じ対応) */
-    private const FIELD_TAX = [['genre', 'ts_genre'], ['type', 'ts_type'], ['keywords', 'ts_keyword']];
-
     private $works; private $episodes; private $vocab; private $taxes;
     private $ep2work; private $single; private $work_author;
     private $vocab_sets;
@@ -69,7 +66,7 @@ final class TS_Verify_Expect {
             if (!empty($ep['corpus']) && isset($vocab['ts_corpus'][$this->vocab->slug('ts_corpus', $ep['corpus']) ?? ''])) {
                 $expect['ts_corpus']++;
             }
-            foreach (self::FIELD_TAX as [$f, $tax]) {
+            foreach (TS_Episode_Fields::TERM_FIELDS as [$f, $tax]) {
                 $uniq = [];
                 foreach ((array) ($ep[$f] ?? []) as $v) {
                     if (!is_string($v)) continue;   // 文字列でない語は数えない (import の TS_Vocabulary::resolve と同じ。分割前も TypeError にならず進んだ)
@@ -87,7 +84,7 @@ final class TS_Verify_Expect {
         foreach ($this->episodes as $ep) {
             $w = $this->ep2work[$ep['episode_id']] ?? null;
             if ($w === null || isset($this->single[$w])) continue;
-            foreach (self::FIELD_TAX as [$f, $tax]) {
+            foreach (TS_Episode_Fields::TERM_FIELDS as [$f, $tax]) {
                 foreach ((array) ($ep[$f] ?? []) as $v) {
                     if (!is_string($v)) continue;   // 文字列でない語は数えない (import の TS_Vocabulary::resolve と同じ。分割前も TypeError にならず進んだ)
                     $s = $this->vocab->slug($tax, $v);

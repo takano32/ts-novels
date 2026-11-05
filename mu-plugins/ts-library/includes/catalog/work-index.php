@@ -42,7 +42,7 @@ final class TS_Work_Index {
             $w = $ep2work[$ep['episode_id']] ?? null;
             if ($w === null || isset($single[$w])) continue;
             $terms = [];
-            foreach ([['genre', 'ts_genre'], ['type', 'ts_type'], ['keywords', 'ts_keyword']] as [$f, $tax]) $terms[$tax] = $ep[$f] ?? [];
+            foreach (TS_Episode_Fields::TERM_FIELDS as [$f, $tax]) $terms[$tax] = $ep[$f] ?? [];
             $terms['ts_world'] = $vocab->episode_worlds($ep['episode_id']);
             $terms['ts_corpus'] = [$ep['corpus'] ?? null];
             $out[$i] = ['work' => $w, 'terms' => $terms];

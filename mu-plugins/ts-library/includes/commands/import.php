@@ -162,7 +162,7 @@ final class TS_Import_Command extends TS_Command_Base {
             wp_set_object_terms($post_id, $this->terms->term_ids('ts_author', [$author_slug]), 'ts_author');
         }
         wp_set_object_terms($post_id, $this->terms->term_ids('ts_corpus', [$ep['corpus']]), 'ts_corpus');
-        foreach ([['genre', 'ts_genre'], ['type', 'ts_type'], ['keywords', 'ts_keyword']] as [$field, $tax]) {
+        foreach (TS_Episode_Fields::TERM_FIELDS as [$field, $tax]) {
             wp_set_object_terms($post_id, $this->terms->term_ids($tax, $ep[$field] ?? []), $tax);
         }
         wp_set_object_terms($post_id,

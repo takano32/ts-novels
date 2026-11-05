@@ -12,6 +12,9 @@ if (!defined('ABSPATH') && !defined('TS_LIBRARY_TEST')) { exit; }
 
 final class TS_Episode_Fields {
 
+    /** 語彙で引く話の欄と taxonomy の対応 (import の割当、親 work への合併、verify の期待値で共有する。この順に処理する) */
+    public const TERM_FIELDS = [['genre', 'ts_genre'], ['type', 'ts_type'], ['keywords', 'ts_keyword']];
+
     /** 本文ペイロードが無い話に入れる本文 (メタのみ投入のときは入れない) */
     public const PLACEHOLDER_BODY = '<!-- wp:paragraph --><p>(本文は原本アーカイブでお読みください)</p><!-- /wp:paragraph -->';
 
