@@ -218,6 +218,21 @@ class AssembleTest(unittest.TestCase):
         lines = wk.summary_lines(report)
         self.assertEqual(lines[0], 'works=2 (単発 1 / 連載 1)  episodes=3  orphan=0')
 
+    def test_work_of_with_short_context(self):
+        u = wk.Union()
+        u.union('a1', 'a2', 'title-prefix')
+        ctx = wk.WorkContext(union=u, author_of={'a1': 'au', 'a2': 'au'})
+        unit = {'members': [self.recs[1], self.recs[0]], 'kind': 'cluster', 'override': False,
+                'confirmed': False, 'key': 'au|甲乙丙丁'}
+        used = set()
+        work, (key, entry), needs_review = wk.work_of(unit, ctx, used)
+        self.assertEqual((work['work_slug'], work['author_display'], key, needs_review),
+                         (entry['slug'], '作者不詳', 'au|甲乙丙丁', True))
+        self.assertEqual([e['episode_id'] for e in work['episodes']], ['a1', 'a2'])
+        self.assertEqual(used, {entry['slug']})
+        with self.assertRaises(Exception):
+            ctx.author_of = {}                                  # frozen
+
     def test_confirmed_slug_and_stub(self):
         prev = {'works': {'au|甲乙丙丁': {'slug': 'au-kou', 'status': 'confirmed', 'source': 'manual'}}}
         works, _, _, review, _ = wk.assemble(self.recs, self.authors, [], set(), prev,

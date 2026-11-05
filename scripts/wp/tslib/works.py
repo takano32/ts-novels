@@ -18,6 +18,7 @@ ts_world タクソノミーが担う)。
 入出力は scripts/wp/work_builder.py。人手の上書き (work_overrides.yml) の決まりは specs/S146.md・S147.md。
 """
 import collections
+import dataclasses
 import os
 import re
 import unicodedata
@@ -465,16 +466,28 @@ def apply_overrides(groups, work_overrides, author_of, order_of):
 
 # --------------------------------------------------------------------------- 組み立て
 
-def work_of(unit, u, author_of, author_name, prev_slugs, work_overrides, used_slugs,
-            disk_title_pages, digest_of):
-    """1 unit → (work レコード, slug_entries の 1 行の (key, entry), needs_review)。"""
+@dataclasses.dataclass(frozen=True)
+class WorkContext:
+    """work_of の繰り返しの間で変わらない入力 (assemble が 1 回作る)。"""
+    union: object                  # cluster() の Union (話ごとの結合の根拠 why を引く)
+    author_of: dict                # episode_id → 作者 slug
+    author_name: dict = dataclasses.field(default_factory=dict)      # episode_id → 作者の表示名
+    prev_slugs: dict = dataclasses.field(default_factory=dict)       # slug_overrides.yml の works
+    work_overrides: dict = dataclasses.field(default_factory=dict)   # work_overrides.yml の works
+    disk_title_pages: frozenset = frozenset()
+    digest_of: object = lambda source_path: None                     # source_path → md5
+
+
+def work_of(unit, ctx, used_slugs):
+    """1 unit → (work レコード, slug_entries の 1 行の (key, entry), needs_review)。
+    used_slugs は呼ぶごとに増える (作った slug を足す) ので ctx に入れない。"""
     members = unit['members']
     members.sort(key=episode_order_key)
     eids = [m['episode_id'] for m in members]
-    aslug = group_author(members, author_of)
+    aslug = group_author(members, ctx.author_of)
     rules = set()
     for eid in eids:
-        rules |= u.why.get(eid, set())
+        rules |= ctx.union.why.get(eid, set())
     if unit['override']:
         rules.add('override')
     if unit['kind'] == 'split':
@@ -490,7 +503,7 @@ def work_of(unit, u, author_of, author_name, prev_slugs, work_overrides, used_sl
                             if RE_SERIES_NAV.search(n.get('label') or '')
                             and norm_path(n['href'])})
 
-    alias_of, alias_paths = alias_map(members, digest_of)
+    alias_of, alias_paths = alias_map(members, ctx.digest_of)
 
     multi_dir = len({os.path.dirname(m['source_path']) for m in members}) > 1
     needs_review = bool(
@@ -499,13 +512,13 @@ def work_of(unit, u, author_of, author_name, prev_slugs, work_overrides, used_sl
         needs_review = False        # 人手で確認した / 人手で分けた作品
 
     key = '%s|%s' % (aslug, work_title)
-    ov = (work_overrides.get(unit['key']) or {}) if unit['kind'] == 'cluster' else {}
+    ov = (ctx.work_overrides.get(unit['key']) or {}) if unit['kind'] == 'cluster' else {}
     if not isinstance(ov, dict):
         ov = {}
     if ov.get('work_title'):
         work_title = ov['work_title']
 
-    old = prev_slugs.get(key)
+    old = ctx.prev_slugs.get(key)
     if isinstance(old, dict) and old.get('status') == 'confirmed' and old.get('slug'):
         slug, source, status = old['slug'], old.get('source'), 'confirmed'
     else:
@@ -518,14 +531,14 @@ def work_of(unit, u, author_of, author_name, prev_slugs, work_overrides, used_sl
         ('work_slug', slug),
         ('title', work_title),
         ('author_slug', aslug),
-        ('author_display', author_name.get(eids[0])
+        ('author_display', ctx.author_name.get(eids[0])
          or ('シリーズ目次' if aslug == 'series-index' else '作者不詳')),
         ('episode_count', len(members)),
         ('corpora', dict(collections.Counter(m['corpus'] for m in members))),
         ('first_date', min((m.get('date') or '' for m in members), default=None)),
         ('last_date', max((m.get('date') or '' for m in members), default=None)),
         ('title_pages', [p for p in title_pages if p]),
-        ('title_page_on_disk', [p for p in title_pages if p in disk_title_pages]),
+        ('title_page_on_disk', [p for p in title_pages if p in ctx.disk_title_pages]),
         ('evidence', sorted(rules)),
         ('needs_review', needs_review),
         ('multi_directory', multi_dir),
@@ -592,12 +605,12 @@ def assemble(records, authors, series_rows, disk_title_pages, overrides, work_ov
     units, override_errors = apply_overrides(list(groups.values()), work_overrides,
                                              author_of, order_of)
 
+    ctx = WorkContext(union=u, author_of=author_of, author_name=author_name, prev_slugs=prev_slugs,
+                      work_overrides=work_overrides, disk_title_pages=disk_title_pages, digest_of=digest_of)
     used_slugs, works, slug_entries, review_keys = set(), [], {}, []
     ordered = sorted(units, key=lambda un: (-len(un['members']), un['members'][0]['episode_id']))
     for unit in ordered:
-        work, (key, entry), needs_review = work_of(
-            unit, u, author_of, author_name, prev_slugs, work_overrides, used_slugs,
-            disk_title_pages, digest_of)
+        work, (key, entry), needs_review = work_of(unit, ctx, used_slugs)
         slug_entries[key] = entry
         if needs_review:
             review_keys.append(unit['key'])
