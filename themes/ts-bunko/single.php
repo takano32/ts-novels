@@ -11,7 +11,8 @@ while (have_posts()) {
     the_post();
     $post = get_post();
 
-    if ($post->post_type !== 'ts_work') {
+    // 表示の型 (素表示・目次・リーダー) と目次の見出し・リーダーの class は mu-plugin の TS_Render_Text。素表示は子の数に依らない
+    if (TS_Render_Text::reader_mode($post->post_type, 0) === 'plain') {
         echo '<article>';
         echo '<h1 class="ts-entry-title">' . esc_html(get_the_title()) . '</h1>';
         echo '<div class="ts-reader">';
@@ -33,10 +34,10 @@ while (have_posts()) {
     if (function_exists('ts_bunko_hidden_banner')) ts_bunko_hidden_banner($post); // 運営委員にだけ (S118)
     ts_bunko_meta_header($post);
 
-    if ($children) {
+    if (TS_Render_Text::reader_mode($post->post_type, count($children)) === 'toc') {
         // ---- 作品ページ (連載の親): 目次 ----
         ts_bunko_catalog_notes($post);
-        echo '<h2 class="ts-biblio-title">目次 (全' . count($children) . '話)</h2>';
+        echo '<h2 class="ts-biblio-title">' . TS_Render_Text::toc_heading(count($children)) . '</h2>';
         ts_bunko_work_toc($post);
         ts_bunko_suisen($post);
         ts_bunko_biblio_card($post);
@@ -44,6 +45,7 @@ while (have_posts()) {
     } else {
         // ---- リーダー (話 / 単発作品) ----
         $status = ts_meta($post->ID, 'body_status');
+        $classes = TS_Render_Text::reader_classes(is_string($status) ? $status : null);
         ?>
         <div class="ts-toolbar" hidden data-ts-toolbar>
           <button type="button" data-ts-set="size:1" aria-pressed="false">字 小</button>
@@ -56,13 +58,13 @@ while (have_posts()) {
           <button type="button" data-ts-set="font:gothic" aria-pressed="false">ゴシック</button>
           <button type="button" data-ts-set="dark:0" aria-pressed="false">ライト</button>
           <button type="button" data-ts-set="dark:1" aria-pressed="false">ダーク</button>
-          <?php if ($status === 'raw-fallback') { ?>
+          <?php if (in_array('is-raw', $classes, true)) { ?>
           <button type="button" data-ts-set="orig:1" aria-pressed="false">原本配色</button>
           <?php } ?>
           <span class="ts-toolbar-label">←/→ で前後の話</span>
         </div>
         <?php
-        echo '<div class="ts-reader' . ($status === 'raw-fallback' ? ' is-raw' : '') . '">';
+        echo '<div class="' . implode(' ', $classes) . '">';
         the_content();
         echo '</div>';
         ts_bunko_episode_nav($post);

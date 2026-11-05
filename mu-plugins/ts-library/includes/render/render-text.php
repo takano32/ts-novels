@@ -2,8 +2,9 @@
 /**
  * 表示部品の文言と計算のうち WordPress を使わない部分 (specs/S41.md の書誌カード、S195.md のサイドバー)。
  *
- * 読了目安の分数・回収経路の人間可読表示・サイドバーの項目の表・一覧の作品カードの添え書き・トップの案内文をここに置き、
- * scripts/wp/ts_library_test.php で試す。HTML を出す側は includes/render/render-work.php・render-sidebar.php・render-list.php。
+ * 読了目安の分数・回収経路の人間可読表示・サイドバーの項目の表・一覧の作品カードの添え書き・トップの案内文・
+ * 作品のページの表示の型 (素表示・目次・リーダー) をここに置き、scripts/wp/ts_library_test.php で試す。
+ * HTML を出す側は includes/render/render-work.php・render-sidebar.php・render-list.php とテーマ (themes/ts-bunko)。
  *
  * PHP 8.0 互換。
  */
@@ -56,6 +57,29 @@ final class TS_Render_Text {
         }
         if ($status === 'raw-fallback') return 'この本文は原本の HTML をそのまま表示しています。';
         return null;
+    }
+
+    /**
+     * ts_work の 1 ページの表示の型 (themes/ts-bunko/single.php): ts_work でない投稿 (運営文書など) は 'plain' (素の記事表示)、
+     * 子を持つ作品 (連載の親) は 'toc' (目次)、話と単発は 'reader' (本文 + 話ナビ + 書誌カード)。$children は並べる子の数。
+     * 'plain' は子の数に依らないので、子を数える前に 0 で呼んで決めてよい。
+     */
+    public static function reader_mode(string $post_type, int $children): string {
+        if ($post_type !== 'ts_work') return 'plain';
+        return $children > 0 ? 'toc' : 'reader';
+    }
+
+    /**
+     * リーダーの本文の枠の class。$status はメタ _ts_body_status の値 (文字列でなければ null)。原本の HTML をそのまま
+     * 表示する話 (raw-fallback) は 'is-raw' を足す (テーマはこのときだけ「原本配色」のボタンを出す)。
+     */
+    public static function reader_classes(?string $status): array {
+        return $status === 'raw-fallback' ? ['ts-reader', 'is-raw'] : ['ts-reader'];
+    }
+
+    /** 作品ページ (連載の親) の目次の見出し。$n は並べる話の数 */
+    public static function toc_heading(int $n): string {
+        return '目次 (全' . $n . '話)';
     }
 
     /** トップと書庫のトップの案内文 (themes/ts-bunko の front-page.php と index.php)。$published は公開の ts_work の数 */
