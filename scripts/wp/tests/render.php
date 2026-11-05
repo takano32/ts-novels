@@ -23,8 +23,8 @@ check('本文の注記: converted-text も同じ', TS_Render_Text::body_note('co
 check('本文の注記: 原本の HTML', TS_Render_Text::body_note('raw-fallback'), 'この本文は原本の HTML をそのまま表示しています。');
 check('本文の注記: ほかは出さない', [TS_Render_Text::body_note(null), TS_Render_Text::body_note('placeholder'), TS_Render_Text::body_note('takedown')], [null, null, null]);
 
-check('サイドバーの索引入口は TS_INDEX_KINDS の中 (オススメの環は出さない。S101)',
-      array_values(array_diff(array_column(TS_Render_Text::SIDEBAR_INDEXES, 0), TS_INDEX_KINDS)), []);
+check('サイドバーの索引入口は TS_Index_Text::KINDS の中 (オススメの環は出さない。S101)',
+      array_values(array_diff(array_column(TS_Render_Text::SIDEBAR_INDEXES, 0), TS_Index_Text::KINDS)), []);
 check('サイドバーの索引入口の順', array_column(TS_Render_Text::SIDEBAR_INDEXES, 0), ['kana', 'timeline', 'bunrui', 'vocabulary', 'docs']);
 check('この文庫について', array_column(TS_Render_Text::SIDEBAR_ABOUT, 0), ['/authors/yays/', '/about/', '/archive/', '/takedown/']);
 check('表示名に内部語を出さない (S200)', preg_match('/本館|別館|旧館|WP サイト|旧サイト/u',

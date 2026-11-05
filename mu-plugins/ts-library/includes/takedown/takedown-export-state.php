@@ -24,10 +24,10 @@ final class TS_Takedown_Export_State {
 
     /** applied / approved の申請で denylist に対応するエントリが無いもの: ['ids' => [投稿 ID…], 'warnings' => [文…]] */
     public static function requests_not_in_denylist(string $root): array {
-        if (!post_type_exists(TS_TAKEDOWN_TYPE)) return ['ids' => [], 'warnings' => []];
+        if (!post_type_exists(TS_Takedown_Rules::POST_TYPE)) return ['ids' => [], 'warnings' => []];
         $st = self::exported_requests($root);
         $done = $st['done'];
-        $ids = get_posts(['post_type' => TS_TAKEDOWN_TYPE, 'post_status' => 'any', 'posts_per_page' => -1,
+        $ids = get_posts(['post_type' => TS_Takedown_Rules::POST_TYPE, 'post_status' => 'any', 'posts_per_page' => -1,
                           'fields' => 'ids', 'no_found_rows' => true,
                           'meta_key' => '_tr_status', 'meta_value' => ['applied', 'approved'], 'meta_compare' => 'IN']);
         return ['ids' => array_values(array_filter(array_map('intval', $ids), function ($id) use ($done) { return !isset($done[$id]); })),

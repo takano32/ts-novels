@@ -178,7 +178,7 @@ final class TS_Takedown_Command extends TS_Command_Base {
         $st = TS_Takedown_Export_State::exported_requests($root);
         $this->warn($st['warnings']);
         $done = $st['done'];
-        $ids = get_posts(['post_type' => TS_TAKEDOWN_TYPE, 'post_status' => 'any', 'posts_per_page' => -1,
+        $ids = get_posts(['post_type' => TS_Takedown_Rules::POST_TYPE, 'post_status' => 'any', 'posts_per_page' => -1,
                           'fields' => 'ids', 'no_found_rows' => true, 'orderby' => 'ID', 'order' => 'ASC',
                           'meta_key' => '_tr_status', 'meta_value' => ['applied', 'approved', 'reinstated'],
                           'meta_compare' => 'IN']);

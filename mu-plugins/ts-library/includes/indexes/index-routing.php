@@ -21,7 +21,7 @@ add_action('init', function () {
 function ts_index_kind() {
     $v = get_query_var('ts_index');
     if (!is_string($v)) return '';
-    return in_array($v, TS_INDEX_KINDS, true) ? $v : '';
+    return in_array($v, TS_Index_Text::KINDS, true) ? $v : '';
 }
 
 function ts_index_year() {

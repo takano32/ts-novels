@@ -3,8 +3,10 @@
  * 索引ページ群 (T10.3) の種類・題名・並び。scripts/wp/ts_library_test.php から読む。
  */
 
-check('索引の種類', TS_INDEX_KINDS, ['kana', 'timeline', 'bunrui', 'vocabulary', 'osusume', 'docs']);
-check('題名は種類ごとにある', array_keys(TS_Index_Text::TITLES), TS_INDEX_KINDS);
+check('索引の種類', TS_Index_Text::KINDS, ['kana', 'timeline', 'bunrui', 'vocabulary', 'osusume', 'docs']);
+// 裸の定数は互換のために残し、クラス定数を指す (T45.7.2。scripts/wp/deploy_run.sh が本番でこの名前を読む)
+check('裸の TS_INDEX_KINDS はクラス定数と同じ', TS_INDEX_KINDS, TS_Index_Text::KINDS);
+check('題名は種類ごとにある', array_keys(TS_Index_Text::TITLES), TS_Index_Text::KINDS);
 // 期待値は 0e8c7712 の themes/ts-bunko/ts-index.php の表 (T45.1.5.4 でテーマから消し、この表を使う)
 check('索引の題名', TS_Index_Text::TITLES, ['kana' => '作者索引', 'timeline' => '年表', 'bunrui' => '分類索引',
       'vocabulary' => 'キーワード索引', 'osusume' => 'オススメの環', 'docs' => '運営文書・資料']);

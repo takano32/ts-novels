@@ -16,8 +16,8 @@
 
 if (!defined('ABSPATH')) { exit; }
 
-add_action('add_meta_boxes_' . TS_TAKEDOWN_TYPE, function ($post) {
-    add_meta_box('ts_takedown_box', '取り下げの申請', 'ts_takedown_admin_box', TS_TAKEDOWN_TYPE, 'normal', 'high');
+add_action('add_meta_boxes_' . TS_Takedown_Rules::POST_TYPE, function ($post) {
+    add_meta_box('ts_takedown_box', '取り下げの申請', 'ts_takedown_admin_box', TS_Takedown_Rules::POST_TYPE, 'normal', 'high');
 });
 
 /** 操作の結果の知らせ (リダイレクト後に 1 度だけ出す) */
@@ -151,7 +151,7 @@ function ts_takedown_operate(int $id, string $op, int $by, string $note, int $de
 }
 
 /** 保存 (起票と操作)。自分で wp_update_post するときは TS_Takedown_Store::$saving で入り直さない */
-add_action('save_post_' . TS_TAKEDOWN_TYPE, function ($post_id, $post) {
+add_action('save_post_' . TS_Takedown_Rules::POST_TYPE, function ($post_id, $post) {
     if (TS_Takedown_Store::$saving || wp_is_post_revision($post_id) || $post->post_status === 'auto-draft') return;
     if (defined('DOING_AUTOSAVE') && DOING_AUTOSAVE) return;
     if (!isset($_POST['ts_tr_nonce']) || !wp_verify_nonce(wp_unslash($_POST['ts_tr_nonce']), 'ts_tr_admin_' . $post_id)) return;
@@ -187,12 +187,12 @@ add_action('save_post_' . TS_TAKEDOWN_TYPE, function ($post_id, $post) {
 
 // ---------------------------------------------------------------- 一覧の列
 
-add_filter('manage_' . TS_TAKEDOWN_TYPE . '_posts_columns', function ($cols) {
+add_filter('manage_' . TS_Takedown_Rules::POST_TYPE . '_posts_columns', function ($cols) {
     return ['cb' => $cols['cb'] ?? '', 'title' => '申請', 'ts_tr_status' => '状態', 'ts_tr_received' => '受付',
             'ts_tr_apply' => '自動適用', 'ts_tr_warn' => '注意'];
 });
 
-add_action('manage_' . TS_TAKEDOWN_TYPE . '_posts_custom_column', function ($col, $post_id) {
+add_action('manage_' . TS_Takedown_Rules::POST_TYPE . '_posts_custom_column', function ($col, $post_id) {
     $r = ts_takedown_get((int) $post_id);
     $t = function ($ts) { return $ts ? wp_date('Y-m-d H:i', $ts) : '—'; };
     if ($col === 'ts_tr_status') echo esc_html(TS_Takedown_Rules::status_labels()[$r['status']] ?? $r['status']);

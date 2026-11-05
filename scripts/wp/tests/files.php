@@ -91,10 +91,10 @@ foreach (glob("$root/themes/ts-bunko/*.php") as $f) {
     if (preg_match_all('/\b(ts_[a-z_0-9]+)\(/', file_get_contents($f), $m)) foreach ($m[1] as $n) $called[$n] = true;
 }
 // ts-index.php は 'ts_bunko_index_' . $kind の名前で呼ぶ
-foreach (TS_INDEX_KINDS as $k) $called["ts_bunko_index_$k"] = true;
+foreach (TS_Index_Text::KINDS as $k) $called["ts_bunko_index_$k"] = true;
 $undefined = array_values(array_filter(array_keys($called), function ($n) use ($defined) { return !isset($defined[$n]); }));
 check('テーマが呼ぶ ts_ の関数は全部定義されている', $undefined, []);
-$called_names = array_values(array_diff(array_keys($called), array_map(function ($k) { return "ts_bunko_index_$k"; }, TS_INDEX_KINDS)));
+$called_names = array_values(array_diff(array_keys($called), array_map(function ($k) { return "ts_bunko_index_$k"; }, TS_Index_Text::KINDS)));
 sort($called_names);
 check('テーマが呼ぶ関数の一覧 (変えるときはテーマも直す)', $called_names,
       ['ts_bunko_author_links', 'ts_bunko_biblio_card', 'ts_bunko_breadcrumb', 'ts_bunko_catalog_notes', 'ts_bunko_episode_nav',

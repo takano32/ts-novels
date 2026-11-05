@@ -21,7 +21,7 @@ final class TS_Takedown_Store {
 
 add_action('init', function () {
     $cap = 'ts_manage_takedown';
-    register_post_type(TS_TAKEDOWN_TYPE, [
+    register_post_type(TS_Takedown_Rules::POST_TYPE, [
         'labels' => ['name' => '取り下げの申請', 'singular_name' => '取り下げの申請',
                      'add_new' => '申請を起票', 'add_new_item' => '取り下げの申請を起票',
                      'edit_item' => '取り下げの申請', 'menu_name' => '取り下げの申請'],
@@ -39,7 +39,7 @@ add_action('init', function () {
 
 /** 申請の投稿はいつも private (管理画面の「公開」で起票しても公開状態にしない) */
 add_filter('wp_insert_post_data', function ($data) {
-    if (($data['post_type'] ?? '') === TS_TAKEDOWN_TYPE
+    if (($data['post_type'] ?? '') === TS_Takedown_Rules::POST_TYPE
         && !in_array($data['post_status'], ['auto-draft', 'trash', 'private', 'inherit'], true)) {
         $data['post_status'] = 'private';
     }
@@ -94,7 +94,7 @@ function ts_takedown_store(array $d, string $via, int $post_id = 0): int {
     $p = TS_Takedown_Rules::params();
     $now = time();
     if ($post_id === 0) {
-        $post_id = (int) wp_insert_post(['post_type' => TS_TAKEDOWN_TYPE, 'post_status' => 'private',
+        $post_id = (int) wp_insert_post(['post_type' => TS_Takedown_Rules::POST_TYPE, 'post_status' => 'private',
                                           'post_title' => '申請', 'post_author' => 0], true);
         if ($post_id <= 0) return 0;
     }

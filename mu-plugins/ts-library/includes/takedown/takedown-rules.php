@@ -2,7 +2,7 @@
 /**
  * 取り下げフォームのパラメータと判定 (specs/S124.md〜S130.md、S135.md)。WordPress を使わない。
  *
- *  - 投稿タイプの名前 TS_TAKEDOWN_TYPE と、状態 (S126) の呼び名
+ *  - 投稿タイプの名前 TS_Takedown_Rules::POST_TYPE と、状態 (S126) の呼び名
  *  - 裁定待ちのパラメータ (S135) は既定値で動き、wp-config.php で同名の定数を先に define すれば変えられる
  *  - スパム対策の判定 (S124)・確認時刻 (S126)・運営委員の操作の遷移 (S128)・cron の判定 (S126)・
  *    依頼者情報の保持期限 (S125) — どれも時刻と状態を引数で受ける純粋な関数で、
@@ -14,10 +14,10 @@
 
 if (!defined('ABSPATH') && !defined('TS_LIBRARY_TEST')) { exit; }
 
-/** 申請の投稿タイプ (S125)。`wp ts reset` の対象 (TS_Content_Model::POST_TYPES) には入れない */
-const TS_TAKEDOWN_TYPE = 'ts_takedown_request';
-
 final class TS_Takedown_Rules {
+
+    /** 申請の投稿タイプ (S125)。`wp ts reset` の対象 (TS_Content_Model::POST_TYPES) には入れない */
+    public const POST_TYPE = 'ts_takedown_request';
 
     /** 申し出た人の立場 (S124) と、運営委員の画面とメールの要約に出す呼び名 */
     public const RELATION_LABELS = ['author' => '作者本人', 'heir' => '権利継承者', 'other' => 'その他'];
@@ -139,3 +139,7 @@ final class TS_Takedown_Rules {
         return $ids;
     }
 }
+
+/** 互換のための裸の定数 (T45.7.2。決めは T45.1.19.5)。正は TS_Takedown_Rules::POST_TYPE で、mu-plugin の中はそちらを引く。
+ *  運用で wp eval から引かれても落ちないように残す */
+const TS_TAKEDOWN_TYPE = TS_Takedown_Rules::POST_TYPE;

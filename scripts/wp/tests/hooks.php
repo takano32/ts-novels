@@ -54,17 +54,17 @@ check('ショートコード', array_keys(TS_WP_Stubs::$shortcodes), ['ts_takedo
 TS_WP_Stubs::reset();
 TS_WP_Stubs::run_init();
 check('init で登録する投稿タイプ (登録の順。申請は TS_Content_Model::POST_TYPES の後)', array_keys(TS_WP_Stubs::$registered['post_type']),
-      array_merge(TS_Content_Model::POST_TYPES, [TS_TAKEDOWN_TYPE]));
+      array_merge(TS_Content_Model::POST_TYPES, [TS_Takedown_Rules::POST_TYPE]));
 check('init で登録する taxonomy', array_keys(TS_WP_Stubs::$registered['taxonomy']), TS_Content_Model::TAXONOMIES);
 check('register_post_type の引数は TS_Content_Model のまま', TS_WP_Stubs::$registered['post_type']['ts_work'], TS_Content_Model::post_types()['ts_work']);
 check('register_taxonomy の対象と引数は TS_Content_Model のまま', TS_WP_Stubs::$registered['taxonomy']['ts_corpus'], TS_Content_Model::taxonomies()['ts_corpus']);
 check('register_post_meta は ts_work の WORK_META_KEYS', array_keys(TS_WP_Stubs::$registered['meta']['ts_work'] ?? []), TS_Content_Model::WORK_META_KEYS);
 check('申請の投稿タイプは公開しない・UI あり・権限は ts_manage_takedown',
-      [TS_WP_Stubs::$registered['post_type'][TS_TAKEDOWN_TYPE]['public'], TS_WP_Stubs::$registered['post_type'][TS_TAKEDOWN_TYPE]['show_ui'],
-       array_values(array_unique(TS_WP_Stubs::$registered['post_type'][TS_TAKEDOWN_TYPE]['capabilities']))], [false, true, ['ts_manage_takedown']]);
+      [TS_WP_Stubs::$registered['post_type'][TS_Takedown_Rules::POST_TYPE]['public'], TS_WP_Stubs::$registered['post_type'][TS_Takedown_Rules::POST_TYPE]['show_ui'],
+       array_values(array_unique(TS_WP_Stubs::$registered['post_type'][TS_Takedown_Rules::POST_TYPE]['capabilities']))], [false, true, ['ts_manage_takedown']]);
 check('rewrite は索引と年別の 2 本', array_map(function ($r) { return $r[0]; }, TS_WP_Stubs::$registered['rewrite']),
       ['^index/(kana|timeline|bunrui|vocabulary|osusume|docs)/?$', '^year/([0-9]{4})/?$']);
 check('cron ts_takedown_tick を hourly で予約する', array_filter(TS_WP_Stubs::$log, function ($l) { return $l[0] === 'wp_schedule_event'; }),
       [['wp_schedule_event', ['ts_takedown_tick', 'hourly']]]);
-check('URL 基底は登録の引数から (TS_Content_Model と同じ)', [TS_WP_Stubs::$post_type_slugs['ts_work'], TS_WP_Stubs::$post_type_slugs[TS_TAKEDOWN_TYPE],
+check('URL 基底は登録の引数から (TS_Content_Model と同じ)', [TS_WP_Stubs::$post_type_slugs['ts_work'], TS_WP_Stubs::$post_type_slugs[TS_Takedown_Rules::POST_TYPE],
       TS_WP_Stubs::$taxonomy_slugs['ts_author'], TS_WP_Stubs::$taxonomy_slugs['ts_corpus']], ['novel', false, 'authors', false]);

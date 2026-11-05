@@ -17,7 +17,7 @@ function ts_takedown_tick(): void {
     $p = TS_Takedown_Rules::params();
     $n = ['expire' => 0, 'remind' => 0, 'apply' => 0, 'purge' => 0];
     try {
-        $ids = get_posts(['post_type' => TS_TAKEDOWN_TYPE, 'post_status' => 'any', 'posts_per_page' => -1,
+        $ids = get_posts(['post_type' => TS_Takedown_Rules::POST_TYPE, 'post_status' => 'any', 'posts_per_page' => -1,
                           'fields' => 'ids', 'no_found_rows' => true]);
         $now = time();
         $todo = TS_Takedown_Rules::tick_plan(array_map(function ($id) { return ts_takedown_get((int) $id); }, $ids), $now, $p);

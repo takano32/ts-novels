@@ -39,7 +39,9 @@ check('メタは文字列・単一・REST に出さない・書けない', TS_Co
       ['type' => 'string', 'single' => true, 'show_in_rest' => false, 'auth_callback' => '__return_false']);
 
 // wp ts reset の対象外 (S125)
-check('reset の対象 (POST_TYPES) に申請を含まない', in_array(TS_TAKEDOWN_TYPE, TS_Content_Model::POST_TYPES, true), false);
-check('申請の投稿タイプ名', TS_TAKEDOWN_TYPE, 'ts_takedown_request');
+check('reset の対象 (POST_TYPES) に申請を含まない', in_array(TS_Takedown_Rules::POST_TYPE, TS_Content_Model::POST_TYPES, true), false);
+check('申請の投稿タイプ名', TS_Takedown_Rules::POST_TYPE, 'ts_takedown_request');
+// 裸の定数は互換のために残し、クラス定数を指す (T45.7.2)
+check('裸の TS_TAKEDOWN_TYPE はクラス定数と同じ', TS_TAKEDOWN_TYPE, TS_Takedown_Rules::POST_TYPE);
 check('reset の説明文に書く', strpos((new ReflectionMethod('TS_Reset_Command', 'reset'))->getDocComment(), '取り下げの申請 (ts_takedown_request) は消さない') !== false, true);
 // reset が消す集合は WordPress の代わりの上で流して見る (scripts/wp/tests/commands-wp.php)

@@ -10,10 +10,10 @@
 
 if (!defined('ABSPATH') && !defined('TS_LIBRARY_TEST')) { exit; }
 
-/** 索引の種類 (/index/<種類>/)。query var は公開なので、この許可リストで正規化する */
-const TS_INDEX_KINDS = ['kana', 'timeline', 'bunrui', 'vocabulary', 'osusume', 'docs'];
-
 final class TS_Index_Text {
+
+    /** 索引の種類 (/index/<種類>/)。query var は公開なので、この許可リストで正規化する */
+    public const KINDS = ['kana', 'timeline', 'bunrui', 'vocabulary', 'osusume', 'docs'];
 
     /** 索引の題名 (document_title_parts とテーマの ts-index.php の見出し) */
     public const TITLES = ['kana' => '作者索引', 'timeline' => '年表', 'bunrui' => '分類索引',
@@ -70,3 +70,7 @@ final class TS_Index_Text {
         return $seed % $count;
     }
 }
+
+/** 互換のための裸の定数 (T45.7.2。決めは T45.1.19.5)。正は TS_Index_Text::KINDS で、mu-plugin の中はそちらを引く。
+ *  配備の確認 (scripts/wp/deploy_run.sh) が本番の WordPress の中でこの名前を読む (配備前の本番にはクラス定数が無い) */
+const TS_INDEX_KINDS = TS_Index_Text::KINDS;

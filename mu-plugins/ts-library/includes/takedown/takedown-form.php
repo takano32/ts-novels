@@ -114,7 +114,7 @@ add_action('template_redirect', function () {
         ts_takedown_respond(404, 'リンクを確かめてください', '<p>このリンクは正しくないか、すでに使えなくなっています。</p>');
     };
     if (!preg_match('/^[0-9a-f]{64}$/', $token)) $bad();
-    $ids = get_posts(['post_type' => TS_TAKEDOWN_TYPE, 'post_status' => 'any', 'posts_per_page' => 1,
+    $ids = get_posts(['post_type' => TS_Takedown_Rules::POST_TYPE, 'post_status' => 'any', 'posts_per_page' => 1,
                       'fields' => 'ids', 'no_found_rows' => true,
                       'meta_key' => '_tr_token', 'meta_value' => wp_hash($token)]);
     if (!$ids) $bad();

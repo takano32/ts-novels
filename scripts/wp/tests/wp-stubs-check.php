@@ -95,7 +95,7 @@ check('wp_update_post: 状態が変わり post_modified は $now、記録が残�
 check('wp_insert_post: 新しい ID、既定は draft、題名から post_name', (function () { $id = wp_insert_post(['post_type' => 'ts_doc', 'post_title' => 'New Doc']);
       return [$id, get_post_status($id), get_post_field('post_name', $id)]; })(), [8, 'draft', 'new-doc']);
 check('wp_insert_post は wp_insert_post_data のフィルタを通す (申請はいつも private)',
-      get_post_status(wp_insert_post(['post_type' => TS_TAKEDOWN_TYPE, 'post_status' => 'publish', 'post_title' => '申請'])), 'private');
+      get_post_status(wp_insert_post(['post_type' => TS_Takedown_Rules::POST_TYPE, 'post_status' => 'publish', 'post_title' => '申請'])), 'private');
 check('option: 既定・書く・消す', (function () { $a = get_option('ts_x', 'none'); update_option('ts_x', [1]); $b = get_option('ts_x'); delete_option('ts_x'); return [$a, $b, get_option('ts_x')]; })(),
       ['none', [1], false]);
 check('transient', (function () { set_transient('k', ['n' => 1], 60); $v = get_transient('k'); delete_transient('k'); return [$v, get_transient('k'), TS_WP_Stubs::$transients]; })(),
