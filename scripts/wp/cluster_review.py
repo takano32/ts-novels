@@ -25,7 +25,7 @@
 使い方
   python3 scripts/wp/cluster_review.py [--since REV] [--out PATH]
 
-抽出・一次案・作品 1 件の書式・slug の突き合わせは scripts/wp/tslib/cluster_review.py。
+抽出・一次案・文書の組み立て・slug の突き合わせは scripts/wp/tslib/cluster_review.py。
 このファイルは引数の解釈と読み書きと表示だけ。
 """
 import argparse
@@ -36,23 +36,18 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tslib import paths, cluster_review as cr             # noqa: E402
+from tslib.fileio import read_jsonl                       # noqa: E402
 from tslib.gitinfo import show_file, short_rev            # noqa: E402
 
 DEFAULT_ROOT = paths.REPO_ROOT
 
 
 def load_works(root):
-    with open(os.path.join(root, 'catalog', 'works.jsonl'), encoding='utf-8') as fh:
-        return [json.loads(line) for line in fh]
+    return read_jsonl(os.path.join(root, 'catalog', 'works.jsonl'))
 
 
 def load_episodes(root):
-    out = {}
-    with open(os.path.join(root, 'catalog', 'episodes.jsonl'), encoding='utf-8') as fh:
-        for line in fh:
-            r = json.loads(line)
-            out[r['episode_id']] = r
-    return out
+    return {r['episode_id']: r for r in read_jsonl(os.path.join(root, 'catalog', 'episodes.jsonl'))}
 
 
 def slug_changes(root, rev):
@@ -75,54 +70,17 @@ def main(argv=None):
 
     works = load_works(root)
     episodes = load_episodes(root)
-    targets = [w for w in works if cr.is_target(w)]
-    weak = sorted([w for w in targets if cr.is_weak(w)], key=lambda w: w['work_slug'])
-    strong = sorted([w for w in targets if not cr.is_weak(w)], key=lambda w: w['work_slug'])
-
-    L = ['# 作品クラスタのレビュー (%s)' % month, '',
-         '`scripts/wp/cluster_review.py` の出力 (仕様は specs/S149.md、裁定の書き方は specs/S150.md)。'
-         '手で直さず、作り直すときはスクリプトを走らせる。裁定はこのファイルの写しか返信でもらい、'
-         '`catalog/work_overrides.yml` に転記する (T24.5)。', '',
-         '- 対象: 連載 (2 話以上) のうち、話の題名の芯が 2 種以上あり、芯どうしの共通接頭辞が 2 文字未満の作品',
-         '- 件数: **%d 作品** (根拠が規則 5/6 だけ = 弱い根拠 %d を先頭に、強い根拠のあるもの %d を後に)'
-         % (len(targets), len(weak), len(strong)),
-         '- 一次案は芯ごとの機械の振り分けで、裁定ではない。強い根拠のある作品は ○、弱い根拠だけの作品は'
-         '話数の最も多い芯の組を残し、他の組を分割 (2 話以上) か切り離し (1 話) にしている', '',
-         '## 弱い根拠だけの作品 (%d)' % len(weak), '']
-    n = 0
-    for w in weak:
-        n += 1
-        L += cr.render_work(w, n, episodes)
-    L += ['## 強い根拠のある作品 (%d)' % len(strong), '']
-    for w in strong:
-        n += 1
-        L += cr.render_work(w, n, episodes)
-
+    weak, strong = cr.split_targets(works)
+    L = cr.render_report(works, episodes, month)
     if args.since:
         old, new, rows = slug_changes(root, args.since)
-        rev = short_rev(root, args.since)
-        merged = sum(1 for w, t in rows if len(t) == 1 and
-                     sum(1 for x in new if x['work_slug'] == t[0] and x['episode_count'] != w['episode_count']))
-        L += ['## slug が変わった作品 (%s との比較)' % rev, '',
-              '題名の芯の追加規則 (specs/S148.md) などで work_slug が変わった作品。話の所属で突き合わせた。'
-              '本番の URL の付け替え (T24.6) は本番の `export-pathmap` の差分で作るので、これはその下調べ。', '',
-              '- works: %d → %d / slug が変わった作品: **%d** (うち他の作品と束ね直されたもの %d)'
-              % (len(old), len(new), len(rows), merged), '',
-              '| 旧 work_slug | 新 work_slug | 旧題名 | 新題名 | 話数 (旧 → 新の作品) |',
-              '|---|---|---|---|---|']
-        new_by_slug = {w['work_slug']: w for w in new}
-        for w, tgt in rows:
-            t = new_by_slug[tgt[0]]
-            L.append('| `%s` | %s | %s | %s | %d → %d |' % (
-                w['work_slug'], ', '.join('`%s`' % s for s in tgt), cr.md_cell(w['title']),
-                cr.md_cell(t['title']), w['episode_count'], t['episode_count']))
-        L.append('')
+        L += cr.render_slug_section(old, new, rows, short_rev(root, args.since))
 
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, 'w', encoding='utf-8') as fh:
         fh.write('\n'.join(L).rstrip('\n') + '\n')
     print('cluster_review: %d 作品 (弱い根拠 %d / 強い根拠 %d) → %s'
-          % (len(targets), len(weak), len(strong), os.path.relpath(out_path, root)))
+          % (len(weak) + len(strong), len(weak), len(strong), os.path.relpath(out_path, root)))
     return 0
 
 

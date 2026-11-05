@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """cluster_review.py — 作品クラスタのレビュー資料の中身 (T24.3、仕様は specs/S149.md)。
 
-抽出の規則・芯ごとの一次案・作品 1 件の Markdown と、slug が変わった作品の突き合わせ。
+抽出の規則・芯ごとの一次案・文書の Markdown (render_report と、--since の節の render_slug_section) と、
+slug が変わった作品の突き合わせ。戻り値は行の列で、つないで書くのは入口。
 ファイルと git の読み書きは scripts/wp/cluster_review.py。題名の芯は tslib/works.py の
 trim_title と common_prefix を使う。
 """
@@ -129,3 +130,57 @@ def slug_rows(old, new):
         rows.append((w, sorted(tgt)))
     rows.sort(key=lambda x: x[0]['work_slug'])
     return rows
+
+
+def split_targets(works):
+    """対象の作品を (弱い根拠だけ, 強い根拠あり) に分ける。どちらも work_slug 順。"""
+    targets = [w for w in works if is_target(w)]
+    weak = sorted([w for w in targets if is_weak(w)], key=lambda w: w['work_slug'])
+    strong = sorted([w for w in targets if not is_weak(w)], key=lambda w: w['work_slug'])
+    return weak, strong
+
+
+def render_report(works, episodes, month):
+    """文書の本体 (見出し・説明・弱い根拠と強い根拠の 2 つの部分) の行の列。番号は 2 つの部分を通しで振る。"""
+    weak, strong = split_targets(works)
+    L = ['# 作品クラスタのレビュー (%s)' % month, '',
+         '`scripts/wp/cluster_review.py` の出力 (仕様は specs/S149.md、裁定の書き方は specs/S150.md)。'
+         '手で直さず、作り直すときはスクリプトを走らせる。裁定はこのファイルの写しか返信でもらい、'
+         '`catalog/work_overrides.yml` に転記する (T24.5)。', '',
+         '- 対象: 連載 (2 話以上) のうち、話の題名の芯が 2 種以上あり、芯どうしの共通接頭辞が 2 文字未満の作品',
+         '- 件数: **%d 作品** (根拠が規則 5/6 だけ = 弱い根拠 %d を先頭に、強い根拠のあるもの %d を後に)'
+         % (len(weak) + len(strong), len(weak), len(strong)),
+         '- 一次案は芯ごとの機械の振り分けで、裁定ではない。強い根拠のある作品は ○、弱い根拠だけの作品は'
+         '話数の最も多い芯の組を残し、他の組を分割 (2 話以上) か切り離し (1 話) にしている', '',
+         '## 弱い根拠だけの作品 (%d)' % len(weak), '']
+    n = 0
+    for w in weak:
+        n += 1
+        L += render_work(w, n, episodes)
+    L += ['## 強い根拠のある作品 (%d)' % len(strong), '']
+    for w in strong:
+        n += 1
+        L += render_work(w, n, episodes)
+    return L
+
+
+def render_slug_section(old, new, rows, rev):
+    """--since の節「slug が変わった作品」の行の列。rows は slug_rows(old, new)、rev は比べた版の短い名前。
+    「束ね直された」は、移った先が 1 作品で、その作品の話数が旧の作品と違うもの。"""
+    merged = sum(1 for w, t in rows if len(t) == 1 and
+                 sum(1 for x in new if x['work_slug'] == t[0] and x['episode_count'] != w['episode_count']))
+    L = ['## slug が変わった作品 (%s との比較)' % rev, '',
+         '題名の芯の追加規則 (specs/S148.md) などで work_slug が変わった作品。話の所属で突き合わせた。'
+         '本番の URL の付け替え (T24.6) は本番の `export-pathmap` の差分で作るので、これはその下調べ。', '',
+         '- works: %d → %d / slug が変わった作品: **%d** (うち他の作品と束ね直されたもの %d)'
+         % (len(old), len(new), len(rows), merged), '',
+         '| 旧 work_slug | 新 work_slug | 旧題名 | 新題名 | 話数 (旧 → 新の作品) |',
+         '|---|---|---|---|---|']
+    new_by_slug = {w['work_slug']: w for w in new}
+    for w, tgt in rows:
+        t = new_by_slug[tgt[0]]
+        L.append('| `%s` | %s | %s | %s | %d → %d |' % (
+            w['work_slug'], ', '.join('`%s`' % s for s in tgt), md_cell(w['title']),
+            md_cell(t['title']), w['episode_count'], t['episode_count']))
+    L.append('')
+    return L

@@ -54,6 +54,31 @@ class ClusterReviewTest(unittest.TestCase):
         new = [{'work_slug': 'a2', 'episodes': [{'episode_id': 'e1'}]}, {'work_slug': 'b', 'episodes': [{'episode_id': 'e2'}]}]
         self.assertEqual(cr.slug_rows(old, new), [(old[1], ['a2'])])
 
+    def test_render_report(self):
+        weak = dict(work([ep('e1', '赤い花 第1話'), ep('e2', '青い空')]), work_slug='b-weak')
+        strong = dict(work([ep('e3', '白い雲'), ep('e4', '黒い夜')], ['series-html']), work_slug='a-strong')
+        other = dict(work([ep('e5', '赤い花')]), work_slug='c-single')
+        L = cr.render_report([strong, other, weak], {}, '2026-11')
+        self.assertEqual(L[0], '# 作品クラスタのレビュー (2026-11)')
+        self.assertIn('- 件数: **2 作品** (根拠が規則 5/6 だけ = 弱い根拠 1 を先頭に、強い根拠のあるもの 1 を後に)', L)
+        heads = [x for x in L if x.startswith('## ') or x.startswith('### ')]
+        self.assertEqual(heads, ['## 弱い根拠だけの作品 (1)', '### 1. `b-weak` — X',
+                                 '## 強い根拠のある作品 (1)', '### 2. `a-strong` — X'])
+        self.assertEqual(cr.split_targets([strong, other, weak]), ([weak], [strong]))
+        self.assertEqual(cr.render_report([], {}, '2026-11')[-2:], ['## 強い根拠のある作品 (0)', ''])
+
+    def test_render_slug_section(self):
+        old = [{'work_slug': 'a', 'title': 'A|1', 'episode_count': 1, 'episodes': [{'episode_id': 'e1'}]},
+               {'work_slug': 'b', 'title': 'B', 'episode_count': 1, 'episodes': [{'episode_id': 'e2'}]}]
+        new = [{'work_slug': 'a2', 'title': 'A2', 'episode_count': 1, 'episodes': [{'episode_id': 'e1'}]},
+               {'work_slug': 'c', 'title': 'C', 'episode_count': 2,
+                'episodes': [{'episode_id': 'e2'}, {'episode_id': 'e3'}]}]
+        rows = cr.slug_rows(old, new)
+        L = cr.render_slug_section(old, new, rows, 'abc1234')
+        self.assertEqual(L[0], '## slug が変わった作品 (abc1234 との比較)')
+        self.assertEqual(L[4], '- works: 2 → 2 / slug が変わった作品: **2** (うち他の作品と束ね直されたもの 1)')
+        self.assertEqual(L[-3:], ['| `a` | `a2` | A\\|1 | A2 | 1 → 1 |', '| `b` | `c` | B | C | 1 → 2 |', ''])
+
 
 if __name__ == '__main__':
     unittest.main()
