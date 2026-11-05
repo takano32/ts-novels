@@ -3,7 +3,10 @@
  * 表示部品の HTML (specs/S41.md の書誌カードほか)。WordPress の代わり (scripts/wp/tests/wp-stubs.php) の上で includes/render/*.php を
  * 動かし、構造 (タグ・class・順・文言) を固定する。scripts/wp/ts_library_test.php から WP の表を読んだ後に読む。
  * 期待値は分割前 (d586f0eb) の includes/render.php を同じ代わりと同じ置き場 (wp-fixtures.php) で動かした出力から取る
- * (scripts/wp/php_probe.sh。実装の写しにしない)。T45.1.15.1 でほかの部品を足す。
+ * (scripts/wp/php_probe.sh。実装の写しにしない)。
+ *
+ * 部品が多いものは、場面 (wp-fixtures.php の関数) の上で部品 × 投稿の出力を「部品/投稿」の鍵の配列に集め、旧版の出力を
+ * var_export したものと鍵ごとに比べる ($same)。probe は同じ集め方のコードを旧版のファイルの上で流したもの。
  */
 
 // ---------------------------------------------------------------- 書誌カード (S41)。期待値: d586f0eb の render.php、2026-11-05、probe-biblio.php
@@ -25,4 +28,86 @@ check('書誌カード: 原本リンクだけ・route_label の回収経路・�
 check('書誌カード: 初出のパスだけ (日付なし・知らない route はそのまま・注記なし)', $card($ids['bare']),
       '<aside class="ts-biblio" aria-label="書誌情報"><h2 class="ts-biblio-title">この作品について</h2><dl>'
       . '<dt>初出</dt><dd>ts.novels.jp/novel/200305/hoshi.htm</dd><dt>回収経路</dt><dd>ftp</dd></dl></aside>');
+
+/** 鍵の集合と、鍵ごとの値を比べる (1 鍵 1 件) */
+$same = function (string $label, array $got, array $want) {
+    check("$label: 鍵の集合", array_keys($got), array_keys($want));
+    foreach ($want as $k => $v) check("$label: $k", $got[$k] ?? null, $v);
+};
+/** 部品 $fn を投稿 $id で呼んだ出力 */
+$part = function (string $fn, int $id) { return TS_WP_Stubs::capture(function () use ($fn, $id) { $fn(get_post($id)); }); };
+
+// ---------------------------------------------------------------- 作品・話のページの部品 8 つとサイドバー (T45.1.15.1)
+// 期待値: d586f0eb の render.php と visibility.php (ts_visibility_child_statuses)、2026-11-05、probe-render-parts.php。
+// 原パスの表と作者名の表 (render-lookup.php の static) はこの場面で初めて作られる (オススメ・関連ページ・挿絵のリンク)。
+// サイドバーの検索窓はテーマの searchform.php なので、probe にも themes/ts-bunko を送った
+$ids = ts_fixture_render_parts();
+[$e0, $e1, $e2] = $ids['ep'];
+$got = [];
+foreach (['breadcrumb' => 'ts_bunko_breadcrumb', 'meta_header' => 'ts_bunko_meta_header', 'episode_nav' => 'ts_bunko_episode_nav',
+          'work_toc' => 'ts_bunko_work_toc', 'suisen' => 'ts_bunko_suisen', 'catalog_notes' => 'ts_bunko_catalog_notes',
+          'osusume' => 'ts_bunko_osusume', 'inline_nav' => 'ts_bunko_inline_nav'] as $k => $fn) {
+    foreach (['e0' => $e0, 'e1' => $e1, 'e2' => $e2, 'serial' => $ids['serial'], 'single' => $ids['single']] as $pk => $pid) {
+        $got["$k/$pk"] = $part($fn, $pid);
+    }
+}
+$got['sidebar/none'] = TS_WP_Stubs::capture('ts_bunko_sidebar');
+TS_WP_Stubs::$query_vars['ts_index'] = 'kana';
+$got['sidebar/kana'] = TS_WP_Stubs::capture('ts_bunko_sidebar');
+$same('表示部品', $got, array (
+  'breadcrumb/e0' => '<nav class="ts-breadcrumb" aria-label="現在位置"><a href="https://novels.xwp.jp/authors/hoshino-akari/">星野 灯</a> › <a href="https://novels.xwp.jp/novel/hikari-no-michi/">光の道</a> › <span aria-current="page">第一話</span></nav>',
+  'breadcrumb/e1' => '<nav class="ts-breadcrumb" aria-label="現在位置"><a href="https://novels.xwp.jp/novel/hikari-no-michi/">光の道</a> › <span aria-current="page">第二話</span></nav>',
+  'breadcrumb/e2' => '<nav class="ts-breadcrumb" aria-label="現在位置"><a href="https://novels.xwp.jp/novel/hikari-no-michi/">光の道</a> › <span aria-current="page">第三話 &lt;後編&gt;</span></nav>',
+  'breadcrumb/serial' => '<nav class="ts-breadcrumb" aria-label="現在位置"><a href="https://novels.xwp.jp/authors/hoshino-akari/">星野 灯</a> › <span aria-current="page">光の道</span></nav>',
+  'breadcrumb/single' => '<nav class="ts-breadcrumb" aria-label="現在位置"><span aria-current="page">一人の夜</span></nav>',
+  'meta_header/e0' => '<div class="ts-meta-header"><p class="ts-meta-bits">初出 2003/04/01　·　読了 約1分　·　挿絵 <a href="https://novels.xwp.jp/authors/efude-taro/">えふで</a>・名無しの絵師</p><p class="ts-chips"><a class="ts-chip ts-chip-ts_genre" href="https://novels.xwp.jp/genre/gakuen/">学園</a> <a class="ts-chip ts-chip-ts_type" href="https://novels.xwp.jp/type/irekawari/">入れ替わり</a> <a class="ts-chip ts-chip-ts_keyword" href="https://novels.xwp.jp/keyword/ame/">あめ</a> <a class="ts-chip ts-chip-ts_keyword" href="https://novels.xwp.jp/keyword/neko/">ねこ</a> <a class="ts-chip ts-chip-ts_world" href="https://novels.xwp.jp/world/hoshi-no-machi/">星の町 &amp; 海</a></p></div>',
+  'meta_header/e1' => '<div class="ts-meta-header"><p class="ts-meta-bits">初出 2003/05/01</p></div>',
+  'meta_header/e2' => '<div class="ts-meta-header"><p class="ts-meta-bits">初出 2003/06/01</p></div>',
+  'meta_header/serial' => '<div class="ts-meta-header"></div>',
+  'meta_header/single' => '<div class="ts-meta-header"></div>',
+  'episode_nav/e0' => '<nav class="ts-episode-nav" aria-label="話の移動"><span class="ts-nav-prev is-empty"></span><a class="ts-nav-toc" href="https://novels.xwp.jp/novel/hikari-no-michi/">作品目次</a><a class="ts-nav-next" rel="next" href="https://novels.xwp.jp/novel/hikari-no-michi/hikari03/">第三話 &lt;後編&gt; →</a></nav>',
+  'episode_nav/e1' => '<nav class="ts-episode-nav" aria-label="話の移動"><span class="ts-nav-prev is-empty"></span><a class="ts-nav-toc" href="https://novels.xwp.jp/novel/hikari-no-michi/">作品目次</a><span class="ts-nav-next is-empty"></span></nav>',
+  'episode_nav/e2' => '<nav class="ts-episode-nav" aria-label="話の移動"><a class="ts-nav-prev" rel="prev" href="https://novels.xwp.jp/novel/hikari-no-michi/hikari01/">← 第一話</a><a class="ts-nav-toc" href="https://novels.xwp.jp/novel/hikari-no-michi/">作品目次</a><span class="ts-nav-next is-empty"></span></nav>',
+  'episode_nav/serial' => '',
+  'episode_nav/single' => '',
+  'work_toc/e0' => '',
+  'work_toc/e1' => '',
+  'work_toc/e2' => '',
+  'work_toc/serial' => '<ol class="ts-toc"><li><a href="https://novels.xwp.jp/novel/hikari-no-michi/hikari01/">第一話</a> <span class="ts-toc-date">2003/04/01</span></li><li><a href="https://novels.xwp.jp/novel/hikari-no-michi/hikari03/">第三話 &lt;後編&gt;</a> <span class="ts-toc-date">2003/06/01</span></li></ol>',
+  'work_toc/single' => '',
+  'suisen/e0' => '<aside class="ts-suisen"><h2 class="ts-suisen-title">目録の推薦文</h2><blockquote>胸が「熱く」なる &lt;推薦&gt;</blockquote></aside>',
+  'suisen/e1' => '',
+  'suisen/e2' => '',
+  'suisen/serial' => '',
+  'suisen/single' => '',
+  'catalog_notes/e0' => '<div class="ts-catalog-notes"><p class="ts-arasuji"><span class="ts-label">あらすじ</span>ある朝、光の道が現れた。</p><p class="ts-author-comment"><span class="ts-label">作者より</span>読んでくれてありがとう &amp; またね</p></div>',
+  'catalog_notes/e1' => '',
+  'catalog_notes/e2' => '',
+  'catalog_notes/serial' => '',
+  'catalog_notes/single' => '',
+  'osusume/e0' => '<aside class="ts-osusume"><h2 class="ts-osusume-title">この作品からのオススメ</h2><p class="ts-osusume-by">読者 一 さんより</p><ul><li><a href="https://novels.xwp.jp/novel/hikari-no-michi/hikari03/">第三話へ</a> <span class="ts-osusume-author">(星野 灯)</span></li><li>館内に無い作品</li><li><a href="https://novels.xwp.jp/novel/hikari-no-michi/">novel/title/hikari.htm</a></li></ul></aside>',
+  'osusume/e1' => '',
+  'osusume/e2' => '',
+  'osusume/serial' => '',
+  'osusume/single' => '',
+  'inline_nav/e0' => '<nav class="ts-inline-nav" aria-label="この作品の関連ページ"><a href="https://novels.xwp.jp/novel/hikari-no-michi/hikari03/">次の話へ</a>　·　<a href="https://novels.xwp.jp/novel/hikari-no-michi/">光の道</a></nav>',
+  'inline_nav/e1' => '',
+  'inline_nav/e2' => '',
+  'inline_nav/serial' => '',
+  'inline_nav/single' => '',
+  'sidebar/none' => '<aside class="ts-sidebar" aria-label="さがす"><div class="ts-sidebar-block"><h2 class="ts-sidebar-title">さがす</h2><form role="search" method="get" class="ts-searchform" action="https://novels.xwp.jp/">
+  <label><span class="screen-reader-text">検索語</span>
+    <input type="search" name="s" value="" placeholder="題名・本文を検索">
+  </label>
+  <button type="submit">検索</button>
+</form>
+</div><nav class="ts-sidebar-block"><h2 class="ts-sidebar-title">索引</h2><ul><li><a href="https://novels.xwp.jp/index/kana/">作者索引</a></li><li><a href="https://novels.xwp.jp/index/timeline/">年表</a></li><li><a href="https://novels.xwp.jp/index/bunrui/">分類索引</a></li><li><a href="https://novels.xwp.jp/index/vocabulary/">キーワード索引</a></li><li><a href="https://novels.xwp.jp/index/docs/">運営文書・資料</a></li></ul></nav><div class="ts-sidebar-block"><h2 class="ts-sidebar-title">この文庫について</h2><ul><li><a href="https://novels.xwp.jp/authors/yays/">オーナー作品集</a></li><li><a href="https://novels.xwp.jp/about/">このサイトについて</a></li><li><a href="https://novels.xwp.jp/archive/">原本アーカイブ</a></li><li><a href="https://novels.xwp.jp/takedown/">掲載の取り下げ</a></li></ul></div></aside>',
+  'sidebar/kana' => '<aside class="ts-sidebar" aria-label="さがす"><div class="ts-sidebar-block"><h2 class="ts-sidebar-title">さがす</h2><form role="search" method="get" class="ts-searchform" action="https://novels.xwp.jp/">
+  <label><span class="screen-reader-text">検索語</span>
+    <input type="search" name="s" value="" placeholder="題名・本文を検索">
+  </label>
+  <button type="submit">検索</button>
+</form>
+</div><nav class="ts-sidebar-block"><h2 class="ts-sidebar-title">索引</h2><ul><li><a href="https://novels.xwp.jp/index/kana/" aria-current="page">作者索引</a></li><li><a href="https://novels.xwp.jp/index/timeline/">年表</a></li><li><a href="https://novels.xwp.jp/index/bunrui/">分類索引</a></li><li><a href="https://novels.xwp.jp/index/vocabulary/">キーワード索引</a></li><li><a href="https://novels.xwp.jp/index/docs/">運営文書・資料</a></li></ul></nav><div class="ts-sidebar-block"><h2 class="ts-sidebar-title">この文庫について</h2><ul><li><a href="https://novels.xwp.jp/authors/yays/">オーナー作品集</a></li><li><a href="https://novels.xwp.jp/about/">このサイトについて</a></li><li><a href="https://novels.xwp.jp/archive/">原本アーカイブ</a></li><li><a href="https://novels.xwp.jp/takedown/">掲載の取り下げ</a></li></ul></div></aside>',
+));
 TS_WP_Stubs::reset();
