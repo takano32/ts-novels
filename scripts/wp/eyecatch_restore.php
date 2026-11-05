@@ -9,6 +9,9 @@
  * 各話の投稿に _thumbnail_id を付ける。添付は中身 (md5) が一致する既存の attachment を
  * 使い回し、無ければ wp media import で作る (同じ中身の画像に attachment を重ねて作らない)。
  * 何度流しても結果は同じ。
+ *
+ * 画像の選び方・使い回すかの判断・終わりの 1 行は mu-plugin の TS_Eyecatch_Refs
+ * (mu-plugins/ts-library/includes/catalog/eyecatch-refs.php。eval-file の中では mu-plugin が読まれている)。
  */
 $dry = in_array('--dry-run', $args ?? [], true);
 $repo = getenv('TS_REPO') ?: (getenv('HOME') . '/novels.xwp.jp/repo');
@@ -30,15 +33,15 @@ foreach (get_posts(['post_type' => 'attachment', 'post_status' => 'any', 'number
 
 $set = 0; $missing = [];
 foreach ($refs as $episode_id => $images) {
-    // 1 話に候補が複数あるときは先頭 (payload の本文で最初に現れる画像) を使う
-    $rel = preg_replace('#^/assets/annex-img/#', '', $images[0]);
+    // 1 話に候補が複数あるときは先頭 (payload の本文で最初に現れる画像) を使う。候補が無ければ「画像が無い」に落ちる
+    $rel = TS_Eyecatch_Refs::source_rel((array) $images) ?? '';
     $src = "$repo/$rel";
     if (!is_file($src)) {
         $missing[] = "$episode_id: 画像が無い $src";
         continue;
     }
     $sum = md5_file($src);
-    if (!isset($by_md5[$sum])) {
+    if (TS_Eyecatch_Refs::decide($sum, $by_md5) === 'import') {
         if ($dry) {
             WP_CLI::line("(dry-run) media import $src");
             $by_md5[$sum] = 0;
@@ -62,4 +65,4 @@ foreach ($refs as $episode_id => $images) {
 foreach ($missing as $m) {
     WP_CLI::warning($m);
 }
-WP_CLI::success(sprintf('eyecatch: %d 話に設定%s (対象 %d 話)', $set, $dry ? ' (dry-run)' : '', count($refs)));
+WP_CLI::success(TS_Eyecatch_Refs::summary($set, count($refs), $dry));
