@@ -13,7 +13,7 @@ if (is_search()) {
     if ($term && $term->description) {
         echo '<p class="ts-archive-desc">' . esc_html($term->description) . '</p>';
     }
-    if ($term && $term->taxonomy === 'ts_author' && function_exists('ts_bunko_author_links')) {
+    if ($term && $term->taxonomy === 'ts_author') {
         ts_bunko_author_links($term);
     }
 } elseif (is_home()) {
@@ -36,7 +36,7 @@ if (have_posts()) {
 }
 
 // 作者ページ: この人が挿絵を描いた作品 (1 ページ目だけ。specs/S240.md)
-if (is_tax('ts_author') && !is_paged() && function_exists('ts_bunko_illustrated_work_ids')) {
+if (is_tax('ts_author') && !is_paged()) {
     $illustrated = ts_bunko_illustrated_work_ids(get_queried_object());
     if ($illustrated) {
         echo '<h2 class="ts-archive-title">挿絵を担当した作品</h2>';

@@ -109,6 +109,12 @@ foreach (glob("$root/themes/ts-bunko/*.php") as $f) {
     }
 }
 check('テーマが引く TS_ のクラスのメソッドと定数は全部ある', array_keys(array_filter($theme_refs, function ($ok) { return !$ok; })), []);
+// テーマは mu-plugin が必ずある前提で、無いときの備え (function_exists・class_exists) を持たない (T45.7.1。決めは T45.6.3)
+$theme_guards = [];
+foreach (glob("$root/themes/ts-bunko/*.php") as $f) {
+    if (preg_match('/\b(function_exists|class_exists)\s*\(/', file_get_contents($f))) $theme_guards[] = basename($f);
+}
+check('テーマに mu-plugin への備えが無い', $theme_guards, []);
 
 // wp ts のサブコマンド名 (登録を受ける WP_CLI の代わりに溜まったもの)
 $names = array_keys(WP_CLI::$commands); sort($names);
