@@ -18,13 +18,13 @@
 このファイルは読み書きと表示だけ。
 """
 import os
-import re
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from tslib import paths, payloads, bodies  # noqa: E402
-from tslib.fileio import read_jsonl, read_json, read_yaml_required, write_json  # noqa: E402
+from tslib.fileio import read_jsonl, read_json, read_text_guess, read_yaml_required, write_json  # noqa: E402
+from tslib.mail import has_leak  # noqa: E402
 
 ROOT = Path(paths.REPO_ROOT)
 BODIES = ROOT / 'bodies'
@@ -72,7 +72,7 @@ def main():
             txt = (ROOT / 'reposts' / f'{eid}.txt').read_text(encoding='utf-8')
             out, ok = payloads.text_payload(txt, run.stats, run.mail_n)
         else:                                   # raw-fallback
-            raw, _enc = bodies.read_text_any(str(ROOT / ep['source_path']))
+            raw, _enc = read_text_guess(str(ROOT / ep['source_path']))
             src_dir = os.path.dirname(ep['source_path'])
             out = payloads.raw_payload(raw, bodies.extract_body(raw), src_dir, images, run.warn, run.mail_n)
             ok = True                           # 原本をそのまま出すので無損失検査はしない
@@ -86,7 +86,7 @@ def main():
     write_json(OUT / '_meta.json', run.meta, indent=0, newline=False)
     # 出荷前の自己検査: 生アドレスが 1 つでも残っていたら失敗させる (鉄則の機械化)
     leaked = [f.name for f in sorted(OUT.glob('*.html'))
-              if payloads.has_leak(f.read_text(encoding='utf-8'))]
+              if has_leak(f.read_text(encoding='utf-8'))]
     report = payloads.report_of(run, raw_fallbacks, takedown, takedown_entries, leaked)
     rp = ROOT / 'catalog' / 'reports' / 'payload_build.json'
     write_json(rp, report, indent=2, newline=False)

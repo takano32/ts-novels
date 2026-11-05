@@ -9,9 +9,9 @@ import datetime
 import html
 import re
 
+from tslib.htmltext import RE_TR, RE_TD, RE_COMMENT, cell_text, anchors, strip_tags
 from tslib.catalog.fragments import (
-    RE_TR, RE_TD, RE_BOLD, MARKERS, STOP_PLAIN, RE_COMMENT_HTML, ParseError,
-    text_of, anchors, strip_tags, split_tokens, marker_values, body_text,
+    RE_BOLD, MARKERS, STOP_PLAIN, ParseError, split_tokens, marker_values, body_text,
     nav_links_of, plain_links_of)
 from tslib.catalog.regular import RE_TABLE, RE_SIZE
 from tslib.catalog.mailto import scrub_mailto
@@ -188,7 +188,7 @@ def parse_legacy_flat_page(page, src, failures):
     if not end:
         failures.append('%s: page range not found' % page)
         return []
-    comment_spans = [m.span() for m in RE_COMMENT_HTML.finditer(src)]
+    comment_spans = [m.span() for m in RE_COMMENT.finditer(src)]
     body_start = 0
     hm = re.search(r'Page\.\s*\d+', src)
     if hm:
@@ -241,13 +241,13 @@ def parse_legacy_flat_page(page, src, failures):
         comment = None
         for key in COMMENT_KEYS:
             if key in by_label:
-                comment = text_of(by_label[key][0])
+                comment = cell_text(by_label[key][0])
                 break
-        editor = text_of(remain)
+        editor = cell_text(remain)
         if editor:
             editor = re.sub(r'^[（(]\s*', '', editor)
             editor = re.sub(r'\s*[）)]$', '', editor).strip() or None
-        title_raw = text_of(m.group(6), keep_breaks=False)
+        title_raw = cell_text(m.group(6), keep_breaks=False)
         tm = RE_LEG_TITLE_BRACKET.match(title_raw or '')
         out.append({
             'title': (tm.group(1).strip() if tm else title_raw),
@@ -267,7 +267,7 @@ def parse_legacy_flat_page(page, src, failures):
             'files_n': None,
             'kansou_slug': None,
             'noteky_url': None,
-            'arasuji': text_of(by_label['あらすじ'][0]) if 'あらすじ' in by_label else None,
+            'arasuji': cell_text(by_label['あらすじ'][0]) if 'あらすじ' in by_label else None,
             'comment': comment,
             'suisen': editor,
             'osusume': None,
@@ -287,7 +287,7 @@ def parse_legacy_flat_page(page, src, failures):
 
 def leg_table_cell_value(cell):
     """`***` / `**` の欠損マーカーを None にした表示テキスト。"""
-    v = text_of(cell, keep_breaks=False)
+    v = cell_text(cell, keep_breaks=False)
     if v is None or RE_LEG_PLACEHOLDER.match(v):
         return None
     return v
@@ -361,10 +361,10 @@ def parse_legacy_table_entry(table, page, ordinal):
                                        ('zokusei', MARKERS['zokusei']), ('keywords', MARKERS['keywords'])),
                                 STOP_PLAIN))
 
-    genre, genre_raw = split_tokens(text_of(fields['genre'], keep_breaks=False))
-    typ, type_raw = split_tokens(text_of(fields['type'], keep_breaks=False))
-    kw, kw_raw = split_tokens(text_of(fields['keywords'], keep_breaks=False))
-    zok, zok_raw = split_tokens(text_of(fields['zokusei'], keep_breaks=False))
+    genre, genre_raw = split_tokens(cell_text(fields['genre'], keep_breaks=False))
+    typ, type_raw = split_tokens(cell_text(fields['type'], keep_breaks=False))
+    kw, kw_raw = split_tokens(cell_text(fields['keywords'], keep_breaks=False))
+    zok, zok_raw = split_tokens(cell_text(fields['zokusei'], keep_breaks=False))
     suisen_html = fields['suisen']
     comment_html = fields['comment'] if fields['comment'] is not None else fields['comment_legacy']
     return {
@@ -395,7 +395,7 @@ def parse_legacy_table_entry(table, page, ordinal):
         'type': typ, 'type_raw': type_raw,
         'keywords': kw, 'keywords_raw': kw_raw,
         'zokusei': zok, 'zokusei_raw': zok_raw,
-        'notice': text_of(fields['notice']) if fields['notice'] else None,
+        'notice': cell_text(fields['notice']) if fields['notice'] else None,
         'catalog_ref': '%s#%d' % (page, ordinal),
         'legacy_format': 'table',
         'legacy_image_flag': image_flag,
@@ -404,7 +404,7 @@ def parse_legacy_table_entry(table, page, ordinal):
         'entry_role': ('notice' if author is None and not (genre or typ or kw) else 'work'),
         'commented_out': False,
         'dropped_mailto': sorted(set(dropped)),
-        '_suisen_full_empty': not text_of(suisen_html or ''),
+        '_suisen_full_empty': not cell_text(suisen_html or ''),
     }
 
 

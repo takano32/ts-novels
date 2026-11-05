@@ -27,7 +27,7 @@ from tslib import slugs as slugmod
 from tslib.fileio import read_text, read_yaml, md5_of
 from tslib.htmltext import RE_COMMENT, RE_TR, RE_ANCHOR, spaced_text, norm_path
 
-RE_TD = re.compile(r'<T[DH][^>]*>(.*?)</T[DH]>', re.S | re.I)
+RE_CELL = re.compile(r'<T[DH][^>]*>(.*?)</T[DH]>', re.S | re.I)   # <TD> と <TH> (htmltext.RE_TD は <TD> だけ)
 RE_TITLE_PAGE = re.compile(r'(?:^|/)(?:[a-z0-9_\-]*title[a-z0-9_\-]*|index|contents)\.html?$', re.I)
 RE_SERIES_NAV = re.compile(r'シリーズタイトル')
 RE_EPISODE_NAV = re.compile(r'第[0-9０-９一二三四五六七八九十百]+[話章編]|前編|後編|中編|上巻|下巻')
@@ -59,9 +59,6 @@ OVERRIDES_NOTES = [
     'authors セクション = 作者 slug (scripts/wp/authors_build.py)',
     'works セクション = 作品 slug (scripts/wp/work_builder.py)',
 ]
-
-text_of = spaced_text
-
 
 class Union:
     """union-find。どの規則で繋いだかを why に残す。"""
@@ -124,24 +121,24 @@ def parse_series_rows(src):
     src = RE_COMMENT.sub('', src)
     out = []
     for row in RE_TR.findall(src):
-        cells = RE_TD.findall(row)
+        cells = RE_CELL.findall(row)
         if len(cells) < 2:
             continue
-        author = text_of(cells[0])
+        author = spaced_text(cells[0])
         links = RE_ANCHOR.findall(cells[1])
         if not author or author == '作者名':
             continue
         title_page, eps = None, []
         for g in links:
             href = norm_path(g[0] or g[1] or g[2])
-            label = text_of(g[3]) or ''
+            label = spaced_text(g[3]) or ''
             if not href:
                 continue
             if RE_SERIES_NAV.search(label):
                 title_page = href
             else:
                 eps.append(href)
-        work_title = text_of(RE_ANCHOR.sub(' ', cells[1]))
+        work_title = spaced_text(RE_ANCHOR.sub(' ', cells[1]))
         out.append({'author': author, 'work_title': work_title,
                     'title_page': title_page, 'episode_paths': eps})
     return out

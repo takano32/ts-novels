@@ -341,7 +341,6 @@ def plain_text_md(text):
 # ---------------------------------------------------------------- 話ごとの処理
 
 IMG_EXT = ('.jpg', '.jpeg', '.gif', '.png', '.bmp')
-read_text_any = read_text_guess          # 文字コードを推定して読む。戻り値 (text, encoding)
 
 
 def convert_html(raw, anchor=None):
@@ -423,7 +422,7 @@ def convert_episode(ep, root):
         res.update(status='no-source', reason='原本ファイルが未回収')
         return res
 
-    raw, enc = read_text_any(full)
+    raw, enc = read_text_guess(full)          # 文字コードを推定して読む
     # (3b) プレーンテキストの収蔵物 (.txt) — HTML ではないので段落分割だけ
     if sp.lower().endswith('.txt'):
         md = plain_text_md(raw)

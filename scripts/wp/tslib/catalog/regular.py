@@ -8,9 +8,9 @@
 import html
 import re
 
+from tslib.htmltext import RE_TR, RE_TD, cell_text, anchors, strip_tags
 from tslib.catalog.fragments import (
-    RE_TR, RE_TD, RE_BOLD, MARKERS, STOP_PLAIN, ParseError,
-    text_of, anchors, strip_tags, split_tokens, marker_value, body_text,
+    RE_BOLD, MARKERS, STOP_PLAIN, ParseError, split_tokens, marker_value, body_text,
     nav_links_of, plain_links_of)
 from tslib.catalog.mailto import scrub_mailto
 
@@ -39,7 +39,7 @@ def takedown_notice(cell_html):
     """
     if cell_html is None:
         return None
-    text = text_of(cell_html)
+    text = cell_text(cell_html)
     m = RE_TAKEDOWN.search(text)
     if not m:
         return None
@@ -53,7 +53,7 @@ def parse_author_cell(cell):
     mailto を落とすと `<B><A href="#">NAME</a></B>` になるため <B> の中身が常に名前。
     """
     b = RE_BOLD.search(cell)
-    name = text_of(b.group(1), keep_breaks=False) if b else None
+    name = cell_text(b.group(1), keep_breaks=False) if b else None
     if name:
         name = re.sub(r'\s*さん\s*$', '', name).strip()
     if not name:
@@ -83,7 +83,7 @@ def parse_illust_cell(cell):
             # 「巴（<a>Homepage</a>）」形 — 名前から Homepage の括弧ごと落とす
             inner = inner[:a['span'][0]] + '\x00' + inner[a['span'][1]:]
             inner = re.sub(r'[（(]\s*\x00\s*[)）]', '', inner).replace('\x00', '')
-    raw = text_of(inner, keep_breaks=False)
+    raw = cell_text(inner, keep_breaks=False)
     # 複数画師は 、 や ＆ 区切り。区切られた側の名前には敬称が残るので落とす
     # (原表記は illustrator_raw に保持)
     names = [re.sub(r'\s*(?:さん|様)\s*$', '', n).strip()
@@ -96,7 +96,7 @@ def parse_osusume(cell):
     m = RE_OSUSUME_HEAD.search(cell)
     if not m:
         return None
-    recommender = text_of(m.group(1), keep_breaks=False)
+    recommender = cell_text(m.group(1), keep_breaks=False)
     body = m.group(2)
     links = anchors(body)
     refs = []
@@ -116,7 +116,7 @@ def parse_osusume(cell):
         elif carry:
             r['author'], r['author_inherited'] = carry, True
     return {'recommender': recommender, 'refs': refs,
-            'text': text_of(body) if not refs else None}
+            'text': cell_text(body) if not refs else None}
 
 
 def parse_entry(table, page, ordinal):
@@ -147,13 +147,13 @@ def parse_entry(table, page, ordinal):
     author, homepage = parse_author_cell(r1[1])
     illustrators, illust_url, illust_raw = parse_illust_cell(r1[2])
 
-    date_raw = text_of(r1[3], keep_breaks=False)
+    date_raw = cell_text(r1[3], keep_breaks=False)
     dm = RE_DATE.match(date_raw or '')
     if not dm:
         raise ParseError('%s#%d: date %r' % (page, ordinal, date_raw))
     date_iso = '%04d-%02d-%02d' % (int(dm.group(1)), int(dm.group(2)), int(dm.group(3)))
 
-    size_raw = text_of(r1[4], keep_breaks=False)
+    size_raw = cell_text(r1[4], keep_breaks=False)
     sm = RE_SIZE.match(size_raw or '')
     if not sm:
         raise ParseError('%s#%d: size %r' % (page, ordinal, size_raw))
@@ -180,9 +180,9 @@ def parse_entry(table, page, ordinal):
     except KeyError as e:
         raise ParseError('%s#%d: missing marker %s' % (page, ordinal, e))
 
-    genre, genre_raw = split_tokens(text_of(genre_html, keep_breaks=False))
-    typ, type_raw = split_tokens(text_of(type_html, keep_breaks=False))
-    kw, kw_raw = split_tokens(text_of(kw_html, keep_breaks=False))
+    genre, genre_raw = split_tokens(cell_text(genre_html, keep_breaks=False))
+    typ, type_raw = split_tokens(cell_text(type_html, keep_breaks=False))
+    kw, kw_raw = split_tokens(cell_text(kw_html, keep_breaks=False))
 
     nav = nav_links_of(suisen_html) + nav_links_of(arasuji_html) + nav_links_of(comment_html)
     inline = plain_links_of(arasuji_html) + plain_links_of(comment_html)
@@ -194,7 +194,7 @@ def parse_entry(table, page, ordinal):
         'title': title,
         'takedown_notice': takedown,
         'dropped_mailto': sorted(set(dropped)),
-        '_suisen_full_empty': not text_of(suisen_html),
+        '_suisen_full_empty': not cell_text(suisen_html),
         'href': href,
         'author': author,
         'homepage': homepage,

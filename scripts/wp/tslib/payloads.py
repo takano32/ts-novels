@@ -24,7 +24,7 @@ import re
 import unicodedata
 
 from tslib.gitinfo import image_files
-from tslib.mail import MAIL_KEEP_RE, scrub_addresses, has_leak  # noqa: F401  (scrub_addresses は従来この名で参照される)
+from tslib.mail import scrub_addresses
 
 HEAD_RE = re.compile(r'^(#{1,6}) (.*)$')
 MD_IMG_RE = re.compile(r'!\[([^\]\n]*)\]\(([^)\n]+)\)')  # 画像 1 枚もの 17 話が使う記法

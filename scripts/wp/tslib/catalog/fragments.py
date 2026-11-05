@@ -6,11 +6,7 @@
 import re
 import unicodedata
 
-from tslib.htmltext import (RE_TAG, RE_BR, RE_ANCHOR, RE_TR, RE_TD, RE_COMMENT,  # noqa: F401
-                            strip_tags, cell_text, anchors)
-
-text_of = cell_text          # 目録のセル用の表示テキスト化 (従来名)
-RE_COMMENT_HTML = RE_COMMENT
+from tslib.htmltext import RE_ANCHOR, cell_text, anchors
 
 RE_BOLD = re.compile(r'<B>(.*?)</B>', re.S | re.I)
 RE_NAV_LABEL = re.compile(r'^【(.+)】$', re.S)
