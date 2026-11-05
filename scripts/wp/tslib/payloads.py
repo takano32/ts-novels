@@ -373,6 +373,46 @@ def takedown_episodes(episodes, works, authors, denylist):
     return hit, per_entry
 
 
+# --------------------------------------------------------------------------- 作る順と body_status
+
+def plan_payloads(md_ids, episodes, raw_fallbacks, takedown, repost_exists):
+    """どの話の payload を、どの body_status (converted / converted-text / raw-fallback) で作るかを決める。
+
+    md_ids は bodies/*.md の episode_id (名前順)、repost_exists(eid) は reposts/<eid>.txt があるか。
+    取り下げ対象 (takedown) の話は作らず、本文の種類ごとに数える (skipped)。
+    戻り値 (steps, skipped)。steps は作る順の [(eid, status)]: md の名前順 → episodes の順の再掲 →
+    raw_fallbacks の順。旧版の main の 3 つの繰り返しと同じ順で、_meta.json の鍵の順もこれで決まる
+    (取り下げの 'takedown' はその前に入口が名前順で入れる)。
+    """
+    skipped = {'md': 0, 'repost': 0, 'raw': 0}
+    steps, planned = [], set(takedown)
+    md_set = set(md_ids)
+    for eid in md_ids:
+        if eid in takedown:
+            skipped['md'] += 1
+            continue
+        steps.append((eid, 'converted'))
+        planned.add(eid)
+    # T7.8 の作者再掲ぶん (S179): md が無く reposts/<episode_id>.txt がある話はプレーンテキストを段落化
+    for eid in episodes:
+        if eid in takedown:
+            if eid not in md_set and repost_exists(eid):
+                skipped['repost'] += 1
+            continue
+        if eid in planned or not repost_exists(eid):
+            continue
+        steps.append((eid, 'converted-text'))
+        planned.add(eid)
+    for eid in raw_fallbacks:
+        if not episodes.get(eid):
+            continue
+        if eid in takedown:
+            skipped['raw'] += 1
+            continue
+        steps.append((eid, 'raw-fallback'))
+    return steps, skipped
+
+
 # --------------------------------------------------------------------------- レポート
 
 @dataclasses.dataclass

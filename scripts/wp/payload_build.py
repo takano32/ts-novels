@@ -55,57 +55,33 @@ def main():
         if f.exists():
             f.unlink()
             run.removed.append(eid)
-    body_md = {p.name[:-3] for p in BODIES.glob('*.md')}
+    md_ids = [p.name[:-3] for p in sorted(BODIES.glob('*.md'))]
+    steps, run.skipped = payloads.plan_payloads(
+        md_ids, episodes, raw_fallbacks, takedown,
+        repost_exists=lambda eid: (ROOT / 'reposts' / f'{eid}.txt').is_file())
 
-    for md_path in sorted(BODIES.glob('*.md')):
-        eid = md_path.name[:-3]
-        if eid in takedown:
-            run.skipped['md'] += 1
-            continue
+    for eid, status in steps:
         ep = episodes.get(eid)
-        src_dir = os.path.dirname(ep['source_path']) if ep else ''
-        out, ok, refs = payloads.md_payload(md_path.read_text(encoding='utf-8'), src_dir, images,
-                                            run.stats, run.warn, run.mail_n)
+        if status == 'converted':
+            src_dir = os.path.dirname(ep['source_path']) if ep else ''
+            out, ok, refs = payloads.md_payload((BODIES / f'{eid}.md').read_text(encoding='utf-8'), src_dir,
+                                                images, run.stats, run.warn, run.mail_n)
+            for em in refs:
+                run.eyecatch.setdefault(eid, []).append(em)
+        elif status == 'converted-text':
+            txt = (ROOT / 'reposts' / f'{eid}.txt').read_text(encoding='utf-8')
+            out, ok = payloads.text_payload(txt, run.stats, run.mail_n)
+        else:                                   # raw-fallback
+            raw, _enc = bodies.read_text_any(str(ROOT / ep['source_path']))
+            src_dir = os.path.dirname(ep['source_path'])
+            out = payloads.raw_payload(raw, bodies.extract_body(raw), src_dir, images, run.warn, run.mail_n)
+            ok = True                           # 原本をそのまま出すので無損失検査はしない
+            run.raw_written += 1
         if not ok:
             run.violations.append(eid)
         (OUT / f'{eid}.html').write_text(out, encoding='utf-8')
-        for em in refs:
-            run.eyecatch.setdefault(eid, []).append(em)
-        run.meta[eid] = 'converted'
+        run.meta[eid] = status
         run.written += 1
-
-    # T7.8 の作者再掲ぶん (S179): md が無く reposts/<episode_id>.txt がある話はプレーンテキストを段落化
-    for eid, ep in episodes.items():
-        txt_path = ROOT / 'reposts' / f'{eid}.txt'
-        if eid in takedown:
-            if eid not in body_md and txt_path.is_file():
-                run.skipped['repost'] += 1
-            continue
-        if eid in run.meta:
-            continue
-        if not txt_path.is_file():
-            continue
-        out, ok = payloads.text_payload(txt_path.read_text(encoding='utf-8'), run.stats, run.mail_n)
-        if not ok:
-            run.violations.append(eid)
-        (OUT / f'{eid}.html').write_text(out, encoding='utf-8')
-        run.meta[eid] = 'converted-text'
-        run.written += 1
-
-    for eid in raw_fallbacks:
-        ep = episodes.get(eid)
-        if not ep:
-            continue
-        if eid in takedown:
-            run.skipped['raw'] += 1
-            continue
-        raw, _enc = bodies.read_text_any(str(ROOT / ep['source_path']))
-        src_dir = os.path.dirname(ep['source_path'])
-        out = payloads.raw_payload(raw, bodies.extract_body(raw), src_dir, images, run.warn, run.mail_n)
-        (OUT / f'{eid}.html').write_text(out, encoding='utf-8')
-        run.meta[eid] = 'raw-fallback'
-        run.written += 1
-        run.raw_written += 1
 
     write_json(OUT / '_meta.json', run.meta, indent=0, newline=False)
     # 出荷前の自己検査: 生アドレスが 1 つでも残っていたら失敗させる (鉄則の機械化)

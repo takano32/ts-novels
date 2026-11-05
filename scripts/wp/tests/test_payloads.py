@@ -117,6 +117,22 @@ class TakedownTest(unittest.TestCase):
         self.assertEqual(p.takedown_episodes({}, [], [], None), ({}, []))
 
 
+class PlanTest(unittest.TestCase):
+    def test_plan_order_and_skips(self):
+        episodes = {'e1': {'x': 1}, 'r1': {'x': 1}, 't1': {'x': 1}, 'td': {'x': 1}, 'tr': {'x': 1}, 'raw': {'x': 1}}
+        reposts = {'r1', 'td', 'tr', 'e1'}
+        steps, skipped = p.plan_payloads(['e1', 'raw', 'td'], episodes, ['raw', 'gone', 'tr'],
+                                         {'td': ['S1'], 'tr': ['S1']}, reposts.__contains__)
+        # md の名前順 → episodes の順の再掲 (md がある e1 は除く) → raw_fallbacks の順 (md と重なれば上書き)
+        self.assertEqual(steps, [('e1', 'converted'), ('raw', 'converted'), ('r1', 'converted-text'),
+                                 ('raw', 'raw-fallback')])
+        # td は md があるので再掲には数えない。tr は md が無く再掲があるので数え、raw でも数える
+        self.assertEqual(skipped, {'md': 1, 'repost': 1, 'raw': 1})
+
+    def test_plan_empty(self):
+        self.assertEqual(p.plan_payloads([], {}, [], {}, lambda eid: False), ([], {'md': 0, 'repost': 0, 'raw': 0}))
+
+
 class ReportTest(unittest.TestCase):
     def test_report_keys(self):
         run = p.PayloadRun(written=3, raw_written=1, removed=['t1'], meta={'c': 'converted-text'},
