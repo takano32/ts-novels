@@ -11,6 +11,12 @@
 
 if (!defined('ABSPATH')) { exit; }
 
+/** 申請の保存の状態 (グローバル変数の代わり) */
+final class TS_Takedown_Store {
+    /** 自分で申請を wp_update_post している最中か (立っている間は管理画面の save_post の処理に入り直さない) */
+    public static $saving = false;
+}
+
 // ====================================================================== 投稿タイプ (S125)
 
 add_action('init', function () {
@@ -98,9 +104,9 @@ function ts_takedown_store(array $d, string $via, int $post_id = 0): int {
              '_tr_received_at' => $now, '_tr_via' => $via];
     foreach ($meta as $k => $v) update_post_meta($post_id, $k, wp_slash($v));
     $title = '申請 ' . $post_id . ' ' . $d['pen_name'];
-    $GLOBALS['ts_takedown_saving'] = true;
+    TS_Takedown_Store::$saving = true;
     wp_update_post(['ID' => $post_id, 'post_title' => wp_slash($title), 'post_status' => 'private']);
-    $GLOBALS['ts_takedown_saving'] = false;
+    TS_Takedown_Store::$saving = false;
     if ($via === 'takedown_form' && $p['require_confirm']) {
         ts_takedown_set_status($post_id, 'unconfirmed', 0, '', false);
     } else {

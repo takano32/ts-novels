@@ -150,9 +150,9 @@ function ts_takedown_operate(int $id, string $op, int $by, string $note, int $de
     return [false, TS_Takedown_Text::operate_result('unknown', [])];
 }
 
-/** 保存 (起票と操作)。自分で wp_update_post するときは ts_takedown_saving で入り直さない */
+/** 保存 (起票と操作)。自分で wp_update_post するときは TS_Takedown_Store::$saving で入り直さない */
 add_action('save_post_' . TS_TAKEDOWN_TYPE, function ($post_id, $post) {
-    if (!empty($GLOBALS['ts_takedown_saving']) || wp_is_post_revision($post_id) || $post->post_status === 'auto-draft') return;
+    if (TS_Takedown_Store::$saving || wp_is_post_revision($post_id) || $post->post_status === 'auto-draft') return;
     if (defined('DOING_AUTOSAVE') && DOING_AUTOSAVE) return;
     if (!isset($_POST['ts_tr_nonce']) || !wp_verify_nonce(wp_unslash($_POST['ts_tr_nonce']), 'ts_tr_admin_' . $post_id)) return;
     if (!current_user_can('ts_manage_takedown')) return;
@@ -179,9 +179,9 @@ add_action('save_post_' . TS_TAKEDOWN_TYPE, function ($post_id, $post) {
         $deadline = $dt ? $dt->getTimestamp() : 0;
     }
     $note = is_string($_POST['ts_tr_note'] ?? null) ? wp_unslash($_POST['ts_tr_note']) : '';
-    $GLOBALS['ts_takedown_saving'] = true;
+    TS_Takedown_Store::$saving = true;
     [$ok, $msg] = ts_takedown_operate((int) $post_id, $op, $by, $note, $deadline);
-    $GLOBALS['ts_takedown_saving'] = false;
+    TS_Takedown_Store::$saving = false;
     ts_takedown_admin_notice($ok ? 'success' : 'error', $msg);
 }, 10, 2);
 

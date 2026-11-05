@@ -110,3 +110,10 @@ foreach (WP_CLI::$commands as $name => $callable) {
     check("$name の実装は public なメソッド", is_object($callable[0]) && (new ReflectionMethod($callable[0], $callable[1]))->isPublic(), true);
 }
 check('import の docblock (wp ts import --help) に OPTIONS がある', strpos((new ReflectionMethod('TS_Import_Command', 'import'))->getDocComment(), '## OPTIONS') !== false, true);
+
+// グローバル変数を使わない (T45.1.19.4。要求の中の状態はクラスの static プロパティに置く)
+$with_globals = array_values(array_filter(array_merge(TS_Library_Files::PURE, TS_Library_Files::WP, TS_Library_Files::CLI), function ($f) use ($plugin) {
+    foreach (token_get_all(file_get_contents("$plugin/includes/$f")) as $t) if (is_array($t) && $t[0] === T_VARIABLE && $t[1] === '$GLOBALS') return true;
+    return false;
+}));
+check('$GLOBALS を使うファイルは無い', $with_globals, []);

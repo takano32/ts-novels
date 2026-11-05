@@ -10,8 +10,11 @@
 
 if (!defined('ABSPATH')) { exit; }
 
-/** 410 を返す要求か (template_include・document_title_parts が見る) */
-$GLOBALS['ts_visibility_gone'] = false;
+/** 1 つの要求の中の可視性の状態 (グローバル変数の代わり) */
+final class TS_Visibility_Request {
+    /** 410 を返す要求か (template_redirect が立て、template_include・document_title_parts が見る) */
+    public static $gone = false;
+}
 
 add_action('template_redirect', function () {
     global $wp, $wp_query;
@@ -35,7 +38,7 @@ add_action('template_redirect', function () {
     // 運営委員でない編集者などに WordPress の既定で private が見えている場合も、読者と同じ応答にする
     $wp_query->set_404();
     if ($decision === 'gone') {
-        $GLOBALS['ts_visibility_gone'] = true;
+        TS_Visibility_Request::$gone = true;
         status_header(410);
     } else {
         status_header(404);
@@ -43,13 +46,13 @@ add_action('template_redirect', function () {
 }, 0);
 
 add_filter('template_include', function ($template) {
-    if (empty($GLOBALS['ts_visibility_gone'])) return $template;
+    if (!TS_Visibility_Request::$gone) return $template;
     $t = locate_template('ts-410.php');
     return $t ?: $template;
 }, 20);
 
 add_filter('document_title_parts', function ($parts) {
-    if (!empty($GLOBALS['ts_visibility_gone'])) $parts['title'] = '掲載していない作品';
+    if (TS_Visibility_Request::$gone) $parts['title'] = '掲載していない作品';
     return $parts;
 }, 20);
 
