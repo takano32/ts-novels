@@ -7,6 +7,16 @@
 $P = TS_Takedown_Rules::params();
 check('既定のパラメータ', [$P['confirm_ttl_days'], $P['auto_apply_days'], $P['remind_before_days'], $P['retention_days'],
       $P['require_confirm'], $P['notify_to'], $P['send_reject_mail'], $P['rate_limit']], [7, 10, 3, 365, true, '', true, 3]);
+// wp-config.php の TS_TAKEDOWN_<名前> での上書き (定数の読み取りを配列で代える。T45.1.7.3)
+$consts = ['TS_TAKEDOWN_CONFIRM_TTL_DAYS' => '14', 'TS_TAKEDOWN_AUTO_APPLY_DAYS' => 0, 'TS_TAKEDOWN_REMIND_BEFORE_DAYS' => 1,
+           'TS_TAKEDOWN_RETENTION_DAYS' => 30, 'TS_TAKEDOWN_REQUIRE_CONFIRM' => false, 'TS_TAKEDOWN_NOTIFY_TO' => 'a@example.org,b@example.org',
+           'TS_TAKEDOWN_SEND_REJECT_MAIL' => 0, 'TS_TAKEDOWN_RATE_LIMIT' => '5', 'TS_TAKEDOWN_RATE_WINDOW' => 1, 'TS_TAKEDOWN_MIN_SECONDS' => 1];
+$P2 = TS_Takedown_Rules::params(function ($k, $default) use ($consts) { return array_key_exists($k, $consts) ? $consts[$k] : $default; });
+check('定数での上書き (型は既定に揃える。rate_window と min_seconds は変えられない)', $P2,
+      ['confirm_ttl_days' => 14, 'auto_apply_days' => 0, 'remind_before_days' => 1, 'retention_days' => 30, 'require_confirm' => false,
+       'notify_to' => 'a@example.org,b@example.org', 'send_reject_mail' => false, 'rate_limit' => 5, 'rate_window' => 3600, 'min_seconds' => 3]);
+check('一部だけ上書き', TS_Takedown_Rules::params(function ($k, $default) { return $k === 'TS_TAKEDOWN_RATE_LIMIT' ? 10 : $default; }),
+      array_merge($P, ['rate_limit' => 10]));
 check('状態は 7 つ (S126)', array_keys(TS_Takedown_Rules::status_labels()),
       ['unconfirmed', 'received', 'applied', 'approved', 'rejected', 'reinstated', 'expired']);
 
