@@ -32,6 +32,7 @@ final class TS_Library_Files {
         'catalog/episode-fields.php',    // 話 → post meta の写像
         'catalog/page-file.php',         // content/pages/*.html の形 (sync-pages / export-pages)
         'catalog/verify-expect.php',     // wp ts verify の期待値
+        'catalog/eyecatch-refs.php',     // eyecatch の再設定の判断と文面 (scripts/wp/eyecatch_restore.php)
     ];
 
     /** WordPress に触る部分 (フック・DB・出力)。site-hooks.php が最初 (TS_Library::boot の pre_get_posts を索引より先に登録する) */

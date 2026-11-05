@@ -11,7 +11,7 @@
  * 試すもの: ファイルの構成と境目・コンテンツモデルの名前と URL 基底・ロールの差分と冪等 (S116)・
  * 可視性の判定と帯 (S117・S118)・apply-takedown の 1 投稿の変化と計画 (S121)・denylist の読み書き (S76・S132)・
  * 取り下げフォームの判定と文面 (S124〜S132)・catalog の索引と語彙と verify の期待値・固定ページの原本の形 (S109)・
- * 表示の文言と索引の並び。失敗が 1 件でもあれば終了コード 1。
+ * eyecatch の再設定の判断 (S189)・表示の文言と索引の並び。失敗が 1 件でもあれば終了コード 1。
  */
 
 define('TS_LIBRARY_TEST', true);
@@ -37,7 +37,7 @@ class WP_CLI {
 }
 foreach (TS_Library_Files::CLI as $f) require "$plugin/includes/$f";
 
-foreach (['files', 'content-model', 'roles', 'visibility', 'takedown', 'denylist', 'catalog', 'render', 'indexes'] as $t) {
+foreach (['files', 'content-model', 'roles', 'visibility', 'takedown', 'denylist', 'catalog', 'eyecatch', 'render', 'indexes'] as $t) {
     require "$root/scripts/wp/tests/$t.php";
 }
 
