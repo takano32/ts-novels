@@ -19,7 +19,9 @@ check('いまの一作: 同じ時間なら同じ添字', TS_Index_Text::pick_ind
 check('いまの一作: 添字は範囲内', array_unique(array_map(function ($h) { $i = TS_Index_Text::pick_index(2026110500 + $h, 7); return $i >= 0 && $i < 7; }, range(0, 23))), [true]);
 check('いまの一作: 1 作なら 0', TS_Index_Text::pick_index(2026110512, 1), 0);
 check('いまの一作: 隣の時間で違う作品になる (攪拌)', TS_Index_Text::pick_index(2026110512, 1443) !== TS_Index_Text::pick_index(2026110513, 1443), true);
-check('いまの一作: 計算 (ymdh * 2654435761 % 2147483647 % n)', TS_Index_Text::pick_index(2026110512, 1443), (2026110512 * 2654435761 % 2147483647) % 1443);
+// 期待値は分割前 (d586f0eb) の ts_bunko_todays_pick の式をサーバの PHP 8.0 で計算した値 (2026-11-05)
+check('いまの一作: 分割前と同じ添字', [TS_Index_Text::pick_index(2026110512, 1443), TS_Index_Text::pick_index(2026110513, 1443),
+      TS_Index_Text::pick_index(2026010100, 7), TS_Index_Text::pick_index(2099123123, 1443)], [757, 51, 1, 1092]);
 
 check('運営文書の区分の並び', array_keys(TS_Index_Text::DOC_SECTIONS), ['gallery', 'comittee', 'columns', 'dialy', 'prehistory', 'notes']);
 check('年表の最初の年', TS_Index_Text::TIMELINE_FROM, 1990);

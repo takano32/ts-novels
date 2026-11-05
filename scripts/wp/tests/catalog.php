@@ -81,11 +81,35 @@ $ep = ['episode_id' => 'e1', 'source_path' => 'novel/x.htm', 'source_anchor' => 
        'nav_links' => [], 'orig_url' => 'http://ts.novels.jp/novel/x.htm', 'annex_url' => 'https://x/novel/x.htm', 'annex_yays_url' => null,
        'provenance' => ['route' => 'wayback'], 'genre_raw' => 'ＳＦ', 'type_raw' => null, 'keywords_raw' => null, 'zokusei' => null];
 $meta = TS_Episode_Fields::meta($ep);
-check('話のメタは 25 キー', count($meta), 25);
+check('話のメタのキー', array_keys($meta), ['_ts_episode_id', '_ts_source_path', '_ts_source_anchor', '_ts_corpus', '_ts_catalog_ref',
+      '_ts_pub_date_raw', '_ts_size_kb', '_ts_files_n', '_ts_illustrator', '_ts_illustrator_url', '_ts_kansou_slug', '_ts_kansou_annex_url',
+      '_ts_arasuji', '_ts_author_comment', '_ts_suisen', '_ts_osusume', '_ts_nav_links', '_ts_orig_url', '_ts_annex_url', '_ts_annex_yays_url',
+      '_ts_provenance', '_ts_raw_genre', '_ts_raw_type', '_ts_raw_keywords', '_ts_zokusei']);
 check('キーは _ts_ で始まる', array_values(array_filter(array_keys($meta), function ($k) { return strpos($k, '_ts_') !== 0; })), []);
 check('書誌カードの被覆を見るメタが含まれる', array_values(array_diff(array_keys(TS_Verify_Expect::META_FIELDS), array_keys($meta))), []);
 check('値はそのまま (null は import が消す)', [$meta['_ts_episode_id'], $meta['_ts_pub_date_raw'], $meta['_ts_author_comment'], $meta['_ts_raw_genre']],
       ['e1', '2002/1/1', null, 'ＳＦ']);
+// 読む側のキーは書く側 (meta() のキー + WORK_KEYS) に全部含まれる (キーの綴りの取り違えを機械的に見る)
+$written = array_merge(array_keys($meta), TS_Episode_Fields::WORK_KEYS);
+check('WORK_KEYS と meta() のキーは重ならない', array_values(array_intersect(TS_Episode_Fields::WORK_KEYS, array_keys($meta))), []);
+$meta_keys_in = function (array $files) {
+    $keys = [];
+    foreach ($files as $f) {
+        $src = file_get_contents($f);
+        if (preg_match_all("/'(_ts_[a-z_]+)'/", $src, $m)) foreach ($m[1] as $k) $keys[$k] = true;
+        if (preg_match_all("/\bts_meta\([^;]*?,\s*'([a-z_]+)'\)/", $src, $m)) foreach ($m[1] as $k) $keys["_ts_$k"] = true;
+    }
+    ksort($keys);
+    return array_keys($keys);
+};
+$read = $meta_keys_in(array_merge(glob("$plugin/includes/render/*.php"), ["$plugin/includes/visibility/visibility-hooks.php"],
+                                  glob("$root/themes/ts-bunko/*.php")));
+check('読む側のキーを集められている', in_array('_ts_pub_date_raw', $read, true) && in_array('_ts_visibility', $read, true), true);
+check('表示が読むメタのキーは書く側に全部ある', array_values(array_diff($read, $written)), []);
+$wrote = $meta_keys_in(["$plugin/includes/commands/import.php", "$plugin/includes/commands/command-base.php",
+                        "$plugin/includes/commands/takedown.php", "$plugin/includes/takedown/takedown-apply.php",
+                        "$plugin/includes/visibility/visibility-rules.php"]);
+check('import と取り下げが触るメタのキーは書く側の一覧に全部ある', array_values(array_diff($wrote, $written)), []);
 check('本文の無い話の本文', TS_Episode_Fields::PLACEHOLDER_BODY, '<!-- wp:paragraph --><p>(本文は原本アーカイブでお読みください)</p><!-- /wp:paragraph -->');
 
 // ---------------------------------------------------------------- 固定ページの原本 (S109)

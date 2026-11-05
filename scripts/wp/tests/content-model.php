@@ -31,7 +31,9 @@ check('タクソノミーの URL 基底 (作者は authors — コアの author_
       ['ts_author' => 'authors', 'ts_genre' => 'genre', 'ts_type' => 'type', 'ts_keyword' => 'keyword', 'ts_world' => 'world', 'ts_corpus' => false]);
 check('公開タクソノミーは ts_work / ts_dojo / ts_board_post に付く', $tx['ts_genre']['object_types'], ['ts_work', 'ts_dojo', 'ts_board_post']);
 check('ts_corpus は非公開で ts_work だけ', [$tx['ts_corpus']['args']['public'], $tx['ts_corpus']['object_types']], [false, ['ts_work']]);
-check('書誌カードのメタは 15 キー', count(TS_Content_Model::WORK_META_KEYS), 15);
+check('書誌カードのメタ (register_post_meta するキー)', TS_Content_Model::WORK_META_KEYS, ['_ts_episode_id', '_ts_work_slug', '_ts_kind',
+      '_ts_source_path', '_ts_corpus', '_ts_pub_date_raw', '_ts_orig_url', '_ts_annex_url', '_ts_annex_yays_url', '_ts_kansou_slug',
+      '_ts_kansou_annex_url', '_ts_arasuji', '_ts_author_comment', '_ts_suisen', '_ts_catalog_ref']);
 check('書誌カードのメタに episode_id と work_slug', in_array('_ts_episode_id', TS_Content_Model::WORK_META_KEYS, true) && in_array('_ts_work_slug', TS_Content_Model::WORK_META_KEYS, true), true);
 check('メタは文字列・単一・REST に出さない・書けない', TS_Content_Model::work_meta_args(),
       ['type' => 'string', 'single' => true, 'show_in_rest' => false, 'auth_callback' => '__return_false']);

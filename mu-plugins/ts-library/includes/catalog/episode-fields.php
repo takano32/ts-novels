@@ -15,6 +15,23 @@ final class TS_Episode_Fields {
     /** 本文ペイロードが無い話に入れる本文 (メタのみ投入のときは入れない) */
     public const PLACEHOLDER_BODY = '<!-- wp:paragraph --><p>(本文は原本アーカイブでお読みください)</p><!-- /wp:paragraph -->';
 
+    /**
+     * meta() 以外に ts_work の投稿に書くメタのキー。import (includes/commands/import.php・command-base.php の
+     * stamp_import) と取り下げ (includes/commands/takedown.php・includes/takedown/takedown-apply.php、
+     * 値は TS_Visibility_Rules::takedown_change) が書く。表示 (includes/render/・visibility-hooks.php・テーマ) が
+     * 読むキーは meta() のキーとこの表に全部含まれる (scripts/wp/tests/catalog.php が grep で確かめる)。
+     * 書く側のコードはキーを文字列で書いており、この表は照合のための一覧。
+     */
+    public const WORK_KEYS = [
+        // import
+        '_ts_work_slug', '_ts_kind', '_ts_needs_review', '_ts_title_pages', '_ts_alias_paths', '_ts_episode_count',
+        '_ts_body_status', '_ts_import_hash', '_ts_fill_hash', '_ts_last_import_gmt',
+        // 取り下げ (S121)
+        '_ts_visibility', '_ts_takedown_id', '_ts_public_note', '_ts_takedown_date',
+        // 旧版の印 (S118)。読むのは帯と取り下げ。書く側は mu-plugin に無い (T25.4.1)
+        '_ts_superseded_by',
+    ];
+
     /** 話の共通メタ: meta_key => 値 (episodes.jsonl の欄をそのまま) */
     public static function meta(array $ep): array {
         return [
