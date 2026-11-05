@@ -111,3 +111,137 @@ $same('表示部品', $got, array (
 </div><nav class="ts-sidebar-block"><h2 class="ts-sidebar-title">索引</h2><ul><li><a href="https://novels.xwp.jp/index/kana/" aria-current="page">作者索引</a></li><li><a href="https://novels.xwp.jp/index/timeline/">年表</a></li><li><a href="https://novels.xwp.jp/index/bunrui/">分類索引</a></li><li><a href="https://novels.xwp.jp/index/vocabulary/">キーワード索引</a></li><li><a href="https://novels.xwp.jp/index/docs/">運営文書・資料</a></li></ul></nav><div class="ts-sidebar-block"><h2 class="ts-sidebar-title">この文庫について</h2><ul><li><a href="https://novels.xwp.jp/authors/yays/">オーナー作品集</a></li><li><a href="https://novels.xwp.jp/about/">このサイトについて</a></li><li><a href="https://novels.xwp.jp/archive/">原本アーカイブ</a></li><li><a href="https://novels.xwp.jp/takedown/">掲載の取り下げ</a></li></ul></div></aside>',
 ));
 TS_WP_Stubs::reset();
+
+// ---------------------------------------------------------------- 運営委員にだけ見える帯と、目次・話ナビに並べる子の状態 (S118。T45.1.15.2)
+// 期待値: d586f0eb の visibility.php と render.php、2026-11-05、probe-hidden.php。読者 (権限なし) と運営委員 (ts_view_hidden) で、
+// 帯 (取り下げ済み・申請の番号つき・旧版で新版あり・なし・連載の親の旧版・印なし) と ts_visibility_child_statuses と目次・話ナビ・パンくず
+$h = ts_fixture_hidden();
+$got = [];
+foreach (['reader', 'committee'] as $who) {
+    if ($who === 'committee') { TS_WP_Stubs::$current_user = 3; TS_WP_Stubs::$caps = ['ts_view_hidden']; }
+    foreach ($h as $k => $pid) {
+        $got["banner/$who/$k"] = $part('ts_bunko_hidden_banner', $pid);
+        $got["child_statuses/$who/$k"] = ts_visibility_child_statuses($pid);
+    }
+    $got["toc/$who/withdrawn"] = $part('ts_bunko_work_toc', $h['withdrawn']);
+    $got["nav/$who/w_pub"] = $part('ts_bunko_episode_nav', $h['w_pub']);
+    $got["breadcrumb/$who/w_priv"] = $part('ts_bunko_breadcrumb', $h['w_priv']);
+}
+$page = TS_WP_Stubs::add_post(['post_type' => 'page', 'post_status' => 'private', 'post_name' => 'p', 'post_title' => '固定']);
+$got['banner/committee/page'] = $part('ts_bunko_hidden_banner', $page);
+$same('帯と子の状態', $got, array (
+  'banner/reader/withdrawn' => '',
+  'child_statuses/reader/withdrawn' => 
+  array (
+    0 => 'publish',
+  ),
+  'banner/reader/w_pub' => '',
+  'child_statuses/reader/w_pub' => 
+  array (
+    0 => 'publish',
+  ),
+  'banner/reader/w_priv' => '',
+  'child_statuses/reader/w_priv' => 
+  array (
+    0 => 'publish',
+  ),
+  'banner/reader/new_ep' => '',
+  'child_statuses/reader/new_ep' => 
+  array (
+    0 => 'publish',
+  ),
+  'banner/reader/sup_ep' => '',
+  'child_statuses/reader/sup_ep' => 
+  array (
+    0 => 'publish',
+  ),
+  'banner/reader/sup_ep_none' => '',
+  'child_statuses/reader/sup_ep_none' => 
+  array (
+    0 => 'publish',
+  ),
+  'banner/reader/new_work' => '',
+  'child_statuses/reader/new_work' => 
+  array (
+    0 => 'publish',
+  ),
+  'banner/reader/sup_work' => '',
+  'child_statuses/reader/sup_work' => 
+  array (
+    0 => 'publish',
+  ),
+  'banner/reader/plain' => '',
+  'child_statuses/reader/plain' => 
+  array (
+    0 => 'publish',
+  ),
+  'banner/reader/public' => '',
+  'child_statuses/reader/public' => 
+  array (
+    0 => 'publish',
+  ),
+  'toc/reader/withdrawn' => '<ol class="ts-toc"><li><a href="https://novels.xwp.jp/novel/kieta-tsuki/k01/">前編</a></li></ol>',
+  'nav/reader/w_pub' => '<nav class="ts-episode-nav" aria-label="話の移動"><span class="ts-nav-prev is-empty"></span><a class="ts-nav-toc" href="https://novels.xwp.jp/novel/kieta-tsuki/">作品目次</a><span class="ts-nav-next is-empty"></span></nav>',
+  'breadcrumb/reader/w_priv' => '<nav class="ts-breadcrumb" aria-label="現在位置"><a href="https://novels.xwp.jp/novel/kieta-tsuki/">消えた月</a> › <span aria-current="page">後編</span></nav>',
+  'banner/committee/withdrawn' => '<p class="ts-hidden-banner" role="note">取り下げ済み — 運営委員にのみ表示しています</p>',
+  'child_statuses/committee/withdrawn' => 
+  array (
+    0 => 'publish',
+    1 => 'private',
+  ),
+  'banner/committee/w_pub' => '',
+  'child_statuses/committee/w_pub' => 
+  array (
+    0 => 'publish',
+  ),
+  'banner/committee/w_priv' => '<p class="ts-hidden-banner" role="note">取り下げ済み — 運営委員にのみ表示しています (申請 12)</p>',
+  'child_statuses/committee/w_priv' => 
+  array (
+    0 => 'publish',
+    1 => 'private',
+  ),
+  'banner/committee/new_ep' => '',
+  'child_statuses/committee/new_ep' => 
+  array (
+    0 => 'publish',
+  ),
+  'banner/committee/sup_ep' => '<p class="ts-hidden-banner" role="note">旧版 (1999 年の掲載) — 運営委員にのみ表示しています → <a href="https://novels.xwp.jp/novel/shinpan/">新版へ</a></p>',
+  'child_statuses/committee/sup_ep' => 
+  array (
+    0 => 'publish',
+    1 => 'private',
+  ),
+  'banner/committee/sup_ep_none' => '<p class="ts-hidden-banner" role="note">旧版 (2000 年の掲載) — 運営委員にのみ表示しています</p>',
+  'child_statuses/committee/sup_ep_none' => 
+  array (
+    0 => 'publish',
+    1 => 'private',
+  ),
+  'banner/committee/new_work' => '',
+  'child_statuses/committee/new_work' => 
+  array (
+    0 => 'publish',
+  ),
+  'banner/committee/sup_work' => '<p class="ts-hidden-banner" role="note">旧版 (2000 年の掲載) — 運営委員にのみ表示しています → <a href="https://novels.xwp.jp/novel/atarashii-renzoku/">新版へ</a></p>',
+  'child_statuses/committee/sup_work' => 
+  array (
+    0 => 'publish',
+    1 => 'private',
+  ),
+  'banner/committee/plain' => '<p class="ts-hidden-banner" role="note">運営委員にのみ表示しています</p>',
+  'child_statuses/committee/plain' => 
+  array (
+    0 => 'publish',
+    1 => 'private',
+  ),
+  'banner/committee/public' => '',
+  'child_statuses/committee/public' => 
+  array (
+    0 => 'publish',
+  ),
+  'toc/committee/withdrawn' => '<ol class="ts-toc"><li><a href="https://novels.xwp.jp/novel/kieta-tsuki/k01/">前編</a></li><li><a href="https://novels.xwp.jp/novel/kieta-tsuki/k02/">後編</a> <span class="ts-toc-date">2001/03/04</span></li></ol>',
+  'nav/committee/w_pub' => '<nav class="ts-episode-nav" aria-label="話の移動"><span class="ts-nav-prev is-empty"></span><a class="ts-nav-toc" href="https://novels.xwp.jp/novel/kieta-tsuki/">作品目次</a><a class="ts-nav-next" rel="next" href="https://novels.xwp.jp/novel/kieta-tsuki/k02/">後編 →</a></nav>',
+  'breadcrumb/committee/w_priv' => '<nav class="ts-breadcrumb" aria-label="現在位置"><a href="https://novels.xwp.jp/novel/kieta-tsuki/">消えた月</a> › <span aria-current="page">後編</span></nav>',
+  'banner/committee/page' => '',
+));
+TS_WP_Stubs::reset();
