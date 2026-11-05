@@ -5,7 +5,6 @@
 問題は Problems.report に渡し、許可リストの行に当たればその行の使用回数を数えて捨てる。
 """
 import fnmatch
-from pathlib import Path
 
 
 class AllowListError(Exception):
@@ -35,7 +34,7 @@ class Problems:
         self.items = []
 
     def report(self, f, lineno, kind, msg, line=''):
-        rel = f.relative_to(self.root).as_posix() if isinstance(f, Path) else f
+        rel = f.relative_to(self.root).as_posix()
         for r in self.rules:
             if r['kind'] == kind and fnmatch.fnmatch(rel, r['path']) and r['text'] in line:
                 r['used'] += 1

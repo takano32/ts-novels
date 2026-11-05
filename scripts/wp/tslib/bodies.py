@@ -27,7 +27,6 @@ from tslib.htmltext import RE_TAG
 SCRIPT_RE = re.compile(r'<script.*?</script>|<style.*?</style>|<!--.*?-->', re.S | re.I)
 BOGUS_RE = re.compile(r'<![^>]*>', re.S)               # <! …> = ブラウザは不可視 (没稿隠しに使われている)
 FORM_RE = re.compile(r'<form.*?</form>', re.S | re.I)  # 感想フォーム = クローム
-BODY_RE = re.compile(r'<body[^>]*>(.*?)</body>', re.S | re.I)
 # 変換後の Markdown に意図的に残す HTML (ルビ・画像・本物の表)
 KEPT_TAG_RE = re.compile(
     r'</?(?:ruby|rb|rt|rp|rtc|img|table|thead|tbody|tfoot|tr|td|th|caption|col|colgroup|'

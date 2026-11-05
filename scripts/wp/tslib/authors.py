@@ -45,7 +45,6 @@ from tslib.kana_index import norm_name
 from tslib.paths import KANSOU_DIR, DEFAULT_ANNEX_BASE, kansou_annex_url
 
 WAYBACK_FMT = 'https://web.archive.org/web/2010/%s'
-EXPECTED_AUTHORS = 399                      # survey 実測 (表示名の異なり数)
 
 # --- 感想板一覧 (~ts/kansou/bbs@log_.cgi) ------------------------------------
 BOARD_LIST = 'bbs@log_.cgi'

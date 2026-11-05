@@ -32,7 +32,7 @@ class TextExtractor(HTMLParser):
 
     SKIP = {"script", "style", "title"}
 
-    def __init__(self, skip_rt: bool = False, only_id: str | None = None):
+    def __init__(self, skip_rt: bool = False):
         super().__init__(convert_charrefs=True)
         self.buf: list[str] = []
         self._skip_depth = 0

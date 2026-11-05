@@ -182,19 +182,6 @@ def parse_vocab_page(path):
     return parse_vocab_html(read_text(path))
 
 
-def parse_share_world(path):
-    """share_world.html → [(名前, 原作者, 推薦文)]。ts_world の説明文の原資料。"""
-    if not os.path.exists(path):
-        return []
-    text = re.sub(r'\s+', ' ', RE_TAG.sub('\n', read_text(path)))
-    out = []
-    for block in re.finditer(
-            r'([^\n]{2,40}(?:シリーズ|設定|SugarSweets)[^\n]{0,20})\s*\n[^\n]*原作[：:]\s*\n?([^\n]{1,30})',
-            text):
-        out.append((block.group(1).strip(), block.group(2).strip()))
-    return out
-
-
 # --------------------------------------------------------------------------- 正規化マップ (ファイル)
 
 def load_map(path, default, comment=MAP_COMMENT):
