@@ -1,0 +1,3 @@
+# ignore.tsv — 突き合わせで時刻だけが違う所 (T45.2.3)。compare.sh がこの鍵を読み飛ばして比べる
+# 書式: <ツリーからの相対パス> TAB <JSON の最上位の鍵>
+catalog/reports/secret_scan.json	generated

@@ -8,6 +8,8 @@
 #                    (開発機のみ。git 管理外)
 #   make verify    … bodies/*.md を html5lib で検算する (要 make venv)
 #   make test-php  … PHP (mu-plugin・テーマ) の構文検査と単体の試験をサーバの PHP 8.0 で流す (specs/S242.md)
+#   make test      … scripts/wp/tslib の単体の試験 (scripts/wp/tests/) と scripts/doccheck/ の試験 (標準の unittest)。
+#                    実データは読まない。check には入れていない (T45.2.21)
 #
 # 段の順番には意味がある。episodes.jsonl は catalog_build が新規に書き、
 # uncatalogued_build と repost_build が**自分の corpus 分だけ差し替えて**追記し、
@@ -22,7 +24,7 @@ VENV    ?= .venv
 PYTHON  ?= $(if $(wildcard $(VENV)/bin/python),$(VENV)/bin/python,python3)
 WP      := scripts/wp
 
-.PHONY: all catalog check qa venv verify test-php clean-catalog
+.PHONY: all catalog check qa venv verify test test-php clean-catalog
 
 all: catalog
 
@@ -71,6 +73,12 @@ verify:
 # --- PHP の構文検査と単体の試験 (手元に PHP が無いので scripts/wp/php_test.sh がサーバで流す。DB と公開ルートには触れない)
 test-php:
 	$(WP)/php_test.sh
+
+# --- scripts/wp/tslib の単体の試験 (T45.2.8)。PyYAML・pykakasi・bs4 が無ければ該当の試験は飛ばす
+# 2 行目は文書の検査のロジック scripts/doccheck/ の試験 (T45.2.22)
+test:
+	$(PYTHON) -m unittest discover -s $(WP)/tests -t $(WP)
+	$(PYTHON) -m unittest discover -s scripts/doccheck/tests -t scripts
 
 # 生成物だけ消す (原本には触らない)
 clean-catalog:

@@ -3,7 +3,7 @@
 """cluster_review.py — 作品クラスタのレビュー資料を書く (T24.3、仕様は specs/S149.md)。
 
 抽出
-  catalog/works.jsonl の連載 (episode_count >= 2) のうち、構成話の題名の芯 (work_builder.trim_title)
+  catalog/works.jsonl の連載 (episode_count >= 2) のうち、構成話の題名の芯 (tslib/works.py の trim_title)
   が 2 種以上あり、芯どうしの共通接頭辞 (NFKC・小文字) が 2 文字未満のもの。
   根拠が規則 5/6 (filename-stem / title-prefix) だけのものを先頭に、強い根拠のあるものを後に並べる。
 
@@ -24,25 +24,21 @@
 
 使い方
   python3 scripts/wp/cluster_review.py [--since REV] [--out PATH]
+
+抽出・一次案・作品 1 件の書式・slug の突き合わせは scripts/wp/tslib/cluster_review.py。
+このファイルは引数の解釈と読み書きと表示だけ。
 """
 import argparse
-import collections
 import datetime
 import json
 import os
-import subprocess
 import sys
-import unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import work_builder as wb                                 # noqa: E402
+from tslib import paths, cluster_review as cr             # noqa: E402
+from tslib.gitinfo import show_file, short_rev            # noqa: E402
 
-DEFAULT_ROOT = wb.DEFAULT_ROOT
-WEAK_ONLY = {'filename-stem', 'title-prefix'}
-
-
-def nfkc_lower(s):
-    return unicodedata.normalize('NFKC', s or '').lower()
+DEFAULT_ROOT = paths.REPO_ROOT
 
 
 def load_works(root):
@@ -59,119 +55,12 @@ def load_episodes(root):
     return out
 
 
-def is_target(w):
-    if w['episode_count'] < 2:
-        return False
-    cores = {wb.trim_title(e['title']) for e in w['episodes']}
-    if len(cores) < 2:
-        return False
-    return len(wb.common_prefix([nfkc_lower(c) for c in cores])) < 2
-
-
-def is_weak(w):
-    return set(w['evidence']) <= WEAK_ONLY
-
-
-def core_families(w):
-    """芯ごとの組。共通接頭辞 2 文字以上でつながる芯を 1 組にする (掲載順に貪欲)。
-    戻り値は [(代表の芯, [episode, …]), …] で、元の作品に残す組が先頭。"""
-    fams = []                                   # [{'keys': [芯の nfkc_lower], 'eps': [...], 'cores': Counter}]
-    for i, e in enumerate(w['episodes']):
-        core = wb.trim_title(e['title'])
-        key = nfkc_lower(core)
-        for f in fams:
-            if any(len(wb.common_prefix([key, k])) >= 2 for k in f['keys']):
-                break
-        else:
-            f = {'keys': [], 'eps': [], 'cores': collections.Counter(), 'first': i}
-            fams.append(f)
-        if key not in f['keys']:
-            f['keys'].append(key)
-        f['eps'].append(e)
-        f['cores'][core] += 1
-    fams.sort(key=lambda f: (-len(f['eps']), f['first']))
-    return [(f['cores'].most_common(1)[0][0], f['eps']) for f in fams]
-
-
-def md_cell(s):
-    return (s or '').replace('|', '\\|').replace('\n', ' ')
-
-
-def yaml_str(s):
-    return json.dumps(s, ensure_ascii=False)
-
-
-def proposal(w):
-    """一次案 (本文の行と、work_overrides.yml に写したときの行)。"""
-    key = '%s|%s' % (w['author_slug'], w['title'])
-    fams = core_families(w)
-    if not is_weak(w):
-        strong = sorted(set(w['evidence']) & wb.STRONG)
-        text = ['- 一次案: **○** (強い根拠 %s で繋がっている。芯の違いは参考として下に並べる)'
-                % ' / '.join('`%s`' % r for r in strong)]
-        for core, eps in fams:
-            text.append('  - 芯「%s」: %d 話' % (md_cell(core), len(eps)))
-        return text, ['  %s:' % yaml_str(key), '    confirmed: true']
-    if len(fams) == 1:
-        return (['- 一次案: **○** (芯は違うが、どれも共通接頭辞 2 文字以上でつながる)'],
-                ['  %s:' % yaml_str(key), '    confirmed: true'])
-    keep_core, keep_eps = fams[0]
-    splits = [(c, eps) for c, eps in fams[1:] if len(eps) >= 2]
-    detaches = [eps[0] for c, eps in fams[1:] if len(eps) == 1]
-    kinds = (['分割'] if splits else []) + (['切り離し'] if detaches else [])
-    text = ['- 一次案: **%s** (芯ごとの機械の振り分け。元の作品に残すのは芯「%s」の %d 話)'
-            % (' + '.join(kinds), md_cell(keep_core), len(keep_eps))]
-    for c, eps in splits:
-        text.append('  - 分割 → 新しい作品「%s」: %s' % (md_cell(c), ', '.join('`%s`' % e['episode_id'] for e in eps)))
-    for e in detaches:
-        text.append('  - 切り離し → 単独の作品「%s」: `%s`' % (md_cell(e['title']), e['episode_id']))
-    ylines = ['  %s:' % yaml_str(key), '    confirmed: true']
-    if splits:
-        ylines.append('    split:')
-        for c, eps in splits:
-            ylines.append('      - work_title: %s' % yaml_str(c))
-            ylines.append('        episodes: [%s]' % ', '.join(e['episode_id'] for e in eps))
-    if detaches:
-        ylines.append('    detach: [%s]' % ', '.join(e['episode_id'] for e in detaches))
-    return text, ylines
-
-
-def render_work(w, n, episodes):
-    out = ['### %d. `%s` — %s' % (n, w['work_slug'], md_cell(w['title'])), '',
-           '- 根拠: %s / 話数: %d / 作者: %s (`%s`)%s' % (
-               ', '.join('`%s`' % r for r in w['evidence']) or '—', w['episode_count'],
-               md_cell(w['author_display']), w['author_slug'],
-               ' / 複数ディレクトリ' if w.get('multi_directory') else ''),
-           '',
-           '| episode_id | 題名 | ファイル名 | 掲載日 | corpus |',
-           '|---|---|---|---|---|']
-    for e in w['episodes']:
-        rec = episodes.get(e['episode_id'], {})
-        out.append('| `%s` | %s | %s | %s | %s |' % (
-            e['episode_id'], md_cell(e['title']), md_cell(os.path.basename(e['source_path'])),
-            e.get('date') or '—', rec.get('corpus') or '—'))
-    text, ylines = proposal(w)
-    out += ['', '**裁定** (○ / 分割 / 切り離し / 併合。分割なら話の振り分け):', ''] + text
-    out += ['', '<details><summary>一次案を work_overrides.yml に写したときの形</summary>', '',
-            '```yaml'] + ylines + ['```', '', '</details>', '']
-    return out
-
-
 def slug_changes(root, rev):
     """REV の works.jsonl と今の works.jsonl を話の所属で突き合わせる。"""
-    r = subprocess.run(['git', '-C', root, 'show', '%s:catalog/works.jsonl' % rev],
-                       capture_output=True, text=True, check=True)
-    old = [json.loads(line) for line in r.stdout.splitlines() if line.strip()]
+    text = show_file(root, rev, 'catalog/works.jsonl')
+    old = [json.loads(line) for line in text.splitlines() if line.strip()]
     new = load_works(root)
-    new_of = {e['episode_id']: w for w in new for e in w['episodes']}
-    rows = []
-    for w in old:
-        tgt = {new_of[e['episode_id']]['work_slug'] for e in w['episodes'] if e['episode_id'] in new_of}
-        if tgt == {w['work_slug']}:
-            continue
-        rows.append((w, sorted(tgt)))
-    rows.sort(key=lambda x: x[0]['work_slug'])
-    return old, new, rows
+    return old, new, cr.slug_rows(old, new)
 
 
 def main(argv=None):
@@ -186,9 +75,9 @@ def main(argv=None):
 
     works = load_works(root)
     episodes = load_episodes(root)
-    targets = [w for w in works if is_target(w)]
-    weak = sorted([w for w in targets if is_weak(w)], key=lambda w: w['work_slug'])
-    strong = sorted([w for w in targets if not is_weak(w)], key=lambda w: w['work_slug'])
+    targets = [w for w in works if cr.is_target(w)]
+    weak = sorted([w for w in targets if cr.is_weak(w)], key=lambda w: w['work_slug'])
+    strong = sorted([w for w in targets if not cr.is_weak(w)], key=lambda w: w['work_slug'])
 
     L = ['# 作品クラスタのレビュー (%s)' % month, '',
          '`scripts/wp/cluster_review.py` の出力 (仕様は specs/S149.md、裁定の書き方は specs/S150.md)。'
@@ -203,16 +92,15 @@ def main(argv=None):
     n = 0
     for w in weak:
         n += 1
-        L += render_work(w, n, episodes)
+        L += cr.render_work(w, n, episodes)
     L += ['## 強い根拠のある作品 (%d)' % len(strong), '']
     for w in strong:
         n += 1
-        L += render_work(w, n, episodes)
+        L += cr.render_work(w, n, episodes)
 
     if args.since:
         old, new, rows = slug_changes(root, args.since)
-        rev = subprocess.run(['git', '-C', root, 'rev-parse', '--short', args.since],
-                             capture_output=True, text=True, check=True).stdout.strip()
+        rev = short_rev(root, args.since)
         merged = sum(1 for w, t in rows if len(t) == 1 and
                      sum(1 for x in new if x['work_slug'] == t[0] and x['episode_count'] != w['episode_count']))
         L += ['## slug が変わった作品 (%s との比較)' % rev, '',
@@ -226,8 +114,8 @@ def main(argv=None):
         for w, tgt in rows:
             t = new_by_slug[tgt[0]]
             L.append('| `%s` | %s | %s | %s | %d → %d |' % (
-                w['work_slug'], ', '.join('`%s`' % s for s in tgt), md_cell(w['title']),
-                md_cell(t['title']), w['episode_count'], t['episode_count']))
+                w['work_slug'], ', '.join('`%s`' % s for s in tgt), cr.md_cell(w['title']),
+                cr.md_cell(t['title']), w['episode_count'], t['episode_count']))
         L.append('')
 
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
