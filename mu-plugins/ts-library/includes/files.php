@@ -17,6 +17,7 @@ final class TS_Library_Files {
     /** WordPress を使わない部分 (判断・計算・文面)。単体の試験はこれだけを読む */
     public const PURE = [
         'content-model.php',             // 投稿タイプ・タクソノミー・メタの名前と登録の引数
+        'site-rules.php',                // トップ・書庫・検索の一覧の値、見出しの差し替えと空のメタ行の判定
         'roles/role-plan.php',           // 運営委員ロールの望む姿と差分 (S116)
         'visibility/visibility-rules.php', // 410 / 404 / 帯の判定、apply-takedown の 1 投稿の変化 (S117・S118・S121)
         'takedown/takedown-rules.php',   // 申請の投稿タイプ名・パラメータ・状態の遷移・cron の判定 (S124〜S130)
