@@ -9,3 +9,4 @@ payloads-docs/
 .claude/worktrees/
 .parity/
 .deploy/
+.claude/settings.local.json
