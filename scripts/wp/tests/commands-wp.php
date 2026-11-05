@@ -1,7 +1,8 @@
 <?php
 /**
  * wp ts のコマンドを WordPress の代わり (scripts/wp/tests/wp-stubs.php) と WP_CLI の代わり (scripts/wp/ts_library_test.php) の上で
- * 流す (T45.1.7.5。wp ts reset・import の本文の選び方・apply-takedown)。WP_CLI::$out に出力、TS_WP_Stubs::$log に消したもの・書いたものが残る。WP_CLI::error は TS_CLI_Error を投げる。
+ * 流す (T45.1.7.5。wp ts reset・import の本文の選び方・apply-takedown・書き写していない申請・export-takedowns・import と verify)。
+ * WP_CLI::$out に出力、TS_WP_Stubs::$log に消したもの・書いたものが残る。WP_CLI::error は TS_CLI_Error を投げる ($exit が false なら続ける)。
  * scripts/wp/ts_library_test.php から WP の表を読んだ後に読む。
  */
 
@@ -668,4 +669,992 @@ check('export-takedowns: 標準エラーの案内 (引数ごとに 1 行)', expl
   1 => '振った id: S250 S251 S252 S253 (specs/Sn.md を作り SPECS.md の一覧と「次は」を直す)',
   2 => '振った id: S300 S301 S302 (specs/Sn.md を作り SPECS.md の一覧と「次は」を直す)',
   3 => '書き写す申請はありません',
+));
+
+// ---------------------------------------------------------------- wp ts import と wp ts verify (T8.2。T45.6.6)
+// 期待値: 0e8c7712 の ts-library.php と includes 7 本を同じ代わりで動かした出力 (2026-11-05、scripts/wp/php_probe.sh、probe-import.php)。
+// 場面と流し方は wp-fixtures.php の ts_fixture_import_scene と ts_fixture_run_import (probe も同じ関数を呼ぶ)。段ごとに WP_CLI::$out・
+// 書いた関数の数・option・投稿の差 (前の段との差なので、段の間に試験が加えた変化も次の段に出る) を見る:
+// 空の DB の --dry-run は何も書かない (単発の本文の載せ替えは数えない) → 1 回目は created (単発 2 つの載せ替えは updated) → verify OK
+// → 2 回目は全部 skipped (連載の親 work の term だけは毎回書き直す) → --bodies で話と単発が updated (ペイロード・案内文・takedown の空・
+// _ts_body_status は _meta.json の値そのまま) → もう一度は skipped → --author と --limit → catalog を直すと updated、手で直した投稿は
+// manual_skipped (--dry-run でも option ts_manual_edit_warnings を書く。語の解決は書くときだけなので --dry-run は term の警告を出さない)、
+// 語彙に無い値 (ホラー) と WP に無い term (あめ) は ts_term_warnings → verify NG (未作成・割当数・未解決・手動編集) → --overwrite-manual で
+// updated → はぐれの投稿は重複の警告、verify は件数・orphan・語彙外・被覆・cron・denylist を警告する。hash (HASH_VER と wp_json_encode) は
+// 投稿の行に入れてそのまま比べる (旧版と同じ hash になることが、配備で全投稿が updated にならない根拠)。
+// 1 回ごとに new するのは、本番の wp のプロセスごとに新しいのと同じにするため (旧版は term の表と解決できなかった値を 1 つのオブジェクトに溜める)。
+// 代わりが本物と違う所 (meta_value の比較・post_name の重複・get_term_by の slug・verify の SQL) は wp-stubs.php の先頭と specs/S242.md
+$repo = sys_get_temp_dir() . '/ts-import-' . getmypid();
+mkdir($repo);
+$got = ts_fixture_run_import(function ($assoc) { (new TS_Import_Command())->import([], $assoc); },
+                             function ($assoc) { (new TS_Verify_Command())->verify([], $assoc); }, $repo);
+check('import と verify: 一時ディレクトリの catalog とペイロードは消えている', [is_dir("$repo/catalog"), is_dir("$repo/payloads")], [false, false]);
+rmdir($repo);
+$same('import と verify', $got, array (
+  'dry0/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'success',
+      1 => 'import: created=10 updated=0 skipped=0 manual_skipped=0 catalog= (dry-run)',
+    ),
+  ),
+  'dry0/writes' => 
+  array (
+  ),
+  'dry0/options' => 
+  array (
+    'ts_catalog_commit' => '(無い)',
+    'ts_last_import_at' => '(無い)',
+    'ts_manual_edit_warnings' => '(無い)',
+    'ts_term_warnings' => '(無い)',
+  ),
+  'dry0/posts' => 
+  array (
+    'changed' => 
+    array (
+    ),
+    'gone' => 
+    array (
+    ),
+  ),
+  'first/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'success',
+      1 => 'import: created=10 updated=2 skipped=0 manual_skipped=0 catalog=',
+    ),
+  ),
+  'first/writes' => 
+  array (
+    'delete_option' => 2,
+    'wp_insert_post' => 10,
+    'wp_set_object_terms' => 60,
+    'wp_update_post' => 2,
+  ),
+  'first/options' => 
+  array (
+    'ts_catalog_commit' => '(無い)',
+    'ts_last_import_at' => '(無い)',
+    'ts_manual_edit_warnings' => '(無い)',
+    'ts_term_warnings' => '(無い)',
+  ),
+  'first/posts' => 
+  array (
+    'changed' => 
+    array (
+      'amano-tsuki-renzoku' => 'publish parent= order=0 date=2001-04-01 00:00:00 title=連続する月 body=\'\' mod=2026-11-05 12:00:00 | _ts_alias_paths=["novel/200104/ren.htm"] _ts_episode_count=3 _ts_import_hash=\'453955fd1c3c845fd8871183d066b588\' _ts_kind=\'work\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_needs_review=1 _ts_title_pages=["novel/title/renzoku.htm"] _ts_work_slug=\'amano-tsuki-renzoku\' | ts_author=amano-tsuki ts_corpus=honkan,kyukan ts_genre=gakuen,komedi ts_keyword=neko,ame ts_type=henshin,irekawari ts_world=hoshi-no-machi',
+      'amano-tsuki-tanpen' => 'publish parent= order=0 date=2001-07-07 00:00:00 title=短い月 body=\'\' mod=2026-11-05 12:00:00 | _ts_alias_paths=[] _ts_annex_url=\'https://example.com/annex/novel/200107/tanpen.htm\' _ts_annex_yays_url=\'https://example.com/annex-yays/novel/200107/tanpen.htm\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_count=1 _ts_episode_id=\'novel__200107__tanpen.htm\' _ts_fill_hash=\'d13b5f2f0e443e7bbc0105d085bf1190\' _ts_import_hash=\'a9ad9b9fc9e1b66d7a50d947dcf071d1\' _ts_kind=\'work\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_needs_review=0 _ts_orig_url=\'http://ts.novels.jp/novel/200107/tanpen.htm\' _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2001/07/07\' _ts_raw_genre=["コメディ"] _ts_raw_type=["入れ替わり"] _ts_size_kb=12 _ts_source_path=\'novel/200107/tanpen.htm\' _ts_title_pages=[] _ts_work_slug=\'amano-tsuki-tanpen\' _ts_zokusei=["TS"] | ts_author=amano-tsuki ts_corpus=honkan ts_genre=komedi ts_keyword= ts_type=irekawari ts_world=',
+      'hoshino-akari-hoshi' => 'publish parent= order=0 date=2002-08-08 00:00:00 title=星の歌 body=\'\' mod=2026-11-05 12:00:00 | _ts_alias_paths=[] _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_count=1 _ts_episode_id=\'novel__200208__hoshi.htm\' _ts_fill_hash=\'b7935fe7abc52060ba104d4fe7e093c8\' _ts_import_hash=\'bc9140e3b510d58c6721a20fc1ac9e81\' _ts_kind=\'work\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_needs_review=0 _ts_orig_url=\'http://ts.novels.jp/novel/200208/hoshi.htm\' _ts_provenance={"route":"ftp"} _ts_pub_date_raw=\'2002/08/08\' _ts_raw_keywords=["ねこ"] _ts_raw_type=["変身"] _ts_size_kb=12 _ts_source_path=\'novel/200208/hoshi.htm\' _ts_title_pages=[] _ts_work_slug=\'hoshino-akari-hoshi\' | ts_author=hoshino-akari ts_corpus=honkan ts_genre= ts_keyword=neko ts_type=henshin ts_world=',
+      'umino-nami-nazo' => 'publish parent= order=0 date=2003-01-01 00:00:00 title=謎 body=\'\' mod=2026-11-05 12:00:00 | _ts_alias_paths=[] _ts_episode_count=2 _ts_import_hash=\'4ad336e6ed348ccd52b1085c84d38d4c\' _ts_kind=\'work\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_needs_review=0 _ts_title_pages=[] _ts_work_slug=\'umino-nami-nazo\' | ts_author=umino_nami ts_corpus=honkan ts_genre=gakuen ts_keyword=neko ts_type=henshin ts_world=hoshi-no-machi',
+      'ren01' => 'publish parent=amano-tsuki-renzoku order=1 date=2001-04-01 00:00:00 title=第一話 body=\'\' mod=2026-11-05 12:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200104/ren01.htm\' _ts_arasuji=\'月が連なる。\' _ts_author_comment=\'ありがとう\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_id=\'novel__200104__ren01.htm\' _ts_illustrator=["絵筆 太郎"] _ts_import_hash=\'cd98b9b7778a7c39529158ed8cfe7b55\' _ts_kansou_annex_url=\'https://example.com/annex/bbs/amano.cgi\' _ts_kansou_slug=\'amano\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_orig_url=\'http://ts.novels.jp/novel/200104/ren01.htm\' _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2001/04/01\' _ts_raw_genre=["学園"] _ts_raw_keywords=["ねこ"] _ts_raw_type=["変身"] _ts_size_kb=12 _ts_source_path=\'novel/200104/ren01.htm\' _ts_suisen=\'胸が熱くなる\' | ts_author=amano-tsuki ts_corpus=honkan ts_genre=gakuen ts_keyword=neko ts_type=henshin ts_world=hoshi-no-machi',
+      'ren02' => 'publish parent=amano-tsuki-renzoku order=2 date=2001-05-02 00:00:00 title=第二話 body=\'\' mod=2026-11-05 12:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200105/ren02.htm\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_id=\'novel__200105__ren02.htm\' _ts_import_hash=\'6cf3fd31950803e819ea3d37908f92c2\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2001/05/02\' _ts_raw_genre=["学園？"] _ts_size_kb=8 _ts_source_path=\'novel/200105/ren02.htm\' | ts_author=amano-tsuki ts_corpus=honkan ts_genre=gakuen ts_keyword= ts_type= ts_world=',
+      'ren03' => 'publish parent=amano-tsuki-renzoku order=3 date=2001-06-03 00:00:00 title=第三話 body=\'\' mod=2026-11-05 12:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200106/ren03.htm\' _ts_catalog_ref=\'lib01.html#3\' _ts_corpus=\'kyukan\' _ts_episode_id=\'novel__200106__ren03.htm\' _ts_import_hash=\'e6a54499ca43d56e6a5483deef8e7349\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_nav_links=[{"href":"novel/200104/ren01.htm","label":"最初へ"}] _ts_orig_url=\'http://ts.novels.jp/novel/200106/ren03.htm\' _ts_osusume={"recommender":"読者 一","refs":[{"href":"novel/200104/ren01.htm","title":"第一話"}]} _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2001/06/03\' _ts_raw_genre=["コメディ","学園"] _ts_raw_keywords=["あめ","ねこ"] _ts_raw_type=["変身","入れ替わり"] _ts_size_kb=12 _ts_source_path=\'novel/200106/ren03.htm\' | ts_author=amano-tsuki ts_corpus=kyukan ts_genre=komedi,gakuen ts_keyword=ame,neko ts_type=henshin,irekawari ts_world=',
+      'nazo01' => 'publish parent=umino-nami-nazo order=1 date=2003-01-01 00:00:00 title=謎の上 body=\'\' mod=2026-11-05 12:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200301/nazo01.htm\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_id=\'novel__200301__nazo01.htm\' _ts_files_n=2 _ts_import_hash=\'ae0e4355a837df04f7e5e7783b0577c9\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_orig_url=\'http://ts.novels.jp/novel/200301/nazo01.htm\' _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2003/01/01\' _ts_raw_genre=["学園"] _ts_raw_keywords=["?","ねこ"] _ts_size_kb=12 _ts_source_path=\'novel/200301/nazo01.htm\' | ts_author=umino_nami ts_corpus=honkan ts_genre=gakuen ts_keyword=neko ts_type= ts_world=hoshi-no-machi',
+      'nazo02' => 'publish parent=umino-nami-nazo order=2 date=2003-01-02 00:00:00 title=謎の下 body=\'\' mod=2026-11-05 12:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200301/nazo02.htm\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_id=\'novel__200301__nazo02.htm\' _ts_import_hash=\'51d47e99f08108f3e1108ad961da5a3c\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_orig_url=\'http://ts.novels.jp/novel/200301/nazo02.htm\' _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2003/01/02\' _ts_raw_type=["変身"] _ts_size_kb=12 _ts_source_path=\'novel/200301/nazo02.htm\' | ts_author=umino_nami ts_corpus=honkan ts_genre= ts_keyword= ts_type=henshin ts_world=',
+      'kodoku' => 'publish parent= order=0 date=2003-02-02 00:00:00 title=孤独 body=\'\' mod=2026-11-05 12:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200302/kodoku.htm\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_id=\'novel__200302__kodoku.htm\' _ts_import_hash=\'d900e8bf4250bed2afb4abfda75c565f\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_pub_date_raw=\'2003/02/02\' _ts_raw_genre=["コメディ"] _ts_size_kb=12 _ts_source_path=\'novel/200302/kodoku.htm\' | ts_author= ts_corpus=honkan ts_genre=komedi ts_keyword= ts_type= ts_world=',
+    ),
+    'gone' => 
+    array (
+    ),
+  ),
+  'verify1/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'line',
+      1 => '投稿数: WP=10 期待=10 (works 4 + episodes 8 - 単発 2)',
+    ),
+    1 => 
+    array (
+      0 => 'line',
+      1 => 'orphan 子投稿: 0',
+    ),
+    2 => 
+    array (
+      0 => 'line',
+      1 => 'ts_author: WP=5 語彙=5 語彙外=0 未作成=0',
+    ),
+    3 => 
+    array (
+      0 => 'line',
+      1 => 'ts_genre: WP=2 語彙=2 語彙外=0 未作成=0',
+    ),
+    4 => 
+    array (
+      0 => 'line',
+      1 => 'ts_type: WP=2 語彙=2 語彙外=0 未作成=0',
+    ),
+    5 => 
+    array (
+      0 => 'line',
+      1 => 'ts_keyword: WP=2 語彙=2 語彙外=0 未作成=0',
+    ),
+    6 => 
+    array (
+      0 => 'line',
+      1 => 'ts_world: WP=1 語彙=1 語彙外=0 未作成=0',
+    ),
+    7 => 
+    array (
+      0 => 'line',
+      1 => 'ts_corpus: WP=2 語彙=2 語彙外=0 未作成=0',
+    ),
+    8 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_author: WP=9 期待=9',
+    ),
+    9 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_genre: WP=10 期待=10',
+    ),
+    10 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_type: WP=9 期待=9',
+    ),
+    11 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_keyword: WP=8 期待=8',
+    ),
+    12 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_world: WP=4 期待=4',
+    ),
+    13 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_corpus: WP=11 期待=11',
+    ),
+    14 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_pub_date_raw: WP=8 期待=8',
+    ),
+    15 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_orig_url: WP=6 期待=6',
+    ),
+    16 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_annex_url: WP=7 期待=7',
+    ),
+    17 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_provenance: WP=7 期待=7',
+    ),
+    18 => 
+    array (
+      0 => 'line',
+      1 => '本文 status: (未投入)',
+    ),
+    19 => 
+    array (
+      0 => 'warning',
+      1 => 'ts_takedown_tick がまだ一度も動いていない (S130)',
+    ),
+    20 => 
+    array (
+      0 => 'line',
+      1 => '適用済みの申請で denylist に無いもの: 0 件',
+    ),
+    21 => 
+    array (
+      0 => 'line',
+      1 => 'ts_catalog_commit: (未記録)',
+    ),
+    22 => 
+    array (
+      0 => 'line',
+      1 => '(冪等の確認は `wp ts import --dry-run` 2 回目が created=0 updated=0 になること)',
+    ),
+    23 => 
+    array (
+      0 => 'success',
+      1 => 'verify OK',
+    ),
+  ),
+  'again/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'success',
+      1 => 'import: created=0 updated=0 skipped=12 manual_skipped=0 catalog=',
+    ),
+  ),
+  'again/writes' => 
+  array (
+    'delete_option' => 2,
+    'wp_set_object_terms' => 10,
+  ),
+  'again/options' => 
+  array (
+    'ts_catalog_commit' => '(無い)',
+    'ts_last_import_at' => '(無い)',
+    'ts_manual_edit_warnings' => '(無い)',
+    'ts_term_warnings' => '(無い)',
+  ),
+  'again/posts' => 
+  array (
+    'changed' => 
+    array (
+    ),
+    'gone' => 
+    array (
+    ),
+  ),
+  'bodies/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'success',
+      1 => 'import: created=0 updated=8 skipped=4 manual_skipped=0 catalog=',
+    ),
+  ),
+  'bodies/writes' => 
+  array (
+    'delete_option' => 2,
+    'wp_set_object_terms' => 56,
+    'wp_update_post' => 8,
+  ),
+  'bodies/options' => 
+  array (
+    'ts_catalog_commit' => '(無い)',
+    'ts_last_import_at' => '(無い)',
+    'ts_manual_edit_warnings' => '(無い)',
+    'ts_term_warnings' => '(無い)',
+  ),
+  'bodies/posts' => 
+  array (
+    'changed' => 
+    array (
+      'amano-tsuki-tanpen' => 'publish parent= order=0 date=2001-07-07 00:00:00 title=短い月 body=\'<!-- wp:paragraph --><p>短い月の本文。</p><!-- /wp:paragraph -->\' mod=2026-11-05 12:00:00 | _ts_alias_paths=[] _ts_annex_url=\'https://example.com/annex/novel/200107/tanpen.htm\' _ts_annex_yays_url=\'https://example.com/annex-yays/novel/200107/tanpen.htm\' _ts_body_status=\'converted\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_count=1 _ts_episode_id=\'novel__200107__tanpen.htm\' _ts_fill_hash=\'e414c03afaf2458fc37f826e54e187e9\' _ts_import_hash=\'a9ad9b9fc9e1b66d7a50d947dcf071d1\' _ts_kind=\'work\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_needs_review=0 _ts_orig_url=\'http://ts.novels.jp/novel/200107/tanpen.htm\' _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2001/07/07\' _ts_raw_genre=["コメディ"] _ts_raw_type=["入れ替わり"] _ts_size_kb=12 _ts_source_path=\'novel/200107/tanpen.htm\' _ts_title_pages=[] _ts_work_slug=\'amano-tsuki-tanpen\' _ts_zokusei=["TS"] | ts_author=amano-tsuki ts_corpus=honkan ts_genre=komedi ts_keyword= ts_type=irekawari ts_world=',
+      'hoshino-akari-hoshi' => 'publish parent= order=0 date=2002-08-08 00:00:00 title=星の歌 body=\'<!-- wp:paragraph --><p>星の歌の本文。</p><!-- /wp:paragraph -->\' mod=2026-11-05 12:00:00 | _ts_alias_paths=[] _ts_body_status=\'placeholder\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_count=1 _ts_episode_id=\'novel__200208__hoshi.htm\' _ts_fill_hash=\'beafc7d2ef4f3463f270b9639806f5d6\' _ts_import_hash=\'bc9140e3b510d58c6721a20fc1ac9e81\' _ts_kind=\'work\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_needs_review=0 _ts_orig_url=\'http://ts.novels.jp/novel/200208/hoshi.htm\' _ts_provenance={"route":"ftp"} _ts_pub_date_raw=\'2002/08/08\' _ts_raw_keywords=["ねこ"] _ts_raw_type=["変身"] _ts_size_kb=12 _ts_source_path=\'novel/200208/hoshi.htm\' _ts_title_pages=[] _ts_work_slug=\'hoshino-akari-hoshi\' | ts_author=hoshino-akari ts_corpus=honkan ts_genre= ts_keyword=neko ts_type=henshin ts_world=',
+      'ren01' => 'publish parent=amano-tsuki-renzoku order=1 date=2001-04-01 00:00:00 title=第一話 body=\'<!-- wp:paragraph --><p>第一話の本文。</p><!-- /wp:paragraph -->\' mod=2026-11-05 12:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200104/ren01.htm\' _ts_arasuji=\'月が連なる。\' _ts_author_comment=\'ありがとう\' _ts_body_status=\'converted\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_id=\'novel__200104__ren01.htm\' _ts_illustrator=["絵筆 太郎"] _ts_import_hash=\'a37f2a1357f899069e151eb786938e48\' _ts_kansou_annex_url=\'https://example.com/annex/bbs/amano.cgi\' _ts_kansou_slug=\'amano\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_orig_url=\'http://ts.novels.jp/novel/200104/ren01.htm\' _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2001/04/01\' _ts_raw_genre=["学園"] _ts_raw_keywords=["ねこ"] _ts_raw_type=["変身"] _ts_size_kb=12 _ts_source_path=\'novel/200104/ren01.htm\' _ts_suisen=\'胸が熱くなる\' | ts_author=amano-tsuki ts_corpus=honkan ts_genre=gakuen ts_keyword=neko ts_type=henshin ts_world=hoshi-no-machi',
+      'ren02' => 'publish parent=amano-tsuki-renzoku order=2 date=2001-05-02 00:00:00 title=第二話 body=\'<!-- wp:paragraph --><p>(本文は原本アーカイブでお読みください)</p><!-- /wp:paragraph -->\' mod=2026-11-05 12:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200105/ren02.htm\' _ts_body_status=\'placeholder\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_id=\'novel__200105__ren02.htm\' _ts_import_hash=\'003ccdb931a3572441722f2bcf809fa8\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2001/05/02\' _ts_raw_genre=["学園？"] _ts_size_kb=8 _ts_source_path=\'novel/200105/ren02.htm\' | ts_author=amano-tsuki ts_corpus=honkan ts_genre=gakuen ts_keyword= ts_type= ts_world=',
+      'ren03' => 'publish parent=amano-tsuki-renzoku order=3 date=2001-06-03 00:00:00 title=第三話 body=\'<!-- wp:paragraph --><p>第三話の本文。</p><!-- /wp:paragraph -->\' mod=2026-11-05 12:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200106/ren03.htm\' _ts_body_status=\'raw-fallback\' _ts_catalog_ref=\'lib01.html#3\' _ts_corpus=\'kyukan\' _ts_episode_id=\'novel__200106__ren03.htm\' _ts_import_hash=\'2dfcba44f14446c43d4f176a8401f2ae\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_nav_links=[{"href":"novel/200104/ren01.htm","label":"最初へ"}] _ts_orig_url=\'http://ts.novels.jp/novel/200106/ren03.htm\' _ts_osusume={"recommender":"読者 一","refs":[{"href":"novel/200104/ren01.htm","title":"第一話"}]} _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2001/06/03\' _ts_raw_genre=["コメディ","学園"] _ts_raw_keywords=["あめ","ねこ"] _ts_raw_type=["変身","入れ替わり"] _ts_size_kb=12 _ts_source_path=\'novel/200106/ren03.htm\' | ts_author=amano-tsuki ts_corpus=kyukan ts_genre=komedi,gakuen ts_keyword=ame,neko ts_type=henshin,irekawari ts_world=',
+      'nazo01' => 'publish parent=umino-nami-nazo order=1 date=2003-01-01 00:00:00 title=謎の上 body=\'<!-- wp:paragraph --><p>謎の上の本文。</p><!-- /wp:paragraph -->\' mod=2026-11-05 12:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200301/nazo01.htm\' _ts_body_status=\'converted\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_id=\'novel__200301__nazo01.htm\' _ts_files_n=2 _ts_import_hash=\'40046a7d936b2ac0f4cefb0e49630c2b\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_orig_url=\'http://ts.novels.jp/novel/200301/nazo01.htm\' _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2003/01/01\' _ts_raw_genre=["学園"] _ts_raw_keywords=["?","ねこ"] _ts_size_kb=12 _ts_source_path=\'novel/200301/nazo01.htm\' | ts_author=umino_nami ts_corpus=honkan ts_genre=gakuen ts_keyword=neko ts_type= ts_world=hoshi-no-machi',
+      'nazo02' => 'publish parent=umino-nami-nazo order=2 date=2003-01-02 00:00:00 title=謎の下 body=\'\' mod=2026-11-05 12:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200301/nazo02.htm\' _ts_body_status=\'takedown\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_id=\'novel__200301__nazo02.htm\' _ts_import_hash=\'ef64d6c2eb74186ed895a80817de4f5b\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_orig_url=\'http://ts.novels.jp/novel/200301/nazo02.htm\' _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2003/01/02\' _ts_raw_type=["変身"] _ts_size_kb=12 _ts_source_path=\'novel/200301/nazo02.htm\' | ts_author=umino_nami ts_corpus=honkan ts_genre= ts_keyword= ts_type=henshin ts_world=',
+      'kodoku' => 'publish parent= order=0 date=2003-02-02 00:00:00 title=孤独 body=\'<!-- wp:paragraph --><p>(本文は原本アーカイブでお読みください)</p><!-- /wp:paragraph -->\' mod=2026-11-05 12:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200302/kodoku.htm\' _ts_body_status=\'converted\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_id=\'novel__200302__kodoku.htm\' _ts_import_hash=\'7d49a52f0376643d699abd4124e8b2f3\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_pub_date_raw=\'2003/02/02\' _ts_raw_genre=["コメディ"] _ts_size_kb=12 _ts_source_path=\'novel/200302/kodoku.htm\' | ts_author= ts_corpus=honkan ts_genre=komedi ts_keyword= ts_type= ts_world=',
+    ),
+    'gone' => 
+    array (
+    ),
+  ),
+  'bodies_again/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'success',
+      1 => 'import: created=0 updated=0 skipped=12 manual_skipped=0 catalog=',
+    ),
+  ),
+  'bodies_again/writes' => 
+  array (
+    'delete_option' => 2,
+    'wp_set_object_terms' => 10,
+  ),
+  'bodies_again/options' => 
+  array (
+    'ts_catalog_commit' => '(無い)',
+    'ts_last_import_at' => '(無い)',
+    'ts_manual_edit_warnings' => '(無い)',
+    'ts_term_warnings' => '(無い)',
+  ),
+  'bodies_again/posts' => 
+  array (
+    'changed' => 
+    array (
+    ),
+    'gone' => 
+    array (
+    ),
+  ),
+  'verify2/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'line',
+      1 => '投稿数: WP=10 期待=10 (works 4 + episodes 8 - 単発 2)',
+    ),
+    1 => 
+    array (
+      0 => 'line',
+      1 => 'orphan 子投稿: 0',
+    ),
+    2 => 
+    array (
+      0 => 'line',
+      1 => 'ts_author: WP=5 語彙=5 語彙外=0 未作成=0',
+    ),
+    3 => 
+    array (
+      0 => 'line',
+      1 => 'ts_genre: WP=2 語彙=2 語彙外=0 未作成=0',
+    ),
+    4 => 
+    array (
+      0 => 'line',
+      1 => 'ts_type: WP=2 語彙=2 語彙外=0 未作成=0',
+    ),
+    5 => 
+    array (
+      0 => 'line',
+      1 => 'ts_keyword: WP=2 語彙=2 語彙外=0 未作成=0',
+    ),
+    6 => 
+    array (
+      0 => 'line',
+      1 => 'ts_world: WP=1 語彙=1 語彙外=0 未作成=0',
+    ),
+    7 => 
+    array (
+      0 => 'line',
+      1 => 'ts_corpus: WP=2 語彙=2 語彙外=0 未作成=0',
+    ),
+    8 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_author: WP=9 期待=9',
+    ),
+    9 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_genre: WP=10 期待=10',
+    ),
+    10 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_type: WP=9 期待=9',
+    ),
+    11 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_keyword: WP=8 期待=8',
+    ),
+    12 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_world: WP=4 期待=4',
+    ),
+    13 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_corpus: WP=11 期待=11',
+    ),
+    14 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_pub_date_raw: WP=8 期待=8',
+    ),
+    15 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_orig_url: WP=6 期待=6',
+    ),
+    16 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_annex_url: WP=7 期待=7',
+    ),
+    17 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_provenance: WP=7 期待=7',
+    ),
+    18 => 
+    array (
+      0 => 'line',
+      1 => '本文 status: converted 4 / placeholder 2 / raw-fallback 1 / takedown 1',
+    ),
+    19 => 
+    array (
+      0 => 'line',
+      1 => 'ts_takedown_tick の最終実行: now-1h',
+    ),
+    20 => 
+    array (
+      0 => 'line',
+      1 => '適用済みの申請で denylist に無いもの: 0 件',
+    ),
+    21 => 
+    array (
+      0 => 'line',
+      1 => 'ts_catalog_commit: (未記録)',
+    ),
+    22 => 
+    array (
+      0 => 'line',
+      1 => '(冪等の確認は `wp ts import --dry-run` 2 回目が created=0 updated=0 になること)',
+    ),
+    23 => 
+    array (
+      0 => 'success',
+      1 => 'verify OK',
+    ),
+  ),
+  'author/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'success',
+      1 => 'import: created=0 updated=0 skipped=2 manual_skipped=0 catalog= (dry-run)',
+    ),
+  ),
+  'author/writes' => 
+  array (
+  ),
+  'author/options' => 
+  array (
+    'ts_catalog_commit' => '(無い)',
+    'ts_last_import_at' => '(無い)',
+    'ts_manual_edit_warnings' => '(無い)',
+    'ts_term_warnings' => '(無い)',
+  ),
+  'author/posts' => 
+  array (
+    'changed' => 
+    array (
+    ),
+    'gone' => 
+    array (
+    ),
+  ),
+  'limit/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'success',
+      1 => 'import: created=0 updated=0 skipped=5 manual_skipped=0 catalog= (dry-run)',
+    ),
+  ),
+  'limit/writes' => 
+  array (
+  ),
+  'limit/options' => 
+  array (
+    'ts_catalog_commit' => '(無い)',
+    'ts_last_import_at' => '(無い)',
+    'ts_manual_edit_warnings' => '(無い)',
+    'ts_term_warnings' => '(無い)',
+  ),
+  'limit/posts' => 
+  array (
+    'changed' => 
+    array (
+    ),
+    'gone' => 
+    array (
+    ),
+  ),
+  'dry_changed/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'warning',
+      1 => '手動編集を検出して skip した投稿: 1 件 (`wp ts verify` で一覧。上書きするには --overwrite-manual)',
+    ),
+    1 => 
+    array (
+      0 => 'success',
+      1 => 'import: created=0 updated=2 skipped=9 manual_skipped=1 catalog= (dry-run)',
+    ),
+  ),
+  'dry_changed/writes' => 
+  array (
+    'update_option' => 1,
+  ),
+  'dry_changed/options' => 
+  array (
+    'ts_catalog_commit' => '(無い)',
+    'ts_last_import_at' => '(無い)',
+    'ts_manual_edit_warnings' => 
+    array (
+      0 => 
+      array (
+        'kind' => 'episode',
+        'key' => 'novel__200105__ren02.htm',
+        'modified' => '2026-11-06 09:00:00',
+      ),
+    ),
+    'ts_term_warnings' => '(無い)',
+  ),
+  'dry_changed/posts' => 
+  array (
+    'changed' => 
+    array (
+      'amano-tsuki-renzoku' => 'publish parent= order=0 date=2001-04-01 00:00:00 title=連続する月 body=\'\' mod=2026-11-05 12:00:00 | _ts_alias_paths=["novel/200104/ren.htm"] _ts_episode_count=3 _ts_import_hash=\'453955fd1c3c845fd8871183d066b588\' _ts_kind=\'work\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_needs_review=1 _ts_title_pages=["novel/title/renzoku.htm"] _ts_work_slug=\'amano-tsuki-renzoku\' | ts_author=amano-tsuki ts_corpus=honkan,kyukan ts_genre=gakuen,komedi ts_keyword=neko ts_type=henshin,irekawari ts_world=hoshi-no-machi',
+      'ren02' => 'publish parent=amano-tsuki-renzoku order=2 date=2001-05-02 00:00:00 title=手で直した題 body=\'<!-- wp:paragraph --><p>(本文は原本アーカイブでお読みください)</p><!-- /wp:paragraph -->\' mod=2026-11-06 09:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200105/ren02.htm\' _ts_body_status=\'placeholder\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_id=\'novel__200105__ren02.htm\' _ts_import_hash=\'003ccdb931a3572441722f2bcf809fa8\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2001/05/02\' _ts_raw_genre=["学園？"] _ts_size_kb=8 _ts_source_path=\'novel/200105/ren02.htm\' | ts_author=amano-tsuki ts_corpus=honkan ts_genre=gakuen ts_keyword= ts_type= ts_world=',
+      'ren03' => 'publish parent=amano-tsuki-renzoku order=3 date=2001-06-03 00:00:00 title=第三話 body=\'<!-- wp:paragraph --><p>第三話の本文。</p><!-- /wp:paragraph -->\' mod=2026-11-05 12:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200106/ren03.htm\' _ts_body_status=\'raw-fallback\' _ts_catalog_ref=\'lib01.html#3\' _ts_corpus=\'kyukan\' _ts_episode_id=\'novel__200106__ren03.htm\' _ts_import_hash=\'2dfcba44f14446c43d4f176a8401f2ae\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-05 12:00:00\' _ts_nav_links=[{"href":"novel/200104/ren01.htm","label":"最初へ"}] _ts_orig_url=\'http://ts.novels.jp/novel/200106/ren03.htm\' _ts_osusume={"recommender":"読者 一","refs":[{"href":"novel/200104/ren01.htm","title":"第一話"}]} _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2001/06/03\' _ts_raw_genre=["コメディ","学園"] _ts_raw_keywords=["あめ","ねこ"] _ts_raw_type=["変身","入れ替わり"] _ts_size_kb=12 _ts_source_path=\'novel/200106/ren03.htm\' | ts_author=amano-tsuki ts_corpus=kyukan ts_genre=komedi,gakuen ts_keyword=neko ts_type=henshin,irekawari ts_world=',
+    ),
+    'gone' => 
+    array (
+    ),
+  ),
+  'manual/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'warning',
+      1 => '手動編集を検出して skip した投稿: 1 件 (`wp ts verify` で一覧。上書きするには --overwrite-manual)',
+    ),
+    1 => 
+    array (
+      0 => 'warning',
+      1 => 'term に解決できず割当を落とした値: 2 種 (上位: ts_genre:ホラー ts_keyword:あめ)',
+    ),
+    2 => 
+    array (
+      0 => 'success',
+      1 => 'import: created=0 updated=2 skipped=9 manual_skipped=1 catalog=',
+    ),
+  ),
+  'manual/writes' => 
+  array (
+    'update_option' => 2,
+    'wp_set_object_terms' => 17,
+    'wp_update_post' => 2,
+  ),
+  'manual/options' => 
+  array (
+    'ts_catalog_commit' => '(無い)',
+    'ts_last_import_at' => '(無い)',
+    'ts_manual_edit_warnings' => 
+    array (
+      0 => 
+      array (
+        'kind' => 'episode',
+        'key' => 'novel__200105__ren02.htm',
+        'modified' => '2026-11-06 09:00:00',
+      ),
+    ),
+    'ts_term_warnings' => 
+    array (
+      'ts_genre:ホラー' => 2,
+      'ts_keyword:あめ' => 1,
+    ),
+  ),
+  'manual/posts' => 
+  array (
+    'changed' => 
+    array (
+      'amano-tsuki-renzoku' => 'publish parent= order=0 date=2001-04-01 00:00:00 title=連続する月 (改) body=\'\' mod=2026-11-06 09:00:00 | _ts_alias_paths=["novel/200104/ren.htm"] _ts_episode_count=3 _ts_import_hash=\'b9089e7d5c4aa3a2c22ba13e64b266b7\' _ts_kind=\'work\' _ts_last_import_gmt=\'2026-11-06 09:00:00\' _ts_needs_review=1 _ts_title_pages=["novel/title/renzoku.htm"] _ts_work_slug=\'amano-tsuki-renzoku\' | ts_author=amano-tsuki ts_corpus=honkan,kyukan ts_genre=gakuen,komedi ts_keyword=neko ts_type=henshin,irekawari ts_world=hoshi-no-machi',
+      'ren01' => 'publish parent=amano-tsuki-renzoku order=1 date=2001-04-01 00:00:00 title=第一話 body=\'<!-- wp:paragraph --><p>第一話の本文。</p><!-- /wp:paragraph -->\' mod=2026-11-06 09:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200104/ren01.htm\' _ts_arasuji=\'直したあらすじ\' _ts_author_comment=\'ありがとう\' _ts_body_status=\'converted\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_id=\'novel__200104__ren01.htm\' _ts_illustrator=["絵筆 太郎"] _ts_import_hash=\'84b92f0f9fbb529cb3b7e442ba0aebd7\' _ts_kansou_annex_url=\'https://example.com/annex/bbs/amano.cgi\' _ts_kansou_slug=\'amano\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-06 09:00:00\' _ts_orig_url=\'http://ts.novels.jp/novel/200104/ren01.htm\' _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2001/04/01\' _ts_raw_genre=["学園"] _ts_raw_keywords=["ねこ"] _ts_raw_type=["変身"] _ts_size_kb=12 _ts_source_path=\'novel/200104/ren01.htm\' _ts_suisen=\'胸が熱くなる\' | ts_author=amano-tsuki ts_corpus=honkan ts_genre=gakuen ts_keyword=neko ts_type=henshin ts_world=hoshi-no-machi',
+    ),
+    'gone' => 
+    array (
+    ),
+  ),
+  'verify3/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'line',
+      1 => '投稿数: WP=10 期待=10 (works 4 + episodes 8 - 単発 2)',
+    ),
+    1 => 
+    array (
+      0 => 'line',
+      1 => 'orphan 子投稿: 0',
+    ),
+    2 => 
+    array (
+      0 => 'line',
+      1 => 'ts_author: WP=5 語彙=5 語彙外=0 未作成=0',
+    ),
+    3 => 
+    array (
+      0 => 'line',
+      1 => 'ts_genre: WP=2 語彙=2 語彙外=0 未作成=0',
+    ),
+    4 => 
+    array (
+      0 => 'line',
+      1 => 'ts_type: WP=2 語彙=2 語彙外=0 未作成=0',
+    ),
+    5 => 
+    array (
+      0 => 'line',
+      1 => 'ts_keyword: WP=1 語彙=2 語彙外=0 未作成=1',
+    ),
+    6 => 
+    array (
+      0 => 'warning',
+      1 => 'ts_keyword 未作成 term: ame',
+    ),
+    7 => 
+    array (
+      0 => 'line',
+      1 => 'ts_world: WP=1 語彙=1 語彙外=0 未作成=0',
+    ),
+    8 => 
+    array (
+      0 => 'line',
+      1 => 'ts_corpus: WP=2 語彙=2 語彙外=0 未作成=0',
+    ),
+    9 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_author: WP=9 期待=9',
+    ),
+    10 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_genre: WP=10 期待=10',
+    ),
+    11 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_type: WP=9 期待=9',
+    ),
+    12 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_keyword: WP=6 期待=8',
+    ),
+    13 => 
+    array (
+      0 => 'warning',
+      1 => 'ts_keyword の割当数不一致',
+    ),
+    14 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_world: WP=4 期待=4',
+    ),
+    15 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_corpus: WP=11 期待=11',
+    ),
+    16 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_pub_date_raw: WP=8 期待=8',
+    ),
+    17 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_orig_url: WP=6 期待=6',
+    ),
+    18 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_annex_url: WP=7 期待=7',
+    ),
+    19 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_provenance: WP=7 期待=7',
+    ),
+    20 => 
+    array (
+      0 => 'line',
+      1 => '本文 status: converted 4 / placeholder 2 / raw-fallback 1 / takedown 1',
+    ),
+    21 => 
+    array (
+      0 => 'warning',
+      1 => 'term 未解決の値 (2 種): ts_genre:ホラー ts_keyword:あめ',
+    ),
+    22 => 
+    array (
+      0 => 'warning',
+      1 => '手動編集で skip 中の投稿 (1 件):',
+    ),
+    23 => 
+    array (
+      0 => 'line',
+      1 => '  [episode] novel__200105__ren02.htm (最終編集 2026-11-06 09:00:00)',
+    ),
+    24 => 
+    array (
+      0 => 'line',
+      1 => 'ts_takedown_tick の最終実行: now-1h',
+    ),
+    25 => 
+    array (
+      0 => 'line',
+      1 => '適用済みの申請で denylist に無いもの: 0 件',
+    ),
+    26 => 
+    array (
+      0 => 'line',
+      1 => 'ts_catalog_commit: (未記録)',
+    ),
+    27 => 
+    array (
+      0 => 'line',
+      1 => '(冪等の確認は `wp ts import --dry-run` 2 回目が created=0 updated=0 になること)',
+    ),
+    28 => 
+    array (
+      0 => 'error',
+      1 => 'verify NG',
+    ),
+  ),
+  'overwrite/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'warning',
+      1 => 'term に解決できず割当を落とした値: 2 種 (上位: ts_genre:ホラー ts_keyword:あめ)',
+    ),
+    1 => 
+    array (
+      0 => 'success',
+      1 => 'import: created=0 updated=1 skipped=11 manual_skipped=0 catalog=',
+    ),
+  ),
+  'overwrite/writes' => 
+  array (
+    'delete_option' => 1,
+    'update_option' => 1,
+    'wp_set_object_terms' => 16,
+    'wp_update_post' => 1,
+  ),
+  'overwrite/options' => 
+  array (
+    'ts_catalog_commit' => '(無い)',
+    'ts_last_import_at' => '(無い)',
+    'ts_manual_edit_warnings' => '(無い)',
+    'ts_term_warnings' => 
+    array (
+      'ts_genre:ホラー' => 1,
+      'ts_keyword:あめ' => 1,
+    ),
+  ),
+  'overwrite/posts' => 
+  array (
+    'changed' => 
+    array (
+      'ren02' => 'publish parent=amano-tsuki-renzoku order=2 date=2001-05-02 00:00:00 title=第二話 (改) body=\'<!-- wp:paragraph --><p>(本文は原本アーカイブでお読みください)</p><!-- /wp:paragraph -->\' mod=2026-11-06 09:00:00 | _ts_annex_url=\'https://example.com/annex/novel/200105/ren02.htm\' _ts_body_status=\'placeholder\' _ts_catalog_ref=\'lib1.html#1\' _ts_corpus=\'honkan\' _ts_episode_id=\'novel__200105__ren02.htm\' _ts_import_hash=\'c13f98b90c96d756d1c89591af1a2d3a\' _ts_kind=\'episode\' _ts_last_import_gmt=\'2026-11-06 09:00:00\' _ts_provenance={"route":"wayback","route_label":"Internet Archive Wayback Machine"} _ts_pub_date_raw=\'2001/05/02\' _ts_raw_genre=["学園？"] _ts_size_kb=8 _ts_source_path=\'novel/200105/ren02.htm\' | ts_author=amano-tsuki ts_corpus=honkan ts_genre=gakuen ts_keyword= ts_type= ts_world=',
+    ),
+    'gone' => 
+    array (
+    ),
+  ),
+  'dry_dup/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'warning',
+      1 => '重複検出: ts_work _ts_episode_id=novel__200106__ren03.htm が 2 件',
+    ),
+    1 => 
+    array (
+      0 => 'success',
+      1 => 'import: created=0 updated=0 skipped=12 manual_skipped=0 catalog= (dry-run)',
+    ),
+  ),
+  'dry_dup/writes' => 
+  array (
+  ),
+  'dry_dup/options' => 
+  array (
+    'ts_catalog_commit' => '(無い)',
+    'ts_last_import_at' => '(無い)',
+    'ts_manual_edit_warnings' => '(無い)',
+    'ts_term_warnings' => 
+    array (
+      'ts_genre:ホラー' => 1,
+      'ts_keyword:あめ' => 1,
+    ),
+  ),
+  'dry_dup/posts' => 
+  array (
+    'changed' => 
+    array (
+      'hagure' => 'publish parent=#999 order=0 date=1999-01-01 00:00:00 title=はぐれ body=\'\' mod=1999-01-01 00:00:00 | _ts_body_status=\'converted\' _ts_episode_id=\'novel__200106__ren03.htm\' _ts_pub_date_raw=\'1999/1/1\' | ts_genre=gakuen',
+    ),
+    'gone' => 
+    array (
+    ),
+  ),
+  'verify4/out' => 
+  array (
+    0 => 
+    array (
+      0 => 'line',
+      1 => '投稿数: WP=11 期待=10 (works 4 + episodes 8 - 単発 2)',
+    ),
+    1 => 
+    array (
+      0 => 'warning',
+      1 => '件数不一致',
+    ),
+    2 => 
+    array (
+      0 => 'line',
+      1 => 'orphan 子投稿: 1',
+    ),
+    3 => 
+    array (
+      0 => 'warning',
+      1 => 'orphan あり',
+    ),
+    4 => 
+    array (
+      0 => 'line',
+      1 => 'ts_author: WP=5 語彙=5 語彙外=0 未作成=0',
+    ),
+    5 => 
+    array (
+      0 => 'line',
+      1 => 'ts_genre: WP=3 語彙=2 語彙外=1 未作成=0',
+    ),
+    6 => 
+    array (
+      0 => 'warning',
+      1 => 'ts_genre 語彙外 term: yami',
+    ),
+    7 => 
+    array (
+      0 => 'line',
+      1 => 'ts_type: WP=2 語彙=2 語彙外=0 未作成=0',
+    ),
+    8 => 
+    array (
+      0 => 'line',
+      1 => 'ts_keyword: WP=1 語彙=2 語彙外=0 未作成=1',
+    ),
+    9 => 
+    array (
+      0 => 'warning',
+      1 => 'ts_keyword 未作成 term: ame',
+    ),
+    10 => 
+    array (
+      0 => 'line',
+      1 => 'ts_world: WP=1 語彙=1 語彙外=0 未作成=0',
+    ),
+    11 => 
+    array (
+      0 => 'line',
+      1 => 'ts_corpus: WP=2 語彙=2 語彙外=0 未作成=0',
+    ),
+    12 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_author: WP=9 期待=9',
+    ),
+    13 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_genre: WP=11 期待=10',
+    ),
+    14 => 
+    array (
+      0 => 'warning',
+      1 => 'ts_genre の割当数不一致',
+    ),
+    15 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_type: WP=9 期待=9',
+    ),
+    16 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_keyword: WP=6 期待=8',
+    ),
+    17 => 
+    array (
+      0 => 'warning',
+      1 => 'ts_keyword の割当数不一致',
+    ),
+    18 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_world: WP=4 期待=4',
+    ),
+    19 => 
+    array (
+      0 => 'line',
+      1 => '割当 ts_corpus: WP=11 期待=11',
+    ),
+    20 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_pub_date_raw: WP=9 期待=8',
+    ),
+    21 => 
+    array (
+      0 => 'warning',
+      1 => '_ts_pub_date_raw の被覆不一致',
+    ),
+    22 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_orig_url: WP=6 期待=6',
+    ),
+    23 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_annex_url: WP=7 期待=7',
+    ),
+    24 => 
+    array (
+      0 => 'line',
+      1 => 'メタ _ts_provenance: WP=7 期待=7',
+    ),
+    25 => 
+    array (
+      0 => 'line',
+      1 => '本文 status: converted 5 / placeholder 2 / raw-fallback 1 / takedown 1',
+    ),
+    26 => 
+    array (
+      0 => 'warning',
+      1 => 'term 未解決の値 (2 種): ts_genre:ホラー ts_keyword:あめ',
+    ),
+    27 => 
+    array (
+      0 => 'line',
+      1 => 'ts_takedown_tick の最終実行: now-48h (失敗: DB error)',
+    ),
+    28 => 
+    array (
+      0 => 'warning',
+      1 => 'ts_takedown_tick が 24 時間以上止まっている (S130)',
+    ),
+    29 => 
+    array (
+      0 => 'warning',
+      1 => 'ts_takedown_tick の最後の実行が失敗している',
+    ),
+    30 => 
+    array (
+      0 => 'line',
+      1 => '適用済みの申請で denylist に無いもの: 1 件',
+    ),
+    31 => 
+    array (
+      0 => 'warning',
+      1 => 'denylist に書き写していない申請: 12 (wp ts export-takedowns。S132)',
+    ),
+    32 => 
+    array (
+      0 => 'line',
+      1 => 'ts_catalog_commit: (未記録)',
+    ),
+    33 => 
+    array (
+      0 => 'line',
+      1 => '(冪等の確認は `wp ts import --dry-run` 2 回目が created=0 updated=0 になること)',
+    ),
+    34 => 
+    array (
+      0 => 'error',
+      1 => 'verify NG',
+    ),
+  ),
 ));
