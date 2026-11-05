@@ -110,6 +110,25 @@ foreach (['receipt', 'applied_requester', 'rejected'] as $k) {
 check('確認完了のメールに時刻', strpos(TS_Takedown_Text::mail_text('confirmed', $evil)[1], 'W に自動で非公開になります') !== false, true);
 check('件名に入力を入れない', strpos(TS_Takedown_Text::mail_text('confirmed', $evil)[0], 'EVIL'), false);
 check('未知の種類は空', TS_Takedown_Text::mail_text('nope', $evil), ['', '']);
+$ctx = ['site' => 'S', 'id' => 12, 'when' => '2026-11-15 09:00', 'summary' => 'SUM', 'admin_url' => 'https://x/wp-admin/',
+        'titles' => ['森の家', '海'], 'unresolved' => ['https://y/a']];
+check('メールの予告 (remind)', TS_Takedown_Text::mail_text('remind', $ctx),
+      ['[S] 取り下げの申請 12 はまもなく自動で非公開になります',
+       "取り下げの申請 12 は、2026-11-15 09:00 に自動で非公開になります。\n\nSUM\n\n承認・却下・期限の変更は管理画面から:\nhttps://x/wp-admin/\n\n-- \nS\n"]);
+check('運営委員宛の適用 (結びつかない URL あり)', TS_Takedown_Text::mail_text('applied_committee', $ctx),
+      ['[S] 取り下げの申請 12 を適用しました',
+       "取り下げの申請 12 を適用し、次の作品を非公開にしました。\n  - 森の家\n  - 海\n\n"
+       . "本サイトの作品に結びつかなかった URL があります (適用していません):\n  - https://y/a\n\nSUM\n\n管理画面:\nhttps://x/wp-admin/\n\n-- \nS\n"]);
+check('運営委員宛の適用 (結びつかない URL なし・作品なし)', TS_Takedown_Text::mail_text('applied_committee', ['unresolved' => [], 'titles' => []] + $ctx)[1],
+      "取り下げの申請 12 を適用し、次の作品を非公開にしました。\n  (なし)\n\nSUM\n\n管理画面:\nhttps://x/wp-admin/\n\n-- \nS\n");
+check('依頼者宛の適用 (一覧に載せる・載せない)', [TS_Takedown_Text::mail_text('applied_requester', ['listed' => true] + $ctx)[1],
+      TS_Takedown_Text::mail_text('applied_requester', ['listed' => false] + $ctx)[1]],
+      ["お申し出に基づき、次の作品を非公開にしました。\n  - 森の家\n  - 海\n\n掲載していない作品の一覧には、作品名とペンネームを載せています。\n\n-- \nS\n",
+       "お申し出に基づき、次の作品を非公開にしました。\n  - 森の家\n  - 海\n\n掲載していない作品の一覧には、作品名とペンネームを載せていません。\n\n-- \nS\n"]);
+check('文字数はマルチバイトを 1 字と数える', [TS_Takedown_Input::strlen('山田'), TS_Takedown_Input::strlen('ab'), TS_Takedown_Input::strlen(''),
+      TS_Takedown_Input::strlen("森\nの家🌲")], [2, 2, 0, 5]);
+check('メールアドレスの判定 (WordPress が無いときは filter_var)', [TS_Takedown_Input::is_email('a@example.com'), TS_Takedown_Input::is_email('a@'),
+      TS_Takedown_Input::is_email('山田'), TS_Takedown_Input::is_email('')], [true, false, false, false]);
 check('運営委員宛の要約', TS_Takedown_Text::summary(['pen_name' => '山田', 'relation' => 'heir', 'allow_name' => '0',
       'targets' => [['url' => 'https://x/novel/a/', 'post_id' => 3], ['url' => 'https://y/', 'post_id' => null]]]),
       "ペンネーム: 山田\n立場: 権利継承者\n名前の掲示: 不可\n対象:\n  - https://x/novel/a/\n  - https://y/ (本サイトの作品に結びつかない)");

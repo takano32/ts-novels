@@ -17,6 +17,13 @@ check('with_front を付けない', array_values(array_unique(array_map(function
 check('ts_doc は capability_type=ts_doc (運営委員 (編集可) が解題だけ編集。S116)', [$pt['ts_doc']['capability_type'], $pt['ts_doc']['map_meta_cap']], ['ts_doc', true]);
 check('ts_board_post は検索から外し REST に出さない', [$pt['ts_board_post']['exclude_from_search'], $pt['ts_board_post']['show_in_rest']], [true, false]);
 check('ts_dojo だけアーカイブを持つ', array_keys(array_filter($pt, function ($a) { return $a['has_archive']; })), ['ts_dojo']);
+check('ts_work の supports (eyecatch は thumbnail、話順は page-attributes に頼る)', $pt['ts_work']['supports'],
+      ['title', 'editor', 'excerpt', 'custom-fields', 'page-attributes', 'thumbnail']);
+check('コメントを受けるのは ts_dojo だけ', array_keys(array_filter($pt, function ($a) { return in_array('comments', $a['supports'], true); })), ['ts_dojo']);
+check('管理画面のアイコン', array_map(function ($a) { return $a['menu_icon']; }, $pt),
+      ['ts_work' => 'dashicons-book', 'ts_doc' => 'dashicons-media-document', 'ts_dojo' => 'dashicons-format-chat', 'ts_board_post' => 'dashicons-testimonial']);
+check('管理画面の名前', array_map(function ($a) { return $a['labels']['name']; }, $pt),
+      ['ts_work' => '作品', 'ts_doc' => '運営文書', 'ts_dojo' => 'ストーリー道場', 'ts_board_post' => '感想板の投稿']);
 
 $tx = TS_Content_Model::taxonomies();
 check('タクソノミーの URL 基底 (作者は authors — コアの author_base と衝突しない複数形)',
