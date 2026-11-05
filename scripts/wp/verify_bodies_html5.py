@@ -37,18 +37,18 @@ from concurrent.futures import ProcessPoolExecutor
 warnings.filterwarnings('ignore')
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from tslib import verify_html5 as vh  # noqa: E402
-from tslib.fileio import read_text_guess, read_jsonl  # noqa: E402
+from tslib import paths, verify_html5 as vh  # noqa: E402
+from tslib.fileio import read_text, read_text_guess, read_jsonl, write_json, ensure_parent  # noqa: E402
 
 if vh.BeautifulSoup is None:                            # bs4 か html5lib が無い
     sys.exit('beautifulsoup4 / html5lib が要る:  .venv/bin/pip install beautifulsoup4 html5lib\n'
              '(make venv でも入る)')
 
-ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-EPISODES = os.path.join(ROOT, 'catalog', 'episodes.jsonl')
-CONVERT_REPORT = os.path.join(ROOT, 'catalog', 'convert_report.jsonl')
-BODIES = os.path.join(ROOT, 'bodies')
-OUT = os.path.join(ROOT, 'catalog', 'reports', 'verify_html5.json')
+ROOT = paths.REPO_ROOT
+EPISODES = paths.episodes_path(ROOT)
+CONVERT_REPORT = paths.convert_report_path(ROOT)
+BODIES = paths.bodies_dir(ROOT)
+OUT = paths.report_path(ROOT, 'verify_html5.json')
 
 # 検算の規則 (検算する話の選び方 select_jobs・normalize・html5_text・md_text・looks_like_chrome・
 # 1 話の検算 verify と compare・集計 summarize) は scripts/wp/tslib/verify_html5.py
@@ -62,7 +62,7 @@ def explain(job, variant='strict'):
     eid, src, mode, anchor = job[2], job[3], job[4], job[5]
     raw, _ = read_text_guess(os.path.join(ROOT, src))
     orig = vh.normalize(vh.html5_text(raw, **vh.VARIANT_KW.get(variant, {})))
-    conv_text, markers = vh.md_text(open(os.path.join(BODIES, eid + '.md'), encoding='utf-8').read())
+    conv_text, markers = vh.md_text(read_text(os.path.join(BODIES, eid + '.md')))
     conv = vh.normalize(conv_text)
     print(f'{eid}  mode={mode} anchor={anchor} variant={variant}')
     print(f'  原本(html5lib)={len(orig)} 変換(md)={len(conv)}  md 記号={dict(markers)}')
@@ -120,9 +120,8 @@ def main():
 
     summary = vh.summarize(rows)
     bad = summary['findings']
-    os.makedirs(os.path.dirname(args.out), exist_ok=True)
-    with open(args.out, 'w', encoding='utf-8') as f:
-        json.dump(summary, f, ensure_ascii=False, indent=1)
+    ensure_parent(args.out)
+    write_json(args.out, summary, indent=1, newline=False)
     print(json.dumps({k: v for k, v in summary.items()
                       if k not in ('findings', 'taglike_text_episodes')},
                      ensure_ascii=False, indent=1))

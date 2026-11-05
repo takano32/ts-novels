@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 """tslib/fileio.py: 書式は生成物のバイト一致に懸かるので bytes で比べる。"""
 import collections
+import contextlib
+import io
 import unittest
+from unittest import mock
 
 from tslib import fileio
 from tests.support import TempDirCase, HAS_YAML
@@ -72,6 +75,17 @@ class YamlTest(TempDirCase):
         fileio.write_yaml(p, {'b': {'z': 1, 'y': '学園'}, 'a': [1]}, header='# 見出し\n\n')
         self.assertEqual(self.read_bytes('w.yml').decode('utf-8'),
                          '# 見出し\n\na:\n- 1\nb:\n  y: 学園\n  z: 1\n')
+
+
+class ExitWithoutYamlTest(unittest.TestCase):
+    def test_exit_without_yaml(self):
+        err = io.StringIO()
+        with mock.patch.object(fileio, 'yaml', None), contextlib.redirect_stderr(err):
+            with self.assertRaises(SystemExit) as cm:
+                fileio.exit_without_yaml('PyYAML が要ります (pip install pyyaml)')
+        self.assertEqual((cm.exception.code, err.getvalue()), (2, 'PyYAML が要ります (pip install pyyaml)\n'))
+        with mock.patch.object(fileio, 'yaml', object()):
+            self.assertIsNone(fileio.exit_without_yaml())
 
 
 if __name__ == '__main__':

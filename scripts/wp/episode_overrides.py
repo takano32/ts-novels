@@ -17,7 +17,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tslib import paths  # noqa: E402
-from tslib.fileio import read_jsonl, write_jsonl, write_json, ensure_dir, yaml  # noqa: E402
+from tslib.fileio import read_jsonl, write_jsonl, write_json, ensure_dir, exit_without_yaml  # noqa: E402
 from tslib.overrides import load_overrides, apply_overrides, selftest, report_of  # noqa: E402
 
 DEFAULT_ROOT = paths.REPO_ROOT
@@ -30,9 +30,7 @@ def main(argv=None):
     ap.add_argument('--annex-base', default=DEFAULT_ANNEX_BASE)
     ap.add_argument('--check', action='store_true')
     args = ap.parse_args(argv)
-    if yaml is None:
-        print('PyYAML が要ります', file=sys.stderr)
-        return 2
+    exit_without_yaml()
     root = os.path.abspath(args.root)
     cat = paths.catalog_dir(root)
     path = paths.episodes_path(root)

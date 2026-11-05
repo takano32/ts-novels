@@ -30,14 +30,14 @@ import time
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from tslib import htaccess  # noqa: E402
+from tslib import htaccess, paths  # noqa: E402
 from tslib.gitinfo import ls_files  # noqa: E402
 
 HOST = 'novels'   # 宛先表記用。実際の接続先は scripts/wp/novels-ssh が持つ
 RSH = str(Path(__file__).resolve().parent / 'novels-ssh')
 REMOTE_BASE = '~/novels.xwp.jp'
 REMOTE = f'{REMOTE_BASE}/public_html/.htaccess'
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(paths.REPO_ROOT)
 
 
 def takedown_urls():
@@ -61,7 +61,7 @@ def takedown_urls():
 
 def annex_values(path=None):
     """denylist の kind: annex_path の value を順に返す。"""
-    path = path or (ROOT / 'takedown' / 'denylist.yml')
+    path = path or Path(paths.denylist_path(ROOT))
     if not path.is_file():
         return []
     return htaccess.annex_values(path.read_text(encoding='utf-8'))

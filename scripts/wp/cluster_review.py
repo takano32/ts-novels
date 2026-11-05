@@ -36,18 +36,18 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tslib import paths, cluster_review as cr             # noqa: E402
-from tslib.fileio import read_jsonl                       # noqa: E402
+from tslib.fileio import read_jsonl, write_text, ensure_parent  # noqa: E402
 from tslib.gitinfo import show_file, short_rev            # noqa: E402
 
 DEFAULT_ROOT = paths.REPO_ROOT
 
 
 def load_works(root):
-    return read_jsonl(os.path.join(root, 'catalog', 'works.jsonl'))
+    return read_jsonl(paths.works_path(root))
 
 
 def load_episodes(root):
-    return {r['episode_id']: r for r in read_jsonl(os.path.join(root, 'catalog', 'episodes.jsonl'))}
+    return {r['episode_id']: r for r in read_jsonl(paths.episodes_path(root))}
 
 
 def slug_changes(root, rev):
@@ -66,7 +66,7 @@ def main(argv=None):
     args = ap.parse_args(argv)
     root = os.path.abspath(args.root)
     month = datetime.date.today().strftime('%Y-%m')
-    out_path = args.out or os.path.join(root, 'catalog', 'review', 'clusters-%s.md' % month)
+    out_path = args.out or os.path.join(paths.catalog_dir(root), 'review', 'clusters-%s.md' % month)
 
     works = load_works(root)
     episodes = load_episodes(root)
@@ -76,9 +76,8 @@ def main(argv=None):
         old, new, rows = slug_changes(root, args.since)
         L += cr.render_slug_section(old, new, rows, short_rev(root, args.since))
 
-    os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    with open(out_path, 'w', encoding='utf-8') as fh:
-        fh.write('\n'.join(L).rstrip('\n') + '\n')
+    ensure_parent(out_path)
+    write_text(out_path, '\n'.join(L).rstrip('\n') + '\n')
     print('cluster_review: %d 作品 (弱い根拠 %d / 強い根拠 %d) → %s'
           % (len(weak) + len(strong), len(weak), len(strong), os.path.relpath(out_path, root)))
     return 0

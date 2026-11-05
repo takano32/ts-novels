@@ -96,7 +96,7 @@ def main():
     generated = datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0).isoformat()
     report = rules.report_of(files, raw, hits, generated)
     if not args.check:
-        out = os.path.join(root, 'catalog', 'reports', 'secret_scan.json')
+        out = paths.report_path(root, 'secret_scan.json')
         fileio.ensure_parent(out)
         fileio.write_json(out, report)
 

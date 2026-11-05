@@ -8,6 +8,7 @@ indent と末尾の改行は呼び出し側が指定する。
 import hashlib
 import json
 import os
+import sys
 
 try:
     import yaml
@@ -19,6 +20,13 @@ def require_yaml():
     if yaml is None:
         raise RuntimeError('PyYAML が必要です (pip install pyyaml)')
     return yaml
+
+
+def exit_without_yaml(message='PyYAML が要ります'):
+    """PyYAML が無ければ message を標準エラーに出して終了コード 2 で止める (入口の main の頭で呼ぶ)。"""
+    if yaml is None:
+        print(message, file=sys.stderr)
+        raise SystemExit(2)
 
 
 # --------------------------------------------------------------------------- テキスト

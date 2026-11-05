@@ -22,7 +22,8 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tslib import paths, slugs as slugmod, works as wk  # noqa: E402
 from tslib.checks import mark  # noqa: E402
-from tslib.fileio import read_jsonl, read_json, write_jsonl, write_json, write_yaml, ensure_dir, yaml  # noqa: E402
+from tslib.fileio import (read_jsonl, read_json, write_jsonl, write_json, write_yaml, ensure_dir,  # noqa: E402
+                          exit_without_yaml)
 
 DEFAULT_ROOT = paths.REPO_ROOT
 
@@ -47,9 +48,7 @@ def main(argv=None):
     ap.add_argument('--root', default=DEFAULT_ROOT)
     ap.add_argument('--check', action='store_true')
     args = ap.parse_args(argv)
-    if yaml is None:
-        print('PyYAML が要ります', file=sys.stderr)
-        return 2
+    exit_without_yaml()
     root = os.path.abspath(args.root)
     works, report, overrides, overrides_path, review, override_errors, work_overrides = build(root)
 

@@ -44,10 +44,11 @@ import time
 import urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from tslib import qa_phase3 as qa  # noqa: E402
+from tslib import paths, qa_phase3 as qa  # noqa: E402
+from tslib.fileio import read_jsonl, write_json  # noqa: E402
 
 SEED = 20260830
-ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+ROOT = paths.REPO_ROOT
 
 
 # ----------------------------------------------------------------- main
@@ -78,15 +79,12 @@ def main() -> int:
         if len(parts) >= 3:
             urls[parts[0]], statuses[parts[0]] = parts[1], parts[2]
 
-    episodes = [json.loads(l) for l in
-                open(os.path.join(ROOT, "catalog/episodes.jsonl"), encoding="utf-8")]
-    report = {}
-    for l in open(os.path.join(ROOT, "catalog/convert_report.jsonl"), encoding="utf-8"):
-        r = json.loads(l)
-        report[r["episode_id"]] = r
+    episodes = read_jsonl(paths.episodes_path(ROOT))
+    report = {r["episode_id"]: r for r in read_jsonl(paths.convert_report_path(ROOT))}
 
+    payloads = paths.payloads_dir(ROOT)
     eligible = {e["episode_id"]: e for e in episodes
-                if os.path.exists(os.path.join(ROOT, "payloads", e["episode_id"] + ".html"))}
+                if os.path.exists(os.path.join(payloads, e["episode_id"] + ".html"))}
     sample = [eligible[eid] for eid in qa.sample_episodes(list(eligible), args.n, SEED)]
 
     results = []
@@ -134,8 +132,7 @@ def main() -> int:
         print(f"  [{i:3d}/{args.n}] {rec['verdict']:12s} {eid[:60]}", flush=True)
 
     summary = qa.summarize(results, SEED)
-    json.dump({"summary": summary, "results": results},
-              open(args.out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    write_json(args.out, {"summary": summary, "results": results}, indent=1, newline=False)
     print(json.dumps(summary, ensure_ascii=False))
     return 0
 
