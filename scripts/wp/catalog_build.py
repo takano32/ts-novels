@@ -33,7 +33,7 @@ from tslib.fileio import read_jsonl, write_jsonl, write_json, ensure_parent, rea
 from tslib.catalog.provenance import build_provenance_map  # noqa: E402
 from tslib.catalog.records import build_regular, build_legacy, strip_private  # noqa: E402
 from tslib.catalog.selftest import selftest  # noqa: E402
-from tslib.catalog.report import report_of, print_summary  # noqa: E402
+from tslib.catalog.report import report_of, summary_lines  # noqa: E402
 
 DEFAULT_ROOT = paths.REPO_ROOT
 DEFAULT_ANNEX_BASE = paths.DEFAULT_ANNEX_BASE
@@ -72,7 +72,8 @@ def main(argv=None):
     denylist_text, works = load_takedown_context()
     checks = selftest(records, failures, legacy_stats, denylist_text, works)
     rep = report_of(records, failures, checks, legacy_stats)
-    print_summary(rep)
+    for line in summary_lines(rep):
+        print(line)
 
     if not args.check:
         out = args.out or paths.episodes_path(root)

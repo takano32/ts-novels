@@ -10,6 +10,8 @@
 
 入出力は scripts/wp/terms_build.py。ここは records (episodes.jsonl の dict) と
 正規化マップを受け取って terms.json とレポートの中身を返す。
+例外は正規化マップの読み (load_map・load_synonym_maps・load_world_map) で、ファイルが無ければ既定値を
+書き出す (以後は YAML 側が正。旧版から同じで、--check でも書く。specs/S243.md の「構成と責務」)。
 """
 import collections
 import os

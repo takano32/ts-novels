@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""report.py — catalog/reports/catalog_build.json の中身と、標準出力の要約。"""
+"""report.py — catalog/reports/catalog_build.json の中身と、標準出力の要約の行 (印字は入口の catalog_build.py)。"""
 import collections
 
 from tslib.checks import report_lines
@@ -107,8 +107,3 @@ def summary_lines(rep):
     out.append('--- selftest')
     out.extend(report_lines(rep['selftest']))
     return out
-
-
-def print_summary(rep):
-    for line in summary_lines(rep):
-        print(line)
