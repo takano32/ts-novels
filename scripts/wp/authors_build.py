@@ -23,7 +23,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from tslib import paths, slugs as slugmod, authors  # noqa: E402
+from tslib import paths, slugs as slugmod, authors, kana_index  # noqa: E402
 from tslib.checks import format_line  # noqa: E402
 from tslib.fileio import read_jsonl, read_json, write_json, ensure_dir  # noqa: E402
 
@@ -43,7 +43,7 @@ def build(root, annex_base=DEFAULT_ANNEX_BASE):
     戻り値 (payload, report, overrides, overrides_path, index_rows)。"""
     records = read_jsonl(paths.episodes_path(root))
     shared = shared_boards_of(root)
-    index_rows, yomi_of = authors.parse_index(root)
+    index_rows, yomi_of = kana_index.parse_index(root)
     board_of_name, board_stats = authors.parse_boards(root, shared)
     overrides_path = paths.slug_overrides_path(root)
     overrides = slugmod.load_overrides(overrides_path)

@@ -33,7 +33,7 @@ from tslib.htmltext import RE_TAG, inline_text
 from tslib.paths import ORIG_BASE, YAYS_PREFIX, DEFAULT_ANNEX_BASE
 from tslib.catalog.keys import episode_id_of, url_path
 from tslib.catalog.provenance import build_provenance_map, provenance_for
-from tslib.authors import parse_index
+from tslib.kana_index import parse_index
 
 CORPUS = 'uncatalogued'
 RE_BODY_FILE = re.compile(r'\.(html?|txt)$', re.I)

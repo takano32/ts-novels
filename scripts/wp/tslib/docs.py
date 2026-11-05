@@ -12,7 +12,8 @@ import re
 import subprocess
 from pathlib import Path
 
-from tslib.bodies import read_text_any, extract_body
+from tslib.bodies import extract_body
+from tslib.fileio import read_text_guess
 from tslib.mail import MAIL_KEEP_DOCS_RE, redact_bare
 from tslib.paths import DEFAULT_ANNEX_BASE
 
@@ -76,7 +77,7 @@ def esc(s):
 def render_doc(section, label, f, root, annex=ANNEX):
     """運営文書 1 本 → (slug, ペイロード HTML, manifest の行)。"""
     root = Path(root)
-    raw, _ = read_text_any(str(f))
+    raw, _ = read_text_guess(str(f))
     body = extract_body(raw)
     rel_dir = str(f.parent.relative_to(root)).replace('\\', '/')
     body = strip_mailto_text(rewrite_links(body, rel_dir, annex))
@@ -112,7 +113,7 @@ def render_gallery(root, all_cg, annex=ANNEX):
                 % (esc(src), esc(alt), cap))
 
     for f in sorted(gdir.glob('art*.html')):
-        raw, _ = read_text_any(str(f))
+        raw, _ = read_text_guess(str(f))
         title = (re.search(r'『([^』]+)』', raw) or [None, f.stem])[1]
         artist_m = re.search(r'絵師[：:]\s*(?:</?[bA-Za-z][^>]*>|\s)*([^<\n]+)', raw)
         artist = re.sub(r'\s+', ' ', artist_m.group(1)).strip() if artist_m else ''
