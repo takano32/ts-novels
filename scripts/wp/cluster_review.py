@@ -3,7 +3,7 @@
 """cluster_review.py — 作品クラスタのレビュー資料を書く (T24.3、仕様は specs/S149.md)。
 
 抽出
-  catalog/works.jsonl の連載 (episode_count >= 2) のうち、構成話の題名の芯 (work_builder.trim_title)
+  catalog/works.jsonl の連載 (episode_count >= 2) のうち、構成話の題名の芯 (tslib/works.py の trim_title)
   が 2 種以上あり、芯どうしの共通接頭辞 (NFKC・小文字) が 2 文字未満のもの。
   根拠が規則 5/6 (filename-stem / title-prefix) だけのものを先頭に、強い根拠のあるものを後に並べる。
 
@@ -35,9 +35,9 @@ import sys
 import unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import work_builder as wb                                 # noqa: E402
+from tslib import paths, works as wk                      # noqa: E402
 
-DEFAULT_ROOT = wb.DEFAULT_ROOT
+DEFAULT_ROOT = paths.REPO_ROOT
 WEAK_ONLY = {'filename-stem', 'title-prefix'}
 
 
@@ -62,10 +62,10 @@ def load_episodes(root):
 def is_target(w):
     if w['episode_count'] < 2:
         return False
-    cores = {wb.trim_title(e['title']) for e in w['episodes']}
+    cores = {wk.trim_title(e['title']) for e in w['episodes']}
     if len(cores) < 2:
         return False
-    return len(wb.common_prefix([nfkc_lower(c) for c in cores])) < 2
+    return len(wk.common_prefix([nfkc_lower(c) for c in cores])) < 2
 
 
 def is_weak(w):
@@ -77,10 +77,10 @@ def core_families(w):
     戻り値は [(代表の芯, [episode, …]), …] で、元の作品に残す組が先頭。"""
     fams = []                                   # [{'keys': [芯の nfkc_lower], 'eps': [...], 'cores': Counter}]
     for i, e in enumerate(w['episodes']):
-        core = wb.trim_title(e['title'])
+        core = wk.trim_title(e['title'])
         key = nfkc_lower(core)
         for f in fams:
-            if any(len(wb.common_prefix([key, k])) >= 2 for k in f['keys']):
+            if any(len(wk.common_prefix([key, k])) >= 2 for k in f['keys']):
                 break
         else:
             f = {'keys': [], 'eps': [], 'cores': collections.Counter(), 'first': i}
@@ -106,7 +106,7 @@ def proposal(w):
     key = '%s|%s' % (w['author_slug'], w['title'])
     fams = core_families(w)
     if not is_weak(w):
-        strong = sorted(set(w['evidence']) & wb.STRONG)
+        strong = sorted(set(w['evidence']) & wk.STRONG)
         text = ['- 一次案: **○** (強い根拠 %s で繋がっている。芯の違いは参考として下に並べる)'
                 % ' / '.join('`%s`' % r for r in strong)]
         for core, eps in fams:
