@@ -4,7 +4,7 @@
  *  - includes/ の .php は全部 TS_Library_Files のどれかの表に 1 度だけ載っている (載っていないファイルは読まれない)
  *  - 表のファイルは実在する。読み込みに glob を使っていない
  *  - WP の表は site-hooks.php が先頭 (TS_Library::boot の pre_get_posts を索引より先に登録する)。CLI の表は register.php が最後
- *  - WordPress を使わない表のファイルは、WordPress の関数名を文字列として含まない (境目の機械的な検査)
+ *  - WordPress を使わない表のファイルは、PHP の組み込み関数と PURE の中で定義した関数しか呼ばない (token_get_all で集める境目の検査)
  *  - テーマ (themes/ts-bunko) が呼ぶ ts_ の関数は、mu-plugin かテーマのどこかで定義されている
  *  - `wp ts` のサブコマンド名の集合は変わっていない
  */
@@ -28,14 +28,60 @@ check('WP の表の先頭は site-hooks.php', TS_Library_Files::WP[0], 'site-hoo
 check('index-routing.php は site-hooks.php より後', array_search('indexes/index-routing.php', TS_Library_Files::WP, true) > 0, true);
 check('CLI の表の最後は register.php', TS_Library_Files::CLI[count(TS_Library_Files::CLI) - 1], 'commands/register.php');
 
-// WordPress を使わない表の境目: WordPress の代表的な関数名が文字列として現れない (コメントも含めて)
-$wp_names = ['get_post_meta(', 'update_post_meta(', 'get_option(', 'update_option(', 'add_action(', 'add_filter(',
-             'get_posts(', 'wp_insert_post(', 'esc_html(', 'esc_url(', 'home_url(', 'get_permalink(', 'wp_date(', '$wpdb'];
+// WordPress を使わない表の境目 (T45.1.13): PURE の各ファイルの関数呼び出しを token_get_all で集め、PHP の組み込み関数でも
+// PURE の中で定義した関数でもないものが無いことを見る。呼び出しは「直前が -> ?-> :: function new でない T_STRING の直後に (」。
+// グローバル変数 $wpdb も使わない。
+$ts_calls = function (string $src): array {
+    $toks = array_values(array_filter(token_get_all($src), function ($t) {
+        return !is_array($t) || !in_array($t[0], [T_WHITESPACE, T_COMMENT, T_DOC_COMMENT], true);
+    }));
+    $calls = [];
+    foreach ($toks as $i => $t) {
+        if (!is_array($t) || $t[0] !== T_STRING || ($toks[$i + 1] ?? null) !== '(') continue;
+        $prev = $toks[$i - 1] ?? null;
+        if (is_array($prev) && in_array($prev[0], [T_OBJECT_OPERATOR, T_NULLSAFE_OBJECT_OPERATOR, T_DOUBLE_COLON, T_FUNCTION, T_NEW], true)) continue;
+        $calls[strtolower($t[1])] = true;
+    }
+    return array_keys($calls);
+};
+$ts_defined_in = function (string $src): array {
+    $toks = array_values(array_filter(token_get_all($src), function ($t) { return !is_array($t) || $t[0] !== T_WHITESPACE; }));
+    $names = []; $depth = 0;   // 波括弧の深さ 0 の定義だけ (クラスのメソッド名は関数として呼べないので数えない)
+    foreach ($toks as $i => $t) {
+        if ($t === '{' || (is_array($t) && in_array($t[0], [T_CURLY_OPEN, T_DOLLAR_OPEN_CURLY_BRACES], true))) $depth++;
+        elseif ($t === '}') $depth--;
+        elseif ($depth === 0 && is_array($t) && in_array($t[0], [T_FUNCTION, T_CLASS], true)
+                && is_array($toks[$i + 1] ?? null) && $toks[$i + 1][0] === T_STRING) {
+            $names[strtolower($toks[$i + 1][1])] = true;
+        }
+    }
+    return array_keys($names);
+};
+check('定義の名前は外側の関数とクラスだけ', $ts_defined_in('<?php function f() { $x = "{$y}"; } final class C { public function m() {} } function g() {}'), ['f', 'c', 'g']);
+check('境目の検査が呼び出しを拾う (メソッド・静的呼び出し・new・定義は除く)',
+      $ts_calls('<?php get_post_meta(1); $a->b(); $a?->c(); X::y(); new Z(); function w() {} strlen("x"); /* esc_html( */'),
+      ['get_post_meta', 'strlen']);
+// 理由つきの許可: 名前 => 理由
+$ts_allowed = [
+    'is_email' => 'TS_Takedown_Input::is_email が function_exists のガード付きで呼ぶ (WordPress が無ければ filter_var)。T45.1.20 で注入に替えたら消す',
+];
+$ts_internal = array_fill_keys(get_defined_functions()['internal'], true);
+$ts_pure_defined = [];
+foreach (TS_Library_Files::PURE as $f) foreach ($ts_defined_in(file_get_contents("$plugin/includes/$f")) as $n) $ts_pure_defined[$n] = true;
+$ts_seen = 0; $ts_all_calls = [];
 foreach (TS_Library_Files::PURE as $f) {
     $src = file_get_contents("$plugin/includes/$f");
-    $hits = array_values(array_filter($wp_names, function ($n) use ($src) { return strpos($src, $n) !== false; }));
-    check("WordPress を使わない: $f", $hits, []);
+    $calls = $ts_calls($src);
+    $ts_seen += count($calls);
+    foreach ($calls as $n) $ts_all_calls[$n] = true;
+    $hits = array_values(array_filter($calls, function ($n) use ($ts_internal, $ts_pure_defined, $ts_allowed) {
+        return !isset($ts_internal[$n]) && !isset($ts_pure_defined[$n]) && !isset($ts_allowed[$n]);
+    }));
+    $globals = array_values(array_filter(token_get_all($src), function ($t) { return is_array($t) && $t[0] === T_VARIABLE && $t[1] === '$wpdb'; }));
+    check("WordPress を使わない: $f", [$hits, count($globals)], [[], 0]);
 }
+check('境目の検査が PURE の呼び出しを拾っている', $ts_seen > 50, true);
+check('許可リストは使われているものだけ (外れたら消す)', array_values(array_diff(array_keys($ts_allowed), array_keys($ts_all_calls))), []);
 
 // テーマが呼ぶ ts_ の関数は定義されている (関数名を変えたときにテンプレートが落ちないように)
 $defined = [];
