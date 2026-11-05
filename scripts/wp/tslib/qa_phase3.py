@@ -6,16 +6,20 @@ tslib/payloads.py・tslib/htmltext.py) を import しない。同じバグを同
 検算にならないため、テキストの抽出・正規化は標準ライブラリの html.parser で別に書いてある。
 共有してよいのは読み書き (tslib/fileio.py・tslib/paths.py・tslib/gitinfo.py) だけ。
 
-本番の取得 (fetch) と標本の抽出は scripts/wp/qa_phase3_check.py に残す。ここは文字列を受けて
-判定を返すだけ。判定 (verdict) の意味は scripts/wp/qa_phase3_check.py の先頭に書いてある。
+本番の取得 (fetch) と読み書きは scripts/wp/qa_phase3_check.py に残す。ここは文字列を受けて
+判定を返すだけ (標本の抽出・画像作品の判定・集計も)。判定 (verdict) の意味は
+scripts/wp/qa_phase3_check.py の先頭に書いてある。
 """
 from __future__ import annotations
 
 import difflib
 import json
+import random
 import re
 import unicodedata
 from html.parser import HTMLParser
+
+from tslib.gitinfo import IMAGE_EXT_RE
 
 
 # ----------------------------------------------------------------- テキスト抽出
@@ -237,3 +241,37 @@ def judge(orig: str, body: str, allowed: list[str]) -> tuple[str, list[dict]]:
         elif v2 != verdict:
             verdict, issues = v2, i2
     return verdict, issues
+
+
+# ----------------------------------------------------------------- 標本・画像作品・集計
+def sample_episodes(ids: list[str], n: int, seed: int) -> list[str]:
+    """episode_id を整列して、seed で n 話を無作為に抜く (random.seed(seed) の後の random.sample と同じ並び)。
+    大域の乱数の状態は変えない。"""
+    return random.Random(seed).sample(sorted(ids), n)
+
+
+def is_image_source(path: str | None) -> bool:
+    """画像作品 (原本そのものが .jpg/.gif 等)。本文が figure 1 枚なのでテキスト比較の対象にならない。"""
+    return bool(IMAGE_EXT_RE.search(path or ""))
+
+
+def judge_image(page: str, source_path: str) -> tuple[str, list[dict]]:
+    """画像作品の判定: ページが原本を指す img (/assets/annex-img/<source_path>) を持つか。"""
+    want = "/assets/annex-img/" + source_path
+    ok = want in page
+    return ("ok-image" if ok else "ng-image"), [{"kind": "image-entry", "expect": want, "found": ok}]
+
+
+def source_text(text: str, path: str) -> str:
+    """原本側のテキスト。.txt なら生テキストのまま、それ以外は HTML として可視テキストを取る (squeeze は呼び出し側)。"""
+    return text if path.endswith(".txt") else visible_text(text)
+
+
+def summarize(results: list[dict], seed: int) -> dict:
+    """verdict ごとの件数と、ng-* と error の割合 (%)。鍵の順は seed・n・counts・problem_rate_pct。"""
+    counts: dict[str, int] = {}
+    for r in results:
+        counts[r["verdict"]] = counts.get(r["verdict"], 0) + 1
+    ng = sum(v for k, v in counts.items() if k.startswith("ng") or k == "error")
+    return {"seed": seed, "n": len(results), "counts": counts,
+            "problem_rate_pct": round(100.0 * ng / max(1, len(results)), 2)}

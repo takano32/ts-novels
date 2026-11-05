@@ -12,12 +12,17 @@
 本番ページの代わりに payloads/<id>.html (投入した本文) を本文側にして、旧版と新版で判定する。
 画像の話と payload の無い話は飛ばす。最後の行に件数と、旧版と新版で判定が違った数 (diff) を出す。
 """
-import importlib.util, json, os, re, sys
+import importlib.util, json, os, sys
+if len(sys.argv) != 3:
+    sys.exit(__doc__.strip().split('\n\n')[1])
 W, BASE = sys.argv[1], sys.argv[2]
 sys.path.insert(0, os.path.join(W, 'scripts', 'wp'))
 from tslib import qa_phase3 as new
 spec = importlib.util.spec_from_file_location('old', os.path.join(BASE, 'scripts', 'wp', 'qa_phase3_check.py'))
 old = importlib.util.module_from_spec(spec); spec.loader.exec_module(old)
+if not hasattr(old, 'classify'):
+    sys.exit('qa_phase3_rejudge: %s の qa_phase3_check.py に classify が無い (判定を tslib/qa_phase3.py に移した後の版)。'
+             'BASE_TREE には分割の前の版 (d586f0eb など) を tree.sh で展開して渡す' % BASE)
 
 def old_judge(orig, body, allowed):
     verdict, issues = old.classify(orig, body, allowed)
@@ -43,14 +48,17 @@ for r in rep['results']:
             skipped += 1; continue
         src = alt
     pay = os.path.join(W, 'payloads', eid + '.html')
-    if re.search(r"\.(jpe?g|gif|png|bmp)$", sp, re.I) or not os.path.isfile(pay):
+    if new.is_image_source(sp) or not os.path.isfile(pay):
         skipped += 1; continue
     raw = open(src, 'rb').read()
     page = open(pay, encoding='utf-8').read()
     res = []
     for m, judge in ((old, old_judge), (new, new.judge)):
         text = m.decode_bytes(raw)
-        orig = m.squeeze(text if src.endswith('.txt') else m.visible_text(text))
+        if m is new:
+            orig = new.squeeze(new.source_text(text, src))
+        else:
+            orig = old.squeeze(text if src.endswith('.txt') else old.visible_text(text))
         body = m.squeeze(m.visible_text(page))
         res.append(judge(orig, body, m.load_allowed(eid, report)))
     if res[0] == res[1]: same += 1

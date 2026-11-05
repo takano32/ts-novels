@@ -55,5 +55,42 @@ class ClassifyTest(unittest.TestCase):
         self.assertEqual(q.judge('本文です', '本文です', []), ('ok', []))
 
 
+class SampleImageSummaryTest(unittest.TestCase):
+    def test_sample_episodes(self):
+        import random
+        ids = ['e%02d' % i for i in range(30)]
+        state = random.getstate()
+        got = q.sample_episodes(list(reversed(ids)), 5, 20260830)
+        self.assertEqual(random.getstate(), state)               # 大域の乱数は変えない
+        random.seed(20260830)
+        self.assertEqual(got, random.sample(ids, 5))             # 旧版の random.seed + random.sample と同じ並び
+        random.setstate(state)
+        self.assertEqual(len(set(got)), 5)
+
+    def test_image(self):
+        self.assertTrue(q.is_image_source('novel/a/b.JPG'))
+        self.assertTrue(q.is_image_source('novel/a/b.jpeg'))
+        self.assertFalse(q.is_image_source('novel/a/b.html'))
+        self.assertFalse(q.is_image_source(None))
+        self.assertEqual(q.judge_image('<img src="/assets/annex-img/novel/a/b.gif">', 'novel/a/b.gif'),
+                         ('ok-image', [{'kind': 'image-entry', 'expect': '/assets/annex-img/novel/a/b.gif',
+                                        'found': True}]))
+        self.assertEqual(q.judge_image('<p>x</p>', 'novel/a/b.gif')[0], 'ng-image')
+
+    def test_source_text(self):
+        self.assertEqual(q.source_text('<p>a</p>', 'reposts/x.txt'), '<p>a</p>')
+        self.assertEqual(q.source_text('<p>a</p>', 'novel/x.html'), q.visible_text('<p>a</p>'))
+
+    def test_summarize(self):
+        res = [{'verdict': 'ok'}, {'verdict': 'ng-missing'}, {'verdict': 'error'}, {'verdict': 'ok'},
+               {'verdict': 'ok-image'}, {'verdict': 'ng-image'}]
+        s = q.summarize(res, 7)
+        self.assertEqual(list(s), ['seed', 'n', 'counts', 'problem_rate_pct'])
+        self.assertEqual(s, {'seed': 7, 'n': 6, 'counts': {'ok': 2, 'ng-missing': 1, 'error': 1, 'ok-image': 1,
+                                                           'ng-image': 1}, 'problem_rate_pct': 50.0})
+        self.assertEqual(list(s['counts']), ['ok', 'ng-missing', 'error', 'ok-image', 'ng-image'])
+        self.assertEqual(q.summarize([], 1), {'seed': 1, 'n': 0, 'counts': {}, 'problem_rate_pct': 0.0})
+
+
 if __name__ == '__main__':
     unittest.main()

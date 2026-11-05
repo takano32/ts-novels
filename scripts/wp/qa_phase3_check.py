@@ -29,8 +29,9 @@ specs/S12.md の所管規則の例外にあたる「独立検算」なので、*
   python3 scripts/wp/qa_phase3_check.py --urls <ep_urls.tsv> --out <result.json> [--n 100]
 
 抽出と判定 (TextExtractor・decode_bytes・preclean・visible_text・squeeze・canon_punct・page_body_html・
-classify・covered_by_allowed・load_allowed・judge) は scripts/wp/tslib/qa_phase3.py。
-このファイルは本番の取得 (fetch)・標本の抽出・読み書きと表示だけ。
+classify・covered_by_allowed・load_allowed・judge)、標本の抽出 (sample_episodes)、画像作品の判定
+(is_image_source・judge_image)、原本側のテキストの選び方 (source_text)、集計 (summarize) は
+scripts/wp/tslib/qa_phase3.py。このファイルは本番の取得 (fetch)・読み書きと表示だけ。
 """
 from __future__ import annotations
 
@@ -38,7 +39,6 @@ import argparse
 import json
 import os
 import random
-import re
 import sys
 import time
 import urllib.request
@@ -85,11 +85,9 @@ def main() -> int:
         r = json.loads(l)
         report[r["episode_id"]] = r
 
-    eligible = [e for e in episodes
-                if os.path.exists(os.path.join(ROOT, "payloads", e["episode_id"] + ".html"))]
-    eligible.sort(key=lambda e: e["episode_id"])
-    random.seed(SEED)
-    sample = random.sample(eligible, args.n)
+    eligible = {e["episode_id"]: e for e in episodes
+                if os.path.exists(os.path.join(ROOT, "payloads", e["episode_id"] + ".html"))}
+    sample = [eligible[eid] for eid in qa.sample_episodes(list(eligible), args.n, SEED)]
 
     results = []
     for i, ep in enumerate(sample, 1):
@@ -107,20 +105,17 @@ def main() -> int:
                     results.append(rec)
                     continue
             page = fetch(urls[eid])
-            # 画像作品 (原本そのものが .jpg/.gif 等) は本文が figure 1 枚なので
-            # テキスト比較の対象にならない。ページが原本を指す img を持つかで判定する。
-            if re.search(r"\.(jpe?g|gif|png|bmp)$", ep.get("source_path") or "", re.I):
-                want = "/assets/annex-img/" + ep["source_path"]
-                ok = want in page
-                rec.update(verdict="ok-image" if ok else "ng-image",
-                           issues=[{"kind": "image-entry", "expect": want, "found": ok}])
+            # 画像作品は、ページが原本を指す img を持つかで判定する
+            if qa.is_image_source(ep.get("source_path")):
+                verdict, issues = qa.judge_image(page, ep["source_path"])
+                rec.update(verdict=verdict, issues=issues)
                 results.append(rec)
                 print(f"  [{i:3d}/{args.n}] {rec['verdict']:12s} {eid[:60]}", flush=True)
                 continue
 
             raw = open(src, "rb").read()
             text = qa.decode_bytes(raw)
-            orig = qa.squeeze(text if src.endswith(".txt") else qa.visible_text(text))
+            orig = qa.squeeze(qa.source_text(text, src))
 
             bh = qa.page_body_html(page)
             if bh is None:
@@ -138,12 +133,7 @@ def main() -> int:
         results.append(rec)
         print(f"  [{i:3d}/{args.n}] {rec['verdict']:12s} {eid[:60]}", flush=True)
 
-    counts: dict[str, int] = {}
-    for r in results:
-        counts[r["verdict"]] = counts.get(r["verdict"], 0) + 1
-    ng = sum(v for k, v in counts.items() if k.startswith("ng") or k == "error")
-    summary = {"seed": SEED, "n": len(results), "counts": counts,
-               "problem_rate_pct": round(100.0 * ng / max(1, len(results)), 2)}
+    summary = qa.summarize(results, SEED)
     json.dump({"summary": summary, "results": results},
               open(args.out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(json.dumps(summary, ensure_ascii=False))
