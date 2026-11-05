@@ -29,7 +29,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tslib import paths  # noqa: E402
-from tslib.fileio import read_jsonl, write_jsonl, write_json, ensure_parent, read_text  # noqa: E402
+from tslib.fileio import write_jsonl, write_json, ensure_parent  # noqa: E402
 from tslib.catalog.provenance import build_provenance_map  # noqa: E402
 from tslib.catalog.records import build_regular, build_legacy, strip_private  # noqa: E402
 from tslib.catalog.selftest import selftest  # noqa: E402
@@ -37,16 +37,6 @@ from tslib.catalog.report import report_of, summary_lines  # noqa: E402
 
 DEFAULT_ROOT = paths.REPO_ROOT
 DEFAULT_ANNEX_BASE = paths.DEFAULT_ANNEX_BASE
-
-
-def load_takedown_context():
-    """停止告知の照合に使う denylist の全文と works.jsonl。
-    (--root ではなく) このリポジトリ自身の takedown/denylist.yml と catalog/works.jsonl を読む (従来どおり)。"""
-    denylist = paths.denylist_path(paths.REPO_ROOT)
-    denylist_text = read_text(denylist) if os.path.exists(denylist) else ''
-    works_file = paths.works_path(paths.REPO_ROOT)
-    works = read_jsonl(works_file) if os.path.exists(works_file) else None
-    return denylist_text, works
 
 
 def main(argv=None):
@@ -69,8 +59,7 @@ def main(argv=None):
         legacy, legacy_failures, legacy_stats = build_legacy(root, annex_base, records, prov_map)
         records = records + legacy
         failures = failures + legacy_failures
-    denylist_text, works = load_takedown_context()
-    checks = selftest(records, failures, legacy_stats, denylist_text, works)
+    checks = selftest(records, failures, legacy_stats)
     rep = report_of(records, failures, checks, legacy_stats)
     for line in summary_lines(rep):
         print(line)

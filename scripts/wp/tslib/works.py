@@ -656,6 +656,21 @@ def confirmed_but_review(review, work_overrides):
     return [k for k, w in review if (work_overrides.get(k) or {}).get('confirmed') is True]
 
 
+def takedown_unlisted(records, works, denylist_text):
+    """停止告知のある話 (目録の takedown_notice) のうち takedown/denylist.yml に載っていないものの catalog_ref (自己検査用)。
+    目録に停止告知があるのに denylist に無い = 取り下げ済み作品を再公開している。
+
+    話の source_path か、その話を含む作品の work_slug が denylist の全文にあれば載っている。作品はいま組んだ works で
+    引く (T45.7.6。以前は catalog_build が前回の catalog/works.jsonl を読んでいて、works.jsonl が無いと止まった)。
+    戻り値 (告知の数, 載っていない話の catalog_ref の列)。"""
+    slug_of = {e['episode_id']: w['work_slug'] for w in works for e in w['episodes']}
+    notices = [r for r in records if r.get('takedown_notice')]
+    unlisted = [r['catalog_ref'] for r in notices
+                if r['source_path'] not in denylist_text
+                and not (slug_of.get(r['episode_id']) is not None and slug_of[r['episode_id']] in denylist_text)]
+    return len(notices), unlisted
+
+
 def summary_lines(report):
     return [
         'works=%d (単発 %d / 連載 %d)  episodes=%d  orphan=%d' %

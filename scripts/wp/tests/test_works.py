@@ -245,5 +245,28 @@ class AssembleTest(unittest.TestCase):
         self.assertEqual(wk.confirmed_but_review([('k', {})], {'k': {'confirmed': True}}), ['k'])
 
 
+class TakedownUnlistedTest(unittest.TestCase):
+    """停止告知の照合 (T45.7.6。以前は catalog_build の自己検査で、前回の works.jsonl を読んでいた)"""
+    RECS = [{'episode_id': 'e1', 'source_path': 'novel/a.html', 'catalog_ref': 'lib1.html#1', 'takedown_notice': {'author': 'x'}},
+            {'episode_id': 'e2', 'source_path': 'novel/b.html', 'catalog_ref': 'lib1.html#2', 'takedown_notice': {'author': 'y'}},
+            {'episode_id': 'e3', 'source_path': 'novel/c.html', 'catalog_ref': 'lib1.html#3', 'takedown_notice': None},
+            {'episode_id': 'e4', 'source_path': 'novel/d.html', 'catalog_ref': 'lib1.html#4', 'takedown_notice': {'author': 'z'}}]
+    WORKS = [{'work_slug': 'w2', 'episodes': [{'episode_id': 'e2'}, {'episode_id': 'e3'}]},
+             {'work_slug': 'w4', 'episodes': [{'episode_id': 'e4'}]}]
+
+    def test_listed_by_source_path_or_work_slug(self):
+        # source_path が書いてあるか、いま組んだ works で引いた作品 slug が書いてあれば載っている。告知の無い話は数えない
+        self.assertEqual(wk.takedown_unlisted(self.RECS, self.WORKS, 'value: novel/a.html\nid: w2\nvalue: w4\n'), (3, []))
+
+    def test_unlisted(self):
+        self.assertEqual(wk.takedown_unlisted(self.RECS, self.WORKS, 'value: novel/a.html\n'), (3, ['lib1.html#2', 'lib1.html#4']))
+        # denylist が無い ('') と全部載っていない。works.jsonl が無くても works はその場で組むので止まらない
+        self.assertEqual(wk.takedown_unlisted(self.RECS, self.WORKS, ''), (3, ['lib1.html#1', 'lib1.html#2', 'lib1.html#4']))
+
+    def test_episode_without_work(self):
+        # どの作品にも入っていない話は source_path だけで見る
+        self.assertEqual(wk.takedown_unlisted(self.RECS, [], 'id: w2\nvalue: w4\n'), (3, ['lib1.html#1', 'lib1.html#2', 'lib1.html#4']))
+
+
 if __name__ == '__main__':
     unittest.main()

@@ -17,7 +17,8 @@
 # 2 つの OUT は compare.sh で比べる。
 # 所要 (0e8c7712、2 CPU): make catalog 73 秒、make verify 339 秒。
 #
-# catalog/ は消さない (catalog_build の自己検査が前回の works.jsonl を読む。消すと最初の段で止まる。T45.2.20)。
+# catalog/ は消さない (基準と同じ流し方にするため。T45.7.6 より前の版は catalog_build の自己検査が前回の works.jsonl を
+# 読むので、消すと最初の段で止まる。T45.2.20)。
 set -u
 HERE=$(cd "$(dirname "$0")" && pwd -P)
 . "$HERE/common.sh"

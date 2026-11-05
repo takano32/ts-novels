@@ -117,7 +117,7 @@ SELFTEST_NAMES = [
     '旧目録ブロック数 == 336 (lib01-06 の 252 + lib07-09 の 84)', '旧目録のパース失敗 0',
     '旧目録の追加件数 == blocks - 正規目録との重複'] + [
     '必須欄 %s に欠落なし (legacy)' % f for f in st.REQUIRED_LEGACY] + [
-    'legacy(work) の author 解決率 100%', '公開停止の告知を検出 == 9 件', '停止告知のある話が denylist に載っている']
+    'legacy(work) の author 解決率 100%', '公開停止の告知を検出 == 9 件']
 
 
 class SelftestReportTest(TempDirCase):
@@ -128,41 +128,23 @@ class SelftestReportTest(TempDirCase):
     def test_selftest_names_in_order(self):
         recs = self.records()
         stats = rc.legacy_stats([], [], [], [])
-        c = st.selftest(recs, [], stats, '', None)
+        c = st.selftest(recs, [], stats)
         self.assertFalse(c.ok)                                # 実データの件数には届かない
         self.assertEqual([n for n, _, _ in c.results], SELFTEST_NAMES)
         by = {n: o for n, o, _ in c.results}
         self.assertTrue(by['episode_id の重複 0'])
         self.assertTrue(by["出力に 'mailto:' が現れない"])
 
-    def test_work_listed(self):
-        rec = {'episode_id': 'e1'}
-        self.assertFalse(st.work_listed(rec, None, 'w1'))
-        self.assertTrue(st.work_listed(rec, [{'work_slug': 'w1', 'episodes': [{'episode_id': 'e1'}]}], 'id: w1'))
-        self.assertTrue(st.work_listed(rec, [{'work_slug': 'w1', 'episodes': ['e1']}], 'id: w1'))
-        self.assertFalse(st.work_listed(rec, [{'work_slug': 'w1', 'episodes': ['e2']}], 'id: w1'))
-
-    def test_takedown_notice_unlisted(self):
-        recs = [{'episode_id': 'e1', 'source_path': 'novel/a.html', 'catalog_ref': 'lib1.html#1',
-                 'takedown_notice': {'author': 'x'}},
-                {'episode_id': 'e2', 'source_path': 'novel/b.html', 'catalog_ref': 'lib1.html#2',
-                 'takedown_notice': {'author': 'y'}}]
-        c = Checks()
-        st.check_takedown_notices(c, recs, 'value: novel/a.html\n', None)
-        self.assertEqual(c.results[1], ('停止告知のある話が denylist に載っている', False, '未掲載 1 件 [\'lib1.html#2\']'))
-
-    def test_takedown_notice_listed(self):
-        # source_path が denylist に書いてあるか、works.jsonl 経由で作品 slug が書いてあれば載っている
+    def test_takedown_notices(self):
+        # 告知を数えるだけ。denylist との照合は work_builder の段 (T45.7.6。test_works.py の takedown_unlisted)
         recs = [{'episode_id': 'e1', 'source_path': 'novel/a.html', 'catalog_ref': 'lib1.html#1',
                  'takedown_notice': {'author': 'x'}},
                 {'episode_id': 'e2', 'source_path': 'novel/b.html', 'catalog_ref': 'lib1.html#2',
                  'takedown_notice': {'author': 'y'}},
                 {'episode_id': 'e3', 'source_path': 'novel/c.html', 'catalog_ref': 'lib1.html#3'}]
         c = Checks()
-        st.check_takedown_notices(c, recs, 'value: novel/a.html\nid: w2\n',
-                                  [{'work_slug': 'w2', 'episodes': ['e2']}])
-        self.assertEqual(c.results, [('公開停止の告知を検出 == 9 件', False, '実測 2 件'),
-                                     ('停止告知のある話が denylist に載っている', True, '未掲載 0 件 []')])
+        st.check_takedown_notices(c, recs)
+        self.assertEqual(c.results, [('公開停止の告知を検出 == 9 件', False, '実測 2 件')])
 
     def test_check_mailto_residue(self):
         c = Checks()
@@ -218,7 +200,7 @@ class SelftestReportTest(TempDirCase):
 
     def test_report_keys_and_summary(self):
         recs = self.records()
-        c = st.selftest(recs, [], None, '', None)
+        c = st.selftest(recs, [], None)
         rep = rp.report_of(recs, [], c, None)
         self.assertEqual(list(rep)[:3], ['generated_by', 'corpus', 'entries_total'])
         self.assertEqual(list(rep)[-3:], ['legacy', 'selftest', 'selftest_ok'])

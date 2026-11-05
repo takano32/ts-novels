@@ -37,18 +37,6 @@ REQUIRED_REGULAR = ('episode_id', 'source_path', 'title', 'author', 'date', 'dat
 REQUIRED_LEGACY = ('episode_id', 'source_path', 'title', 'date', 'catalog_ref')
 
 
-def work_listed(rec, works, denylist_text):
-    """停止告知のある話が work 単位で denylist に載っているか (works.jsonl のレコード経由で照合)。
-    works が None (ファイルが無い) なら False。"""
-    if works is None:
-        return False
-    for w in works:
-        eids = [e['episode_id'] if isinstance(e, dict) else e for e in w['episodes']]
-        if rec['episode_id'] in eids:
-            return w['work_slug'] in denylist_text
-    return False
-
-
 def check_mailto_residue(c, records):
     """「捨てたはずのアドレス」を全部集め、出力 JSONL の全文に 1 つも出てこないことを確かめる。
     ファイル名の @ (index@08201937.html) や homepage の URL を誤検知しないよう、
@@ -118,24 +106,16 @@ def check_legacy(c, legacy, legacy_stats):
             '未解決 %d 件 %s' % (len(noauthor), noauthor[:5]))
 
 
-def check_takedown_notices(c, records, denylist_text, works):
-    """作者からの公開停止の申し出は、必ず takedown/denylist.yml に載っていること。
-    目録に停止告知があるのに denylist に無い = 取り下げ済み作品を再公開している。"""
+def check_takedown_notices(c, records):
+    """目録の公開停止の告知を数え漏らしていないこと。告知のある話が takedown/denylist.yml に載っているかの照合は、
+    作品を組む work_builder の段が見る (T45.7.6。tslib/works.py の takedown_unlisted)。"""
     notices = [r for r in records if r.get('takedown_notice')]
     c.check('公開停止の告知を検出 == %d 件' % EXPECTED_TAKEDOWN_NOTICES,
             len(notices) == EXPECTED_TAKEDOWN_NOTICES, '実測 %d 件' % len(notices))
-    unlisted = [r['catalog_ref'] for r in notices
-                if r['source_path'] not in denylist_text and not work_listed(r, works, denylist_text)]
-    c.check('停止告知のある話が denylist に載っている', not unlisted,
-            '未掲載 %d 件 %s' % (len(unlisted), unlisted[:5]))
 
 
-def selftest(records, failures, legacy_stats=None, denylist_text='', works=None):
-    """受け入れ条件をロジックで検査する。戻り値は Checks。
-
-    denylist_text は takedown/denylist.yml の全文 (無ければ '')、works は catalog/works.jsonl の
-    レコード (無ければ None)。停止告知の照合に使う。
-    """
+def selftest(records, failures, legacy_stats=None):
+    """受け入れ条件をロジックで検査する。戻り値は Checks。"""
     c = Checks()
     regular = [r for r in records if r['corpus'] == 'honkan']
     legacy = [r for r in records if r['corpus'] == 'legacy']
@@ -154,5 +134,5 @@ def selftest(records, failures, legacy_stats=None, denylist_text='', works=None)
     check_required(c, regular, REQUIRED_REGULAR, 'honkan')
     if legacy_stats is not None:
         check_legacy(c, legacy, legacy_stats)
-    check_takedown_notices(c, records, denylist_text, works)
+    check_takedown_notices(c, records)
     return c
