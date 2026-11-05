@@ -15,6 +15,8 @@ OUT="$2"; mkdir -p "$OUT"
 OUT=$(cd "$OUT" && pwd -P)
 dirs=()
 for d in catalog bodies payloads payloads-docs; do [ -d "$TREE/$d" ] && dirs+=("$d"); done
+# 対象が 1 つも無ければ止まる (find にパスが渡らずカレントの全部を数えてしまう)
+[ ${#dirs[@]} -gt 0 ] || { echo "生成物のディレクトリが 1 つも無い: $TREE" >&2; exit 1; }
 ( cd "$TREE" && find "${dirs[@]}" -type f -print0 | LC_ALL=C sort -z | xargs -0 sha256sum ) > "$OUT/sha256.txt"
 wc -l < "$OUT/sha256.txt" > "$OUT/count.txt"
 rm -rf "$OUT/ignored"

@@ -11,6 +11,7 @@ S210 (WordPress 移築。`scripts/wp/`) にあり、ここではどこから使�
 | `scripts/workflows/` | Claude Code の Workflow ツール用の JavaScript。WordPress 移築の調査と設計に使った (S209) |
 | `scripts/wp/` | WordPress 移築の実装。目録データ (catalog) の生成・本文の変換・配備 (S210) |
 | `scripts/wp/tslib/` | `scripts/wp/*.py` のロジック。入口は引数と読み書きと表示だけで、変換・判定はここの関数に置く (S243) |
+| `scripts/wp/parity/` | T45.2 の分割で生成物が変わらないことを確かめる道具 (旧版と新版の生成物一式の sha256・各段の標準出力の突き合わせ)。使い方は各ファイルの先頭 (S243) |
 | `scripts/doc_check.py` | 文書 (docs / specs / tasks) の番号・リンク・使わない語の検査 (S219)。ロジックは `scripts/doccheck/` |
 
 ## よく使う入口 (リポジトリ直下の Makefile)

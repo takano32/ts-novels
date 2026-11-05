@@ -24,7 +24,9 @@ ignored_paths() { grep -v '^#' "$IGN" | cut -f1; }
 ignored_paths | LC_ALL=C sort -u > "$TMP/ign"
 for s in A B; do
   d=${!s}
-  awk 'NR==FNR{ign[$0]=1; next} !(substr($0, 67) in ign)' "$TMP/ign" "$d/sha256.txt" > "$TMP/$s.sha"
+  # 除外の一覧はファイル名で見分ける (NR==FNR だと一覧が空のとき sha256.txt を一覧と取り違え、全行を除外する)
+  awk -v ign_file="$TMP/ign" 'FILENAME==ign_file{ign[$0]=1; next} !(substr($0, 67) in ign)' \
+    "$TMP/ign" "$d/sha256.txt" > "$TMP/$s.sha"
 done
 if diff "$TMP/A.sha" "$TMP/B.sha" > "$TMP/sha.diff"; then
   echo "sha256: same ($(wc -l < "$TMP/A.sha") files + 除外の $(wc -l < "$TMP/ign") files)"
