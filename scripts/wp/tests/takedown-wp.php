@@ -3,7 +3,7 @@
  * 取り下げの申請の非公開化と復帰 (specs/S127.md・S128.md) を WordPress の代わり (scripts/wp/tests/wp-stubs.php) の上で通して動かす
  * (T45.1.17.3)。期待値は分割前 (d586f0eb) の includes/takedown-request.php と includes/visibility.php を同じ代わりと同じ置き場
  * (wp-fixtures.php の ts_fixture_takedown_apply_scene) で動かした出力から取った (2026-11-05、scripts/wp/php_probe.sh、probe-takedown-apply.php)。
- * 実装の写しではない。scripts/wp/ts_library_test.php から WP の表を読んだ後に読む。
+ * 実装の写しではない。対象と子孫の集め方 2 本の順 (T45.1.19.3) もここで見る。scripts/wp/ts_library_test.php から WP の表を読んだ後に読む。
  */
 
 // ---------------------------------------------------------------- 非公開化 (S127)
@@ -62,4 +62,22 @@ check('復帰: この申請の印の投稿だけ戻す — 旧版の孫は super
 check('復帰: option から戻した URL を外す (別の作品と S9 の話は残る)', $s2['urls'], ['/novel/hoka-no-sakuhin/', '/novel/amano-tsuki-renzoku/ren02/']);
 check('復帰: 申請は reinstated、操作した運営委員とメモ、記録 2 行、メールは増えない', [$s2['request'], $s2['log'], count($s2['mails'])],
       [['reinstated', 3, '復帰のメモ', true], ['applied/0/', 'reinstated/3/復帰のメモ'], 4]);
+
+// ---------------------------------------------------------------- 対象と子孫の集め方 2 本 (T45.1.19.3)。子の問い合わせは ts_takedown_child_ids で共有し、集める順はそれぞれ分割前のまま
+$t = ts_fixture_takedown_targets();
+check('子の問い合わせ (ts_takedown_child_ids): 状態を問わず、get_posts の既定の順 (日付の新しい順)', ts_takedown_child_ids($t['nested']), [$t['nep'][1], $t['nep'][0]]);
+// 期待値は d586f0eb の ts_takedown_target_posts を同じ代わりで動かした順 (probe-takedown-apply.php の order)
+check('申請の対象と子孫 (ts_takedown_target_posts): 対象ごとに、対象 → 子孫を stack で (get_posts の逆順 = 日付の古い順)。結びつかない URL は飛ばす',
+      ts_takedown_target_posts(['targets' => [['post_id' => $t['nested']], ['post_id' => $t['single']], ['post_id' => null]]]),
+      [$t['nested'], $t['nep'][0], $t['nep'][1], $t['grand'], $t['single']]);
+// descendants と takedown_targets は分割前 (d586f0eb の commands.php) と同じコード
+$cmd = new TS_Takedown_Command();
+$desc = new ReflectionMethod($cmd, 'descendants'); $desc->setAccessible(true);
+$targets = new ReflectionMethod($cmd, 'takedown_targets'); $targets->setAccessible(true);
+check('apply-takedown の子孫 (descendants): 再帰で、get_posts の順 (日付の新しい順) に深さ優先', $desc->invoke($cmd, $t['nested']), [$t['nep'][1], $t['grand'], $t['nep'][0]]);
+check('apply-takedown の対象 (takedown_targets): 対象 → 子孫 (descendants の順)', $targets->invoke($cmd, 'work', 'amano-tsuki-iriko'),
+      [$t['nested'], $t['nep'][1], $t['grand'], $t['nep'][0]]);
+$a = ts_takedown_target_posts(['targets' => [['post_id' => $t['nested']]]]); $b = $targets->invoke($cmd, 'work', 'amano-tsuki-iriko');
+sort($a); sort($b);
+check('2 本の集め方は集合は同じで順が違う (子が 2 つ以上あると逆になる)', [$a === $b, ts_takedown_target_posts(['targets' => [['post_id' => $t['nested']]]]) === $targets->invoke($cmd, 'work', 'amano-tsuki-iriko')], [true, false]);
 TS_WP_Stubs::reset();

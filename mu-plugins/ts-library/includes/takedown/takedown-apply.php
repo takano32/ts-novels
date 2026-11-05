@@ -9,7 +9,14 @@
 
 if (!defined('ABSPATH')) { exit; }
 
-/** 申請の対象 (解決できたもの) とその子孫の投稿 ID */
+/** 取り下げが波及する子 (ts_work の直接の子。状態を問わない。get_posts の既定の順)。申請の適用と `wp ts apply-takedown` が同じ問い合わせを使う */
+function ts_takedown_child_ids(int $parent_id): array {
+    return get_posts(['post_type' => 'ts_work', 'post_parent' => $parent_id, 'post_status' => 'any',
+                      'posts_per_page' => -1, 'fields' => 'ids']);
+}
+
+/** 申請の対象 (解決できたもの) とその子孫の投稿 ID。stack で集めるので子は get_posts の逆順に並ぶ (option ts_takedown_urls の順になる。
+ *  `wp ts apply-takedown` の再帰 (TS_Takedown_Command::descendants) とは順が違うが、どちらも分割前のまま。T45.1.19.3) */
 function ts_takedown_target_posts(array $r): array {
     $out = [];
     foreach ($r['targets'] as $t) {
@@ -19,8 +26,7 @@ function ts_takedown_target_posts(array $r): array {
             $pid = array_pop($stack);
             if (isset($out[$pid])) continue;
             $out[$pid] = true;
-            foreach (get_posts(['post_type' => 'ts_work', 'post_parent' => $pid, 'post_status' => 'any',
-                                'posts_per_page' => -1, 'fields' => 'ids']) as $cid) $stack[] = (int) $cid;
+            foreach (ts_takedown_child_ids($pid) as $cid) $stack[] = (int) $cid;
         }
     }
     return array_keys($out);

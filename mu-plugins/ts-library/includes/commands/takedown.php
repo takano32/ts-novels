@@ -142,11 +142,12 @@ final class TS_Takedown_Command extends TS_Command_Base {
         return array_keys($all);
     }
 
-    /** ts_work の子孫 (話) を再帰的に集める */
+    /** ts_work の子孫 (話) を再帰的に集める (get_posts の順に深さ優先。dry-run の行と option ts_takedown_urls の順になる)。
+     *  子の問い合わせは申請の適用 (includes/takedown/takedown-apply.php) と共有するが、集める順は申請の側 (stack) と違う。
+     *  どちらも分割前のままで、1 本にしない理由は S242 (T45.1.19.3) */
     private function descendants($post_id) {
         $out = [];
-        $children = get_posts(['post_type' => 'ts_work', 'post_parent' => $post_id,
-                               'post_status' => 'any', 'posts_per_page' => -1, 'fields' => 'ids']);
+        $children = ts_takedown_child_ids((int) $post_id);
         foreach ($children as $cid) {
             $out[] = $cid;
             foreach ($this->descendants($cid) as $gid) $out[] = $gid;
