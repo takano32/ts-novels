@@ -48,6 +48,13 @@ class BannedTest(unittest.TestCase):
             with self.subTest(name=name):
                 self.assertTrue(rx.search(HITS[name]), HITS[name])
 
+    def test_each_sample_hits_only_its_rule(self):
+        # 旧略記 TD-0 の規則は 1 行目の規則 (TD-0 を含む) に含まれ、同じ文に 2 つが当たる (T45.2.40 で決める)
+        overlap = {'取り下げ番号の旧略記 TD-0': ['廃止した取り下げ番号 (TD-…・TD.n)', '取り下げ番号の旧略記 TD-0']}
+        for name, text in HITS.items():
+            with self.subTest(name=name):
+                self.assertEqual([n for n, rx in BANNED if rx.search(text)], overlap.get(name, [name]))
+
     def test_ordinary_text_hits_nothing(self):
         for text in MISSES:
             with self.subTest(text=text):

@@ -12,6 +12,7 @@ if HAS_BS4:
 class VerifyHtml5Test(TempDirCase):
     def test_normalize(self):
         self.assertEqual(vh.normalize(' あ <b>\n ｶ'), 'あbｶ')
+        self.assertEqual(vh.normalize('か\u3099 き'), 'がき')               # 結合文字の濁点は NFC で 1 字に
 
     def test_md_text_strips_marks(self):
         text, stripped = vh.md_text('> ----\n## 見出し\n> 引用 <ruby>漢<rt>かん</rt></ruby> <b>x</b>')

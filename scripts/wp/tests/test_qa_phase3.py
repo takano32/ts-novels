@@ -8,8 +8,30 @@ from tslib import qa_phase3 as q
 class ExtractTest(unittest.TestCase):
     def test_decode_bytes_charset(self):
         self.assertEqual(q.decode_bytes('<meta charset="shift_jis">日本'.encode('cp932')), '<meta charset="shift_jis">日本')
-        self.assertEqual(q.decode_bytes('<meta charset=euc-jp>漢字'.encode('euc_jp')), '<meta charset=euc-jp>漢字')
         self.assertEqual(q.decode_bytes('ふつう'.encode('utf-8')), 'ふつう')
+        # cp932 でも復号できてしまう euc_jp (meta を見ないと cp932 の半角カナになる)
+        raw = '<meta charset=euc-jp>あい'.encode('euc_jp')
+        self.assertEqual(raw.decode('cp932'), '<meta charset=euc-jp>､｢､､')
+        self.assertEqual(q.decode_bytes(raw), '<meta charset=euc-jp>あい')
+
+    def test_decode_bytes_alias(self):
+        # sjis は cp932 に読み替える (shift_jis のままだと 0x8160 が U+301C の波ダッシュになる)
+        raw = '<meta charset=sjis>～'.encode('cp932')
+        self.assertEqual(raw.decode('shift_jis'), '<meta charset=sjis>〜')
+        self.assertEqual(q.decode_bytes(raw), '<meta charset=sjis>～')
+        self.assertEqual(q.decode_bytes('<meta charset=utf8>あい'.encode('utf-8')), '<meta charset=utf8>あい')
+
+    def test_decode_bytes_unknown_and_fallback(self):
+        # 未知の charset は LookupError で飛ばし、既定の順 (utf-8 から) に戻る
+        self.assertEqual(q.decode_bytes('<meta charset=x-unknown>あい'.encode('utf-8')), '<meta charset=x-unknown>あい')
+        # どれでも復号できなければ utf-8 の置換復号
+        self.assertEqual(q.decode_bytes(b'\x81 '), '\ufffd ')
+
+    def test_decode_bytes_iso2022jp(self):
+        self.assertEqual(q.decode_bytes('<meta charset=iso-2022-jp>あい'.encode('iso-2022-jp')),
+                         '<meta charset=iso-2022-jp>あい')
+        # meta が無いと 7 ビットの列は先に utf-8 で通るので、既定の順の iso-2022-jp には届かない (いまの振る舞い)
+        self.assertEqual(q.decode_bytes('あい'.encode('iso-2022-jp')), '\x1b$B$"$$\x1b(B')
 
     def test_preclean(self):
         self.assertEqual(q.preclean('<!-- c -->a<!　没稿!!>b ち<ゃんと <FONTCOLOR="#FFD700">x</a>'),

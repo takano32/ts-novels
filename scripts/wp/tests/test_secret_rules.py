@@ -25,6 +25,21 @@ class ScanTest(unittest.TestCase):
     def test_clean(self):
         self.assertEqual(sr.scan({'x.html': b'<input type="password" name="pass">\nuse of strict rules\n'}), [])
 
+    def test_hidden_common_word_threshold(self):
+        # 検査 3 の通常語の除外: 英小文字 1〜6 字の値が、ほかのファイルに語として COMMON_WORD_MIN 回以上
+        # 現れるなら秘密値とみなさない。自分のファイルの出現は数えない
+        tag = b'<input type="hidden" name="pass" value="guest">'
+        self.assertEqual(sr.COMMON_WORD_MIN, 50)
+        hit = [{'rule': 3, 'path': 'a.html', 'line': 1}]
+        self.assertEqual(sr.scan({'a.html': tag, 'b.txt': b' guest' * 50}), [])
+        self.assertEqual(sr.scan({'a.html': tag, 'b.txt': b' guest' * 49}), hit)
+        self.assertEqual(sr.scan({'a.html': tag + b' guest' * 50}), hit)
+        self.assertEqual(sr.scan({'a.html': tag, 'b.txt': b' guests' * 50}), hit)        # 語の一部は数えない
+        # 7 字以上・大文字を含む値は数によらず除外しない
+        for value in (b'guestxx', b'Guest'):
+            with self.subTest(value=value):
+                self.assertEqual(sr.scan({'a.html': tag.replace(b'guest', value), 'b.txt': (b' ' + value) * 50}), hit)
+
     def test_parse_attrs(self):
         self.assertEqual(sr.parse_attrs(b'<input type=hidden name="PASS" value=\'x y\' checked>'),
                          {b'type': b'hidden', b'name': b'PASS', b'value': b'x y', b'checked': b''})

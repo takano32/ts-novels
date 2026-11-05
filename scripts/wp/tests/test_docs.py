@@ -30,7 +30,11 @@ class LinkTest(unittest.TestCase):
         self.assertEqual(docs.strip_mailto_text('foo@example.com と taro@example.com'),
                          'foo@example.com と taro@example.com')
         self.assertEqual(docs.redact_bare('x foo@example.com', None), 'x ' + REDACTED)
-        self.assertIs(docs.MAIL_KEEP_DOCS_RE, mail.MAIL_KEEP_DOCS_RE)
+        # docs 用の keep は foo@・bar@ (dialy の設定例) も残す。既定の keep (mail.MAIL_KEEP_RE) では伏せる。
+        # ドメインは予約の .test (example を含まない形で 2 つの keep の差を見る)
+        self.assertEqual(docs.strip_mailto_text('foo@mail.test と bar@mail.test と taro@mail.test'),
+                         'foo@mail.test と bar@mail.test と ' + REDACTED)
+        self.assertEqual(mail.redact_bare('foo@mail.test'), REDACTED)
 
     def test_title_of(self):
         self.assertEqual(docs.title_of('<TITLE>\n 題\n 名 </TITLE>', 'fb'), '題 名')

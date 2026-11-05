@@ -52,9 +52,36 @@ class BlocksTest(unittest.TestCase):
         self.assertIn('{"level":4}', p.b_heading(3, 'x'))
         self.assertIn('<h6 ', p.b_heading(6, 'x'))
 
+    def test_block_builders(self):
+        # ブロックの字面は生成物 (payloads/) のバイト一致に懸かる
+        self.assertEqual(p.b_para('a'), '<!-- wp:paragraph -->\n<p>a</p>\n<!-- /wp:paragraph -->')
+        self.assertEqual(p.b_sep(), '<!-- wp:separator -->\n<hr class="wp-block-separator has-alpha-channel-opacity"/>\n'
+                                    '<!-- /wp:separator -->')
+        self.assertEqual(p.b_heading(0, 'x'), '<!-- wp:heading -->\n<h2 class="wp-block-heading">x</h2>\n<!-- /wp:heading -->')
+        self.assertEqual(p.b_heading(3, 'x'),
+                         '<!-- wp:heading {"level":4} -->\n<h4 class="wp-block-heading">x</h4>\n<!-- /wp:heading -->')
+        self.assertIn('<h6 ', p.b_heading(9, 'x'))                     # h6 で頭打ち
+        self.assertEqual(p.b_quote(['a', '--']),
+                         '<!-- wp:quote -->\n<blockquote class="wp-block-quote">\n' + p.b_para('a') + '\n' + p.b_sep()
+                         + '\n</blockquote>\n<!-- /wp:quote -->')
+        self.assertEqual(p.b_image('<img src="a.gif">'),
+                         '<!-- wp:image -->\n<figure class="wp-block-image"><img src="a.gif"></figure>\n<!-- /wp:image -->')
+        self.assertEqual(p.b_html('<x>'), '<!-- wp:html -->\n<x>\n<!-- /wp:html -->')
+
+    def test_unbalanced_table(self):
+        self.assertFalse(p.unbalanced_table('<table><tr><td>a</td></tr></table>'))
+        self.assertFalse(p.unbalanced_table('<TABLE ><TR><TH>a</TH ></TR></table >'))   # 大文字と空白
+        self.assertTrue(p.unbalanced_table('<table><tr><td>a'))
+        self.assertTrue(p.unbalanced_table('<table><tr><td>a</td></table>'))           # tr だけ閉じない
+        self.assertFalse(p.unbalanced_table('<thead><tbody>本文'))                       # \b で thead・tbody は数えない
+        self.assertFalse(p.unbalanced_table(''))
+
     def test_visible_symmetry(self):
         self.assertEqual(p.visible('## 見出し\n> 引用&amp;\n----\n![a](b.gif)', True),
                          p.visible('<p>見出し</p><br>引用&amp;<!--c-->', False))
+        # 字面: 見出し・引用の記号・区切り行・画像・タグ・コメント・空白を落とし、実体参照は戻す
+        self.assertEqual(p.visible('## 見出し\n> 引用&amp;\n----\n![a](b.gif)', True), '見出し引用&')
+        self.assertEqual(p.visible('<p>a<br>--<br>b</p>', False), 'ab')
 
     def test_payloads(self):
         stats, w, mail_n = p.new_stats(), warn(), {'mailto': 0, 'bare': 0}

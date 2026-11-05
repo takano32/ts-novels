@@ -8,6 +8,7 @@ from tslib.catalog import legacy as lg
 from tslib.catalog import records as rc
 from tslib.catalog import selftest as st
 from tslib.catalog import report as rp
+from tslib.checks import Checks
 from tests.support import TempDirCase, DATA
 
 ANNEX = 'https://annex.example.com/'
@@ -146,10 +147,74 @@ class SelftestReportTest(TempDirCase):
                  'takedown_notice': {'author': 'x'}},
                 {'episode_id': 'e2', 'source_path': 'novel/b.html', 'catalog_ref': 'lib1.html#2',
                  'takedown_notice': {'author': 'y'}}]
-        from tslib.checks import Checks
         c = Checks()
         st.check_takedown_notices(c, recs, 'value: novel/a.html\n', None)
         self.assertEqual(c.results[1], ('停止告知のある話が denylist に載っている', False, '未掲載 1 件 [\'lib1.html#2\']'))
+
+    def test_takedown_notice_listed(self):
+        # source_path が denylist に書いてあるか、works.jsonl 経由で作品 slug が書いてあれば載っている
+        recs = [{'episode_id': 'e1', 'source_path': 'novel/a.html', 'catalog_ref': 'lib1.html#1',
+                 'takedown_notice': {'author': 'x'}},
+                {'episode_id': 'e2', 'source_path': 'novel/b.html', 'catalog_ref': 'lib1.html#2',
+                 'takedown_notice': {'author': 'y'}},
+                {'episode_id': 'e3', 'source_path': 'novel/c.html', 'catalog_ref': 'lib1.html#3'}]
+        c = Checks()
+        st.check_takedown_notices(c, recs, 'value: novel/a.html\nid: w2\n',
+                                  [{'work_slug': 'w2', 'episodes': ['e2']}])
+        self.assertEqual(c.results, [('公開停止の告知を検出 == 9 件', False, '実測 2 件'),
+                                     ('停止告知のある話が denylist に載っている', True, '未掲載 0 件 []')])
+
+    def test_check_mailto_residue(self):
+        c = Checks()
+        st.check_mailto_residue(c, [{'episode_id': 'e1', '_dropped_mailto': ['taro@example.com', ''],
+                                     'comment': 'x', 'board': 'index@08201937.html'}])
+        self.assertEqual(c.results, [('mailto から抽出したアドレスの残存 0 (1 件を検査)', True, '残存 []'),
+                                     ("出力に 'mailto:' が現れない", True, ''),
+                                     ('出力にアドレス形の文字列が無い', True, '検出 []')])
+        c = Checks()
+        st.check_mailto_residue(c, [{'episode_id': 'e1', '_dropped_mailto': ['taro@example.com'],
+                                     'comment': 'taro@example.com mailto:'}])
+        self.assertEqual(c.results, [('mailto から抽出したアドレスの残存 0 (1 件を検査)', False, "残存 ['taro@example.com']"),
+                                     ("出力に 'mailto:' が現れない", False, '出現位置あり'),
+                                     ('出力にアドレス形の文字列が無い', False, "検出 ['taro@example.com']")])
+
+    def test_check_survey_values(self):
+        r = dict(homepage='http://x', illustrator='', osusume='', entry_type='html', source_anchor=None,
+                 source_path='novel/a.html', arasuji='', comment='c', _suisen_full_empty=True, genre=['g'],
+                 type=[], keywords=[], kansou_slug='k', genre_raw=['g', 'h'], type_raw=[], keywords_raw=['x'])
+        r2 = dict(r, homepage='', entry_type='image', kansou_slug='k2', genre_raw=['g'])
+        c = Checks()
+        st.check_survey_values(c, [r, r2])
+        self.assertEqual([(n, d) for n, _, d in c.results], [
+            ('homepage 件数 == 918 (=771+147)', '実測 1'), ('画師あり == 477', '実測 0'),
+            ('オススメあり == 765', '実測 0'), ('特殊エントリ (画像/外部/anchor) == 28', '実測 1'),
+            ('あらすじ空 == 182', '実測 2'), ('コメント空 == 290', '実測 0'), ('推薦文空 == 147', '実測 2'),
+            ('ジャンル空 == 238', '実測 0'), ('種別空 == 326', '実測 2'), ('キーワード空 == 437', '実測 2'),
+            ('感想板 slug の異なり == 305', '実測 2'), ('genre_raw の異なり == 244 (NFKC 前)', '実測 2'),
+            ('type_raw の異なり == 187 (NFKC 前)', '実測 0'), ('keywords_raw の異なり == 1083 (NFKC 前)', '実測 1')])
+        self.assertFalse(c.ok)
+
+    def test_check_required(self):
+        c = Checks()
+        st.check_required(c, [{'a': 'x', 'b': ''}, {'a': [], 'b': 'y'}, {'b': 'z'}], ('a', 'b'), 'L')
+        self.assertEqual(c.results, [('必須欄 a に欠落なし (L)', False, '欠落 2 件'),
+                                     ('必須欄 b に欠落なし (L)', False, '欠落 1 件')])
+
+    def test_check_legacy(self):
+        base = {'episode_id': 'e', 'source_path': 's', 'title': 't', 'date': 'd'}
+        legacy = [dict(base, catalog_ref='lib1.html#1', author='', entry_role='work'),
+                  dict(base, catalog_ref='lib1.html#2', author='', entry_role='notice')]   # 告知は対象外
+        stats = {'blocks_parsed': 336, 'parse_failures': 1, 'parse_failure_detail': ['lib1.html: x'],
+                 'added': 3, 'dropped_as_honkan_duplicate': 333}
+        c = Checks()
+        st.check_legacy(c, legacy, stats)
+        by = {n: (ok, d) for n, ok, d in c.results}
+        self.assertEqual(len(c.results), 9)
+        self.assertEqual(by['旧目録ブロック数 == 336 (lib01-06 の 252 + lib07-09 の 84)'], (True, '実測 336 件'))
+        self.assertEqual(by['旧目録のパース失敗 0'], (False, '失敗 1 件: lib1.html: x'))
+        self.assertEqual(by['旧目録の追加件数 == blocks - 正規目録との重複'], (True, '追加 3 / 重複除外 333'))
+        self.assertEqual(by['必須欄 catalog_ref に欠落なし (legacy)'], (True, '欠落 0 件'))
+        self.assertEqual(by['legacy(work) の author 解決率 100%'], (False, "未解決 1 件 ['lib1.html#1']"))
 
     def test_report_keys_and_summary(self):
         recs = self.records()

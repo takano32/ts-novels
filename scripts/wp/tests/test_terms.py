@@ -33,6 +33,10 @@ class NormalizeTest(unittest.TestCase):
         self.assertEqual(terms.variant_key('オレっ娘'), terms.variant_key('おれっ娘'))
         self.assertEqual(terms.variant_key('ハンター・シリーズ'), terms.variant_key('ハンターシリーズ'))
         self.assertNotEqual(terms.variant_key('学園'), terms.variant_key('魔法'))
+        # 字面: カタカナはひらがなに、長音・中黒・空白・斜線は落とし、NFKC の後に小文字
+        self.assertEqual(terms.variant_key('オレっ娘'), 'おれっ娘')
+        self.assertEqual(terms.variant_key('ハンター・シリーズ'), 'はんたしりず')
+        self.assertEqual(terms.variant_key('ＡＢｃ／ｄ　e'), 'abcde')
 
     def test_parse_vocab_html(self):
         src = ('<H3>【基本】</H3><TABLE><TR><TD><B>学園</B></TD><TD>学校が <i>舞台</i></TD></TR>'
@@ -147,10 +151,25 @@ class MapFileTest(TempDirCase):
     def test_load_world_map(self):
         cat = os.path.join(self.tmp, 'catalog')
         os.makedirs(cat)
-        self.assertEqual(terms.load_world_map(cat), terms.DEFAULT_WORLD_MAP)
-        with open(os.path.join(cat, 'world_map.yml'), encoding='utf-8') as fh:
-            self.assertTrue(fh.read().startswith(terms.WORLD_MAP_COMMENT))
-        self.assertEqual(terms.load_world_map(cat), terms.DEFAULT_WORLD_MAP)
+        worlds = terms.load_world_map(cat)
+        # 既定値は字面で (実装の定数を写すだけの比較にしない)
+        self.assertEqual(list(worlds), ['kayo_chan', 'hunter', 'himekami', 'foster', 'rental', 'mirror_ring',
+                                        'setsubou', 'dirty', 'sugar', 'fms', 'relay_novel', 'delayed',
+                                        '2daime', 'utanotsuki'])
+        self.assertEqual(worlds['kayo_chan'], {'name': '「華代ちゃん」シリーズ', 'boards': ['kayo_chan'],
+                                               'path_prefixes': ['novel/kayo_chan/'], 'origin': '真城 悠'})
+        self.assertEqual(worlds['fms']['title_patterns'], ['^FMS', '^ＦＭＳ'])
+        path = os.path.join(cat, 'world_map.yml')
+        with open(path, encoding='utf-8') as fh:
+            self.assertTrue(fh.read().startswith('# シェアワールド (ts_world) の判定規則。\n'))
+        self.assertEqual(terms.load_world_map(cat), worlds)
+        # 書いてあればそれを読む。worlds が空なら既定値
+        with open(path, 'w', encoding='utf-8') as fh:
+            fh.write('worlds:\n  w:\n    name: W\n')
+        self.assertEqual(terms.load_world_map(cat), {'w': {'name': 'W'}})
+        with open(path, 'w', encoding='utf-8') as fh:
+            fh.write('worlds: {}\n')
+        self.assertEqual(list(terms.load_world_map(cat))[0], 'kayo_chan')
         self.assertEqual(set(terms.load_synonym_maps(cat)), {'ts_genre', 'ts_type', 'ts_keyword'})
 
 
