@@ -36,3 +36,7 @@ check('作品カードの添え書き: 1 話きりと単発 (0) は全N話を出
 check('作品カードの添え書き: null は出さない (空なら何も無い)', [TS_Render_Text::workcard_bits(null, '2005/01/01', 2), TS_Render_Text::workcard_bits(null, null, 0)],
       [['2005/01/01', '全2話'], []]);
 check('作品カードの添え書き: 受けた文字列はそのまま (エスケープは呼び出し側)', TS_Render_Text::workcard_bits('A &amp; B', '', 2), ['A &amp; B', '', '全2話']);
+
+// 期待値は d586f0eb の themes/ts-bunko/index.php:38-39 と front-page.php:14-15 の文言
+check('トップの案内文', TS_Render_Text::home_intro(1234), '開くたびに違う作品をお出しします。1234 篇からの偶然の出会いをどうぞ。');
+check('トップの案内文: 0 篇でもそのまま', TS_Render_Text::home_intro(0), '開くたびに違う作品をお出しします。0 篇からの偶然の出会いをどうぞ。');

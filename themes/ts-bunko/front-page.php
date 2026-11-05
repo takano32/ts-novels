@@ -11,8 +11,7 @@ if ($pick) {
 }
 
 echo '<h2 class="ts-archive-title">開いたところから読む</h2>';
-echo '<p class="ts-archive-desc">開くたびに違う作品をお出しします。'
-    . esc_html(wp_count_posts('ts_work')->publish) . ' 篇からの偶然の出会いをどうぞ。</p>';
+echo '<p class="ts-archive-desc">' . esc_html(TS_Render_Text::home_intro((int) wp_count_posts('ts_work')->publish)) . '</p>';
 if (have_posts()) {
     echo '<ul class="ts-worklist">';
     while (have_posts()) {

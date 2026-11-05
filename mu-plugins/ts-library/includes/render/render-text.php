@@ -2,7 +2,7 @@
 /**
  * 表示部品の文言と計算のうち WordPress を使わない部分 (specs/S41.md の書誌カード、S195.md のサイドバー)。
  *
- * 読了目安の分数・回収経路の人間可読表示・サイドバーの項目の表・一覧の作品カードの添え書きをここに置き、
+ * 読了目安の分数・回収経路の人間可読表示・サイドバーの項目の表・一覧の作品カードの添え書き・トップの案内文をここに置き、
  * scripts/wp/ts_library_test.php で試す。HTML を出す側は includes/render/render-work.php・render-sidebar.php・render-list.php。
  *
  * PHP 8.0 互換。
@@ -56,6 +56,11 @@ final class TS_Render_Text {
         }
         if ($status === 'raw-fallback') return 'この本文は原本の HTML をそのまま表示しています。';
         return null;
+    }
+
+    /** トップと書庫のトップの案内文 (themes/ts-bunko の front-page.php と index.php)。$published は公開の ts_work の数 */
+    public static function home_intro(int $published): string {
+        return '開くたびに違う作品をお出しします。' . $published . ' 篇からの偶然の出会いをどうぞ。';
     }
 
     /**
