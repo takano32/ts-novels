@@ -880,3 +880,278 @@ function ts_fixture_child_export_takedowns(string $repo): array {
     $cmd = new TS_Takedown_Command();
     return ts_fixture_run_export_takedowns(function ($assoc) use ($cmd) { $cmd->export_takedowns([], $assoc); }, $repo, 'S');
 }
+
+// ---------------------------------------------------------------- wp ts import と wp ts verify (T8.2。T45.6.6)
+// 小さな作り物の catalog を一時ディレクトリに置いて --repo で渡す。import は本番 DB に書く唯一の経路なので、代わりが本物と違う所
+// (WP_Query の見る引数・post_modified・get_term_by の slug の掃除・verify の SQL) は wp-stubs.php の先頭と specs/S242.md に書いてある
+
+/** 話 1 つの行 (episodes.jsonl)。TS_Episode_Fields::meta が読む欄を全部持たせ、$over で上書きする */
+function ts_fixture_import_episode(string $id, string $path, string $title, string $date, array $over = []): array {
+    return array_merge([
+        'episode_id' => $id, 'corpus' => 'honkan', 'source_path' => $path, 'source_anchor' => null, 'title' => $title,
+        'date' => $date, 'date_raw' => str_replace('-', '/', $date), 'size_kb' => 12, 'files_n' => null,
+        'illustrator' => [], 'illustrator_url' => null, 'kansou_slug' => null, 'kansou_annex_url' => null,
+        'arasuji' => null, 'comment' => null, 'suisen' => null, 'osusume' => null, 'nav_links' => [],
+        'genre' => [], 'genre_raw' => [], 'type' => [], 'type_raw' => [], 'keywords' => [], 'keywords_raw' => [], 'zokusei' => [],
+        'catalog_ref' => 'lib1.html#1', 'orig_url' => "http://ts.novels.jp/$path", 'annex_url' => "https://example.com/annex/$path",
+        'annex_yays_url' => null, 'provenance' => ['route' => 'wayback', 'route_label' => 'Internet Archive Wayback Machine'],
+    ], $over);
+}
+
+/**
+ * 作り物の catalog を $repo/catalog/ に書く (works.jsonl・episodes.jsonl・terms.json・authors.json)。作品 4 つと話 8 つ:
+ *  'amano-tsuki-renzoku' 連載 3 話 (天野 月)。第二話の分類は原表記 (学園？)、第三話は旧目録 (kyukan) で語 (あめ) を持つ
+ *  'amano-tsuki-tanpen'  単発 (天野 月)
+ *  'hoshino-akari-hoshi' 単発 (星野 灯。--author で絞る。annex_url なし)
+ *  'umino-nami-nazo'     連載 2 話 (作者の slug は大文字まじり Umino_Nami。WP の term は小文字)。nazo01 の語に「?」(指定なしの印)
+ *  work の無い話 kodoku (親なし・作者なし。orig_url も provenance も無い)
+ * 語彙 (terms.json): ts_genre 2 語・ts_type 2 語・ts_keyword 2 語・ts_world 1 語 (共有世界は第一話と nazo01)・ts_corpus 2 語。
+ * $changed は catalog を直した後: 連載の題・第一話のあらすじと語彙に無い分類 (ホラー)・第二話の題
+ */
+function ts_fixture_import_catalog(string $repo, bool $changed = false): void {
+    if (!is_dir("$repo/catalog")) mkdir("$repo/catalog", 0777, true);
+    $ep = function (string $file, string $title, string $date, array $over = []) {
+        return ts_fixture_import_episode("novel__" . str_replace('/', '__', $file), "novel/$file", $title, $date, $over);
+    };
+    $episodes = [
+        $ep('200104/ren01.htm', '第一話', '2001-04-01', ['genre' => $changed ? ['学園', 'ホラー'] : ['学園'], 'genre_raw' => ['学園'], 'type' => ['変身'], 'type_raw' => ['変身'],
+            'keywords' => ['ねこ'], 'keywords_raw' => ['ねこ'], 'arasuji' => $changed ? '直したあらすじ' : '月が連なる。', 'illustrator' => ['絵筆 太郎'],
+            'kansou_slug' => 'amano', 'kansou_annex_url' => 'https://example.com/annex/bbs/amano.cgi', 'suisen' => '胸が熱くなる', 'comment' => 'ありがとう']),
+        $ep('200105/ren02.htm', $changed ? '第二話 (改)' : '第二話', '2001-05-02', ['genre' => ['学園？'], 'genre_raw' => ['学園？'], 'orig_url' => null, 'size_kb' => 8]),
+        $ep('200106/ren03.htm', '第三話', '2001-06-03', ['corpus' => 'kyukan', 'genre' => ['コメディ', '学園'], 'genre_raw' => ['コメディ', '学園'], 'type' => ['変身', '入れ替わり'],
+            'type_raw' => ['変身', '入れ替わり'], 'keywords' => ['あめ', 'ねこ'], 'keywords_raw' => ['あめ', 'ねこ'], 'catalog_ref' => 'lib01.html#3',
+            'osusume' => ['recommender' => '読者 一', 'refs' => [['href' => 'novel/200104/ren01.htm', 'title' => '第一話']]], 'nav_links' => [['href' => 'novel/200104/ren01.htm', 'label' => '最初へ']]]),
+        $ep('200107/tanpen.htm', '短い月', '2001-07-07', ['genre' => ['コメディ'], 'genre_raw' => ['コメディ'], 'type' => ['入れ替わり'], 'type_raw' => ['入れ替わり'],
+            'annex_yays_url' => 'https://example.com/annex-yays/novel/200107/tanpen.htm', 'zokusei' => ['TS']]),
+        $ep('200208/hoshi.htm', '星の歌', '2002-08-08', ['type' => ['変身'], 'type_raw' => ['変身'], 'keywords' => ['ねこ'], 'keywords_raw' => ['ねこ'], 'annex_url' => null,
+            'provenance' => ['route' => 'ftp']]),
+        $ep('200301/nazo01.htm', '謎の上', '2003-01-01', ['genre' => ['学園'], 'genre_raw' => ['学園'], 'keywords' => ['?', 'ねこ'], 'keywords_raw' => ['?', 'ねこ'], 'files_n' => 2]),
+        $ep('200301/nazo02.htm', '謎の下', '2003-01-02', ['type' => ['変身'], 'type_raw' => ['変身']]),
+        $ep('200302/kodoku.htm', '孤独', '2003-02-02', ['genre' => ['コメディ'], 'genre_raw' => ['コメディ'], 'orig_url' => null, 'provenance' => null]),
+    ];
+    $work = function (string $slug, string $title, string $author, string $display, array $eps, array $over = []) use ($episodes) {
+        $by_id = array_column($episodes, null, 'episode_id');
+        $list = [];
+        foreach ($eps as $i => $eid) {
+            $e = $by_id[$eid];
+            $list[] = ['episode_id' => $eid, 'menu_order' => $i + 1, 'title' => $e['title'], 'source_path' => $e['source_path'], 'date' => $e['date'], 'alias_of' => null];
+        }
+        return array_merge(['work_slug' => $slug, 'title' => $title, 'author_slug' => $author, 'author_display' => $display, 'episode_count' => count($eps),
+                            'first_date' => $list[0]['date'], 'last_date' => $list[count($list) - 1]['date'], 'title_pages' => [], 'alias_paths' => [],
+                            'needs_review' => false, 'episodes' => $list], $over);
+    };
+    $works = [
+        $work('amano-tsuki-renzoku', $changed ? '連続する月 (改)' : '連続する月', 'amano-tsuki', '天野 月', ['novel__200104__ren01.htm', 'novel__200105__ren02.htm', 'novel__200106__ren03.htm'],
+              ['title_pages' => ['novel/title/renzoku.htm'], 'alias_paths' => ['novel/200104/ren.htm'], 'needs_review' => true]),
+        $work('amano-tsuki-tanpen', '短い月', 'amano-tsuki', '天野 月', ['novel__200107__tanpen.htm']),
+        $work('hoshino-akari-hoshi', '星の歌', 'hoshino-akari', '星野 灯', ['novel__200208__hoshi.htm']),
+        $work('umino-nami-nazo', '謎', 'Umino_Nami', '海野 波', ['novel__200301__nazo01.htm', 'novel__200301__nazo02.htm']),
+    ];
+    $jsonl = function (array $rows) {
+        return implode('', array_map(function ($r) { return json_encode($r, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) . "\n"; }, $rows));
+    };
+    file_put_contents("$repo/catalog/works.jsonl", $jsonl($works));
+    file_put_contents("$repo/catalog/episodes.jsonl", $jsonl($episodes));
+    $term = function (string $slug, string $name, array $raw = [], array $lookup = []) {
+        return ['slug' => $slug, 'name' => $name, 'count' => 1, 'core' => true, 'raw_variants' => $raw, 'lookup_variants' => $lookup];
+    };
+    file_put_contents("$repo/catalog/terms.json", json_encode(['generated_by' => '作り物', 'taxonomies' => [
+        'ts_genre' => ['rewrite' => 'genre', 'terms' => [$term('gakuen', '学園', ['学園', '学園？'], ['学園?']), $term('komedi', 'コメディ', ['コメディ', 'ギャグ'])]],
+        'ts_type' => ['rewrite' => 'type', 'terms' => [$term('henshin', '変身', ['変身']), $term('irekawari', '入れ替わり', ['入れ替わり', '入れ代わり'])]],
+        'ts_keyword' => ['rewrite' => 'keyword', 'terms' => [$term('neko', 'ねこ', ['ねこ', '猫']), $term('ame', 'あめ', ['あめ'])]],
+        'ts_world' => ['rewrite' => 'world', 'terms' => [$term('hoshi-no-machi', '星の町')]],
+        'ts_corpus' => ['rewrite' => null, 'terms' => [$term('honkan', '正規目録 (lib1–73)'), $term('kyukan', '旧目録 (lib01–09)')]],
+    ], 'episode_worlds' => ['novel__200104__ren01.htm' => ['hoshi-no-machi'], 'novel__200301__nazo01.htm' => ['hoshi-no-machi']]],
+    JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT));
+    file_put_contents("$repo/catalog/authors.json", json_encode(['generated_by' => '作り物', 'authors' => [
+        ['slug' => 'amano-tsuki', 'display_name' => '天野 月', 'yomi_group' => 'あ行'],
+        ['slug' => 'hoshino-akari', 'display_name' => '星野 灯', 'yomi_group' => 'は行'],
+        ['slug' => 'Umino_Nami', 'display_name' => '海野 波', 'yomi_group' => 'あ行'],
+    ]], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT));
+}
+
+/**
+ * 本文のペイロード (<episode_id>.html と _meta.json) を $bodies に置く: 第一話 (converted)・第三話 (raw-fallback)・単発 2 つ (tanpen は
+ * converted、hoshi は _meta.json に無い)・nazo01 (converted)。第二話はファイルも _meta.json も無い (案内文)、nazo02 は takedown
+ * (ファイル無し・本文は空)、kodoku は _meta.json が converted なのにファイルが無い
+ */
+function ts_fixture_import_payloads(string $bodies): void {
+    if (!is_dir($bodies)) mkdir($bodies, 0777, true);
+    foreach (['200104__ren01' => '第一話', '200106__ren03' => '第三話', '200107__tanpen' => '短い月', '200208__hoshi' => '星の歌', '200301__nazo01' => '謎の上'] as $f => $title) {
+        file_put_contents("$bodies/novel__$f.htm.html", "<!-- wp:paragraph --><p>{$title}の本文。</p><!-- /wp:paragraph -->");
+    }
+    file_put_contents("$bodies/_meta.json", json_encode(['novel__200104__ren01.htm' => 'converted', 'novel__200106__ren03.htm' => 'raw-fallback',
+        'novel__200107__tanpen.htm' => 'converted', 'novel__200301__nazo01.htm' => 'converted', 'novel__200301__nazo02.htm' => 'takedown',
+        'novel__200302__kodoku.htm' => 'converted']));
+}
+
+/** sync-terms が作る term を置き場に置く: 語彙の全部と、authors.json の作者 (slug は WP と同じく小文字) と擬似作者 2 つ。返り値: slug => term_id */
+function ts_fixture_import_terms(): array {
+    $ids = [];
+    foreach ([['ts_author', 'amano-tsuki', '天野 月'], ['ts_author', 'hoshino-akari', '星野 灯'], ['ts_author', 'umino_nami', '海野 波'],
+              ['ts_author', 'unattributed', '作者不詳'], ['ts_author', 'series-index', '（シリーズ目録）'],
+              ['ts_genre', 'gakuen', '学園'], ['ts_genre', 'komedi', 'コメディ'], ['ts_type', 'henshin', '変身'], ['ts_type', 'irekawari', '入れ替わり'],
+              ['ts_keyword', 'neko', 'ねこ'], ['ts_keyword', 'ame', 'あめ'], ['ts_world', 'hoshi-no-machi', '星の町'],
+              ['ts_corpus', 'honkan', '正規目録 (lib1–73)'], ['ts_corpus', 'kyukan', '旧目録 (lib01–09)']] as [$tax, $slug, $name]) {
+        $ids[$slug] = TS_WP_Stubs::add_term(['taxonomy' => $tax, 'name' => $name, 'slug' => $slug]);
+    }
+    return $ids;
+}
+
+/** 置き場を空にして catalog・ペイロード・term を置く (投稿は import が作る)。返り値: ts_fixture_import_terms の slug => term_id */
+function ts_fixture_import_scene(string $repo, string $bodies): array {
+    TS_WP_Stubs::reset();
+    if (!post_type_exists('ts_takedown_request')) TS_WP_Stubs::run_init();
+    ts_fixture_import_catalog($repo);
+    ts_fixture_import_payloads($bodies);
+    return ts_fixture_import_terms();
+}
+
+/** ts_fixture_import_scene が $repo に置いたファイルを消す */
+function ts_fixture_import_scene_clean(string $repo): void {
+    foreach (["$repo/catalog", "$repo/payloads"] as $dir) {
+        if (!is_dir($dir)) continue;
+        foreach (glob("$dir/*") ?: [] as $f) unlink($f);
+        rmdir($dir);
+    }
+}
+
+/**
+ * wp ts verify が $wpdb に投げる 7 つの問い合わせの行を、置き場から同じ条件で数えて積む (代わりは SQL を解釈しない): orphan (親が無いか
+ * ts_work でない子投稿の数) → 割当数 (taxonomy ごとの term_relationships の行数) → メタの被覆 4 つ (_ts_pub_date_raw・_ts_orig_url・
+ * _ts_annex_url・_ts_provenance の行数) → 本文 status (値ごとの数。多い順、同数は値の昇順)。どれもゴミ箱でない ts_work の投稿だけ
+ */
+function ts_fixture_verify_db_rows(): void {
+    $live = [];
+    foreach (TS_WP_Stubs::$posts as $p) if ($p->post_type === 'ts_work' && $p->post_status !== 'trash') $live[$p->ID] = $p;
+    $orphans = 0;
+    foreach ($live as $p) {
+        $parent = TS_WP_Stubs::$posts[$p->post_parent] ?? null;
+        if ($p->post_parent && (!$parent || $parent->post_type !== 'ts_work')) $orphans++;
+    }
+    $assigned = [];
+    foreach ($live as $p) {
+        foreach (TS_WP_Stubs::$object_terms[$p->ID] ?? [] as $tax => $ids) {
+            if (!in_array($tax, ['ts_author', 'ts_genre', 'ts_type', 'ts_keyword', 'ts_world', 'ts_corpus'], true)) continue;
+            foreach ($ids as $tid) if (isset(TS_WP_Stubs::$terms[$tid])) $assigned[$tax] = ($assigned[$tax] ?? 0) + 1;
+        }
+    }
+    $rows = function (array $kc, string $k, string $c) {
+        return array_map(function ($key, $n) use ($k, $c) { return [$k => (string) $key, $c => (string) $n]; }, array_keys($kc), $kc);
+    };
+    $coverage = [];
+    foreach (['_ts_pub_date_raw', '_ts_orig_url', '_ts_annex_url', '_ts_provenance'] as $mk) {
+        $n = 0;
+        foreach ($live as $p) $n += count(TS_WP_Stubs::$meta[$p->ID][$mk] ?? []);
+        $coverage[] = [['n' => (string) $n]];
+    }
+    $status = [];
+    foreach ($live as $p) foreach (TS_WP_Stubs::$meta[$p->ID]['_ts_body_status'] ?? [] as $v) $status[(string) $v] = ($status[(string) $v] ?? 0) + 1;
+    uksort($status, function ($a, $b) use ($status) { return $status[$b] <=> $status[$a] ?: strcmp($a, $b); });
+    TS_WP_Stubs::$db_rows = array_merge([[['n' => (string) $orphans]], $rows($assigned, 'taxonomy', 'c')], $coverage, [$rows($status, 'v', 'c')]);
+}
+
+/**
+ * 投稿 (ts_work) ごとの 1 行 (post_name をキーに): 状態・親の post_name (無い親は #ID)・話順・日付・題・本文・更新時刻 | メタ (キーの順。
+ * 配列は JSON、ほかは var_export。import の hash もそのまま: 旧版と同じ hash になることが、本番で全投稿が updated にならない根拠) | term (taxonomy ごとの slug)
+ */
+function ts_fixture_import_snapshot(): array {
+    $out = [];
+    foreach (TS_WP_Stubs::$posts as $p) {
+        if ($p->post_type !== 'ts_work') continue;
+        $parent = $p->post_parent ? (isset(TS_WP_Stubs::$posts[$p->post_parent]) ? TS_WP_Stubs::$posts[$p->post_parent]->post_name : "#{$p->post_parent}") : '';
+        $meta = TS_WP_Stubs::$meta[$p->ID] ?? []; ksort($meta);
+        $m = [];
+        foreach ($meta as $k => $vals) {
+            $m[] = "$k=" . implode('|', array_map(function ($v) { return is_array($v) ? json_encode($v, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) : var_export($v, true); }, $vals));
+        }
+        $terms = TS_WP_Stubs::$object_terms[$p->ID] ?? []; ksort($terms);
+        $t = [];
+        foreach ($terms as $tax => $ids) $t[] = "$tax=" . implode(',', array_map(function ($id) { return isset(TS_WP_Stubs::$terms[$id]) ? TS_WP_Stubs::$terms[$id]->slug : "#$id"; }, $ids));
+        $out[$p->post_name] = "{$p->post_status} parent={$parent} order={$p->menu_order} date={$p->post_date} title={$p->post_title} body=" . var_export($p->post_content, true)
+            . " mod={$p->post_modified_gmt} | " . implode(' ', $m) . ' | ' . implode(' ', $t);
+    }
+    return $out;
+}
+
+/**
+ * wp ts import と wp ts verify を ts_fixture_import_scene の上で順に流す。$import・$verify は $assoc を受けてコマンドを呼ぶ (新版は
+ * TS_Import_Command::import と TS_Verify_Command::verify、旧版は TS_Command の同名)。catalog は $repo/catalog、ペイロードは $repo/payloads。
+ * 順: dry0 (空の DB で --dry-run) → first (投入) → verify1 (cron の記録なし) → again (もう一度。全部 skipped) → bodies (--bodies) → bodies_again
+ *  → verify2 (cron の記録を 1 時間前に) → author (--author --dry-run) → limit (--limit=1 --dry-run)
+ *  → catalog を直し (ts_fixture_import_catalog の $changed)・語 (あめ) の term を消し・第二話を手で直す (post_modified が import の記録より後)
+ *  → dry_changed (--dry-run) → manual (手動編集を飛ばす) → verify3 → overwrite (--overwrite-manual)
+ *  → はぐれの投稿 (親が無く第三話と同じ episode_id、メタと語つき)・語彙に無い term・失敗した古い cron の記録・denylist に無い申請を置く
+ *  → dry_dup (重複の警告) → verify4
+ * 返り値: 「段/out」(WP_CLI::$out。cron の最終実行の時刻は ts_fixture_rel)、import の段はさらに「段/writes」(TS_WP_Stubs::$log の関数ごとの数)・
+ * 「段/options」(import が書く option 4 つ。ts_last_import_at は有無だけ)・「段/posts」(ts_fixture_import_snapshot の前の段との差: 変わった行と消えた post_name)。
+ * catalog のコミットは一時ディレクトリに git が無いので空 (ts_catalog_commit は書かれない)
+ */
+function ts_fixture_run_import(callable $import, callable $verify, string $repo): array {
+    $bodies = "$repo/payloads";
+    $now = time();
+    $saved_now = TS_WP_Stubs::$now;
+    ts_fixture_import_scene($repo, $bodies);
+    $out = [];
+    $prev = [];
+    $step = function (string $name, callable $fn, bool $is_verify = false) use (&$out, &$prev, $now) {
+        WP_CLI::$out = []; TS_WP_Stubs::$log = [];
+        $fn();
+        $out["$name/out"] = array_map(function ($l) use ($now) {
+            return strpos($l[1], 'ts_takedown_tick の最終実行') === 0 ? [$l[0], ts_fixture_rel_text($l[1], $now)] : $l;
+        }, WP_CLI::$out);
+        if ($is_verify) return;
+        $writes = array_count_values(array_column(TS_WP_Stubs::$log, 0)); ksort($writes);
+        $out["$name/writes"] = $writes;
+        $opts = [];
+        foreach (['ts_catalog_commit', 'ts_last_import_at', 'ts_manual_edit_warnings', 'ts_term_warnings'] as $o) {
+            $opts[$o] = $o === 'ts_last_import_at' ? (array_key_exists($o, TS_WP_Stubs::$options) ? '(ある)' : '(無い)') : get_option($o, '(無い)');
+        }
+        $out["$name/options"] = $opts;
+        $snap = ts_fixture_import_snapshot();
+        $out["$name/posts"] = ['changed' => array_diff_assoc($snap, $prev), 'gone' => array_values(array_diff(array_keys($prev), array_keys($snap)))];
+        $prev = $snap;
+    };
+    $imp = function (array $assoc) use ($import, $repo) { $import(array_merge(['repo' => $repo], $assoc)); };
+    $ver = function () use ($verify, $repo) { ts_fixture_verify_db_rows(); $verify(['repo' => $repo]); };
+    $by_eid = function (string $eid) {
+        return get_posts(['post_type' => 'ts_work', 'post_status' => 'any', 'meta_key' => '_ts_episode_id', 'meta_value' => $eid, 'fields' => 'ids'])[0];
+    };
+
+    $step('dry0', function () use ($imp) { $imp(['dry-run' => true]); });
+    $step('first', function () use ($imp) { $imp([]); });
+    $step('verify1', $ver, true);
+    $step('again', function () use ($imp) { $imp([]); });
+    $step('bodies', function () use ($imp, $bodies) { $imp(['bodies' => $bodies]); });
+    $step('bodies_again', function () use ($imp, $bodies) { $imp(['bodies' => $bodies]); });
+    TS_WP_Stubs::$options['ts_takedown_last_tick'] = ['time' => $now - 3600, 'error' => ''];
+    $step('verify2', $ver, true);
+    $step('author', function () use ($imp, $bodies) { $imp(['bodies' => $bodies, 'dry-run' => true, 'author' => 'hoshino-akari']); });
+    $step('limit', function () use ($imp, $bodies) { $imp(['bodies' => $bodies, 'dry-run' => true, 'limit' => '1']); });
+
+    ts_fixture_import_catalog($repo, true);
+    wp_delete_term(get_term_by('slug', 'ame', 'ts_keyword')->term_id, 'ts_keyword');
+    TS_WP_Stubs::$now = '2026-11-06 09:00:00';
+    wp_update_post(['ID' => $by_eid('novel__200105__ren02.htm'), 'post_title' => '手で直した題']);
+    $step('dry_changed', function () use ($imp, $bodies) { $imp(['bodies' => $bodies, 'dry-run' => true]); });
+    $step('manual', function () use ($imp, $bodies) { $imp(['bodies' => $bodies]); });
+    $step('verify3', $ver, true);
+    $step('overwrite', function () use ($imp, $bodies) { $imp(['bodies' => $bodies, 'overwrite-manual' => true]); });
+
+    $stray = TS_WP_Stubs::add_post(['post_type' => 'ts_work', 'post_parent' => 999, 'post_name' => 'hagure', 'post_title' => 'はぐれ', 'post_date' => '1999-01-01 00:00:00']);
+    TS_WP_Stubs::set_meta($stray, ['_ts_episode_id' => 'novel__200106__ren03.htm', '_ts_pub_date_raw' => '1999/1/1', '_ts_body_status' => 'converted']);
+    TS_WP_Stubs::set_terms($stray, 'ts_genre', [get_term_by('slug', 'gakuen', 'ts_genre')->term_id]);
+    TS_WP_Stubs::add_term(['taxonomy' => 'ts_genre', 'name' => '闇', 'slug' => 'yami']);
+    TS_WP_Stubs::$options['ts_takedown_last_tick'] = ['time' => $now - 2 * 86400, 'error' => 'DB error'];
+    $tanpen = get_posts(['post_type' => 'ts_work', 'post_status' => 'any', 'name' => 'amano-tsuki-tanpen', 'fields' => 'ids'])[0];
+    $req = ts_fixture_request([['url' => 'https://novels.xwp.jp/novel/amano-tsuki-tanpen/', 'post_id' => $tanpen, 'work_slug' => 'amano-tsuki-tanpen']]);
+    TS_WP_Stubs::set_meta($req, ['_tr_status' => 'applied']);
+    $step('dry_dup', function () use ($imp, $bodies) { $imp(['bodies' => $bodies, 'dry-run' => true]); });
+    $step('verify4', $ver, true);
+
+    WP_CLI::$out = [];
+    TS_WP_Stubs::$now = $saved_now;
+    ts_fixture_import_scene_clean($repo);
+    TS_WP_Stubs::reset();
+    return $out;
+}

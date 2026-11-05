@@ -47,9 +47,16 @@
  *  - 同じ日付・同じ menu_order の並びは本番の MySQL では決まらない。代わりは ID の昇順で決める
  *  - time() は置き換えられない。wp_date / current_time は TS_WP_Stubs::$timezone (Asia/Tokyo) で変換し、$time を立てれば「いま」をそれにする
  *  - wp_insert_post / wp_update_post が書く post_modified は $now (固定の文字列)。手動編集の検出を試すときは $now を進める
- *  - get_posts が見る引数は post_type / post_status (any) / post_parent / post__in・include / p / name / year / posts_per_page・numberposts /
+ *  - get_posts / WP_Query が見る引数は post_type / post_status (any) / post_parent / post__in・include / p / name / year / posts_per_page・numberposts /
  *    orderby (date・ID・menu_order・name・title・modified・none) / order / fields=ids / meta_key・meta_value・meta_compare (= != IN LIKE) /
- *    meta_query (key・value・compare、relation) / tax_query (taxonomy・field・terms) だけ。配列のメタは serialize した形で LIKE を見る
+ *    meta_query (key・value・compare、relation) / tax_query (taxonomy・field・terms) だけ。配列のメタは serialize した形で LIKE を見る。
+ *    meta_value の比較は字面の一致 (本番の MySQL の照合順序は大文字小文字を区別しない)。no_found_rows・update_post_meta_cache などは読まない
+ *  - wp_insert_post / wp_update_post は post_name を重複しないように直さず (本物は wp_unique_post_slug)、guid・post_date_gmt も作らない。
+ *    渡した欄をそのまま置く
+ *  - get_term_by('slug', …) は本物と同じく値を sanitize_title してから引く (大文字まじりの author_slug が小文字の term に当たる)。
+ *    get_terms の fields は ids・names・slugs・id=>slug・id=>name と all だけ
+ *  - $wpdb は SQL を解釈しない。wp ts verify の 7 つの問い合わせ (orphan・割当数・メタの被覆 4 つ・本文 status) は、試験が同じ条件で
+ *    置き場から数えた行を積む (wp-fixtures.php の ts_fixture_verify_db_rows)。本文 status の同数の並びは値の昇順にする (本番の MySQL は決まらない)
  *  - 権限は current_user_can → $caps (いまのユーザが持つ capability)、user_can → $users[ID]['caps']。条件タグは $is
  *    (admin・home・front_page・singular・404・search・paged・tax (taxonomy 名)・post_type_archive (投稿タイプ名))、get_queried_object は $queried
  *  - term の count は付いている公開投稿の数。投稿を置かずに数だけ要るときは add_term の count
@@ -703,6 +710,11 @@ function get_terms($args = [], $deprecated = '') {
     if ($fields === 'ids') return array_map(function ($t) { return $t->term_id; }, $out);
     if ($fields === 'names') return array_map(function ($t) { return $t->name; }, $out);
     if ($fields === 'slugs') return array_map(function ($t) { return $t->slug; }, $out);
+    if ($fields === 'id=>slug' || $fields === 'id=>name') {   // term_id => slug / name (wp ts verify の語彙整合)
+        $kv = [];
+        foreach ($out as $t) $kv[$t->term_id] = $fields === 'id=>slug' ? $t->slug : $t->name;
+        return $kv;
+    }
     return $out;
 }
 function get_the_terms($post, $taxonomy) {
@@ -723,6 +735,10 @@ function get_term($term, $taxonomy = '', $output = OBJECT, $filter = 'raw') {
 }
 function get_term_by($field, $value, $taxonomy = '', $output = OBJECT, $filter = 'raw') {
     $f = $field === 'id' ? 'term_id' : $field;
+    if ($f === 'slug') {   // 本物と同じく slug は sanitize_title してから引く (大文字まじりの author_slug を小文字の term に当てる。wp ts import)
+        $value = sanitize_title((string) $value);
+        if ($value === '') return false;
+    }
     foreach (TS_WP_Stubs::$terms as $t) {
         if ($taxonomy !== '' && $t->taxonomy !== $taxonomy) continue;
         if (isset($t->$f) && (string) $t->$f === (string) $value) return clone $t;

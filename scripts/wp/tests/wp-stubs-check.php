@@ -77,6 +77,10 @@ check('get_terms: hide_empty の既定と orderby count', [array_map(function ($
 check('get_term_link と get_term_by と has_term', [get_term_link(get_term($t_a)), get_term_link('sf', 'ts_genre'), get_term_by('slug', 'nai', 'ts_author'),
       has_term($t_a, 'ts_author', $w), has_term('sf', 'ts_genre', $w), is_wp_error(get_term_link(999))],
       ['https://novels.xwp.jp/authors/a/', 'https://novels.xwp.jp/genre/sf/', false, true, false, true]);
+check('get_term_by の slug は sanitize_title してから引く (大文字・空)', [get_term_by('slug', 'SF', 'ts_genre')->term_id, get_term_by('slug', 'Bu ', 'ts_author')->term_id, get_term_by('slug', '', 'ts_genre')],
+      [$t_g, $t_b, false]);
+check('get_terms: fields の id=>slug と id=>name', [get_terms(['taxonomy' => 'ts_genre', 'hide_empty' => false, 'fields' => 'id=>slug']),
+      get_terms(['taxonomy' => 'ts_author', 'hide_empty' => false, 'fields' => 'id=>name'])], [[$t_g => 'sf'], [$t_a => 'あ', $t_b => 'ぶ']]);
 check('wp_set_object_terms: ID と slug と新しい名前', (function () use ($c2, $t_a) { wp_set_object_terms($c2, [$t_a, 'bu', '新しい人'], 'ts_author');
       return array_map(function ($t) { return $t->name; }, get_the_terms($c2, 'ts_author')); })(), ['あ', 'ぶ', '新しい人']);
 check('tax_query', get_posts(['post_type' => 'ts_work', 'post_status' => 'any', 'posts_per_page' => -1, 'fields' => 'ids', 'orderby' => 'ID', 'order' => 'ASC',

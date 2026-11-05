@@ -15,7 +15,7 @@
  * その後に WordPress の代わり (tests/wp-stubs.php。T45.1.14) を置いて WP の表を読み、WordPress に触る側も試す:
  * 代わりそのものの決まり・読み込み時に登録するフックと優先度の表 (S242)・表示部品の HTML・申請の非公開化と復帰 (S127・S128)・
  * トップと書庫の問い合わせ・410 と 404 (S117・S118)・年表とオススメの索引・取り下げフォームの送信と確認リンクと cron と運営委員の操作
- * (S124・S126・S128・S130)・wp ts のコマンド (reset・apply-takedown・export-takedowns)。
+ * (S124・S126・S128・S130)・wp ts のコマンド (reset・apply-takedown・export-takedowns・import・verify)。
  * 失敗が 1 件でもあれば終了コード 1。
  */
 
@@ -39,7 +39,8 @@ function check($name, $got, $want) {
 }
 
 // WP-CLI のコマンドも読む (WordPress の関数は読み込み時には呼ばれない)。WP_CLI の代わりは登録を受け、出力 (line・warning・success) を
-// $out に [種類, 文] で記録する。error は本物と同じく止まるように TS_CLI_Error を投げる (コマンドを流す試験は tests/commands-wp.php)
+// $out に [種類, 文] で記録する。error は本物と同じく止まるように TS_CLI_Error を投げる ($exit が false なら本物と同じく記録だけして続ける。
+// wp ts verify の「verify NG」)。コマンドを流す試験は tests/commands-wp.php。旧版を動かす probe も同じ代わりを置く
 define('WP_CLI', true);
 final class TS_CLI_Error extends RuntimeException {}
 class WP_CLI {
@@ -49,7 +50,7 @@ class WP_CLI {
     public static function line($msg = '') { self::$out[] = ['line', (string) $msg]; }
     public static function warning($msg) { self::$out[] = ['warning', (string) $msg]; }
     public static function success($msg) { self::$out[] = ['success', (string) $msg]; }
-    public static function error($msg, $exit = true) { self::$out[] = ['error', (string) $msg]; throw new TS_CLI_Error((string) $msg); }
+    public static function error($msg, $exit = true) { self::$out[] = ['error', (string) $msg]; if ($exit) throw new TS_CLI_Error((string) $msg); }
 }
 foreach (TS_Library_Files::CLI as $f) require "$plugin/includes/$f";
 
