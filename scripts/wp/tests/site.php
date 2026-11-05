@@ -1,6 +1,6 @@
 <?php
 /**
- * サイト全体の振る舞いの値と規則 (includes/site-rules.php、T45.1.18)。期待値は分割前 (d586f0eb) の ts-library.php の値。
+ * サイト全体の振る舞いの値と規則 (includes/site-rules.php、T45.1.18)。期待値は分割前 (0e8c7712) の ts-library.php の値。
  * scripts/wp/ts_library_test.php から読む。
  */
 

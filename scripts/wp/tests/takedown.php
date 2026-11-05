@@ -138,7 +138,7 @@ foreach (['receipt', 'applied_requester', 'rejected'] as $k) {
 check('確認完了のメールに時刻', strpos(TS_Takedown_Text::mail_text('confirmed', $evil)[1], 'W に自動で非公開になります') !== false, true);
 check('件名に入力を入れない', strpos(TS_Takedown_Text::mail_text('confirmed', $evil)[0], 'EVIL'), false);
 check('未知の種類は空', TS_Takedown_Text::mail_text('nope', $evil), ['', '']);
-// フォームの応答の題と本文 (S124、T45.1.17.5)。期待値は分割前 (d586f0eb) の takedown-request.php の文言
+// フォームの応答の題と本文 (S124、T45.1.17.5)。期待値は分割前 (0e8c7712) の takedown-request.php の文言
 check('応答: 403 / 400 / 429', [TS_Takedown_Text::respond('forbidden', []), TS_Takedown_Text::respond('rejected', []), TS_Takedown_Text::respond('rate_limited', [])],
       [['送信できませんでした', '<p>ページの有効期限が切れました。取り下げのページを開き直して、もう一度送信してください。</p>'],
        ['送信できませんでした', '<p>送信を受け付けられませんでした。取り下げのページを開き直して、もう一度送信してください。</p>'],
@@ -152,7 +152,7 @@ check('応答: 受付', TS_Takedown_Text::respond('received', []), ['お申し�
 check('応答: 未知の種類は空', TS_Takedown_Text::respond('nope', []), ['', '']);
 check('レート制限の寿命: 窓の残り', TS_Takedown_Rules::rate_ttl($now - 600, $now, $P), 3000);
 check('レート制限の寿命: 60 秒より短くしない', [TS_Takedown_Rules::rate_ttl($now - 3590, $now, $P), TS_Takedown_Rules::rate_ttl($now - 7200, $now, $P)], [60, 60]);
-// 管理画面の表と操作の結果の文 (S128、T45.1.17.6)。期待値は分割前 (d586f0eb) の takedown-admin.php の文言
+// 管理画面の表と操作の結果の文 (S128、T45.1.17.6)。期待値は分割前 (0e8c7712) の takedown-admin.php の文言
 check('立場の呼び名 (管理画面とメールの要約で共有)', TS_Takedown_Rules::RELATION_LABELS, ['author' => '作者本人', 'heir' => '権利継承者', 'other' => 'その他']);
 check('操作のボタンの文言と並び', TS_Takedown_Rules::OP_LABELS, ['approve' => '承認して即時適用', 'reject' => '却下', 'reinstate' => '復帰', 'deadline' => '期限を変える']);
 check('操作は遷移の表 (op_next) と同じ 4 つ', array_keys(TS_Takedown_Rules::OP_LABELS), ['approve', 'reject', 'reinstate', 'deadline']);

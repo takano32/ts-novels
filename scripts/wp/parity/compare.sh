@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # compare.sh — snapshot.sh の保存先 2 つを並べて比べる (T45.2.3)
 #
-#   scripts/wp/parity/compare.sh A B      (例 .parity/baseline-d586f0eb .parity/snapshot-<REV>)
+#   scripts/wp/parity/compare.sh A B      (例 .parity/baseline-0e8c7712 .parity/snapshot-<REV>)
 #
 # 比べるもの
 #   sha256.txt   ファイルの有無と中身。ignore.tsv に載ったファイルは、hash.sh が残した写し

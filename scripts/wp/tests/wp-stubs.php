@@ -7,7 +7,7 @@
  *  - 出力の「構造」(タグ・class・順・文言) を固定するためのもの。エスケープの忠実さ (esc_url の正規化、esc_html の実体の扱い、
  *    sanitize_title の日本語の符号化) は見ない。本番の HTML との一致は T45.3.1 の基準で見る。
  *  - 判断 (T45.1.14): WordPress の関数を callable で注入する設計には変えず、同じ名前の代わりの関数を置く。WP の表のファイルを
- *    本番と同じ形のまま読め、旧版 (d586f0eb) のコードも同じ代わりで動かして期待値を取れるため (T45.1.15 の「実装の写しにしない」)。
+ *    本番と同じ形のまま読め、旧版 (0e8c7712) のコードも同じ代わりで動かして期待値を取れるため (T45.1.15 の「実装の写しにしない」)。
  *    注入は読み込み順 (フックは読み込み時に登録する) と、テーマが名前で呼ぶ関数の互換に響く。
  *  - 代わりは scripts/wp/tests/ にだけあり includes/ には無いので、PURE の境目の検査 (scripts/wp/tests/files.php) は変わらない。
  *    PURE にも依存しない (旧版の probe で PURE を読まなくてよいように、URL 基底は $post_type_slugs に持つ)。
@@ -37,9 +37,9 @@
  *
  * 旧版のコードを同じ代わりで動かして期待値を取る (T45.1.15 の「実装の写しにしない」):
  *   scripts/wp/php_probe.sh <probe.php> scripts/wp/tests/wp-stubs.php scripts/wp/tests/wp-fixtures.php \
- *       --old d586f0eb:mu-plugins/ts-library/includes/render.php
+ *       --old 0e8c7712:mu-plugins/ts-library/includes/render.php
  *   probe.php (scratchpad に置いてよい) は、require 'scripts/wp/tests/wp-stubs.php' → require 'scripts/wp/tests/wp-fixtures.php' →
- *   require 'old/d586f0eb/mu-plugins/ts-library/includes/render.php' → 試験と同じ fixture の関数を呼ぶ → capture の結果を var_export で出す。
+ *   require 'old/0e8c7712/mu-plugins/ts-library/includes/render.php' → 試験と同じ fixture の関数を呼ぶ → capture の結果を var_export で出す。
  *   旧版のファイルは新版と同じ関数名を定義するので、新版の WP の表 (と PURE) は読まない。出た値を試験の期待値に貼り、出典
  *   (リビジョン・日付・probe の名前) をコメントに書く。
  *

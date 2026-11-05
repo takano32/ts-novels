@@ -8,12 +8,12 @@
 #   FILE           一緒に送るリポジトリのファイルかディレクトリ (リポジトリの根からの相対パス。同じ場所に置かれる)
 #   --old REV:PATH git の旧版のファイルを old/REV/PATH に置く (旧版のコードを同じ代わりで動かして期待値を取る。T45.1.15)
 #
-# 例 — 分割前 (d586f0eb) の書誌カードの HTML を、いまの試験と同じ代わりと置き場で取る:
+# 例 — 分割前 (0e8c7712) の書誌カードの HTML を、いまの試験と同じ代わりと置き場で取る:
 #   scripts/wp/php_probe.sh /tmp/probe.php scripts/wp/tests/wp-stubs.php scripts/wp/tests/wp-fixtures.php \
-#       --old d586f0eb:mu-plugins/ts-library/includes/render.php
+#       --old 0e8c7712:mu-plugins/ts-library/includes/render.php
 #   probe.php の中身:
 #       require 'scripts/wp/tests/wp-stubs.php'; require 'scripts/wp/tests/wp-fixtures.php';
-#       require 'old/d586f0eb/mu-plugins/ts-library/includes/render.php';
+#       require 'old/0e8c7712/mu-plugins/ts-library/includes/render.php';
 #       $ids = ts_fixture_biblio();
 #       var_export(TS_WP_Stubs::capture(function () use ($ids) { ts_bunko_biblio_card(get_post($ids['full'])); }));
 # 終了コードは php のもの。

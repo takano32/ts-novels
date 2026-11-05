@@ -22,7 +22,7 @@ spec = importlib.util.spec_from_file_location('old', os.path.join(BASE, 'scripts
 old = importlib.util.module_from_spec(spec); spec.loader.exec_module(old)
 if not hasattr(old, 'classify'):
     sys.exit('qa_phase3_rejudge: %s の qa_phase3_check.py に classify が無い (判定を tslib/qa_phase3.py に移した後の版)。'
-             'BASE_TREE には分割の前の版 (d586f0eb など) を tree.sh で展開して渡す' % BASE)
+             'BASE_TREE には分割の前の版 (0e8c7712 など) を tree.sh で展開して渡す' % BASE)
 
 def old_judge(orig, body, allowed):
     verdict, issues = old.classify(orig, body, allowed)
