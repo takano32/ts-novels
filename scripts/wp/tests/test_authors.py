@@ -42,9 +42,12 @@ class KanaIndexTest(unittest.TestCase):
 class ParseIndexTest(TempDirCase):
     def test_parse_index_reads_pages(self):
         self.write('lib-index-ka.html', '<H2>か行</H2><TR><TD><a href="k.html">K</a></TD><TD>加藤</TD></TR>')
-        rows, yomi = ki.parse_index(self.tmp)
+        index = ki.parse_index(self.tmp)
+        rows, yomi = index                                  # タプルとしても展開できる
         self.assertEqual([r['page'] for r in rows], ['lib-index-ka.html'])
         self.assertEqual(yomi, {'加藤': 'か行'})
+        self.assertIs(index.rows, rows)
+        self.assertIs(index.yomi_of, yomi)
 
 
 class BoardsTest(unittest.TestCase):
@@ -60,7 +63,9 @@ class BoardsTest(unittest.TestCase):
             '<TR><TD><A HREF="bbs@log_johdan.cgi">城弾さん作品感想掲示板</A>'
             '<TR><TD><A HREF="bbs@log_kayo_chan.cgi">華代</A>', {'kayo_chan'})
         self.assertEqual((dict(listed), rows), ({'johdan': '城弾さん作品感想掲示板'}, 2))
-        names, stats = au.boards_from_titles(listed, {'hiku': 'HIKUさん感想掲示板', 'johdan2': '城弾さん感想掲示板'}, rows)
+        boards = au.boards_from_titles(listed, {'hiku': 'HIKUさん感想掲示板', 'johdan2': '城弾さん感想掲示板'}, rows)
+        names, stats = boards
+        self.assertEqual((boards.by_name, boards.stats), (names, stats))
         self.assertEqual(dict(names), {'城弾': ['johdan', 'johdan2'], 'hiku': ['hiku']})
         self.assertEqual(stats['board_files_not_listed_slugs'], ['hiku', 'johdan2'])
         self.assertEqual(stats['board_list_shared_world'], 1)
@@ -113,8 +118,9 @@ class AssembleTest(unittest.TestCase):
         'シェアワールド': {'slug': 'share', 'status': 'confirmed', 'role': 'not-an-author'}}}
 
     def build(self):
-        return au.assemble(self.RECORDS, {'kayo_chan'}, [], {'城弾': 'さ行'}, {'ぽぽ': ['popo'], 'hiku': ['hiku', 'popo']},
-                           BOARD_STATS, self.OVERRIDES, annex_base='https://a.example/')
+        return au.assemble(self.RECORDS, {'kayo_chan'}, ki.KanaIndex([], {'城弾': 'さ行'}),
+                           au.Boards({'ぽぽ': ['popo'], 'hiku': ['hiku', 'popo']}, BOARD_STATS),
+                           self.OVERRIDES, annex_base='https://a.example/')
 
     def test_payload(self):
         payload, report, overrides = self.build()

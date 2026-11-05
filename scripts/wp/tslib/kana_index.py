@@ -8,6 +8,7 @@
 import os
 import re
 import unicodedata
+from typing import NamedTuple
 
 from tslib.fileio import read_text
 from tslib.htmltext import RE_TAG, RE_ANCHOR, href_of, inline_text
@@ -97,8 +98,14 @@ def parse_index_html(page, src, yomi):
     return rows
 
 
+class KanaIndex(NamedTuple):
+    """parse_index の戻り値。タプルとして (rows, yomi_of) に展開できる。"""
+    rows: list           # [{path, title, author, homepage, kana, page}]
+    yomi_of: dict        # 表示名 → 所属行 (あ行/A/その他)
+
+
 def parse_index(root):
-    """作家別五十音目録 → (rows, yomi_of_name)。
+    """作家別五十音目録 → KanaIndex (rows, yomi_of_name)。
 
     rows = [{path, title, author, homepage, kana, page}] — 題名→作者の第二情報源
     (T7.8 の目録外収蔵でも使う)。yomi_of_name は表示名 → 所属行 (あ行/A/その他)。
@@ -112,4 +119,4 @@ def parse_index(root):
         path = os.path.join(root, page)
         if os.path.exists(path):
             rows.extend(parse_index_html(page, read_text(path), yomi))
-    return rows, yomi
+    return KanaIndex(rows, yomi)

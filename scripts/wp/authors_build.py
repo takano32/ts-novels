@@ -42,14 +42,15 @@ def build(root, annex_base=DEFAULT_ANNEX_BASE):
     戻り値 (payload, report, overrides, overrides_path, index_rows)。"""
     records = read_jsonl(paths.episodes_path(root))
     shared = shared_boards_of(root)
-    index_rows, yomi_of = kana_index.parse_index(root)
-    board_of_name, board_stats = authors.parse_boards(root, shared)
+    index = kana_index.parse_index(root)
+    boards = authors.parse_boards(root, shared)
     overrides_path = paths.slug_overrides_path(root)
     overrides = slugmod.load_overrides(overrides_path)
     payload, report, overrides = authors.assemble(
-        records, shared, index_rows, yomi_of, board_of_name, board_stats, overrides, annex_base,
+        records=records, shared=shared, index=index, boards=boards, overrides=overrides,
+        annex_base=annex_base,
         board_file_exists=lambda slug: os.path.exists(paths.kansou_board_path(root, slug)))
-    return payload, report, overrides, overrides_path, index_rows
+    return payload, report, overrides, overrides_path, index.rows
 
 
 def main(argv=None):

@@ -35,6 +35,7 @@ import glob
 import html
 import os
 import re
+from typing import NamedTuple
 
 from tslib import slugs as slugmod
 from tslib.checks import Checks
@@ -94,6 +95,12 @@ def board_names_of(title):
     return out
 
 
+class Boards(NamedTuple):
+    """parse_boards・boards_from_titles の戻り値。タプルとして (by_name, stats) に展開できる。"""
+    by_name: dict        # 表示名 → [板 id]
+    stats: dict          # 板の出所ごとの数 (レポートの kansou_board_sources)
+
+
 def boards_from_titles(listed, disk_only, rows):
     """板 id → 見出し の 2 つの表 (板一覧に載る板 / ファイルだけの板) から「表示名 → 板 id」を作る。
     戻り値 (name_to_boards, stats)。name_to_boards の値は板 id のリストで、
@@ -119,7 +126,7 @@ def boards_from_titles(listed, disk_only, rows):
         ('board_files_not_listed_slugs', sorted(disk_only)),
         ('names_with_board', len(name_to_boards)),
     ])
-    return name_to_boards, stats
+    return Boards(name_to_boards, stats)
 
 
 def parse_board_list(src, shared):
@@ -134,7 +141,7 @@ def parse_board_list(src, shared):
 
 def parse_boards(root, shared):
     """感想板の実体から「表示名 → 板 id」を引く。共有シリーズ板は作者の板ではないので除く。
-    戻り値 (name_to_boards, stats)。"""
+    戻り値 Boards (name_to_boards, stats)。"""
     base = os.path.join(root, KANSOU_DIR)
     listed, disk_only = collections.OrderedDict(), collections.OrderedDict()
     rows = 0
@@ -409,12 +416,15 @@ def author_payload(a, index_hp, yomi_of, annex_base):
     ])
 
 
-def assemble(records, shared, index_rows, yomi_of, board_of_name, board_stats, overrides,
+def assemble(records, shared, index, boards, overrides,
              annex_base=DEFAULT_ANNEX_BASE, board_file_exists=lambda slug: True):
     """読み込んだ入力から authors.json とレポートを組む。戻り値 (payload, report, overrides)。
 
+    index は kana_index.parse_index の KanaIndex、boards は parse_boards の Boards。
     board_file_exists(slug) は板ログの原本があるか (記録のみの検査に使う)。
     """
+    index_rows, yomi_of = index
+    board_of_name, board_stats = boards
     prev = overrides.get('authors') or {}
     confirmed, not_authors = confirmed_of(prev)
     name_boards = boards_by_name(records, shared)
