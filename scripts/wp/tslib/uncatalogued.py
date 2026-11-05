@@ -238,10 +238,13 @@ def make_record(path, title, author, sources, row, chars, has_img, size_bytes, y
 
 
 def report_of(novel_files, catalogued, added, excluded, index_rows):
+    """レポート。最後の uncovered_after は、novel/ の本文のうち既収蔵・追加・意図的除外のどれでもない数
+    (0 であることが受け入れ条件)。"""
+    already = sum(1 for p in novel_files if p in catalogued)
     return collections.OrderedDict([
         ('generated_by', 'scripts/wp/uncatalogued_build.py'),
         ('novel_body_files', len(novel_files)),
-        ('already_catalogued', sum(1 for p in novel_files if p in catalogued)),
+        ('already_catalogued', already),
         ('added', len(added)),
         ('excluded', len(excluded)),
         ('excluded_by_reason', dict(collections.Counter(x['reason'] for x in excluded))),
@@ -258,6 +261,7 @@ def report_of(novel_files, catalogued, added, excluded, index_rows):
              else '>=2000') for r in added))),
         ('provenance_covered', sum(1 for r in added if r['provenance'])),
         ('index_rows_parsed', len(index_rows)),
+        ('uncovered_after', len(novel_files) - already - len(added) - len(excluded)),
     ])
 
 

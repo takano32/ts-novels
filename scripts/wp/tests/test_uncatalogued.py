@@ -105,7 +105,8 @@ class BuildTest(TempDirCase):
             'generated_by', 'novel_body_files', 'already_catalogued', 'added', 'excluded', 'excluded_by_reason',
             'metadata_sources', 'title_resolved', 'author_resolved', 'author_unresolved',
             'author_unresolved_count', 'date_precision', 'text_chars_buckets', 'provenance_covered',
-            'index_rows_parsed'])
+            'index_rows_parsed', 'uncovered_after'])
+        self.assertEqual(report['uncovered_after'], 0)          # 8 = 1 + 4 + 3
 
 
 if __name__ == '__main__':

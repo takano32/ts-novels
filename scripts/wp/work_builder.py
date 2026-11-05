@@ -56,6 +56,7 @@ def main(argv=None):
     for line in wk.summary_lines(report):
         print(line)
     ok = not report['orphans'] and report['episodes_in_works'] == report['episodes']
+    # 表示だけ。判断の値はレポートから読む (Checks に乗せない理由は tslib/checks.py)
     print('  [%s] 全 episode がいずれかの work に属す (orphan 0)' % mark(ok))
     confirmed_review = wk.confirmed_but_review(review, work_overrides)
     print('  [%s] work_overrides.yml の指示 (split / detach / merge_into / confirmed) が正しい (誤り %d 件)'

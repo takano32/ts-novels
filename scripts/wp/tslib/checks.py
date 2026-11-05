@@ -4,6 +4,13 @@
 各段は受け入れ条件をコードにして `[OK ] 名前 詳細` / `[NG ] 名前 詳細` の行で出し、
 レポート JSON には `selftest` (name / ok / detail の列) と `selftest_ok` を書く。
 その形をここに 1 つにまとめる。
+
+入口に `[OK ]` を手書きしている 3 段 (uncatalogued_build.py・repost_build.py・work_builder.py の main) は
+Checks に乗せない (specs/S243.md の設計の判断):
+  - format_line は detail が空でも末尾に空白を 1 つ付け、旧版の標準出力がそれに依る。3 段の手書きの行は
+    末尾に空白が無いので、乗せると標準出力が変わる
+  - 3 段のレポートには selftest の鍵が無い (乗せる意味が表示だけになる)
+  - work_builder は検査の行の間に誤りの行を挟む
 """
 
 

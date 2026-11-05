@@ -38,6 +38,7 @@ def main(argv=None):
     if report['missing_inputs']:
         print('  ! 入力が見つからない: %s' % report['missing_inputs'], file=sys.stderr)
     ok = not report['missing_inputs']
+    # 表示だけ。判断の値はレポートから読む (Checks に乗せない理由は tslib/checks.py)
     print('  [%s] 宣言した %d 件がすべて収録できた' % (mark(ok), report['items_declared']))
 
     if not args.check:

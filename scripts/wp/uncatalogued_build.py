@@ -35,17 +35,17 @@ def main(argv=None):
     keep, added, excluded, report = uncatalogued.build(root, records, args.annex_base,
                                                        not args.no_provenance)
 
-    total = report['novel_body_files']
-    uncovered = total - report['already_catalogued'] - report['added'] - report['excluded']
-    report['uncovered_after'] = uncovered
+    uncovered = report['uncovered_after']
     print('novel/ 本文ファイル %d = 既収蔵 %d + 追加 %d + 意図的除外 %d (残 %d)' %
-          (total, report['already_catalogued'], report['added'], report['excluded'], uncovered))
+          (report['novel_body_files'], report['already_catalogued'], report['added'], report['excluded'],
+           uncovered))
     print('除外の内訳: %s' % report['excluded_by_reason'])
     print('題名 %d / 作者 %d (未解決 %d)  出所: %s' %
           (report['title_resolved'], report['author_resolved'],
            report['author_unresolved_count'],
            dict(collections.Counter(s for r in added for s in r['metadata_source']))))
     ok = uncovered == 0
+    # 表示だけ。判断の値はレポートから読む (Checks に乗せない理由は tslib/checks.py)
     print('  [%s] novel/ の本文で catalog に載らないものが 0 (意図的除外を除く)' % mark(ok))
 
     if not args.check:
