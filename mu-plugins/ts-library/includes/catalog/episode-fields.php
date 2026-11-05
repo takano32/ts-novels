@@ -32,6 +32,20 @@ final class TS_Episode_Fields {
         '_ts_superseded_by',
     ];
 
+    /**
+     * 話の本文の選び方 (`wp ts import`)。$bodies が false (--bodies なし = メタのみ投入) なら null (本文に触らない)。
+     * $status は payloads/_meta.json のその話の値 (converted / raw-fallback / takedown、無ければ null)、
+     * $payload はペイロード <episode_id>.html の中身 (無ければ null。ファイルを読むのは呼び出し側)。
+     * 取り下げ対象は payload_build.py が payload を作らず _meta.json に 'takedown' を書く (本文データを作るときに
+     * 飛ばす論理削除。specs/S76.md)。サーバに前回の payload が残っていても使わず、案内文も入れずに空にする
+     * (非公開化は apply-takedown)。payload が無ければ PLACEHOLDER_BODY。
+     */
+    public static function body(?string $status, ?string $payload, bool $bodies = true): ?string {
+        if (!$bodies) return null;
+        if ($status === 'takedown') return '';
+        return $payload ?? self::PLACEHOLDER_BODY;
+    }
+
     /** 話の共通メタ: meta_key => 値 (episodes.jsonl の欄をそのまま) */
     public static function meta(array $ep): array {
         return [

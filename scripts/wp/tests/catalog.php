@@ -111,6 +111,12 @@ $wrote = $meta_keys_in(["$plugin/includes/commands/import.php", "$plugin/include
                         "$plugin/includes/visibility/visibility-rules.php"]);
 check('import と取り下げが触るメタのキーは書く側の一覧に全部ある', array_values(array_diff($wrote, $written)), []);
 check('本文の無い話の本文', TS_Episode_Fields::PLACEHOLDER_BODY, '<!-- wp:paragraph --><p>(本文は原本アーカイブでお読みください)</p><!-- /wp:paragraph -->');
+check('本文: --bodies が無ければ触らない (null)', TS_Episode_Fields::body('converted', '<p>x</p>', false), null);
+check('本文: 取り下げ対象は payload が残っていても空', TS_Episode_Fields::body('takedown', '<p>x</p>'), '');
+check('本文: payload があればそれ', [TS_Episode_Fields::body('converted', '<p>x</p>'), TS_Episode_Fields::body(null, '<p>y</p>'),
+      TS_Episode_Fields::body('raw-fallback', '')], ['<p>x</p>', '<p>y</p>', '']);
+check('本文: payload が無ければ案内文', [TS_Episode_Fields::body(null, null), TS_Episode_Fields::body('converted', null)],
+      [TS_Episode_Fields::PLACEHOLDER_BODY, TS_Episode_Fields::PLACEHOLDER_BODY]);
 
 // ---------------------------------------------------------------- 固定ページの原本 (S109)
 $html = "<!-- title: このサイトについて -->\n<!-- owner-authored: 2026-10-30 -->\n<!-- wp:paragraph -->\n<p>本文</p>\n<!-- /wp:paragraph -->\n";

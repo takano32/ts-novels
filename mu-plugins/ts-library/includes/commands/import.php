@@ -174,15 +174,13 @@ final class TS_Import_Command extends TS_Command_Base {
             $this->terms->term_ids('ts_world', $this->vocab->episode_worlds($ep['episode_id'])), 'ts_world');
     }
 
+    /** 本文 (選び方は TS_Episode_Fields::body)。ペイロードは取り下げ対象なら読まない */
     private function episode_body($ep, $bodies) {
-        if ($bodies === null) return null;                 // メタのみ投入
-        // 取り下げ対象は payload_build.py が payload を作らず _meta.json に 'takedown' を書く
-        // (本文データを作るときに飛ばす論理削除。specs/S76.md)。サーバに前回の payload が
-        // 残っていても読まず、案内文も入れずに本文を空で投入する (非公開化は apply-takedown)
-        if (($this->body_status[$ep['episode_id']] ?? '') === 'takedown') return '';
+        if ($bodies === null) return TS_Episode_Fields::body(null, null, false);   // メタのみ投入
+        $status = $this->body_status[$ep['episode_id']] ?? null;
         $f = "$bodies/{$ep['episode_id']}.html";
-        if (is_file($f)) return file_get_contents($f);
-        return TS_Episode_Fields::PLACEHOLDER_BODY;
+        $payload = ($status !== 'takedown' && is_file($f)) ? file_get_contents($f) : null;
+        return TS_Episode_Fields::body($status, $payload);
     }
 
     private function upsert_episode($ep, $parent_id, $author_slug, $post_name, $order, $bodies, $dry, $ow, &$n, &$manual) {
