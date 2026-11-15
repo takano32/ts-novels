@@ -11,7 +11,7 @@
 # 段 (本番に書く段に *):
 #    1  手元の確認: HEAD が origin/master の最新で、mu-plugins/・themes/ に未コミットの変更が無い
 #    2  配備前の見え方を取る (scripts/wp/deploy_snapshot.sh take)
-#    3* 復旧点 wp db export ~/dumps/pre-deploy-<日時>.sql (S67)
+#    3* 復旧点 wp db export ~/dumps/pre-deploy-<日時>.sql (S67)。古いダンプは直近 2 本だけ残して消す
 #    4* deploy.sh --skip-php: 構文検査・サーバ側 repo・生成物 (bodies/・payloads/)・robots.txt・画像
 #    5* メンテナンス表示を出す (public_html/.maintenance。読者には 503)。WordPress は 10 分より古い表示を無視するので、
 #       時間のかかる生成物の rsync (4) の後、PHP を置く直前に出す
@@ -141,6 +141,8 @@ rm -rf "$OUT/pre" "$OUT/post"
 DUMP="~/dumps/pre-deploy-$STAMP.sql"
 step "復旧点 $DUMP (S67。ダンプは私有ストレージへ退避し、リポジトリに入れない)"
 remote_write "mkdir -p ~/dumps && $R && wp db export $DUMP && ls -la $DUMP"
+# 古いダンプは直近 2 本 (いま取ったものと 1 つ前) だけ残して消す (1 本 190MB ほど。2026-11-15 に 9 本 1.5GB たまっていた。S221)
+remote_write "cd ~/dumps && ls -t pre-*.sql | tail -n +3 | xargs -r rm -v; du -sh ~/dumps"
 
 step "配備 (前半。PHP 以外): scripts/wp/deploy.sh $APPLY_FLAG--skip-php"
 "$LOCAL_ROOT/scripts/wp/deploy.sh" $APPLY_FLAG --skip-php
