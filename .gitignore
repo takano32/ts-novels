@@ -10,3 +10,4 @@ payloads-docs/
 .parity/
 .deploy/
 .claude/settings.local.json
+.holding/

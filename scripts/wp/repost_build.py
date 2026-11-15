@@ -19,7 +19,8 @@ from tslib.checks import mark  # noqa: E402
 from tslib.fileio import read_jsonl, write_jsonl, write_json, write_text, ensure_dir  # noqa: E402
 
 DEFAULT_ROOT = paths.REPO_ROOT
-DEFAULT_HOLDING = os.path.expanduser('~/ts-novels-holding/stage_repost')
+# サルベージ途中の資材はリポジトリの .holding/ (git 管理外。作り直せないので消さない。specs/S82.md)
+DEFAULT_HOLDING = os.path.join(paths.REPO_ROOT, '.holding', 'stage_repost')
 
 
 def main(argv=None):
@@ -32,6 +33,8 @@ def main(argv=None):
     root = os.path.abspath(args.root)
     records = read_jsonl(paths.episodes_path(root))
     records, bodies, report = reposts.build(root, records, args.holding, args.acquired_at)
+    # レポートには置き場をリポジトリからの相対で書く (ホームのパスを公開物に残さない)
+    report['holding_dir'] = os.path.relpath(os.path.abspath(args.holding), root)
 
     print('既存エントリに本文と来歴を追加: %s' % report['patched_existing'])
     print('文庫未掲載として新規収録: %s' % report['added_extern_repost'])
