@@ -9,7 +9,7 @@ Reads missing_targets.json produced by audit_full.py. Dry-run by default;
 --apply copies files."""
 import os, re, sys, json, shutil, collections
 
-ROOT = '/home/takano32/GitHub/ts-novels'
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # リポジトリのルート
 DONOR_TREES = ['~yays/library/novel', '~yays/library', '~ezpe']
 
 def build_index():

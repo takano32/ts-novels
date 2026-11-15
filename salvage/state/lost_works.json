@@ -1,0 +1,2565 @@
+{
+ "authors": [
+  {
+   "author": "バレット",
+   "kansou_slug": "baretto",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200712/22231343/dualrw_title.html",
+     "title": "デュアルワールド・リライト　『アウトロダクション』",
+     "refs": 14,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld2-6.html",
+     "title": "デュアルワールド第二楽章　満月の大捕り物",
+     "refs": 10,
+     "lib": "lib10.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld2-2.html",
+     "title": "デュアルワールド第二楽章　緋色の騎士",
+     "refs": 8,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld2-5.html",
+     "title": "デュアルワールド第二楽章　怪盗クリシュナ",
+     "refs": 6,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld_ex2.html",
+     "title": "デュアルワールドＡＧ　旅の途中",
+     "refs": 6,
+     "lib": "lib10.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld3-2.html",
+     "title": "デュアルワールド第３楽章　『ストラグル』",
+     "refs": 6,
+     "lib": "lib7.html"
+    },
+    {
+     "target": "novel/200604/21135117/medarot_m03.htm",
+     "title": "デュアルワールド・リライト　『リフレイン』",
+     "refs": 5,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200512/06000905/anatoko_m00.htm",
+     "title": "アナログ所さん the Chronicle of Musketeers（後編）",
+     "refs": 5,
+     "lib": "lib14.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld1-1.html",
+     "title": "デュアルワールド第一楽章　運命の歯車は回りだす（前編＆後編）",
+     "refs": 4,
+     "lib": "lib12.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld2-a.html",
+     "title": "デュアルワールド第二楽章『虹色の翼』",
+     "refs": 4,
+     "lib": "lib9.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld3-1.html",
+     "title": "デュアルワールド第三楽章　『未来色の夢』",
+     "refs": 4,
+     "lib": "lib7.html"
+    },
+    {
+     "target": "novel/200512/06000905/anatoko_c04.htm",
+     "title": "アナログ所さん電脳大冒険 Special Extra Episodes",
+     "refs": 3,
+     "lib": "lib14.html"
+    },
+    {
+     "target": "novel/200512/06000905/anatoko_m01.htm",
+     "title": "アナログ所さん the Chronicle of Musketeers（前編）",
+     "refs": 3,
+     "lib": "lib14.html"
+    },
+    {
+     "target": "novel/200512/06000905/anatoko_m02.htm",
+     "title": "アナログ所さん the Chronicle of Musketeers（後編）",
+     "refs": 3,
+     "lib": "lib14.html"
+    },
+    {
+     "target": "novel/200512/06000905/anatoko_hop01.html",
+     "title": "アナログ所さん最終回　超危機的ハプニングオンパレード（前編）",
+     "refs": 3,
+     "lib": "lib13.html"
+    },
+    {
+     "target": "novel/200512/06000905/anatoko_hop_ex.html",
+     "title": "アナログ所さん最終回　超危機的ハプニングオンパレード（特別編）",
+     "refs": 3,
+     "lib": "lib13.html"
+    },
+    {
+     "target": "novel/200512/06000905/anatoko_hop02.html",
+     "title": "アナログ所さん最終回　超危機的ハプニングオンパレード（後編）",
+     "refs": 3,
+     "lib": "lib13.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld1-3.html",
+     "title": "デュアルワールド第一楽章　神々の大陸",
+     "refs": 3,
+     "lib": "lib12.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld1-5.html",
+     "title": "デュアルワールド第一楽章　微風×自由×聖戦",
+     "refs": 3,
+     "lib": "lib12.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld1-6.html",
+     "title": "デュアルワールド第一楽章　砦の決戦",
+     "refs": 3,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld_ex1.html",
+     "title": "デュアルワールドＡＧ　サンダバ・ラジオＳｐｅｃｉａｌ",
+     "refs": 3,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld2-1.html",
+     "title": "デュアルワールド第二楽章　モニカの覚悟",
+     "refs": 3,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld2-4.html",
+     "title": "デュアルワールド第二楽章　怒号するレイヴン",
+     "refs": 3,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld2-8.html",
+     "title": "デュアルワールド第二楽章　『逃げろ！』",
+     "refs": 3,
+     "lib": "lib9.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld2-9.html",
+     "title": "デュアルワールド第二楽章　『衝突』",
+     "refs": 3,
+     "lib": "lib9.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld2-b.html",
+     "title": "デュアルワールド第二楽章『フルークツォイク机上から空へ』",
+     "refs": 3,
+     "lib": "lib9.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld_ex3.html",
+     "title": "デュアルワールドＡＧ　『修羅場・ラ・バンバ 』",
+     "refs": 3,
+     "lib": "lib8.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld_ex4.html",
+     "title": "デュアルワールドＡＧ　『鴉の翼と一輪の花』",
+     "refs": 3,
+     "lib": "lib8.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld3-3.html",
+     "title": "デュアルワールド第三楽章　『大好きです』",
+     "refs": 3,
+     "lib": "lib7.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld3-4.html",
+     "title": "デュアルワールド第三楽章　『フルメタルワイルド再起動！』",
+     "refs": 3,
+     "lib": "lib7.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld4.html",
+     "title": "デュアルワールド第四楽章　『ヴェステンに萌えた芽』",
+     "refs": 3,
+     "lib": "lib7.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld_ex5.html",
+     "title": "デュアルワールドＡＧ　『はじまりのステージ』",
+     "refs": 3,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualrw01.html",
+     "title": "デュアルワールド・リライト　『プレリュード　〜　バース』",
+     "refs": 2,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualrw02.html",
+     "title": "デュアルワールド・リライト　『ブリッジ』",
+     "refs": 2,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualrw03.html",
+     "title": "デュアルワールド・リライト　『インタールード』",
+     "refs": 2,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualrw04.html",
+     "title": "デュアルワールド・リライト　『リフレイン』",
+     "refs": 2,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualrw05.html",
+     "title": "デュアルワールド・リライト　『アウトロダクション』",
+     "refs": 2,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200712/22231343/dualworld1-4.html",
+     "title": "デュアルワールド第一楽章　湖上都市フルート",
+     "refs": 2,
+     "lib": "lib12.html"
+    }
+   ]
+  },
+  {
+   "author": "おもちばこ",
+   "kansou_slug": "omochibako",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200702/18234405/dislike3.html",
+     "title": "きらいなもの→桃の節句",
+     "refs": 6,
+     "lib": "lib15.html"
+    },
+    {
+     "target": "novel/200507/26214655/suika05.html",
+     "title": "きらいなもの→バレンタインデー",
+     "refs": 4,
+     "lib": "lib15.html"
+    },
+    {
+     "target": "novel/200702/18234405/dislike7.html",
+     "title": "きらいなもの→勉強",
+     "refs": 3,
+     "lib": "lib14.html"
+    },
+    {
+     "target": "novel/200702/18234405/dislike8.html",
+     "title": "きらいなもの→野球そして故障",
+     "refs": 3,
+     "lib": "lib14.html"
+    },
+    {
+     "target": "novel/200702/18234405/dislike9.html",
+     "title": "きらいなもの→歯医者",
+     "refs": 3,
+     "lib": "lib14.html"
+    },
+    {
+     "target": "novel/200702/18234405/dislike10.html",
+     "title": "きらいなもの→祭り",
+     "refs": 3,
+     "lib": "lib14.html"
+    },
+    {
+     "target": "novel/200702/18234405/dislike11.html",
+     "title": "きらいなもの→甲子園",
+     "refs": 3,
+     "lib": "lib14.html"
+    },
+    {
+     "target": "novel/200702/18234405/dislike12.html",
+     "title": "きらいなもの→夏バテ",
+     "refs": 3,
+     "lib": "lib13.html"
+    },
+    {
+     "target": "novel/200702/18234405/dislike13.html",
+     "title": "きらいなもの→夏カゼ",
+     "refs": 3,
+     "lib": "lib13.html"
+    },
+    {
+     "target": "novel/200702/18234405/dislike14.html",
+     "title": "きらいなもの→野菜の日",
+     "refs": 3,
+     "lib": "lib13.html"
+    },
+    {
+     "target": "novel/200702/18234405/dislike15.html",
+     "title": "きらいなもの→占い",
+     "refs": 3,
+     "lib": "lib13.html"
+    },
+    {
+     "target": "novel/200702/18234405/dislike16.html",
+     "title": "きらいなもの→料理",
+     "refs": 3,
+     "lib": "lib13.html"
+    },
+    {
+     "target": "novel/200702/18234405/dislike18.html",
+     "title": "きらいなもの→¬（マリー）",
+     "refs": 3,
+     "lib": "lib12.html"
+    },
+    {
+     "target": "novel/200702/18234405/dislike20.html",
+     "title": "きらいなもの→最終回",
+     "refs": 3,
+     "lib": "lib12.html"
+    },
+    {
+     "target": "novel/200702/18234405/dislike19.html",
+     "title": "きらいなもの→長話",
+     "refs": 2,
+     "lib": "lib12.html"
+    },
+    {
+     "target": "novel/200802/15232641/rainGirl.html",
+     "title": "雨女",
+     "refs": 1,
+     "lib": "lib4.html"
+    }
+   ]
+  },
+  {
+   "author": "大原野山城守武里",
+   "kansou_slug": "ohharano",
+   "homepages": [
+    "http://lopezroom.hp.infoseek.co.jp/EinHobby.htm",
+    "http://twitter.com/lopezroom",
+    "http://einhobby.dousetsu.com/"
+   ],
+   "lost": [
+    {
+     "target": "novel/200611/21212001/standard_format2.html",
+     "title": "１２＋１第７話「短編のつもりだったけど長くなってしまった・・・であります」",
+     "refs": 9,
+     "lib": "lib10.html"
+    },
+    {
+     "target": "novel/200611/21212001/standard_format4a.html",
+     "title": "１２＋１第７話「短編のつもりだったけど長くなってしまった・・・であります」",
+     "refs": 7,
+     "lib": "lib10.html"
+    },
+    {
+     "target": "novel/200608/15210505/famlly-8.html",
+     "title": "ヒーローになれなかった少年",
+     "refs": 5,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200711/19201612/sanki01.htm",
+     "title": "１２＋１第７話「短編のつもりだったけど長くなってしまった・・・であります」",
+     "refs": 5,
+     "lib": "lib10.html"
+    },
+    {
+     "target": "novel/200611/21212001/darkeye.htm",
+     "title": "闇に光る目",
+     "refs": 3,
+     "lib": "lib12.html"
+    },
+    {
+     "target": "novel/200611/21212001/ikirumichi2.htm",
+     "title": "彼女と僕と僕の生きる道・３「栄光は誰れのために」",
+     "refs": 3,
+     "lib": "lib5.html"
+    },
+    {
+     "target": "novel/200611/21212001/f_title.htm",
+     "title": "湖のひみつ",
+     "refs": 3,
+     "lib": "lib4.html"
+    },
+    {
+     "target": "novel/200611/21212001/ikirumichi4.htm",
+     "title": "彼女と僕と僕の生きる道4『消された時間』",
+     "refs": 2,
+     "lib": "lib2.html"
+    },
+    {
+     "target": "novel/200611/21212001/from_v3.htm",
+     "title": "Ｖ３から来た男",
+     "refs": 2,
+     "lib": "lib7.html"
+    },
+    {
+     "target": "novel/200611/21212001/brave.htm",
+     "title": "勇気ある戦い",
+     "refs": 2,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200611/21212001/ikirumichi3.htm",
+     "title": "彼女と僕と僕の生きる道・３「栄光は誰れのために」",
+     "refs": 2,
+     "lib": "lib5.html"
+    },
+    {
+     "target": "novel/200611/21212001/andro.htm",
+     "title": "アンドロイドゼロ指令",
+     "refs": 1,
+     "lib": "lib2.html"
+    },
+    {
+     "target": "novel/200611/21212001/akumano.htm",
+     "title": "悪魔の住む花",
+     "refs": 1,
+     "lib": "lib2.html"
+    },
+    {
+     "target": "novel/200909/27002305/spirit04.htm",
+     "title": "ドンノルマの使者第５話　『許されざる命』",
+     "refs": 1,
+     "lib": "lib3.html"
+    },
+    {
+     "target": "novel/200611/21212001/manoyama.htm",
+     "title": "魔の山へ飛べ",
+     "refs": 1,
+     "lib": "lib5.html"
+    }
+   ]
+  },
+  {
+   "author": "猫野丸太丸",
+   "kansou_slug": "utanotsuki",
+   "homepages": [
+    "http://www.lain.ais.ne.jp/~gnekono/"
+   ],
+   "lost": [
+    {
+     "target": "novel/200608/15210505/famlly-1.html",
+     "title": "くろす・あこーど　episode 2",
+     "refs": 10,
+     "lib": "lib8.html"
+    },
+    {
+     "target": "novel/200608/15210505/famlly-2.html",
+     "title": "くろす・あこーど　episode 2",
+     "refs": 9,
+     "lib": "lib8.html"
+    },
+    {
+     "target": "novel/200608/15210505/famlly-3.html",
+     "title": "くろす・あこーど　episode 2",
+     "refs": 8,
+     "lib": "lib8.html"
+    },
+    {
+     "target": "novel/200608/15210505/famlly-4.html",
+     "title": "くろす・あこーど　episode 2",
+     "refs": 7,
+     "lib": "lib8.html"
+    },
+    {
+     "target": "novel/200608/15210505/famlly-5.html",
+     "title": "くろす・あこーど　episode 2",
+     "refs": 5,
+     "lib": "lib8.html"
+    },
+    {
+     "target": "novel/201004/02215640/ama.htm",
+     "title": "二代目はダークエルフ",
+     "refs": 4,
+     "lib": "lib5.html"
+    },
+    {
+     "target": "novel/200709/03194739/koruri3.htm",
+     "title": "こるり　改訂版３",
+     "refs": 3,
+     "lib": "lib12.html"
+    },
+    {
+     "target": "novel/200709/03194739/koruri5.htm",
+     "title": "こるり　改訂版５",
+     "refs": 3,
+     "lib": "lib12.html"
+    },
+    {
+     "target": "novel/200709/03194739/koruri6.htm",
+     "title": "こるり　改訂版６",
+     "refs": 3,
+     "lib": "lib12.html"
+    },
+    {
+     "target": "novel/200709/03194739/koruri7.htm",
+     "title": "こるり　改訂版７",
+     "refs": 3,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200709/03194739/koruri8.htm",
+     "title": "こるり　改訂版８",
+     "refs": 3,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200709/03194739/kai2.htm",
+     "title": "ＫＡＩ・ＫＥＮ・ＧＯ　巻の３　衣と髭と金",
+     "refs": 3,
+     "lib": "lib4.html"
+    },
+    {
+     "target": "novel/200611/10003012/365m1.html",
+     "title": "こるり　改訂版６",
+     "refs": 3,
+     "lib": "lib12.html"
+    },
+    {
+     "target": "novel/200709/03194739/kai3.htm",
+     "title": "ＫＡＩ・ＫＥＮ・ＧＯ　巻の３　衣と髭と金",
+     "refs": 1,
+     "lib": "lib4.html"
+    }
+   ]
+  },
+  {
+   "author": "なまけもの",
+   "kansou_slug": "namakemono",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200804/22211546/warasi1.html",
+     "title": "ざしきわらし　二",
+     "refs": 8,
+     "lib": "lib10.html"
+    },
+    {
+     "target": "novel/200804/22211546/warasi2.html",
+     "title": "ざしきわらし　二",
+     "refs": 7,
+     "lib": "lib10.html"
+    },
+    {
+     "target": "novel/200804/22211546/warasi3.html",
+     "title": "ざしきわらし　六",
+     "refs": 6,
+     "lib": "lib8.html"
+    },
+    {
+     "target": "novel/200804/22211546/warasi4.html",
+     "title": "ざしきわらし　六",
+     "refs": 5,
+     "lib": "lib8.html"
+    },
+    {
+     "target": "novel/200804/22211546/warasi5.html",
+     "title": "ざしきわらし　六",
+     "refs": 4,
+     "lib": "lib8.html"
+    },
+    {
+     "target": "novel/200804/22211546/warasi6.html",
+     "title": "ざしきわらし　六",
+     "refs": 3,
+     "lib": "lib8.html"
+    },
+    {
+     "target": "novel/200804/22211546/warasi7.html",
+     "title": "ざしきわらし　七",
+     "refs": 3,
+     "lib": "lib8.html"
+    },
+    {
+     "target": "novel/200804/22211546/warasi8.html",
+     "title": "ざしきわらし　八",
+     "refs": 3,
+     "lib": "lib8.html"
+    },
+    {
+     "target": "novel/200804/22211546/warasi9.html",
+     "title": "ざしきわらし　九",
+     "refs": 3,
+     "lib": "lib7.html"
+    },
+    {
+     "target": "novel/200804/22211546/warasi10.html",
+     "title": "ざしきわらし 十",
+     "refs": 3,
+     "lib": "lib7.html"
+    },
+    {
+     "target": "novel/200804/22211546/warasi11.html",
+     "title": "ざしきわらし 十一",
+     "refs": 3,
+     "lib": "lib7.html"
+    },
+    {
+     "target": "novel/200804/22211546/warasi12.html",
+     "title": "ざしきわらし 十二",
+     "refs": 3,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200804/22211546/warasi13.html",
+     "title": "ざしきわらし　十三",
+     "refs": 3,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200804/22211546/warasi14.html",
+     "title": "ざしきわらし 十四",
+     "refs": 2,
+     "lib": "lib5.html"
+    }
+   ]
+  },
+  {
+   "author": "ほたる",
+   "kansou_slug": "hotaru",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/201005/20141534/the_fairy_of_rink.htm",
+     "title": "リンクの妖精",
+     "refs": 2,
+     "lib": "lib5.html"
+    },
+    {
+     "target": "novel/201005/20141534/vistia_16.htm",
+     "title": "ヴィスティア【終】　「望みを失わないために、できること」",
+     "refs": 2,
+     "lib": "lib2.html"
+    },
+    {
+     "target": "novel/201005/20141534/vistia_15.htm",
+     "title": "ヴィスティア　（chapter 15）",
+     "refs": 2,
+     "lib": "lib2.html"
+    },
+    {
+     "target": "novel/201005/20141534/vistia_14.htm",
+     "title": "ヴィスティア　（chapter 14）",
+     "refs": 2,
+     "lib": "lib2.html"
+    },
+    {
+     "target": "novel/201005/20141534/vistia_13.htm",
+     "title": "ヴィスティア　（chapter 13）",
+     "refs": 2,
+     "lib": "lib2.html"
+    },
+    {
+     "target": "novel/201005/20141534/vistia_12.htm",
+     "title": "ヴィスティア　（chapter 12）",
+     "refs": 2,
+     "lib": "lib3.html"
+    },
+    {
+     "target": "novel/201005/20141534/vistia_10.htm",
+     "title": "ヴィスティア　（chapter 10）",
+     "refs": 2,
+     "lib": "lib3.html"
+    },
+    {
+     "target": "novel/201005/20141534/vistia_08.htm",
+     "title": "ヴィスティア　（chapter 08）",
+     "refs": 2,
+     "lib": "lib3.html"
+    },
+    {
+     "target": "novel/201005/20141534/vistia_bangai_01.htm",
+     "title": "番外編ヴィスティア　『こんなところで！　望まないせんとう』",
+     "refs": 2,
+     "lib": "lib3.html"
+    },
+    {
+     "target": "novel/201005/20141534/vistia_07.htm",
+     "title": "ヴィスティア　（chapter 07）",
+     "refs": 2,
+     "lib": "lib3.html"
+    }
+   ]
+  },
+  {
+   "author": "ろーむ",
+   "kansou_slug": "roam",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200608/15210505/famlly-6.html",
+     "title": "仲良き家族は美しきかな? Part6",
+     "refs": 4,
+     "lib": "lib7.html"
+    },
+    {
+     "target": "novel/200608/15210505/famlly-7.html",
+     "title": "仲良き家族は美しきかな? Part7",
+     "refs": 4,
+     "lib": "lib7.html"
+    },
+    {
+     "target": "novel/200608/15210505/famlly-af1.html",
+     "title": "仲良き家族は美しきかな? あふたー Part1",
+     "refs": 4,
+     "lib": "lib7.html"
+    },
+    {
+     "target": "novel/200608/15210505/famlly-af2.html",
+     "title": "仲良き家族は美しきかな? あふたー Part2",
+     "refs": 4,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200608/15210505/famlly-af3.html",
+     "title": "仲良き家族は美しきかな? あふたー Part3",
+     "refs": 3,
+     "lib": "lib5.html"
+    },
+    {
+     "target": "novel/200608/15210505/famlly-af2_5.html",
+     "title": "仲良き家族は美しきかな? あふたー Part2.5",
+     "refs": 3,
+     "lib": "lib5.html"
+    },
+    {
+     "target": "novel/200608/15210505/alumni_reunion.html",
+     "title": "同窓会から始まる悲劇?",
+     "refs": 2,
+     "lib": "lib6.html"
+    }
+   ]
+  },
+  {
+   "author": "きりか進ノ介",
+   "kansou_slug": "kirika",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200504/26204417/hankonka.html",
+     "title": "フレグラント・ショッピング",
+     "refs": 3,
+     "lib": "lib13.html"
+    },
+    {
+     "target": "novel/200605/05101055/kin002.htm",
+     "title": "ザ・ゴールデンロード！　２",
+     "refs": 3,
+     "lib": "lib14.html"
+    },
+    {
+     "target": "novel/200706/17105152/fregrant3.htm",
+     "title": "フレグラント・ヴァケーション　（前編）",
+     "refs": 3,
+     "lib": "lib12.html"
+    },
+    {
+     "target": "novel/200706/17105152/glass_heel.htm",
+     "title": "ガラスの靴",
+     "refs": 3,
+     "lib": "lib12.html"
+    },
+    {
+     "target": "novel/200605/05101055/kin003.htm",
+     "title": "ザ・ゴールデンロード！　３",
+     "refs": 3,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200605/05101055/kin004.htm",
+     "title": "ザ・ゴールデンロード　４",
+     "refs": 3,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200706/17105152/fregrant2.htm",
+     "title": "フレグラント・ショッピング",
+     "refs": 2,
+     "lib": "lib13.html"
+    }
+   ]
+  },
+  {
+   "author": "７Ｃｙ",
+   "kansou_slug": "7cy",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200502/15000436/wedding01.html",
+     "title": "本来なら大祝言２の尻にくっ付けて纏めて投稿する予定だったクリスマス・ネタの小話",
+     "refs": 7,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200502/15000436/wedding02.html",
+     "title": "本来なら大祝言２の尻にくっ付けて纏めて投稿する予定だったクリスマス・ネタの小話",
+     "refs": 5,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200502/15000436/wedding01_r.html",
+     "title": "大祝言０１（改行増やしてみましたバージョン）",
+     "refs": 2,
+     "lib": "lib14.html"
+    },
+    {
+     "target": "novel/200502/15000436/wedding02_b.html",
+     "title": "本来なら大祝言２の尻にくっ付けて纏めて投稿する予定だったクリスマス・ネタの小話",
+     "refs": 2,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200502/15000436/daikyoudai.html",
+     "title": "大兄妹物語・没ったので改稿版",
+     "refs": 2,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200502/15000436/dai_yami.htm",
+     "title": "大・闇への追儺",
+     "refs": 2,
+     "lib": "lib11.html"
+    }
+   ]
+  },
+  {
+   "author": "いとう",
+   "kansou_slug": "itou",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200504/26204417/lgmb07.html",
+     "title": "少年以上、少女未満　第七話",
+     "refs": 4,
+     "lib": "lib15.html"
+    },
+    {
+     "target": "novel/200504/26204417/lgmb08.html",
+     "title": "少年以上、少女未満　第八話",
+     "refs": 3,
+     "lib": "lib13.html"
+    },
+    {
+     "target": "novel/200504/26204417/lgmb09.html",
+     "title": "少年以上、少女未満　第九話",
+     "refs": 3,
+     "lib": "lib13.html"
+    },
+    {
+     "target": "novel/200504/26204417/lgmb10.html",
+     "title": "少年以上、少女未満　第十話",
+     "refs": 3,
+     "lib": "lib13.html"
+    },
+    {
+     "target": "novel/200504/26204417/lgmb11.html",
+     "title": "少年以上、少女未満　第十一話",
+     "refs": 3,
+     "lib": "lib12.html"
+    }
+   ]
+  },
+  {
+   "author": "ライターマン",
+   "kansou_slug": "delayed",
+   "homepages": [
+    "http://www3.coara.or.jp/~kagawa/writerman/"
+   ],
+   "lost": [
+    {
+     "target": "novel/201009/16215412/delayed02.htm",
+     "title": "仮面ライターディレイド第３話「決断！　ヒロインの条件」",
+     "refs": 4,
+     "lib": "lib5.html"
+    },
+    {
+     "target": "novel/200011/15112734/nouryo_title.html",
+     "title": "天女の末裔",
+     "refs": 4,
+     "lib": "lib14.html"
+    },
+    {
+     "target": "novel/201009/16215412/delayed03.htm",
+     "title": "仮面ライターディレイド第３話「決断！　ヒロインの条件」",
+     "refs": 3,
+     "lib": "lib5.html"
+    },
+    {
+     "target": "novel/200210/28213920/valkyrie07.htm",
+     "title": "機甲天女ヴァルキュリア Scramble7：「縦横無尽！！　加速する閃光！！」",
+     "refs": 2,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200210/28213920/valkyrie08.htm",
+     "title": "機甲天女ヴァルキュリア Scramble8：「一点集中！！　爆裂的に突撃せよ！！」",
+     "refs": 2,
+     "lib": "lib4.html"
+    }
+   ]
+  },
+  {
+   "author": "夜夢",
+   "kansou_slug": "yamu",
+   "homepages": [
+    "http://www16.ocn.ne.jp/~kariyado/index.html"
+   ],
+   "lost": [
+    {
+     "target": "novel/200112/18123055/mistress22.html",
+     "title": "ミストレスと奇妙な仲間達〜その22",
+     "refs": 3,
+     "lib": "lib6.html"
+    },
+    {
+     "target": "novel/200112/18123055/mistress_ng.html",
+     "title": "ミストレスと奇妙な仲間達〜NG",
+     "refs": 3,
+     "lib": "lib5.html"
+    },
+    {
+     "target": "novel/200711/19201612/sanki02.html",
+     "title": "三姫巡遊記　流闘姫編その二",
+     "refs": 2,
+     "lib": "lib9.html"
+    },
+    {
+     "target": "novel/rainbow/ruark2.htm",
+     "title": "ヴァンゼール騒動記２",
+     "refs": 2,
+     "lib": "lib5.html"
+    },
+    {
+     "target": "novel/200112/18123055/mistress21.htm",
+     "title": "ミストレスと奇妙な仲間達〜その21",
+     "refs": 2,
+     "lib": "lib8.html"
+    }
+   ]
+  },
+  {
+   "author": "龍酒",
+   "kansou_slug": "ryuhju",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200112/18230553/novel.html",
+     "title": "NOVEL4",
+     "refs": 5,
+     "lib": "lib10.html"
+    },
+    {
+     "target": "novel/200112/18230553/novel_3.html",
+     "title": "NOVEL4",
+     "refs": 4,
+     "lib": "lib10.html"
+    },
+    {
+     "target": "novel/200112/18230553/novel_4.html",
+     "title": "NOVEL4",
+     "refs": 2,
+     "lib": "lib10.html"
+    }
+   ]
+  },
+  {
+   "author": "英雄",
+   "kansou_slug": "hideo",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200606/28222647/koganeyoru4.htm",
+     "title": "黄金色の夜（完結編）",
+     "refs": 4,
+     "lib": "lib15.html"
+    },
+    {
+     "target": "novel/200606/28222647/w_d.htm",
+     "title": "錦繍の夢　番外編　白い恋人、そして",
+     "refs": 3,
+     "lib": "lib12.html"
+    },
+    {
+     "target": "novel/200606/28222647/kinsyu1.htm",
+     "title": "錦繍の夢（前編）",
+     "refs": 3,
+     "lib": "lib9.html"
+    }
+   ]
+  },
+  {
+   "author": "無糖",
+   "kansou_slug": "mutou",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200507/27202834/ingen03_a.htm",
+     "title": "いんげんさん第四話『ゲントク』",
+     "refs": 4,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200507/27202834/ingen03_b.htm",
+     "title": "いんげんさん第四話『ゲントク』",
+     "refs": 4,
+     "lib": "lib11.html"
+    },
+    {
+     "target": "novel/200507/27202834/ingen04.htm",
+     "title": "いんげんさん第四話『ゲントク』",
+     "refs": 2,
+     "lib": "lib11.html"
+    }
+   ]
+  },
+  {
+   "author": "泉美樹",
+   "kansou_slug": "izumi_miki",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200507/09195017/all_alone_02.htm",
+     "title": "夢魔狩り",
+     "refs": 3,
+     "lib": "lib22.html"
+    },
+    {
+     "target": "novel/200507/09195017/xx01.htm",
+     "title": "XX-FILES ver.2",
+     "refs": 2,
+     "lib": "lib13.html"
+    },
+    {
+     "target": "novel/200507/09195017/xx_title.htm",
+     "title": "XX-FILES ver.2",
+     "refs": 1,
+     "lib": "lib13.html"
+    }
+   ]
+  },
+  {
+   "author": "雅良生",
+   "kansou_slug": "garyosei",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200404/07211628/good_life04.html",
+     "title": "グッド・ライフ４",
+     "refs": 3,
+     "lib": "lib23.html"
+    },
+    {
+     "target": "novel/200404/07211628/good_life05.html",
+     "title": "グッド・ライフ５",
+     "refs": 3,
+     "lib": "lib23.html"
+    },
+    {
+     "target": "novel/200404/07211628/good_life06.html",
+     "title": "グッド・ライフ６",
+     "refs": 3,
+     "lib": "lib22.html"
+    }
+   ]
+  },
+  {
+   "author": "ハクリ",
+   "kansou_slug": "hakuri",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200904/24172522/magicworld_01.html",
+     "title": "魔法世界を創ろう！　②",
+     "refs": 3,
+     "lib": "lib7.html"
+    },
+    {
+     "target": "novel/200904/24172522/magicworld_02.html",
+     "title": "魔法世界を創ろう！　②",
+     "refs": 2,
+     "lib": "lib7.html"
+    }
+   ]
+  },
+  {
+   "author": "にわたたみ",
+   "kansou_slug": "niwatatami",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200907/26093146/roboko01.html",
+     "title": "ロボ娘は電気羊の夢をみる？第２話",
+     "refs": 3,
+     "lib": "lib7.html"
+    },
+    {
+     "target": "novel/200907/26093146/roboko02.html",
+     "title": "ロボ娘は電気羊の夢をみる？第２話",
+     "refs": 2,
+     "lib": "lib7.html"
+    }
+   ]
+  },
+  {
+   "author": "ラッキー",
+   "kansou_slug": "lucky",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200410/05195251/mitsugu.htm",
+     "title": "貢ぐ",
+     "refs": 3,
+     "lib": "lib15.html"
+    },
+    {
+     "target": "novel/200410/05195251/ugokidasumade.html",
+     "title": "動き出すまで",
+     "refs": 2,
+     "lib": "lib8.html"
+    }
+   ]
+  },
+  {
+   "author": "MONDO",
+   "kansou_slug": "delayed",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/201009/16215412/delayed07.htm",
+     "title": "仮面ライターディレイド第７話「Ｍの発動／つばさもそれを許容できない」",
+     "refs": 2,
+     "lib": "lib4.html"
+    },
+    {
+     "target": "novel/201009/16215412/delayed06.htm",
+     "title": "仮面ライターディレイド第６話「Ｍの胎動／サオリはそれを許容できない」",
+     "refs": 2,
+     "lib": "lib5.html"
+    }
+   ]
+  },
+  {
+   "author": "ブッチョンブッチョン＆流離太",
+   "kansou_slug": "rurita",
+   "homepages": [
+    "http://www27.atwiki.jp/kakinoki/"
+   ],
+   "lost": [
+    {
+     "target": "novel/200604/21135117/medarot_m02.htm",
+     "title": "メダロットＭ　Ｅｐｉｓｏｄｅ２「二人揃ってツンデレンジャー」",
+     "refs": 6,
+     "lib": "lib11.html"
+    }
+   ]
+  },
+  {
+   "author": "七斬",
+   "kansou_slug": "nanagiri",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200112/31191244/rayburst02.htm",
+     "title": "勇者神レイ・バースト　第五話　鉄（くろがね）の力",
+     "refs": 5,
+     "lib": "lib48.html"
+    }
+   ]
+  },
+  {
+   "author": "ＳＡＹＡ",
+   "kansou_slug": "saya",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200909/27002305/TWOG01.html",
+     "title": "奈緒の憂鬱　第十一話：混沌鍋",
+     "refs": 4,
+     "lib": "lib6.html"
+    }
+   ]
+  },
+  {
+   "author": "華村天稀",
+   "kansou_slug": "foster",
+   "homepages": [
+    "http://www.aetherworks.org"
+   ],
+   "lost": [
+    {
+     "target": "novel/corrector/foster18.html",
+     "title": "次元管理人フォスター　トゥモロー・イズ・アナザー・デイ",
+     "refs": 3,
+     "lib": "lib10.html"
+    }
+   ]
+  },
+  {
+   "author": "ポポフ",
+   "kansou_slug": "popof",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200506/21202425/poan04.htm",
+     "title": "歯医者さん　宇宙人と少年第４話",
+     "refs": 3,
+     "lib": "lib23.html"
+    }
+   ]
+  },
+  {
+   "author": "ガソダム",
+   "kansou_slug": "gasodamu",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200504/04081500/I_and_MyTime_03.html",
+     "title": "僕と僕の今　3話",
+     "refs": 3,
+     "lib": "lib25.html"
+    }
+   ]
+  },
+  {
+   "author": "四迷",
+   "kansou_slug": "shimei",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200609/26211153/elements3.htm",
+     "title": "ＥＬＥＭＥＮＴ’ｓ第３話",
+     "refs": 3,
+     "lib": "lib16.html"
+    }
+   ]
+  },
+  {
+   "author": "鈴忌 紫",
+   "kansou_slug": "suzuki_murasaki",
+   "homepages": [
+    "http://www.k2.dion.ne.jp/~amaranth/"
+   ],
+   "lost": [
+    {
+     "target": "novel/200503/27150319/machina12.html",
+     "title": "エクス・マキナ 第十二話「モノローグ−独白−」",
+     "refs": 3,
+     "lib": "lib22.html"
+    }
+   ]
+  },
+  {
+   "author": "山口多聞",
+   "kansou_slug": "yamaguti_oomi",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200407/31143808/lily_h05.htm",
+     "title": "本土独立防空部隊白百合部隊　第５話　「戦闘開始」",
+     "refs": 3,
+     "lib": "lib23.html"
+    }
+   ]
+  },
+  {
+   "author": "ゆうぼう",
+   "kansou_slug": "yuubou",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200509/12001609/StarHunter04.html",
+     "title": "スターハンター４",
+     "refs": 3,
+     "lib": "lib23.html"
+    }
+   ]
+  },
+  {
+   "author": "＠ユウマ",
+   "kansou_slug": "yuuma",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200909/27002305/TWOG02.html",
+     "title": "The World Of Game　後編",
+     "refs": 2,
+     "lib": "lib6.html"
+    }
+   ]
+  },
+  {
+   "author": "奄美平次",
+   "kansou_slug": "amami",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200307/27055454/trans_card03.html",
+     "title": "変身！？カード　第３章",
+     "refs": 2,
+     "lib": "lib9.html"
+    }
+   ]
+  },
+  {
+   "author": "あむぁい",
+   "kansou_slug": "amulai",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200501/24190306/cushion.htm",
+     "title": "ご主人さまの秘密",
+     "refs": 2,
+     "lib": "lib12.html"
+    }
+   ]
+  },
+  {
+   "author": "うえきバチ",
+   "kansou_slug": "uekibati",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200511/29174324/mother.html",
+     "title": "俺の天気〜嫌いのち好き〜",
+     "refs": 2,
+     "lib": "lib13.html"
+    }
+   ]
+  },
+  {
+   "author": "150万画素",
+   "kansou_slug": "gsdm150",
+   "homepages": [
+    "http://acquiredalice.web.fc2.com/"
+   ],
+   "lost": [
+    {
+     "target": "novel/201205/06131414/haru.html",
+     "title": "明日あたりはきっと春",
+     "refs": 2,
+     "lib": "lib2.html"
+    }
+   ]
+  },
+  {
+   "author": "ヴァリオン",
+   "kansou_slug": "valion",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200606/23225516/gass_2.htm",
+     "title": "ギャラクシーエンジェる〜ん外伝「ルーンエンジェル隊殺人事件？」",
+     "refs": 2,
+     "lib": "lib14.html"
+    }
+   ]
+  },
+  {
+   "author": "バンテツ",
+   "kansou_slug": "bantetsu",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200606/01233508/a_s01.htm",
+     "title": "ＡＧＥＮＴ／ＳＴＵＤＥＮＴ　前編",
+     "refs": 2,
+     "lib": "lib10.html"
+    }
+   ]
+  },
+  {
+   "author": "風車",
+   "kansou_slug": "kazaguruma",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200705/04002259/siren.html",
+     "title": "友達？",
+     "refs": 2,
+     "lib": "lib14.html"
+    }
+   ]
+  },
+  {
+   "author": "鴨南蛮",
+   "kansou_slug": "kamonanban",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/201002/14100629/genesis01.html",
+     "title": "ジェネシス　第１回",
+     "refs": 2,
+     "lib": "lib6.html"
+    }
+   ]
+  },
+  {
+   "author": "ごく普通のサラリーマン",
+   "kansou_slug": "salaryman",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/201201/06215908/azuki6.html",
+     "title": "AZUKI 6話",
+     "refs": 2,
+     "lib": "lib3.html"
+    }
+   ]
+  },
+  {
+   "author": "ゴマぎら",
+   "kansou_slug": "gomagira",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200609/12220540/furoshiki_03.html",
+     "title": "スーパー風呂敷 〜影と言う名の協力者〜",
+     "refs": 2,
+     "lib": "lib13.html"
+    }
+   ]
+  },
+  {
+   "author": "ミスター長崎",
+   "kansou_slug": "mr_nagasaki",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200409/16020158/train.html",
+     "title": "電車",
+     "refs": 2,
+     "lib": "lib14.html"
+    }
+   ]
+  },
+  {
+   "author": "南文堂",
+   "kansou_slug": "minafumido",
+   "homepages": [
+    "http://minafumi.aki.gs/"
+   ],
+   "lost": [
+    {
+     "target": "novel/200104/09010648/mirror_shizuka.html",
+     "title": "鏡の国の静香",
+     "refs": 2,
+     "lib": "lib3.html"
+    }
+   ]
+  },
+  {
+   "author": "羅刹法師",
+   "kansou_slug": "rasetsu",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/200709/13031104/hissatsu_01.html",
+     "title": "必殺鬼哭の剣第1話：うおっ　まぶしっ！！の回",
+     "refs": 2,
+     "lib": "lib13.html"
+    }
+   ]
+  },
+  {
+   "author": "スッス",
+   "kansou_slug": "sussu",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/201202/17091726/tasfact5.html",
+     "title": "グランス・タスファクト最終奏「終演」",
+     "refs": 2,
+     "lib": "lib2.html"
+    }
+   ]
+  },
+  {
+   "author": "よしおか",
+   "kansou_slug": "yoshioka",
+   "homepages": [
+    "http://www7a.biglobe.ne.jp/~ayayakko/"
+   ],
+   "lost": [
+    {
+     "target": "novel/200106/03172433/the_ark.htm",
+     "title": "ＴＳ戒",
+     "refs": 2,
+     "lib": "lib22.html"
+    }
+   ]
+  },
+  {
+   "author": "水谷秋夫",
+   "kansou_slug": "mizutani_akio",
+   "homepages": [
+    "http://oikose.at.webry.info/"
+   ],
+   "lost": [
+    {
+     "target": "novel/200403/27214253/entotsu.html",
+     "title": "煙突のある町",
+     "refs": 1,
+     "lib": "lib2.html"
+    }
+   ]
+  },
+  {
+   "author": "泉谷パーム",
+   "kansou_slug": "izumiya",
+   "homepages": [
+    "http://www.geocities.jp/izumiyapaamu/"
+   ],
+   "lost": [
+    {
+     "target": "novel/200705/20184554/kyoukon3.html",
+     "title": "狂魂3　〜幼馴染、霧絵〜",
+     "refs": 1,
+     "lib": "lib3.html"
+    }
+   ]
+  },
+  {
+   "author": "タッチャン",
+   "kansou_slug": "tacchan",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/201108/06122622/SD&MS.html",
+     "title": "小悪魔とマッドサイエンティスト",
+     "refs": 1,
+     "lib": "lib4.html"
+    }
+   ]
+  },
+  {
+   "author": "猫目ニボシJIRO",
+   "kansou_slug": "nekome",
+   "homepages": [],
+   "lost": [
+    {
+     "target": "novel/201102/01175500/shokuzai02.html",
+     "title": "贖罪と愛情　第二話",
+     "refs": 1,
+     "lib": "lib4.html"
+    }
+   ]
+  }
+ ],
+ "unmatched": [
+  "novel/200610/14003423/joso-zai.htm",
+  "novel/200102/library.html",
+  "novel/200707/novel.htm",
+  "novel/kizuna/library.html",
+  "novel/novel/rainbow/ruark.htm",
+  "novel/200112/20210702/event02.htm",
+  "novel/200012/library.html",
+  "novel/200210/novel.htm",
+  "novel/200105/SS-index.htm",
+  "novel/boshuu.html",
+  "novel/200611/21212001/zisaku.htm",
+  "novel/200111/03091515/revagaigar_ex4.htm",
+  "novel/lib1.html",
+  "novel/200703/16205836/dress_up_boy05b.htm",
+  "novel/201101/08222059/wg_chara.html",
+  "novel/corrector/index.html",
+  "novel/corrector/syousetu.html",
+  "novel/short/shousetu.htm",
+  "novel/reika/imagine/imagine01.html",
+  "novel/anxiety/holy_sword.html",
+  "novel/trans_gals.html",
+  "novel/introduction.html",
+  "novel/feedback.html",
+  "novel/~ts/bbs/2ndbbs/index.html",
+  "novel/headline.html",
+  "novel/200101/novel.html",
+  "novel/200201/novel.htm",
+  "novel/200312/05062153/bem_12_1.html",
+  "novel/200607/Main.html",
+  "novel/200607/Novel.html",
+  "novel/200703/16205836/maid_of_fire03.htm",
+  "novel/200703/16205836/hitonoki02_j.htm",
+  "novel/200703/16205836/akane_f_birthday2016.htm",
+  "novel/200703/16205836/decade_pls.htm",
+  "novel/200703/16205836/decade_panipani.htm",
+  "novel/200705/20184554/novel1.html",
+  "novel/201203/11095224/gfs_bgl_01_1.html",
+  "novel/201203/11095224/gfs_bgl_04_1.html",
+  "novel/change/library.html",
+  "novel/transeplant/library.html",
+  "novel/reika/imagine/imagine02.html",
+  "novel/reika/imagine/imagine03.html",
+  "novel/reika/imagine/imagine04.html",
+  "novel/reika/imagine/imagine05.html",
+  "novel/ambivalenz.html",
+  "novel/200202/14230904/revival_girl24.htm",
+  "novel/200202/14233437/revival_girl_s3.htm",
+  "novel/vergin_days.html",
+  "novel/short/professor_k02.html",
+  "novel/rental/re-mix/re_mix-m.html",
+  "novel/200102/23134043/standard_format.html",
+  "novel/200104/23004330/irregular girl2.html",
+  "novel/reika/puko_and_me/index1.html",
+  "novel/what_you_can_figure_out.html",
+  "novel/liera2.html",
+  "novel/liera3.html",
+  "novel/comittee/index.html",
+  "novel/200012/10070655/kaworu_by_2_i.htm",
+  "novel/200101/14013415/chara.html",
+  "novel/200101/14013415/doll/doll01.html",
+  "novel/200102/07022001/library.html",
+  "novel/200104/09010648/library.htm",
+  "novel/200104/23004330/ts.novels.jp/library.html",
+  "novel/200105/novel-index.htm",
+  "novel/200207/03224430/041_comment.htm",
+  "novel/200207/stories.htm",
+  "novel/200312/novel_index.html",
+  "novel/200501/24190306/blog-category-1.html",
+  "novel/200607/02124625/Data.html",
+  "novel/200611/21212001/index.html",
+  "novel/200703/16205836/ikinari_j.htm",
+  "novel/200703/16205836/delayed05.htm",
+  "novel/200703/16205836/twins04.htm",
+  "novel/200703/16205836/omc_g42.htm",
+  "novel/200703/16205836/futaba.htm",
+  "novel/200703/16205836/pls05b.htm",
+  "novel/200703/16205836/pls19a.htm",
+  "novel/200703/16205836/pls19d.htm",
+  "novel/200703/16205836/act10b.html",
+  "novel/200703/16205836/act25b.htm",
+  "novel/200703/16205836/act31b.htm",
+  "novel/200703/16205836/act35b.htm",
+  "novel/200703/16205836/act37b.htm",
+  "novel/200803/01214225/ts_novels.htm",
+  "novel/200803/01214225/index.html",
+  "novel/200901/21231051/zisaku.htm",
+  "novel/200907/19181513/ueno.html",
+  "novel/200907/19181513/nenmatsu02.htm",
+  "novel/200907/19181513/act14b.htm",
+  "novel/201009/16215412/vistia_index.htm",
+  "novel/201009/16215412/ueno.html",
+  "novel/201009/16215412/nenmatsu02.htm",
+  "novel/201009/16215412/act14b.htm",
+  "novel/201203/11095224/gfs_bgl_02_1.html",
+  "novel/201203/11095224/gfs_bgl_05_1.html",
+  "novel/201203/11095224/gfs_bgl_06_2.html",
+  "novel/201203/11095224/gfs_bgl_07_1.html",
+  "novel/reika/imagine/imagine06.html",
+  "novel/200103/24194542/himegami_x_14.htm",
+  "novel/200106/26132410/bees2!.html",
+  "novel/200107/04192853/bees!3.html",
+  "novel/triangle_equation1.html",
+  "novel/triangle_equation2.html",
+  "novel/triangle_equation3.html",
+  "novel/rental2-1.html",
+  "novel/rb3.html",
+  "novel/200706/17105152/fregrant_index.htm",
+  "novel/yaneura.htm",
+  "novel/series.html",
+  "novel/share_world.html",
+  "novel/lib-index.html",
+  "novel/novel/200305/04184146/title.html",
+  "novel/novel/200112/20210702/dictionary.htm",
+  "novel/novel/200104/20050818/100title.htm",
+  "novel/novel/200209/19204751/tsukinuke.htm",
+  "novel/novel/200611/21212001/nanoha4.htm",
+  "novel/novel/200611/21212001/nanoha_title.htm",
+  "novel/novel/200105/08212223/ts_print.htm",
+  "novel/novel/200209/19204751/t_spirit7.htm",
+  "novel/novel/200209/19204751/t_spirit_title.htm",
+  "novel/novel/200407/31143808/horyo.htm",
+  "novel/novel/kayo_chan/kayo_chan113.htm",
+  "novel/novel/kayo_chan/kayo_chan65.html",
+  "novel/novel/kayo_chan/index.html",
+  "novel/novel/201212/18232308/up_down.htm",
+  "novel/novel/200407/31143808/yakudoshi.htm",
+  "novel/novel/201403/08150815/maidforest.htm",
+  "novel/novel/kayo_chan/kayo_chan51.html",
+  "novel/novel/201212/18232308/trickstar.htm",
+  "novel/novel/200105/08212223/opencampus.htm",
+  "novel/instruction.html",
+  "novel/200010/20041039/dictionary.html",
+  "novel/200011/03192112/short/ez_doc.html",
+  "novel/200011/15112734/usoita.htm",
+  "novel/200012/10070655/kaworu_by_2_m4.htm",
+  "novel/200012/10070655/kaworu_fx2.html",
+  "novel/200101/14013415/raika-ex1.html",
+  "novel/200101/14013415/raika-ex2.html",
+  "novel/200101/14013415/raika-ex3.html",
+  "novel/200101/14013415/raika-ex5.html",
+  "novel/200101/14013415/raika-ex7.html",
+  "novel/200101/14013415/raika-ex8.html",
+  "novel/200101/14013415/raika-ex9.html",
+  "novel/200101/14013415/kaho01/kaho01.htm",
+  "novel/200101/14013415/raika_kaho_01.html",
+  "novel/200101/14013415/raika-sp1.html",
+  "novel/200101/cargo/raika-chara1.html",
+  "novel/200101/14013415/mikene.html",
+  "novel/200101/14013415/lemo.html",
+  "novel/200101/14013415/raika_kaizoku.htm",
+  "novel/200101/14013415/x-file.html",
+  "novel/200101/14013415/camel01.html",
+  "novel/200101/14013415/camel02.html",
+  "novel/200101/14013415/raika_saori/raika_saori.htm",
+  "novel/200101/14013415/rakijitu.html",
+  "novel/200101/14013415/katteniremotan.htm",
+  "novel/200101/14013415/raika2.html",
+  "novel/200101/14013415/raika11.html",
+  "novel/200101/14013415/doll/doll_star.html",
+  "novel/200101/14013415/doll/doll_star_emergency.html",
+  "novel/200101/14013415/doll/fire_star.html",
+  "novel/200101/14013415/doll/doll_star_survey.html",
+  "novel/200101/14013415/doll/maid-in-strange.html",
+  "novel/200101/14013415/doll/melty.html",
+  "novel/200101/14013415/doll/melty2.html",
+  "novel/200101/14013415/doll/od_ts9.html",
+  "novel/200101/14013415/doll/shadow.html",
+  "novel/200101/raika/index.html",
+  "novel/200104/09010648/rascal02.htm",
+  "novel/200104/09010648/rascal04.htm",
+  "novel/200104/15172112/angels_20.html",
+  "novel/200104/20050818/ts.novels.jp/novel/perky_girl/title.html",
+  "novel/200106/07200912/ohanashi.html",
+  "novel/200106/07200912/ohanashi/an-nyaro2.html",
+  "novel/200112/novel.htm",
+  "novel/200112/20210702/headline.html",
+  "novel/200112/20210702/tsheart01_a.htm",
+  "novel/200112/20210702/tsheart02_1a.htm",
+  "novel/200112/20210702/tsheart02_2a.htm",
+  "novel/200112/20210702/tsheart02_3a.htm",
+  "novel/200112/20210702/tsheart02_4b.htm",
+  "novel/200207/03224430/041_bimyou_roromi_top.htm",
+  "novel/200207/03224430/041_bimyou_roromi07_01.htm",
+  "novel/200209/19204751/ts_novels.htm",
+  "novel/200209/19204751/index.html",
+  "novel/200312/gfs/gfs_index.html",
+  "novel/200403/06092712/drp07.htm",
+  "novel/200403/06092712/drp08.htm",
+  "novel/200403/06092712/drp09.htm",
+  "novel/200403/06092712/drp10.htm",
+  "novel/200403/06092712/drp11.htm",
+  "novel/200403/06092712/drp12.htm",
+  "novel/200403/06092712/drp13.htm",
+  "novel/200403/06092712/drp14.htm",
+  "novel/200403/06092712/drp15.htm",
+  "novel/200403/06092712/drp16.htm",
+  "novel/200403/06092712/drp17.htm",
+  "novel/200403/06092712/drp18.htm",
+  "novel/200403/06092712/drp19.htm",
+  "novel/200403/06092712/drp20.htm",
+  "novel/200403/06092712/drp21.htm",
+  "novel/200403/06092712/drp22.htm",
+  "novel/200403/06092712/drp23.htm",
+  "novel/200403/06092712/drp24.htm",
+  "novel/200403/06092712/drp25.htm",
+  "novel/200403/06092712/drp26.htm",
+  "novel/200403/06092712/drp27.htm",
+  "novel/200501/24190306/index.html",
+  "novel/200508/27023833/alche04.htm",
+  "novel/annketo.html",
+  "novel/200611/01223326/6.html",
+  "novel/200611/01223326/8.html",
+  "novel/200611/01223326/5.html",
+  "novel/200611/01223326/7.html",
+  "novel/200611/01223326/1.html",
+  "novel/200611/01223326/syoukai.html",
+  "novel/200611/21212001/darkhunter.htm",
+  "novel/200703/12213133/tsheart2_01.htm",
+  "novel/200703/12213133/headline.html",
+  "novel/200703/16205836/masumi/t_spirit2.htm",
+  "novel/200703/16205836/nikushoku.htm",
+  "novel/200703/16205836/sara01.htm",
+  "novel/200703/16205836/robo.html",
+  "novel/200703/16205836/d_up_boy01b.htm",
+  "novel/200703/16205836/sara_atogaki.htm",
+  "novel/200703/16205836/pls_c_file.htm",
+  "novel/200703/16205836/pls01a.htm",
+  "novel/200703/16205836/pls01b.htm",
+  "novel/200703/16205836/pls01c.htm",
+  "novel/200703/16205836/pls01d.htm",
+  "novel/200703/16205836/plsnote01.htm",
+  "novel/200703/16205836/pls02a.htm",
+  "novel/200703/16205836/pls02b.htm",
+  "novel/200703/16205836/pls02c.htm",
+  "novel/200703/16205836/pls02d.htm",
+  "novel/200703/16205836/plsnote02.htm",
+  "novel/200703/16205836/pls03a.htm",
+  "novel/200703/16205836/pls03b.htm",
+  "novel/200703/16205836/pls03c.htm",
+  "novel/200703/16205836/pls03d.htm",
+  "novel/200703/16205836/plsnote03.htm",
+  "novel/200703/16205836/pls04a.htm",
+  "novel/200703/16205836/pls04b.htm",
+  "novel/200703/16205836/pls04c.htm",
+  "novel/200703/16205836/pls04d.htm",
+  "novel/200703/16205836/plsnote04.htm",
+  "novel/200703/16205836/pls05c.htm",
+  "novel/200703/16205836/pls05d.htm",
+  "novel/200703/16205836/plsnote05.htm",
+  "novel/200703/16205836/pls06a.htm",
+  "novel/200703/16205836/pls06b.htm",
+  "novel/200703/16205836/pls06c.htm",
+  "novel/200703/16205836/pls06d.htm",
+  "novel/200703/16205836/plsnote06.htm",
+  "novel/200703/16205836/pls07a.htm",
+  "novel/200703/16205836/pls07b.htm",
+  "novel/200703/16205836/pls07c.htm",
+  "novel/200703/16205836/pls07d.htm",
+  "novel/200703/16205836/plsnote07.htm",
+  "novel/200703/16205836/pls08a.htm",
+  "novel/200703/16205836/pls08b.htm",
+  "novel/200703/16205836/pls08c.htm",
+  "novel/200703/16205836/pls08d.htm",
+  "novel/200703/16205836/plsnote08.htm",
+  "novel/200703/16205836/pls09a.htm",
+  "novel/200703/16205836/pls09b.htm",
+  "novel/200703/16205836/pls09c.htm",
+  "novel/200703/16205836/pls09d.htm",
+  "novel/200703/16205836/pls09e.htm",
+  "novel/200703/16205836/pls09f.htm",
+  "novel/200703/16205836/plsnote09.htm",
+  "novel/200703/16205836/pls10a.htm",
+  "novel/200703/16205836/pls10b.htm",
+  "novel/200703/16205836/pls10c.htm",
+  "novel/200703/16205836/pls10d.htm",
+  "novel/200703/16205836/plsnote10.htm",
+  "novel/200703/16205836/pls11a.htm",
+  "novel/200703/16205836/pls11b.htm",
+  "novel/200703/16205836/pls11c.htm",
+  "novel/200703/16205836/pls11d.htm",
+  "novel/200703/16205836/plsnote11.htm",
+  "novel/200703/16205836/pls12a.htm",
+  "novel/200703/16205836/pls12b.htm",
+  "novel/200703/16205836/pls12c.htm",
+  "novel/200703/16205836/pls12d.htm",
+  "novel/200703/16205836/plsnote12.htm",
+  "novel/200703/16205836/pls13a.htm",
+  "novel/200703/16205836/pls13b.htm",
+  "novel/200703/16205836/pls13c.htm",
+  "novel/200703/16205836/pls13d.htm",
+  "novel/200703/16205836/plsnote13.htm",
+  "novel/200703/16205836/pls14a.htm",
+  "novel/200703/16205836/pls14b.htm",
+  "novel/200703/16205836/pls14c.htm",
+  "novel/200703/16205836/pls14d.htm",
+  "novel/200703/16205836/plsnote14.htm",
+  "novel/200703/16205836/pls15a.htm",
+  "novel/200703/16205836/pls15b.htm",
+  "novel/200703/16205836/pls15c.htm",
+  "novel/200703/16205836/pls15d.htm",
+  "novel/200703/16205836/plsnote15.htm",
+  "novel/200703/16205836/pls16a.htm",
+  "novel/200703/16205836/pls16b.htm",
+  "novel/200703/16205836/plsnote16.htm",
+  "novel/200703/16205836/pls17a.htm",
+  "novel/200703/16205836/pls17b.htm",
+  "novel/200703/16205836/pls17c.htm",
+  "novel/200703/16205836/pls17d.htm",
+  "novel/200703/16205836/plsnote17.htm",
+  "novel/200703/16205836/pls18a.htm",
+  "novel/200703/16205836/pls18b.htm",
+  "novel/200703/16205836/pls18c.htm",
+  "novel/200703/16205836/pls18d.htm",
+  "novel/200703/16205836/plsnote18.htm",
+  "novel/200703/16205836/pls19b.htm",
+  "novel/200703/16205836/pls19e.htm",
+  "novel/200703/16205836/pls19f.htm",
+  "novel/200703/16205836/plsnote19.htm",
+  "novel/200703/16205836/pls20a.htm",
+  "novel/200703/16205836/pls20b.htm",
+  "novel/200703/16205836/pls20c.htm",
+  "novel/200703/16205836/pls20d.htm",
+  "novel/200703/16205836/pls20e.htm",
+  "novel/200703/16205836/plsnote20.htm",
+  "novel/200703/16205836/pls21a.htm",
+  "novel/200703/16205836/pls21b.htm",
+  "novel/200703/16205836/pls21c.htm",
+  "novel/200703/16205836/pls21d.htm",
+  "novel/200703/16205836/plsnote21.htm",
+  "novel/200703/16205836/pls_cdprot.htm",
+  "novel/200703/16205836/pls22c.htm",
+  "novel/200703/johdan/d_upboy05.htm",
+  "novel/200703/16205836/otanoshimi.html",
+  "novel/200703/16205836/jinbocho.html",
+  "novel/200703/16205836/shinbashi.html",
+  "novel/200703/16205836/shinjuku.html",
+  "novel/200703/16205836/osaka.html",
+  "novel/200703/16205836/shinbashi2.html",
+  "novel/200703/16205836/shinbashiaki02a.html",
+  "novel/200703/16205836/shinbashiaki02b.html",
+  "novel/200703/16205836/shinbashiaki03.html",
+  "novel/200703/16205836/nekorurisan.html",
+  "novel/200703/16205836/seikimatsu.html",
+  "novel/200703/16205836/ikebukuro.html",
+  "novel/200703/16205836/cos0120.html",
+  "novel/200703/16205836/cos0121.html",
+  "novel/200703/16205836/isshunen.html",
+  "novel/200703/16205836/ohanami.html",
+  "novel/200703/16205836/ohanami2.html",
+  "novel/200703/16205836/matsuri1.html",
+  "novel/200703/16205836/matsuri2.html",
+  "novel/200703/16205836/matsuri3.html",
+  "novel/200703/16205836/matsuri4.html",
+  "novel/200703/16205836/cos.html",
+  "novel/200703/16205836/nagoya01.html",
+  "novel/200703/16205836/nagatacho01.html",
+  "novel/200703/16205836/yokohama.html",
+  "novel/200703/16205836/boso01.html",
+  "novel/200703/16205836/kasai.html",
+  "novel/200703/16205836/ikebukuro02.html",
+  "novel/200703/16205836/birth.html",
+  "novel/200703/16205836/tour00.html",
+  "novel/200703/16205836/tour01.html",
+  "novel/200703/16205836/tour02.html",
+  "novel/200703/16205836/live.html",
+  "novel/200703/16205836/ueno.html",
+  "novel/200703/16205836/nenmatsu.htm",
+  "novel/200703/16205836/nenmatsu02.htm",
+  "novel/200703/16205836/yokohama02.htm",
+  "novel/200703/16205836/banzest.htm",
+  "novel/200703/16205836/yui.htm",
+  "novel/200703/16205836/shinbashi0203.htm",
+  "novel/200703/16205836/nagoya02.htm",
+  "novel/200703/16205836/banzest02.htm",
+  "novel/200703/16205836/matsuri2a.htm",
+  "novel/200703/16205836/matsuri2b.htm",
+  "novel/200703/16205836/matsuri2c.htm",
+  "novel/200703/16205836/matsuri2d.htm",
+  "novel/200703/16205836/tamachi.htm",
+  "novel/200703/16205836/shibuya.htm",
+  "novel/200703/16205836/nikoniko01.htm",
+  "novel/200703/16205836/nikoniko02.htm",
+  "novel/200703/16205836/nikoniko03.htm",
+  "novel/200703/16205836/nikoniko04.htm",
+  "novel/200703/16205836/shinbashi200212.htm",
+  "novel/200703/16205836/ueno02.htm",
+  "novel/200703/16205836/teaparty01a.htm",
+  "novel/200703/16205836/teaparty01b.htm",
+  "novel/200703/16205836/teaparty01c.htm",
+  "novel/200703/16205836/teaparty01d.htm",
+  "novel/200703/16205836/daikanshasai01a.htm",
+  "novel/200703/16205836/daikanshasai01b.htm",
+  "novel/200703/16205836/daikanshasai01c.htm",
+  "novel/200703/16205836/daikanshasai01d.htm",
+  "novel/200703/16205836/giants.htm",
+  "novel/200703/16205836/shinbashi200312.htm",
+  "novel/200703/16205836/ohanami04.htm",
+  "novel/200703/16205836/suisui01.htm",
+  "novel/200703/16205836/suisui02.htm",
+  "novel/200703/16205836/suisui03.htm",
+  "novel/200703/16205836/suisui04.htm",
+  "novel/200703/16205836/nenmatsu04.htm",
+  "novel/200703/16205836/ohanami05.htm",
+  "novel/200703/16205836/sendai.htm",
+  "novel/200703/16205836/h17.htm",
+  "novel/200703/16205836/okumaho.htm",
+  "novel/200703/16205836/nenmatsu05.htm",
+  "novel/200703/16205836/matsuri2006.htm",
+  "novel/200703/16205836/comic70.htm",
+  "novel/200703/16205836/ohanami07.htm",
+  "novel/200703/16205836/iidabashi.htm",
+  "novel/200703/16205836/sakae.htm",
+  "novel/200703/16205836/hirukara_yukara.htm",
+  "novel/200703/16205836/ohanami08.htm",
+  "novel/200703/16205836/wild_s.htm",
+  "novel/200703/16205836/hiroshima.htm",
+  "novel/200703/16205836/ssm.htm",
+  "novel/200703/16205836/comic75.htm",
+  "novel/200703/16205836/shin-nenkai2009.htm",
+  "novel/200703/16205836/miyazaki090202.htm",
+  "novel/200703/16205836/hirukara_yukara_03.htm",
+  "novel/200703/16205836/ohanami09.htm",
+  "novel/200703/16205836/ws_090503.htm",
+  "novel/200703/16205836/gundam2009.htm",
+  "novel/200703/16205836/shinbashi200908.htm",
+  "novel/200703/16205836/comic76.htm",
+  "novel/200703/16205836/premiam_tokyo01.htm",
+  "novel/200703/16205836/hatsuwarai.htm",
+  "novel/200703/16205836/hirukara_yukara04.htm",
+  "novel/200703/16205836/funwarilive2010.htm",
+  "novel/200703/16205836/hirukara_sp2011a.htm",
+  "novel/200703/16205836/hs17.htm",
+  "novel/200703/16205836/funwarilive2013.htm",
+  "novel/200703/16205836/comic84.htm",
+  "novel/200703/16205836/event20131103.htm",
+  "novel/200703/16205836/comic85.htm",
+  "novel/200703/16205836/kyoto.htm",
+  "novel/200703/16205836/one1gp.htm",
+  "novel/200703/16205836/comic86.htm",
+  "novel/200703/16205836/ws_140822.htm",
+  "novel/200703/16205836/daibounen-kai.htm",
+  "novel/200703/16205836/akane_f_birthday2015.htm",
+  "novel/200703/16205836/ajisai2015.htm",
+  "novel/200703/16205836/comic88.htm",
+  "novel/200703/16205836/funwarilive2015.htm",
+  "novel/200703/16205836/sendai2016.htm",
+  "novel/200703/16205836/seventees_20161224.htm",
+  "novel/200703/16205836/akane_f_birthday2017.htm",
+  "novel/200703/16205836/seventeens_20170611.htm",
+  "novel/200703/16205836/kanshasai20170702.htm",
+  "novel/200703/16205836/comic92.htm",
+  "novel/200703/16205836/birthday_tea_party.htm",
+  "novel/200703/16205836/seventeens_20171216.htm",
+  "novel/200703/16205836/comic94.htm",
+  "novel/200703/16205836/seventeens_20180826.htm",
+  "novel/200703/16205836/kikuko_30th.htm",
+  "novel/200703/16205836/akahono_happy20181222.htm",
+  "novel/200703/16205836/comic95.htm",
+  "novel/200703/16205836/akane_f_birthday2019.htm",
+  "novel/200703/16205836/akane_f_20190630.htm",
+  "novel/200703/16205836/event20191020.htm",
+  "novel/200703/16205836/hunter.htm",
+  "novel/200703/16205836/hunter55.htm",
+  "novel/200703/16205836/futaba03.htm",
+  "novel/200703/16205836/kayo_ex59.htm",
+  "novel/200703/16205836/hunter_minako_j.htm",
+  "novel/200703/16205836/hunter_karen_j.htm",
+  "novel/200703/16205836/hunter_akiba_f&m.htm",
+  "novel/200703/16205836/hunter_akiba_j00.htm",
+  "novel/200703/16205836/yuusuke.html",
+  "novel/200703/16205836/riderworld02.htm",
+  "novel/200703/16205836/riderworld03.htm",
+  "novel/200703/16205836/heroworld04.htm",
+  "novel/200703/16205836/cranbon.htm",
+  "novel/200703/16205836/hero2011.htm",
+  "novel/200703/16205836/yumedome2013.htm",
+  "novel/200703/16205836/masked_riders01.htm",
+  "novel/200703/16205836/masked_riders02.htm",
+  "novel/200703/16205836/ga2_0.htm",
+  "novel/200703/16205836/ga3_0.htm",
+  "novel/200703/16205836/ga4_00.htm",
+  "novel/200703/16205836/gaex00.htm",
+  "novel/200703/16205836/seiyu.htm",
+  "novel/200703/16205836/loon0100.htm",
+  "novel/200703/16205836/c88tokusetsu.htm",
+  "novel/200703/16205836/tenji.htm",
+  "novel/200703/16205836/toukou.htm",
+  "novel/200703/16205836/omc_g01.htm",
+  "novel/200703/16205836/omc_g02.htm",
+  "novel/200703/16205836/omc_g03.htm",
+  "novel/200703/16205836/omc_g04.htm",
+  "novel/200703/16205836/omc_g05.htm",
+  "novel/200703/16205836/omc_g06.htm",
+  "novel/200703/16205836/omc_g07.htm",
+  "novel/200703/16205836/omc_g08.htm",
+  "novel/200703/16205836/omc_g09.htm",
+  "novel/200703/16205836/omc_g10.htm",
+  "novel/200703/16205836/omc_g11.htm",
+  "novel/200703/16205836/omc_g12.htm",
+  "novel/200703/16205836/omc_g13.htm",
+  "novel/200703/16205836/omc_g14.htm",
+  "novel/200703/16205836/omc_g15.htm",
+  "novel/200703/16205836/omc_g16.htm",
+  "novel/200703/16205836/omc_g17.htm",
+  "novel/200703/16205836/omc_g18.htm",
+  "novel/200703/16205836/omc_g19.htm",
+  "novel/200703/16205836/omc_g20.htm",
+  "novel/200703/16205836/omc_g21.htm",
+  "novel/200703/16205836/omc_g22.htm",
+  "novel/200703/16205836/omc_g23.htm",
+  "novel/200703/16205836/omc_g24.htm",
+  "novel/200703/16205836/omc_g25.htm",
+  "novel/200703/16205836/omc_g26.htm",
+  "novel/200703/16205836/omc_g27.htm",
+  "novel/200703/16205836/omc_g28.htm",
+  "novel/200703/16205836/omc_g29.htm",
+  "novel/200703/16205836/omc_g30.htm",
+  "novel/200703/16205836/omc_g31.htm",
+  "novel/200703/16205836/omc_g32.htm",
+  "novel/200703/16205836/omc_g33.htm",
+  "novel/200703/16205836/omc_g34.htm",
+  "novel/200703/16205836/omc_g35.htm",
+  "novel/200703/16205836/omc_g36.htm",
+  "novel/200703/16205836/omc_g37.htm",
+  "novel/200703/16205836/omc_g38.htm",
+  "novel/200703/16205836/omc_g39.htm",
+  "novel/200703/16205836/omc_g40.htm",
+  "novel/200703/16205836/omc_g41.htm",
+  "novel/200703/16205836/omc_g43.htm",
+  "novel/200703/16205836/omc_g44.htm",
+  "novel/200703/16205836/omc_g45.htm",
+  "novel/200703/16205836/omc_g46.htm",
+  "novel/200703/16205836/illust_g01.htm",
+  "novel/200703/16205836/illust_g02.htm",
+  "novel/200703/16205836/illust_g03.htm",
+  "novel/200703/16205836/illust_g04.htm",
+  "novel/200703/16205836/illust_g05.htm",
+  "novel/200703/16205836/illust_g06.htm",
+  "novel/200703/16205836/illust_g07.htm",
+  "novel/200703/16205836/illust_g08.htm",
+  "novel/200703/16205836/illust_g09.htm",
+  "novel/200703/16205836/event2008_main.htm",
+  "novel/200703/16205836/presents.htm",
+  "novel/200703/16205836/bbs_a01.html",
+  "novel/200703/16205836/bbs_a02.html",
+  "novel/200703/16205836/bbs_a03.html",
+  "novel/200703/16205836/bbs_a04.html",
+  "novel/200703/16205836/robo01.htm",
+  "novel/200703/16205836/robo02.htm",
+  "novel/200703/16205836/robo03.htm",
+  "novel/200703/16205836/s_robo.htm",
+  "novel/200703/16205836/manga.htm",
+  "novel/200703/16205836/touhyou01.htm",
+  "novel/200703/16205836/touhyou02.htm",
+  "novel/200703/16205836/touhyou03b.htm",
+  "novel/200703/16205836/touhyou2006.htm",
+  "novel/200703/16205836/touhyou_w.htm",
+  "novel/200703/16205836/d_up_boy01.htm",
+  "novel/200703/16205836/d_up_boy02.htm",
+  "novel/200703/16205836/d_upboy/d_upboy03.htm",
+  "novel/200703/16205836/dress_up_boy04a2.htm",
+  "novel/200703/16205836/dress_up_boy04b2.htm",
+  "novel/200703/16205836/d_upboy06.htm",
+  "novel/200703/16205836/d_upboy2004sp.htm",
+  "novel/200703/16205836/dressup_boy6.5.htm",
+  "novel/200703/16205836/d_up6.5/d_upboy6_5.htm",
+  "novel/200703/16205836/d_up_boy07.htm",
+  "novel/200703/16205836/d_upboy_ex.htm",
+  "novel/200703/16205836/dressup_boy08.htm",
+  "novel/200703/16205836/dupboy/dressup_boy08.htm",
+  "novel/200703/16205836/dressup_boy09a.htm",
+  "novel/200703/16205836/tsukasa/d_upboy09.htm",
+  "novel/200703/16205836/dress_up_boy10j.htm",
+  "novel/200703/16205836/d_upboy/d_upboy10.htm",
+  "novel/200703/16205836/dress_up_boy11j.htm",
+  "novel/200703/16205836/d_upboy11/d_upboy11.htm",
+  "novel/200703/16205836/dress_up_boy12j.htm",
+  "novel/200703/16205836/dress_up_boy13j.htm",
+  "novel/200703/16205836/dress_up_boy_2013.htm",
+  "novel/200703/16205836/jt_10th.htm",
+  "novel/200703/16205836/gamesystem.html",
+  "novel/200703/16205836/instcard.html",
+  "novel/200703/16205836/production.html",
+  "novel/200703/16205836/paro00.html",
+  "novel/200703/16205836/intro1.html",
+  "novel/200703/16205836/intro2.html",
+  "novel/200703/16205836/act01a.html",
+  "novel/200703/16205836/act01b.html",
+  "novel/200703/16205836/act01c.html",
+  "novel/200703/16205836/act01d.html",
+  "novel/200703/16205836/act01e.html",
+  "novel/200703/16205836/act01f.html",
+  "novel/200703/16205836/act02a.html",
+  "novel/200703/16205836/act02b.html",
+  "novel/200703/16205836/act02c.html",
+  "novel/200703/16205836/act02d.html",
+  "novel/200703/16205836/act03a.html",
+  "novel/200703/16205836/act03b.html",
+  "novel/200703/16205836/act03c.html",
+  "novel/200703/16205836/act03d.html",
+  "novel/200703/16205836/act04a.html",
+  "novel/200703/16205836/act04b.html",
+  "novel/200703/16205836/act04c.html",
+  "novel/200703/16205836/act04d.html",
+  "novel/200703/16205836/act05a.html",
+  "novel/200703/16205836/act05b.html",
+  "novel/200703/16205836/act05c.html",
+  "novel/200703/16205836/act05d.html",
+  "novel/200703/16205836/act06a.html",
+  "novel/200703/16205836/act06b.html",
+  "novel/200703/16205836/act06c.html",
+  "novel/200703/16205836/act06d.html",
+  "novel/200703/16205836/act07a.html",
+  "novel/200703/16205836/act07b.html",
+  "novel/200703/16205836/act07c.html",
+  "novel/200703/16205836/act07d.html",
+  "novel/200703/16205836/act08a.html",
+  "novel/200703/16205836/act08b.html",
+  "novel/200703/16205836/act08c.html",
+  "novel/200703/16205836/act08d.html",
+  "novel/200703/16205836/act09a.html",
+  "novel/200703/16205836/act09b.html",
+  "novel/200703/16205836/act09c.html",
+  "novel/200703/16205836/act09d.html",
+  "novel/200703/16205836/act10c.html",
+  "novel/200703/16205836/act10d.html",
+  "novel/200703/16205836/act11a.html",
+  "novel/200703/16205836/act11b.html",
+  "novel/200703/16205836/act11c.html",
+  "novel/200703/16205836/act11d.html",
+  "novel/200703/16205836/act12a.html",
+  "novel/200703/16205836/act12b.html",
+  "novel/200703/16205836/act12c.html",
+  "novel/200703/16205836/act12d.html",
+  "novel/200703/16205836/act13a.html",
+  "novel/200703/16205836/act13b.html",
+  "novel/200703/16205836/act13c.html",
+  "novel/200703/16205836/act14a.html",
+  "novel/200703/16205836/act14b.htm",
+  "novel/200703/16205836/act14c.htm",
+  "novel/200703/16205836/act14d.htm",
+  "novel/200703/16205836/act14e.htm",
+  "novel/200703/16205836/act15a.htm",
+  "novel/200703/16205836/act15b.htm",
+  "novel/200703/16205836/act16a.htm",
+  "novel/200703/16205836/act16b.htm",
+  "novel/200703/16205836/act16c.htm",
+  "novel/200703/16205836/act16d.htm",
+  "novel/200703/16205836/act17a.htm",
+  "novel/200703/16205836/act17b.htm",
+  "novel/200703/16205836/act17c.htm",
+  "novel/200703/16205836/act17d.htm",
+  "novel/200703/16205836/act18a.htm",
+  "novel/200703/16205836/act18b.htm",
+  "novel/200703/16205836/act19a.htm",
+  "novel/200703/16205836/act20a.htm",
+  "novel/200703/16205836/act20b.htm",
+  "novel/200703/16205836/act20c.htm",
+  "novel/200703/16205836/act20d.htm",
+  "novel/200703/16205836/act21a.htm",
+  "novel/200703/16205836/act21b.htm",
+  "novel/200703/16205836/act21c.htm",
+  "novel/200703/16205836/act21d.htm",
+  "novel/200703/16205836/act22a.htm",
+  "novel/200703/16205836/act22b.htm",
+  "novel/200703/16205836/act22c.htm",
+  "novel/200703/16205836/act22d.htm",
+  "novel/200703/16205836/act23a.htm",
+  "novel/200703/16205836/act23b.htm",
+  "novel/200703/16205836/act23c.htm",
+  "novel/200703/16205836/act23d.htm",
+  "novel/200703/16205836/act24a.htm",
+  "novel/200703/16205836/act24b.htm",
+  "novel/200703/16205836/act24c.htm",
+  "novel/200703/16205836/act24d.htm",
+  "novel/200703/16205836/act26a.htm",
+  "novel/200703/16205836/act26b.htm",
+  "novel/200703/16205836/act26c.htm",
+  "novel/200703/16205836/act26d.htm",
+  "novel/200703/16205836/act27a.htm",
+  "novel/200703/16205836/act27b.htm",
+  "novel/200703/16205836/act27c.htm",
+  "novel/200703/16205836/act27d.htm",
+  "novel/200703/16205836/act28a.htm",
+  "novel/200703/16205836/act28b.htm",
+  "novel/200703/16205836/act28c.htm",
+  "novel/200703/16205836/act28d.htm",
+  "novel/200703/16205836/act29a.htm",
+  "novel/200703/16205836/act29b.htm",
+  "novel/200703/16205836/act29c.htm",
+  "novel/200703/16205836/act29d.htm",
+  "novel/200703/16205836/act30a.htm",
+  "novel/200703/16205836/act30b.htm",
+  "novel/200703/16205836/act30c.htm",
+  "novel/200703/16205836/act30d.htm",
+  "novel/200703/16205836/act31c.htm",
+  "novel/200703/16205836/act32a.htm",
+  "novel/200703/16205836/act32b.htm",
+  "novel/200703/16205836/act32c.htm",
+  "novel/200703/16205836/act32d.htm",
+  "novel/200703/16205836/act33a.htm",
+  "novel/200703/16205836/act33b.htm",
+  "novel/200703/16205836/act33c.htm",
+  "novel/200703/16205836/act33d.htm",
+  "novel/200703/16205836/act34a.htm",
+  "novel/200703/16205836/act34b.htm",
+  "novel/200703/16205836/act34c.htm",
+  "novel/200703/16205836/act34d.htm",
+  "novel/200703/16205836/act35c.htm",
+  "novel/200703/16205836/act35d.htm",
+  "novel/200703/16205836/act36a.htm",
+  "novel/200703/16205836/act36b.htm",
+  "novel/200703/16205836/act36c.htm",
+  "novel/200703/16205836/act36d.htm",
+  "novel/200703/16205836/act37c.htm",
+  "novel/200703/16205836/act37d.htm",
+  "novel/200703/16205836/act38a.htm",
+  "novel/200703/16205836/act38b.htm",
+  "novel/200703/16205836/act38c.htm",
+  "novel/200703/16205836/act38d.htm",
+  "novel/200703/16205836/act39a.htm",
+  "novel/200703/16205836/act39b.htm",
+  "novel/200703/16205836/act40a.htm",
+  "novel/200703/16205836/act40b.htm",
+  "novel/200703/16205836/act40c.htm",
+  "novel/200703/16205836/act40d.htm",
+  "novel/200703/16205836/act41a.htm",
+  "novel/200703/16205836/act41b.htm",
+  "novel/200703/16205836/act41c.htm",
+  "novel/200703/16205836/act41d.htm",
+  "novel/200703/16205836/act42a.htm",
+  "novel/200703/16205836/act42b.htm",
+  "novel/200703/16205836/act42c.htm",
+  "novel/200703/16205836/act42d.htm",
+  "novel/200703/16205836/act43a.htm",
+  "novel/200703/16205836/act43b.htm",
+  "novel/200703/16205836/act43c.htm",
+  "novel/200703/16205836/act43d.htm",
+  "novel/200703/16205836/act44a.htm",
+  "novel/200703/16205836/act44b.htm",
+  "novel/200703/16205836/act44c.htm",
+  "novel/200703/16205836/act44d.htm",
+  "novel/200703/16205836/pp_ex.htm",
+  "novel/200703/16205836/pp_ex02a.htm",
+  "novel/200703/16205836/pp_ex02b.htm",
+  "novel/200703/16205836/pp_shinobu.htm",
+  "novel/200703/16205836/panipani_ss.htm",
+  "novel/200703/16205836/panipani_r.htm",
+  "novel/200703/16205836/pp_if01.htm",
+  "novel/200703/16205836/pp_dousoukai.htm",
+  "novel/200703/16205836/panipani2013.htm",
+  "novel/200703/16205836/pp_another_ex.html",
+  "novel/200705/20184554/warikan.html",
+  "novel/200705/20184554/menu1.html",
+  "novel/200705/20184554/menu2.html",
+  "novel/200705/20184554/novel2.html",
+  "novel/200712/22231343/dw_chara.html",
+  "novel/200712/22231343/dw_init1.html",
+  "novel/200712/22231343/dw_init2.html",
+  "novel/200712/22231343/dw_init3.html",
+  "novel/200712/22231343/dw_init4.html",
+  "novel/200712/22231343/dw_init5.html",
+  "novel/200802/18212014/hanabatakeverb.htm",
+  "novel/200802/18212014/pair.htm",
+  "novel/200802/18212014/komifai.htm",
+  "novel/200803/01214225/sclumble_idol_climax.htm",
+  "novel/200803/01214225/josou_j.htm",
+  "novel/200803/09200702/yuuki21.html",
+  "novel/200803/09200702/yuuki13.html",
+  "novel/200803/09200702/yuuki8.html",
+  "novel/200803/02142953/original.html",
+  "novel/200907/19181513/act33b.htm",
+  "novel/200907/19181513/maria.htm",
+  "novel/200907/19181513/shihori.htm",
+  "novel/200907/19181513/misuzu.htm",
+  "novel/200907/19181513/yuusuke_m.htm",
+  "novel/200907/19181513/hiroo.htm",
+  "novel/200907/johdan/d_upboy05.htm",
+  "novel/200907/19181513/tanoshiikoto.html",
+  "novel/200907/19181513/otanoshimi.html",
+  "novel/200907/19181513/jinbocho.html",
+  "novel/200907/19181513/shinbashi.html",
+  "novel/200907/19181513/shinjuku.html",
+  "novel/200907/19181513/osaka.html",
+  "novel/200907/19181513/shinbashi2.html",
+  "novel/200907/19181513/shinbashiaki02a.html",
+  "novel/200907/19181513/shinbashiaki02b.html",
+  "novel/200907/19181513/shinbashiaki03.html",
+  "novel/200907/19181513/nekorurisan.html",
+  "novel/200907/19181513/seikimatsu.html",
+  "novel/200907/19181513/ikebukuro.html",
+  "novel/200907/19181513/cos0120.html",
+  "novel/200907/19181513/cos0121.html",
+  "novel/200907/19181513/isshunen.html",
+  "novel/200907/19181513/ohanami.html",
+  "novel/200907/19181513/ohanami2.html",
+  "novel/200907/19181513/matsuri1.html",
+  "novel/200907/19181513/matsuri2.html",
+  "novel/200907/19181513/matsuri3.html",
+  "novel/200907/19181513/matsuri4.html",
+  "novel/200907/19181513/cos.html.html",
+  "novel/200907/19181513/nagoya01.html",
+  "novel/200907/19181513/nagatacho01.html",
+  "novel/200907/19181513/yokohama.html",
+  "novel/200907/19181513/boso01.html",
+  "novel/200907/19181513/kasai.html",
+  "novel/200907/19181513/ikebukuro02.html",
+  "novel/200907/19181513/birth.html",
+  "novel/200907/19181513/tour00.html",
+  "novel/200907/19181513/tour01.html",
+  "novel/200907/19181513/tour02.html",
+  "novel/200907/19181513/live.html",
+  "novel/200907/19181513/futaba01b3.htm",
+  "novel/200907/19181513/kuuga00.htm",
+  "novel/200907/19181513/agito00.htm",
+  "novel/200907/19181513/yuusuke.html",
+  "novel/200907/19181513/riderworld02.htm",
+  "novel/200907/19181513/ga00.htm",
+  "novel/200907/19181513/ki01.html",
+  "novel/200907/19181513/ikari01.html",
+  "novel/200907/johdan/alice_holiday.htm",
+  "novel/200907/19181513/gamesystem.html",
+  "novel/200907/19181513/instcard.html",
+  "novel/200907/19181513/production.html",
+  "novel/200907/19181513/paro00.html",
+  "novel/200907/19181513/guest.html",
+  "novel/200907/19181513/intro1.html",
+  "novel/200907/19181513/intro2.html",
+  "novel/200907/19181513/act01a.html",
+  "novel/200907/19181513/act01b.html",
+  "novel/200907/19181513/act01c.html",
+  "novel/200907/19181513/act01d.html",
+  "novel/200907/19181513/act01e.html",
+  "novel/200907/19181513/act01f.html",
+  "novel/200907/19181513/act02a.html",
+  "novel/200907/19181513/act02b.html",
+  "novel/200907/19181513/act02c.html",
+  "novel/200907/19181513/act02d.html",
+  "novel/200907/19181513/act03a.html",
+  "novel/200907/19181513/act03b.html",
+  "novel/200907/19181513/act03c.html",
+  "novel/200907/19181513/act03d.html",
+  "novel/200907/19181513/act04a.html",
+  "novel/200907/19181513/act04b.html",
+  "novel/200907/19181513/act04c.html",
+  "novel/200907/19181513/act04d.html",
+  "novel/200907/19181513/act05a.html",
+  "novel/200907/19181513/act05b.html",
+  "novel/200907/19181513/act05c.html",
+  "novel/200907/19181513/act05d.html",
+  "novel/200907/19181513/act06a.html",
+  "novel/200907/19181513/act06b.html",
+  "novel/200907/19181513/act06c.html",
+  "novel/200907/19181513/act06d.html",
+  "novel/200907/19181513/act07a.html",
+  "novel/200907/19181513/act07b.html",
+  "novel/200907/19181513/act07c.html",
+  "novel/200907/19181513/act07d.html",
+  "novel/200907/19181513/act08a.html",
+  "novel/200907/19181513/act08b.html",
+  "novel/200907/19181513/act08c.html",
+  "novel/200907/19181513/act08d.html",
+  "novel/200907/19181513/act09a.html",
+  "novel/200907/19181513/act09b.html",
+  "novel/200907/19181513/act09c.html",
+  "novel/200907/19181513/act09d.html",
+  "novel/200907/19181513/act10a.html",
+  "novel/200907/19181513/act10b.html",
+  "novel/200907/19181513/act10c.html",
+  "novel/200907/19181513/act10d.html",
+  "novel/200907/19181513/act11a.html",
+  "novel/200907/19181513/act11b.html",
+  "novel/200907/19181513/act11c.html",
+  "novel/200907/19181513/act11d.html",
+  "novel/200907/19181513/act12a.html",
+  "novel/200907/19181513/act12b.html",
+  "novel/200907/19181513/act12c.html",
+  "novel/200907/19181513/act12d.html",
+  "novel/200907/19181513/act13a.html",
+  "novel/200907/19181513/act13b.html",
+  "novel/200907/19181513/act13c.html",
+  "novel/200907/19181513/act14a.html",
+  "novel/200907/19181513/act14d.htm",
+  "novel/201005/20141534/vistia_story.htm",
+  "novel/201005/20141534/vistia_chara_main.htm",
+  "novel/201005/20141534/vistia_chara_pixie.htm",
+  "novel/201005/20141534/vistia_chara_character.htm",
+  "novel/201005/20141534/vistia_chara_darks.htm",
+  "novel/201009/16215412/robo.html",
+  "novel/201009/johdan/d_upboy05.htm",
+  "novel/201009/16215412/tanoshiikoto.html",
+  "novel/201009/16215412/otanoshimi.html",
+  "novel/201009/16215412/jinbocho.html",
+  "novel/201009/16215412/shinbashi.html",
+  "novel/201009/16215412/shinjuku.html",
+  "novel/201009/16215412/osaka.html",
+  "novel/201009/16215412/shinbashi2.html",
+  "novel/201009/16215412/shinbashiaki02a.html",
+  "novel/201009/16215412/shinbashiaki02b.html",
+  "novel/201009/16215412/shinbashiaki03.html",
+  "novel/201009/16215412/nekorurisan.html",
+  "novel/201009/16215412/seikimatsu.html",
+  "novel/201009/16215412/ikebukuro.html",
+  "novel/201009/16215412/cos0120.html",
+  "novel/201009/16215412/cos0121.html",
+  "novel/201009/16215412/isshunen.html",
+  "novel/201009/16215412/ohanami.html",
+  "novel/201009/16215412/ohanami2.html",
+  "novel/201009/16215412/matsuri1.html",
+  "novel/201009/16215412/matsuri2.html",
+  "novel/201009/16215412/matsuri3.html",
+  "novel/201009/16215412/matsuri4.html",
+  "novel/201009/16215412/cos.html.html",
+  "novel/201009/16215412/nagoya01.html",
+  "novel/201009/16215412/nagatacho01.html",
+  "novel/201009/16215412/yokohama.html",
+  "novel/201009/16215412/boso01.html",
+  "novel/201009/16215412/kasai.html",
+  "novel/201009/16215412/ikebukuro02.html",
+  "novel/201009/16215412/birth.html",
+  "novel/201009/16215412/tour00.html",
+  "novel/201009/16215412/tour01.html",
+  "novel/201009/16215412/tour02.html",
+  "novel/201009/16215412/live.html",
+  "novel/201009/16215412/futaba01b3.htm",
+  "novel/201009/16215412/kuuga00.htm",
+  "novel/201009/16215412/agito00.htm",
+  "novel/201009/16215412/yuusuke.html",
+  "novel/201009/16215412/riderworld02.htm",
+  "novel/201009/16215412/ga00.htm",
+  "novel/201009/16215412/ki01.html",
+  "novel/201009/16215412/ikari01.html",
+  "novel/201009/johdan/alice_holiday.htm",
+  "novel/201009/16215412/gamesystem.html",
+  "novel/201009/16215412/instcard.html",
+  "novel/201009/16215412/production.html",
+  "novel/201009/16215412/paro00.html",
+  "novel/201009/16215412/guest.html",
+  "novel/201009/16215412/intro1.html",
+  "novel/201009/16215412/intro2.html",
+  "novel/201009/16215412/act01a.html",
+  "novel/201009/16215412/act01b.html",
+  "novel/201009/16215412/act01c.html",
+  "novel/201009/16215412/act01d.html",
+  "novel/201009/16215412/act01e.html",
+  "novel/201009/16215412/act01f.html",
+  "novel/201009/16215412/act02a.html",
+  "novel/201009/16215412/act02b.html",
+  "novel/201009/16215412/act02c.html",
+  "novel/201009/16215412/act02d.html",
+  "novel/201009/16215412/act03a.html",
+  "novel/201009/16215412/act03b.html",
+  "novel/201009/16215412/act03c.html",
+  "novel/201009/16215412/act03d.html",
+  "novel/201009/16215412/act04a.html",
+  "novel/201009/16215412/act04b.html",
+  "novel/201009/16215412/act04c.html",
+  "novel/201009/16215412/act04d.html",
+  "novel/201009/16215412/act05a.html",
+  "novel/201009/16215412/act05b.html",
+  "novel/201009/16215412/act05c.html",
+  "novel/201009/16215412/act05d.html",
+  "novel/201009/16215412/act06a.html",
+  "novel/201009/16215412/act06b.html",
+  "novel/201009/16215412/act06c.html",
+  "novel/201009/16215412/act06d.html",
+  "novel/201009/16215412/act07a.html",
+  "novel/201009/16215412/act07b.html",
+  "novel/201009/16215412/act07c.html",
+  "novel/201009/16215412/act07d.html",
+  "novel/201009/16215412/act08a.html",
+  "novel/201009/16215412/act08b.html",
+  "novel/201009/16215412/act08c.html",
+  "novel/201009/16215412/act08d.html",
+  "novel/201009/16215412/act09a.html",
+  "novel/201009/16215412/act09b.html",
+  "novel/201009/16215412/act09c.html",
+  "novel/201009/16215412/act09d.html",
+  "novel/201009/16215412/act10a.html",
+  "novel/201009/16215412/act10b.html",
+  "novel/201009/16215412/act10c.html",
+  "novel/201009/16215412/act10d.html",
+  "novel/201009/16215412/act11a.html",
+  "novel/201009/16215412/act11b.html",
+  "novel/201009/16215412/act11c.html",
+  "novel/201009/16215412/act11d.html",
+  "novel/201009/16215412/act12a.html",
+  "novel/201009/16215412/act12b.html",
+  "novel/201009/16215412/act12c.html",
+  "novel/201009/16215412/act12d.html",
+  "novel/201009/16215412/act13a.html",
+  "novel/201009/16215412/act13b.html",
+  "novel/201009/16215412/act13c.html",
+  "novel/201009/16215412/act14a.html",
+  "novel/201009/16215412/act14d.htm",
+  "novel/201203/11095224/gfs_bgl_02_2.html",
+  "novel/201203/11095224/gfs_bgl_04_2.html",
+  "novel/201203/11095224/gfs_bgl_05_2.html",
+  "novel/kakusan/one_night/index.html",
+  "novel/kakusan/oyakusoku/index.html",
+  "novel/kakusan/promise/index.html",
+  "novel/kakusan/reiko/index.html",
+  "novel/kayo_chan/yaneura.htm",
+  "novel/perky_girl/perky_girl_3.html",
+  "novel/200505/11202701/temp2.html",
+  "novel/200101/03134828/robotry ex-s.htm"
+ ]
+}

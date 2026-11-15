@@ -21,7 +21,7 @@ const QUARRY = [
   {key: 'singles-a', author: '鈴忌紫・泉谷パーム・南文堂・よしおか', works: 'エクス・マキナ第十二話 / 狂魂3 / 鏡の国の静香 / ＴＳ戒', notes: 'geocities.jp/izumiyapaamu は IA に閉鎖時グラブあり'},
   {key: 'singles-b', author: 'ハクリ・にわたたみ・鴨南蛮・スッス・タッチャン', works: '魔法世界を創ろう！② / ロボ娘は電気羊の夢をみる？第2話 / ジェネシス第1回 / グランス・タスファクト最終奏 / 小悪魔とマッドサイエンティスト', notes: ''},
 ]
-const SP = '/tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad'
+const SP = '<scratchpad>'  // 流すときにそのセッションの scratchpad を入れる (2026-11-15 に伏せた)
 const SCHEMA = {type:'object', properties:{finds:{type:'array', items:{type:'object', properties:{
   work:{type:'string'}, where:{type:'string'}, url:{type:'string'}, kind:{type:'string', description:'full-text / partial / mention-only'},
   staged_path:{type:'string'}, evidence:{type:'string'}}, required:['work','url','kind']}},
@@ -59,7 +59,7 @@ const results = await pipeline(QUARRY,
     return parallel(ft.map(f => () =>
       agent(`敵対的検証: 「喪失作品の全文転載を発見した」という以下の主張を疑って検証せよ。
 ${JSON.stringify(f)}
-手順: url を実際に取得し、(1) 本文が実在し全文か (2) 対象作品と同一か (題名・作者・内容) (3) 少年少女文庫ミラー自体や既回収コンテンツの再発見でないか (/home/takano32/GitHub/ts-novels に既存確認)。怪しければ false。`,
+手順: url を実際に取得し、(1) 本文が実在し全文か (2) 対象作品と同一か (題名・作者・内容) (3) 少年少女文庫ミラー自体や既回収コンテンツの再発見でないか (<repo> に既存確認)。怪しければ false。`,
         {label: `verify:${f.work.slice(0,16)}`, phase: 'Verify',
          schema: {type:'object', properties:{verified:{type:'boolean'}, reason:{type:'string'}}, required:['verified','reason']}})
       .then(v => ({...f, verified: v ? v.verified : false, verify_reason: v ? v.reason : 'verifier-died'}))

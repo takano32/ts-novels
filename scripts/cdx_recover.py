@@ -10,7 +10,7 @@ Output: fetch_manifest.json [{url, ts, path, mime, length}]"""
 import os, re, sys, json, collections
 from urllib.parse import urlsplit, unquote
 
-ROOT = '/home/takano32/GitHub/ts-novels'
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # リポジトリのルート
 
 def host_map(netloc, path):
     """(netloc, path) -> repo top dir + remaining path, or None to skip"""

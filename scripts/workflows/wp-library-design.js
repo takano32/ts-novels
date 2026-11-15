@@ -8,7 +8,7 @@ export const meta = {
   ],
 }
 const BRIEF = `# 課題
-閉鎖TS小説サイト「少年少女文庫」(1999-2021, 復元ミラー /home/takano32/GitHub/ts-novels, GitHub Pages で静的公開中) を
+閉鎖TS小説サイト「少年少女文庫」(1999-2021, 復元ミラー <repo>, GitHub Pages で静的公開中) を
 WordPress 上の「モダンで体系的な作品ライブラリ」として設計する。個人運営(takano32)、非営利の資料保存目的。
 
 # 事前調査の結果 (8視点の実測データ)

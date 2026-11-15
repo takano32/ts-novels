@@ -5,7 +5,7 @@ target, find its catalog entry (lib*.html) and extract title / author /
 homepage / kansou slug. Output JSON grouped by author."""
 import os, re, sys, json, html
 
-ROOT = '/home/takano32/GitHub/ts-novels'
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # リポジトリのルート
 
 def main(missing_json, outfile):
     d = json.load(open(missing_json))

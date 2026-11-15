@@ -113,7 +113,7 @@
         "EMPTY VALUES (marker present, value blank): あらすじ 182 (6.3%), コメント 290 (10.0%), 推薦文 147 (5.1%), ジャンル 238 (8.2%), 種別 326 (11.3%), キーワード 437 (15.1%).",
         "TAXONOMY SIZES: genre 244 distinct (top 学園/コメディ/現代), 種別 187 (変身 64%), keywords 1083 (強制/オレっ娘/ボクっ娘). Fullwidth/halfwidth duplicates exist (SF vs ＳＦ) — NFKC-normalize.",
         "LEGACY transitional lib07–09 schema deltas: extra 【属性】 marker in row 4 (78/84); 【作者様コメント】 variant; '***' placeholders; 2-digit years; 'NN KB'; noteky feedback CGI; 3 early 5-TD tables without 感想 column; 'IMAGE ' prefix before title link on CG works.",
-        "FILES: analysis scripts at /tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad/parse_lib.py; corpus at /home/takano32/GitHub/ts-novels/lib{1..73}.html, legacy /home/takano32/GitHub/ts-novels/lib0{1..9}.html, /home/takano32/GitHub/ts-novels/library.html."
+        "FILES: analysis scripts at <scratchpad>/parse_lib.py; corpus at <repo>/lib{1..73}.html, legacy <repo>/lib0{1..9}.html, <repo>/library.html."
       ]
     },
     "workModel": {
@@ -732,7 +732,7 @@
       ],
       "vocab_assessment": "【判定】3フィールドとも技術的には自由記述(選択式UIの痕跡なし)だが、閉鎖度は明確に異なる。■ジャンル=「慣習的に半閉鎖」: 異なり249語・延べ6,545トークン、上位10語で70.3%・上位30語で90.5%を被覆。実質コア語彙は約20〜30語(学園/コメディ/現代/ファンタジー/SF/アクション/恋愛/青春/不思議/伝奇/不条理/ショートショート等)。ただし「？」付きヘッジ(学園？/コメディ？等22組)、括弧注釈(伝奇（？）)、合成語(アクションコメディ)、一回限りの冗談語(hapax 125語=50.2%、例「世界観ぶち壊しネタ」「（戦記はおあずけ？）」)が混在し、機械的な選択式ではなく作者の自由入力が慣習に従っていた形。■種別=同じく半閉鎖でジャンルより収束が強い: 異なり189語・延べ5,668、上位10語で80.1%・上位30語で93.0%。「変身」だけで延べの43%(2,441)。TS変化の手段/性質を表す軸(変身・人格転移・入れ替わり・憑依・転生・可逆/不可逆等)で、コアは約25語。hapaxには「捕食（丸呑み）」「アイテム（オレンジジュース）」等の注釈付き自由記述。■キーワード=完全な自由記述(タグ): 異なり1,092語・延べ6,495、hapax 655語(60.0%)、上位10語でも36.9%しか被覆せず。固有シリーズ名(華代ちゃん/姫神奇譚/フォスター)、一文ネタ(「建築物の名前に共通点を見つけた方は…」)まで何でも入る。■表記揺れ: (1)全角/半角: SF(417)/ＳＦ(30)、二次創作(72)/２次創作(9)、理解ある姉妹／女友達(17)/理解ある姉妹/女友達(5)、現代？/現代?、１９７０年代/1970年代、ＴＳ熱/TS熱等。(2)？サフィックス揺れ: ジャンル22組・種別15組・キーワード31組(学園？20 vs 学園918等)。(3)類義・異表記: ミステリー35/ミステリ22、ショートショート169/SS19、コメディ754/コメディー5/ギャグ16、学園918/学園物13、時代・歴史10/時代9/歴史8; 種別では人格転移316/入れ替わり103/人体交換9/人格交換8、魔法548/魔術5/魔力56、薬品118/薬5、性転換手術10/手術10/性転換6、医術116/医療3; キーワードではオレっ娘470/おれっ娘7/俺っ娘1、ボクっ娘326/ボクっ子3/僕っ娘1、華代ちゃん212/「華代ちゃん」30/華代ちゃん番外編22、入浴47/お風呂7。■WordPress設計への示唆: ジャンル→正規化マップ(？除去+NFKC+類義統合)を通した約30語のフラットまたは階層タクソノミー、種別→約25語の統制タクソノミー(可逆/不可逆・強制は独立軸として分離検討)、キーワード→標準のpost_tagにそのまま投入(正規化は表記揺れのみ)、が適切。",
       "stats": "{\n  \"files_total_lib_glob\": 138,\n  \"files_with_labels\": 103,\n  \"field_occurrences\": {\"genre\": 3919, \"type\": 3919, \"keyword\": 3918, \"zokusei\": 192},\n  \"distinct_terms\": {\"genre\": 249, \"type\": 189, \"keyword\": 1092, \"zokusei\": 17},\n  \"total_tokens\": {\"genre\": 6545, \"type\": 5668, \"keyword\": 6495, \"zokusei\": 69},\n  \"hapax\": {\"genre\": \"125 (50.2%)\", \"type\": \"90 (47.6%)\", \"keyword\": \"655 (60.0%)\"},\n  \"coverage_top10_top30_pct\": {\"genre\": [70.3, 90.5], \"type\": [80.1, 93.0], \"keyword\": [36.9, 56.7]},\n  \"encoding\": \"全138ファイルUTF-8デコード成功、問題なし\",\n  \"duplication_caveat\": \"分類ブロック延べ3,918のうち約30.6%(1,199)は再掲(ルートのlibNN.htmlと~yays/library/のスナップショット、旧libNN/新libNのページ群が部分重複)。作品リンク+3値でdedupすると2,719ユニークエントリ。dedup後も上位語の順位はほぼ不変(1-2位のコメディ/学園が入れ替わる程度)で、閉鎖性の結論に影響なし。上記の頻度は指示どおり全数(延べ)ベース。\",\n  \"extra_field\": \"第4のラベル【属性】が後期エントリに存在(出現192、うち値ありは僅か、延べ69トークン・17種)。内容はコスチューム系: メイド10/ナース8/ウェディングドレス8/百合6/オレっ娘5/バレリーナ4/バニー4等。キーワード語彙と重複するためWordPressではタグへ統合が妥当。他の【…】ラベル(あらすじ/コメント/推薦文/オススメ作品)は散文でありタクソノミー対象外。\"\n}",
-      "artifacts": "{\n  \"extraction_script\": \"/tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad/extract_taxonomy.py\",\n  \"full_report\": \"/tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad/taxonomy_report.txt\",\n  \"dedup_analysis\": \"/tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad/dedup_check.py\"\n}"
+      "artifacts": "{\n  \"extraction_script\": \"<scratchpad>/extract_taxonomy.py\",\n  \"full_report\": \"<scratchpad>/taxonomy_report.txt\",\n  \"dedup_analysis\": \"<scratchpad>/dedup_check.py\"\n}"
     },
     "authors": {
       "author_count": 399,
@@ -1007,7 +1007,7 @@
       "kansou_breakdown": "{\"bbs_log_files_total\": 294, \"author_series_boards\": 289, \"special_files\": \"bbs@log_.cgi(=感想ボード一覧インデックス、289板のslug→板タイトルの権威マッピングを内包) + 時系列ビュー4本 (_time_1/_time_3/_time_7/_amp_time_7)\", \"catalog_referenced_slugs\": 305, \"matched_with_files\": 272, \"referenced_but_file_missing\": [\"2daime\", \"427\", \"gomagira\", \"gsdm150\", \"hakuri\", \"hiddenseek\", \"hide109\", \"hotaru\", \"isuke\", \"izumiya\", \"kamonanban\", \"kazaguruma\", \"koro\", \"kurogane\", \"namakemono\", \"nekome\", \"niwatatami\", \"rasetsu\", \"rizu\", \"sakiemon\", \"salaryman\", \"saya\", \"soraouka\", \"sts\", \"sussu\", \"tacchan\", \"tekoiruka\", \"u_t_lenge\", \"utanotsuki\", \"yukimatiduki\", \"yuu\", \"yuuma\", \"zock\"], \"referenced_but_missing_count\": 33, \"in_board_index_but_file_lost\": [\"fuu\", \"gomagira\", \"hiddenseek\", \"hide109\", \"isuke\", \"izumiya\", \"kazaguruma\", \"kurogane\", \"rasetsu\", \"rizu\", \"sts\", \"voice\", \"yamadatennju\", \"yuu\"], \"files_not_referenced_from_catalog\": [\"hiku\", \"jiten\", \"k_kadd\", \"karaage\", \"kazematuri_rei\", \"kitou_rei\", \"konoichiba\", \"macfist\", \"memuro_makoto\", \"nanagiri_res_200206064181320\", \"nishi_satoru\", \"satoh_yui\", \"shinkyou\", \"you_\", \"yui\", \"kayo_chan_hunternumber\", \"kaze\"], \"notes\": \"全2,887作品に感想リンクあり(欠落0)。未参照ファイル17本は旧綴り/改名の残骸 (kazematuri_rei↔kazamaturi_rei, k_kadd↔kardy 等)。シリーズ共有板が7つ存在し作者板ではない: kayo_chan(華代ちゃんシリーズ・寄稿者70名超), himekami(姫神奇譚), foster(次元管理人フォスター), relay_novel(リレー小説), delayed(仮面ライターディレイド), 2daime, utanotsuki\"}",
       "identity_notes": "{\"raw_name_strings\": 399, \"own_board_identities\": 297, \"authors_only_on_shared_series_boards\": 31, \"name_variants_via_shared_slug\": \"同一感想板slugを共有する表記ゆれ48組 — WordPress作者アーカイブはslugをキーに統合するのが最適。例: バレット/石積ナラ=baretto(計76作), ＫＥＢＯ/KEBO/けぼ=kebo(計48作), ＭＯＮＤＯ/MONDO=mondo, 大原野山城守武里/池田中務少輔輝里=ohharano, NATO/ＮＡＴＯ(旧まなちゃん)=manachan, ７Ｃｙ, AZY/ＹＺＡ=azy\", \"recommendation\": \"感想板slug(289板)がそのままWPの author slug / 作者アーカイブURLの理想的なキー。共有シリーズ板7つはカテゴリ/シリーズtaxonomyへ、slugなし33作者分は名前からローマ字slugを新規採番\"}",
       "homepage_stats": "{\"authors_with_homepage\": 133, \"distinct_urls\": 175}",
-      "data_files": "{\"script\": \"/tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad/author_inventory.py\", \"full_inventory_json\": \"/tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad/inventory.json (全399名の頻度、作者→slug対応、複数板/共有板の全リスト)\", \"board_index_json\": \"/tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad/board_index.json (289板の slug→板タイトル権威マッピング、出典 /home/takano32/GitHub/ts-novels/~ts/kansou/bbs@log_.cgi)\"}"
+      "data_files": "{\"script\": \"<scratchpad>/author_inventory.py\", \"full_inventory_json\": \"<scratchpad>/inventory.json (全399名の頻度、作者→slug対応、複数板/共有板の全リスト)\", \"board_index_json\": \"<scratchpad>/board_index.json (289板の slug→板タイトル権威マッピング、出典 <repo>/~ts/kansou/bbs@log_.cgi)\"}"
     },
     "community": {
       "kansou": "~ts/kansou/ = 作品感想板 (MiniBBS v10 / Crocus v2.42、UTF-8変換済み)。計3,161ファイル: bbs@log_*.cgi 294本 (クエリ変種除く実質290板)、bbs@res_*.cgi 2,866本、bbs.cgi。板は「作者単位」(例: bbs@log_rurita.cgi =「流離太さん作品 感想掲示板」、<title>に作者名)。投稿ありの板219、空板(「記事はありません.」)75。log内に見える投稿は計1,730件(各板最新100件保持のため)だが、res_*.cgi のファイル名タイムスタンプで数えるとユニーク投稿2,866件 — resページは別時点のクロールで古い投稿も含むため、log+resの和集合をタイムスタンプIDで重複排除すれば2,866件超の投稿が復元可能。期間2002/06〜2013/04。構造は完全に定型: 「[番号]」+件名(font size=4 color=#40c0c0)、「▽ YYYY/MM/DD (曜) HH:MM:SS ▽ 投稿者名」(任意でmailto/URLリンク)、本文(cellpadding=16のtable内 font color=#606060)、返信リンクが res ファイル名(=親投稿ID)。投稿者/日付/件名/本文/メール/URLすべて正規表現で抽出可能 — 構造化パース可能性は高い。ただし板→作品の対応はなく板→作者のみ。作者スラッグ→作者名は各logの<title>、作者→蔵書はlib*.html(74ページが306個のkansou URLを参照)から復元できる。",
@@ -1081,7 +1081,7 @@
       "attempt": 1,
       "lastToolName": "StructuredOutput",
       "lastToolSummary": "CANONICAL SOURCE = new format (MANAGE2.CGI), files lib1.htm…",
-      "promptPreview": "/home/takano32/GitHub/ts-novels は閉鎖サイト「少年少女文庫」(TS小説投稿サイト)の静的復元ミラー。これを WordPress の作品ライブラリに変換する設計のため、目録ページの正確なスキーマを確定せよ。\nlib1.html〜lib30前後 と lib2.html を Python で機械パースし (utf-8)、作品エントリ(<TABLE BORDER=1>ブロック、【あらすじ】含む)の全フィールドを列挙: 題名+本文リンク/作者名+mailto+Homepage/挿絵クレジット(「挿画：」「イラストなし」等の揺れ)/日付形式/サイズKB/感想リンク(~ts/kansou/bbs@log_*.cgi)/あらすじ/コメント/オススメ作品(リンク+作者)/推薦文/ジャンル/種別/キーワード。\n最低5ページ・200エントリをパースし、フィールド出現率・形式の揺れ…",
+      "promptPreview": "<repo> は閉鎖サイト「少年少女文庫」(TS小説投稿サイト)の静的復元ミラー。これを WordPress の作品ライブラリに変換する設計のため、目録ページの正確なスキーマを確定せよ。\nlib1.html〜lib30前後 と lib2.html を Python で機械パースし (utf-8)、作品エントリ(<TABLE BORDER=1>ブロック、【あらすじ】含む)の全フィールドを列挙: 題名+本文リンク/作者名+mailto+Homepage/挿絵クレジット(「挿画：」「イラストなし」等の揺れ)/日付形式/サイズKB/感想リンク(~ts/kansou/bbs@log_*.cgi)/あらすじ/コメント/オススメ作品(リンク+作者)/推薦文/ジャンル/種別/キーワード。\n最低5ページ・200エントリをパースし、フィールド出現率・形式の揺れ…",
       "lastProgressAt": 1788020193151,
       "tokens": 71132,
       "toolCalls": 24,
@@ -1102,7 +1102,7 @@
       "attempt": 1,
       "lastToolName": "StructuredOutput",
       "lastToolSummary": "【シリーズ表現の実態】series.html (完結シリーズ作品一覧, UT…",
-      "promptPreview": "/home/takano32/GitHub/ts-novels (少年少女文庫ミラー) の「作品・シリーズ・話」の構造モデルを確定せよ(WordPress のコンテンツモデル設計のため)。\n調査: (1) series.html のシリーズ一覧構造をパース(シリーズ名→各話リンク?)。(2) novel/YYYYMM/DDHHMMSS/ ディレクトリは作者の投稿単位で複数作品が同居する(例: novel/201212/18232308/ に calendargirl.htm と twins01-03.htm)。ディレクトリ数・1ディレクトリあたりファイル数分布を集計。(3) 同一作品の連載話が別ディレクトリに散る例 (d_upboy 等) を確認。(4) novel/ 直下のフラット時代ファイル(旧世代)の扱い。(5) lib-index-*.html (五十音) と bunrui.htm…",
+      "promptPreview": "<repo> (少年少女文庫ミラー) の「作品・シリーズ・話」の構造モデルを確定せよ(WordPress のコンテンツモデル設計のため)。\n調査: (1) series.html のシリーズ一覧構造をパース(シリーズ名→各話リンク?)。(2) novel/YYYYMM/DDHHMMSS/ ディレクトリは作者の投稿単位で複数作品が同居する(例: novel/201212/18232308/ に calendargirl.htm と twins01-03.htm)。ディレクトリ数・1ディレクトリあたりファイル数分布を集計。(3) 同一作品の連載話が別ディレクトリに散る例 (d_upboy 等) を確認。(4) novel/ 直下のフラット時代ファイル(旧世代)の扱い。(5) lib-index-*.html (五十音) と bunrui.htm…",
       "lastProgressAt": 1788020080335,
       "tokens": 85702,
       "toolCalls": 50,
@@ -1123,7 +1123,7 @@
       "attempt": 1,
       "lastToolName": "StructuredOutput",
       "lastToolSummary": "【判定】3フィールドとも技術的には自由記述(選択式UIの痕跡な…",
-      "promptPreview": "/home/takano32/GitHub/ts-novels (少年少女文庫ミラー) の分類語彙を全数抽出せよ(WordPress タクソノミー設計のため)。\n全 lib*.html (utf-8) から【ジャンル】【種別】【キーワード】の値を Python で全数抽出し、スペース区切りをトークン化して頻度集計。上位50件ずつと、総異なり数・表記揺れ(例: 全角/半角・類義)を報告。ジャンル/種別が閉じた語彙(選択式)か自由記述かを判定。キーワードの自由度も評価。",
+      "promptPreview": "<repo> (少年少女文庫ミラー) の分類語彙を全数抽出せよ(WordPress タクソノミー設計のため)。\n全 lib*.html (utf-8) から【ジャンル】【種別】【キーワード】の値を Python で全数抽出し、スペース区切りをトークン化して頻度集計。上位50件ずつと、総異なり数・表記揺れ(例: 全角/半角・類義)を報告。ジャンル/種別が閉じた語彙(選択式)か自由記述かを判定。キーワードの自由度も評価。",
       "lastProgressAt": 1788019993124,
       "tokens": 56341,
       "toolCalls": 17,
@@ -1144,7 +1144,7 @@
       "attempt": 1,
       "lastToolName": "StructuredOutput",
       "lastToolSummary": "mailto: リンクは目録の作者名セル内に多数残存。正規目録 lib1…",
-      "promptPreview": "/home/takano32/GitHub/ts-novels (少年少女文庫ミラー) の作者インベントリを作れ(WordPress の作者アーカイブ設計のため)。\n全 lib*.html から作者名を全数抽出・頻度集計(上位30と総数)。~ts/kansou/ の bbs@log_*.cgi ファイル一覧から作者別感想板の slug 一覧を取得し、目録の感想リンクとの対応を確認。作者の Homepage リンクの生存性は調べなくてよいが URL パターンを分類(nifty/geocities等)。注意: mailto アドレスは個人情報 — 公開サイトでの扱いの論点として件数だけ報告。",
+      "promptPreview": "<repo> (少年少女文庫ミラー) の作者インベントリを作れ(WordPress の作者アーカイブ設計のため)。\n全 lib*.html から作者名を全数抽出・頻度集計(上位30と総数)。~ts/kansou/ の bbs@log_*.cgi ファイル一覧から作者別感想板の slug 一覧を取得し、目録の感想リンクとの対応を確認。作者の Homepage リンクの生存性は調べなくてよいが URL パターンを分類(nifty/geocities等)。注意: mailto アドレスは個人情報 — 公開サイトでの扱いの論点として件数だけ報告。",
       "lastProgressAt": 1788020120026,
       "tokens": 75480,
       "toolCalls": 34,
@@ -1165,7 +1165,7 @@
       "attempt": 1,
       "lastToolName": "StructuredOutput",
       "lastToolSummary": "~ts/kansou/ = 作品感想板 (MiniBBS v10 / Crocus v2.42、UTF-8…",
-      "promptPreview": "/home/takano32/GitHub/ts-novels (少年少女文庫ミラー) のコミュニティ層を調査せよ(WordPress 移行での扱い判断のため)。\n対象: ~ts/kansou/ (作品感想板: bbs@log_*.cgi と bbs@res_*.cgi の件数・1ファイルの構造 — 投稿者/日付/本文が抽出可能か1-2ファイル読んで判定)、~ts/bbs/ (雑談・2ndbbs)、ts.novels.name/rounge/ (ラウンジBBS スレッド数)、~ezpe/cgi-bin/noteky/ (推薦ノート)、~yays/cgi-bin/ (resbbs/paintbbs)、comittee/ columns/ dialy/ (運営コンテンツ)。\n各: ファイル数・内容の性質・「感想をWPコメントとして作品に紐付けるインポート」の実現性(構造化パース可能性)を評価。",
+      "promptPreview": "<repo> (少年少女文庫ミラー) のコミュニティ層を調査せよ(WordPress 移行での扱い判断のため)。\n対象: ~ts/kansou/ (作品感想板: bbs@log_*.cgi と bbs@res_*.cgi の件数・1ファイルの構造 — 投稿者/日付/本文が抽出可能か1-2ファイル読んで判定)、~ts/bbs/ (雑談・2ndbbs)、ts.novels.name/rounge/ (ラウンジBBS スレッド数)、~ezpe/cgi-bin/noteky/ (推薦ノート)、~yays/cgi-bin/ (resbbs/paintbbs)、comittee/ columns/ dialy/ (運営コンテンツ)。\n各: ファイル数・内容の性質・「感想をWPコメントとして作品に紐付けるインポート」の実現性(構造化パース可能性)を評価。",
       "lastProgressAt": 1788020163677,
       "tokens": 100575,
       "toolCalls": 67,
@@ -1186,7 +1186,7 @@
       "attempt": 1,
       "lastToolName": "StructuredOutput",
       "lastToolSummary": "総計17,215コンテンツファイル(.git/scripts/.github/README/co…",
-      "promptPreview": "/home/takano32/GitHub/ts-novels (少年少女文庫ミラー) の世代構造と重複を調査せよ(WordPress サイトの情報設計のため)。\n世代: ~ezpe (1999 tomato期) → ~yays + ~yays/library (八重洲メディアリサーチ期) → リポジトリ直下 (ts.novels.jp 本体 2002-2021) → ts.novels.name/kirika.novels.name/ts.raa0121.info (閉鎖後姉妹) → ts-novels.jp (2018再建)。各世代のファイル数・novel系コンテンツの重複度(~yays/library/novel/ と novel/ で同一basename数を集計)・世代固有コンテンツ(galleryのCG等)を報告。「ライブラリ本体(WP化)」と「史料アネックス(静的のまま)」の境…",
+      "promptPreview": "<repo> (少年少女文庫ミラー) の世代構造と重複を調査せよ(WordPress サイトの情報設計のため)。\n世代: ~ezpe (1999 tomato期) → ~yays + ~yays/library (八重洲メディアリサーチ期) → リポジトリ直下 (ts.novels.jp 本体 2002-2021) → ts.novels.name/kirika.novels.name/ts.raa0121.info (閉鎖後姉妹) → ts-novels.jp (2018再建)。各世代のファイル数・novel系コンテンツの重複度(~yays/library/novel/ と novel/ で同一basename数を集計)・世代固有コンテンツ(galleryのCG等)を報告。「ライブラリ本体(WP化)」と「史料アネックス(静的のまま)」の境…",
       "lastProgressAt": 1788020067655,
       "tokens": 51307,
       "toolCalls": 32,
@@ -1207,7 +1207,7 @@
       "attempt": 1,
       "lastToolName": "StructuredOutput",
       "lastToolSummary": "タイトル: 約98%自動抽出可。<title>タグは3,742/3,817で有効(…",
-      "promptPreview": "/home/takano32/GitHub/ts-novels (少年少女文庫ミラー) の本文 HTML の形式品質を調査せよ(WordPress 本文変換パイプライン設計のため)。\nnovel/ 配下の .htm/.html を10-15ファイル無作為抽出して読み、判定: 文書構造(手書きHTML? テンプレ? framesets?)、本文マークアップ(<BR>連打? <P>? ルビ<ruby>? 縦書き指定?)、装飾(FONT/色/中央寄せ)、挿絵の参照方法、ナビゲーション(次話/目次リンク)、既にUTF-8化済みであること。Gutenberg ブロックへの変換戦略(本文抽出→整形)の難易度と、自動抽出できる範囲(タイトル/本文境界)を評価。",
+      "promptPreview": "<repo> (少年少女文庫ミラー) の本文 HTML の形式品質を調査せよ(WordPress 本文変換パイプライン設計のため)。\nnovel/ 配下の .htm/.html を10-15ファイル無作為抽出して読み、判定: 文書構造(手書きHTML? テンプレ? framesets?)、本文マークアップ(<BR>連打? <P>? ルビ<ruby>? 縦書き指定?)、装飾(FONT/色/中央寄せ)、挿絵の参照方法、ナビゲーション(次話/目次リンク)、既にUTF-8化済みであること。Gutenberg ブロックへの変換戦略(本文抽出→整形)の難易度と、自動抽出できる範囲(タイトル/本文境界)を評価。",
       "lastProgressAt": 1788020358090,
       "tokens": 67630,
       "toolCalls": 29,
@@ -1228,7 +1228,7 @@
       "attempt": 1,
       "lastToolName": "StructuredOutput",
       "lastToolSummary": "【現状認識】各作品の著作権は原著者に帰属し、本ミラーには権…",
-      "promptPreview": "閉鎖TS小説サイト「少年少女文庫」の復元ミラー /home/takano32/GitHub/ts-novels (README.md 参照) を WordPress の公開ライブラリにする際の、権利・倫理・運用の論点を整理せよ。\nREADME を読み、以下を検討: (1) 各作品の著作権は原著者(サイトは資料保存目的の非営利アーカイブ)— WP化(=再編集・再公開の色が強まる)で追加で配慮すべき点、削除依頼への備え。(2) 目録に mailto と個人サイトURLが露出 — マスクすべきか。(3) BBS投稿者名・メールの扱い。(4) 検索エンジンへの露出方針(noindex?)。(5) 既存 GitHub Pages ミラーとの併存戦略。あなたの結論を推奨として明確に。",
+      "promptPreview": "閉鎖TS小説サイト「少年少女文庫」の復元ミラー <repo> (README.md 参照) を WordPress の公開ライブラリにする際の、権利・倫理・運用の論点を整理せよ。\nREADME を読み、以下を検討: (1) 各作品の著作権は原著者(サイトは資料保存目的の非営利アーカイブ)— WP化(=再編集・再公開の色が強まる)で追加で配慮すべき点、削除依頼への備え。(2) 目録に mailto と個人サイトURLが露出 — マスクすべきか。(3) BBS投稿者名・メールの扱い。(4) 検索エンジンへの露出方針(noindex?)。(5) 既存 GitHub Pages ミラーとの併存戦略。あなたの結論を推奨として明確に。",
       "lastProgressAt": 1788020238238,
       "tokens": 33531,
       "toolCalls": 8,

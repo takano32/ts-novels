@@ -6,8 +6,8 @@ export const meta = {
     { title: 'Verify', detail: '発見主張の本文検証' },
   ],
 }
-const SP = '/tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad'
-const ROOT = '/home/takano32/GitHub/ts-novels'
+const SP = '<scratchpad>'  // 流すときにそのセッションの scratchpad を入れる (2026-11-15 に伏せた)
+const ROOT = '<repo>'  // 流すときにリポジトリの絶対パスを入れる (2026-11-15 にホームのパスを伏せた)
 const authors = args.authors
 const big = authors.filter(a => a.lost.length >= 5)
 const small = authors.filter(a => a.lost.length < 5)

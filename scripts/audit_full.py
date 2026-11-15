@@ -5,7 +5,7 @@ report resolved vs missing, dump missing targets with referrer counts."""
 import os, re, sys, json, html, collections
 from urllib.parse import urlsplit, unquote
 
-ROOT = '/home/takano32/GitHub/ts-novels'
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # リポジトリのルート
 
 # host(+path prefix) -> repo top dir ('' = repo root)
 HOSTS = {

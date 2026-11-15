@@ -10,7 +10,7 @@ Stage 3 (--match):   compare against basenames of missing novel/ targets;
                      emit candidate (homepage, captured_url, missing_target)."""
 import os, re, sys, json, time, http.client, urllib.parse
 
-ROOT = '/home/takano32/GitHub/ts-novels'
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # リポジトリのルート
 
 def collect(outfile):
     urls = set()

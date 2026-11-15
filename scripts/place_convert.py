@@ -13,7 +13,7 @@ import os, re, sys, json, shutil
 import html as _html
 from urllib.parse import urlsplit, unquote
 
-ROOT = '/home/takano32/GitHub/ts-novels'
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # リポジトリのルート
 
 ERROR_MARKERS = [b'ERROR!!', 'ERROR!!'.encode('cp932'),
                  '指定した作品が見つかりません'.encode('cp932'),

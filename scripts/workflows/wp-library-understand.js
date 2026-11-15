@@ -4,7 +4,7 @@ export const meta = {
   phases: [{ title: 'Survey', detail: '8視点の並列調査' }],
 }
 phase('Survey')
-const ROOT = '/home/takano32/GitHub/ts-novels'
+const ROOT = '<repo>'  // 流すときにリポジトリの絶対パスを入れる (2026-11-15 にホームのパスを伏せた)
 const S = (props) => ({type: 'object', properties: props, additionalProperties: true})
 const results = await parallel([
   () => agent(`${ROOT} は閉鎖サイト「少年少女文庫」(TS小説投稿サイト)の静的復元ミラー。これを WordPress の作品ライブラリに変換する設計のため、目録ページの正確なスキーマを確定せよ。
