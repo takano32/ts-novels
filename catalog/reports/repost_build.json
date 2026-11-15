@@ -1,6 +1,6 @@
 {
  "generated_by": "scripts/wp/repost_build.py",
- "holding_dir": ".holding/stage_repost",
+ "holding_dir": "reposts/source",
  "items_declared": 5,
  "patched_existing": [
   "novel__200802__15232641__rainGirl.html"

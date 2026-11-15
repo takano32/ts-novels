@@ -19,8 +19,8 @@ from tslib.checks import mark  # noqa: E402
 from tslib.fileio import read_jsonl, write_jsonl, write_json, write_text, ensure_dir  # noqa: E402
 
 DEFAULT_ROOT = paths.REPO_ROOT
-# サルベージ途中の資材はリポジトリの .holding/ (git 管理外。作り直せないので消さない。specs/S82.md)
-DEFAULT_HOLDING = os.path.join(paths.REPO_ROOT, '.holding', 'stage_repost')
+# pixiv 再掲の入力 (本文と pixiv のメタ) は git の reposts/source/ に置く (作り直せるように。S221 の 2026-11-15)
+DEFAULT_HOLDING = os.path.join(paths.REPO_ROOT, 'reposts', 'source')
 
 
 def main(argv=None):
